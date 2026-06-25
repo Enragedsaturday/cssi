@@ -1,0 +1,386 @@
+[
+  {
+    "id": "common-law-origins-page-is-history-01",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What is the status of the common-law / pre-1791 origins material (Paxton, Wilkes, Entick, the state declarations) in a U.S. Fourth Amendment analysis?",
+    "back": "It is legal history, not binding precedent. The English/colonial cases are non-binding historical antecedents; their force in a U.S. courtroom comes only from SCOTUS adopting them (Boyd, Riley).",
+    "tags": ["common-law-origins", "non-binding-history", "doctrine"]
+  },
+  {
+    "id": "common-law-origins-two-abuses-02",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What two specific abuses was the Fourth Amendment the founding generation's deliberate answer to?",
+    "back": "The general warrant and the writ of assistance — instruments that let officers search where and for what they pleased, on their own discretion.",
+    "tags": ["common-law-origins", "general-warrant", "writ-of-assistance", "doctrine"]
+  },
+  {
+    "id": "common-law-origins-general-warrant-def-03",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "definition",
+    "front": "General warrant (Fourth Amendment history) — define it.",
+    "back": "A warrant naming no particular person, place, or thing; it let an officer search broadly and seize at his own discretion. The Wilkes affair turned on one.",
+    "tags": ["common-law-origins", "general-warrant", "definition"]
+  },
+  {
+    "id": "common-law-origins-writ-of-assistance-def-04",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "definition",
+    "front": "Writ of assistance (Fourth Amendment history) — define it.",
+    "back": "A general customs search warrant: it let revenue officers search any suspected place for smuggled goods, was transferable to any officer, and did not expire (ran for the life of the sovereign plus six months).",
+    "tags": ["common-law-origins", "writ-of-assistance", "definition"]
+  },
+  {
+    "id": "common-law-origins-writ-three-features-05",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What three features made the writ of assistance so feared, as a customs search instrument?",
+    "back": "(1) It authorized searching any suspected place for smuggled goods at the officer's discretion; (2) it was transferable to any officer; (3) it did not expire (life of the sovereign plus six months).",
+    "tags": ["common-law-origins", "writ-of-assistance", "doctrine"]
+  },
+  {
+    "id": "common-law-origins-general-vs-writ-06",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Distinguish the general warrant from the writ of assistance.",
+    "back": "Both are general/discretionary, but the writ of assistance was the customs/colonial version — transferable and non-expiring (Paxton's Case); the general warrant was the English libel-investigation instrument (Wilkes, Entick). The Fourth Amendment's particularity and probable-cause requirements were aimed at both.",
+    "tags": ["common-law-origins", "general-warrant", "writ-of-assistance", "distinction"]
+  },
+  {
+    "id": "common-law-origins-conflate-pitfall-07",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Common pitfall: why is it an error to conflate the general warrant with the writ of assistance? Identify what distinguishes the writ.",
+    "back": "They are related but distinct instruments. The writ of assistance was the customs/colonial version — transferable to any officer and non-expiring (ran for the life of the sovereign plus six months); the general warrant was the English libel-investigation instrument. The Fourth Amendment's particularity and probable-cause requirements were aimed at both, but treating them as identical erases the distinct customs character of the writ.",
+    "tags": ["common-law-origins", "general-warrant", "writ-of-assistance", "pitfall"]
+  },
+  {
+    "id": "common-law-origins-boyd-holding-08",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What does Boyd v. United States (1886) contribute to Fourth Amendment origins doctrine?",
+    "back": "It recounts the founding-era history at length and adopts Entick v. Carrington as the chief antecedent of the Fourth Amendment — Boyd is the binding SCOTUS authority that channels this non-binding English history into U.S. law.",
+    "tags": ["common-law-origins", "boyd", "scotus", "doctrine"],
+    "cite": "Boyd v. United States, 116 U.S. 616, 624-30 (1886)",
+    "source": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/"
+  },
+  {
+    "id": "common-law-origins-boyd-weight-09",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "On this page, what gives the English/colonial antecedents (Entick, Wilkes, Paxton) authority in a U.S. court?",
+    "back": "Binding SCOTUS cases that adopt them — Boyd v. United States (1886) and Riley v. California (2014). The English reports themselves are not U.S. precedent; cite the SCOTUS case that relies on them.",
+    "tags": ["common-law-origins", "boyd", "riley", "non-binding-history", "pitfall"]
+  },
+  {
+    "id": "common-law-origins-boyd-entick-quote-10",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "How did Boyd characterize Lord Camden's Entick judgment for American constitutional purposes?",
+    "back": "As \"the true and ultimate expression of constitutional law,\" whose propositions \"were in the minds of those who framed the Fourth Amendment\" — also \"one of the landmarks of English liberty.\"",
+    "tags": ["common-law-origins", "boyd", "entick", "quote"],
+    "cite": "Boyd v. United States, 116 U.S. 616, 626-27 (1886)",
+    "source": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/"
+  },
+  {
+    "id": "common-law-origins-boyd-writ-quote-11",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "cloze",
+    "front": "Boyd describes the colonial practice as \"issuing {{writs of assistance}} to the revenue officers, empowering them, in their discretion, to search suspected places for smuggled goods.\"",
+    "back": "writs of assistance",
+    "tags": ["common-law-origins", "boyd", "writ-of-assistance", "cloze"],
+    "cite": "Boyd v. United States, 116 U.S. 616, 625 (1886)",
+    "source": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/"
+  },
+  {
+    "id": "common-law-origins-riley-holding-12",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What does Riley v. California (2014) say about the founding-era purpose of the Fourth Amendment?",
+    "back": "It reaffirms that the Fourth Amendment was the founding generation's response to the reviled general warrants and writs of assistance of the colonial era — opposition to such searches being \"one of the driving forces behind the Revolution itself.\"",
+    "tags": ["common-law-origins", "riley", "scotus", "doctrine"],
+    "cite": "Riley v. California, 573 U.S. 373, 403 (2014)",
+    "source": "https://www.courtlistener.com/opinion/2680439/riley-v-california/"
+  },
+  {
+    "id": "common-law-origins-riley-driving-force-cloze-13",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "cloze",
+    "front": "Riley: opposition to general warrants and writs of assistance was \"one of the {{driving forces behind the Revolution itself}}.\"",
+    "back": "driving forces behind the Revolution itself",
+    "tags": ["common-law-origins", "riley", "cloze"],
+    "cite": "Riley v. California, 573 U.S. 373, 403 (2014)",
+    "source": "https://www.courtlistener.com/opinion/2680439/riley-v-california/"
+  },
+  {
+    "id": "common-law-origins-riley-modern-invocation-14",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "How does a modern SCOTUS case like Riley use the common-law history (e.g., Otis's 1761 Boston speech)?",
+    "back": "It recounts the history to interpret the Amendment's text — Riley repeats the Otis/Adams account and expressly quotes Boyd, treating the founding-era response to general warrants as the meaning of the Fourth Amendment.",
+    "tags": ["common-law-origins", "riley", "boyd", "doctrine"],
+    "cite": "Riley v. California, 573 U.S. 373, 403 (2014)",
+    "source": "https://www.courtlistener.com/opinion/2680439/riley-v-california/"
+  },
+  {
+    "id": "common-law-origins-boyd-riley-anchors-15",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Which cases are the binding U.S. authority for the Fourth Amendment's origins story, and which are non-binding history?",
+    "back": "Binding (SCOTUS): Boyd v. United States (1886) and Riley v. California (2014). Non-binding history: Paxton's Case, Wilkes v. Wood, Entick v. Carrington, and the state declarations.",
+    "tags": ["common-law-origins", "boyd", "riley", "distinction"]
+  },
+  {
+    "id": "common-law-origins-paxton-significance-16",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Paxton's Case (Massachusetts, 1761) — what was it and why does it matter? (Note status.)",
+    "back": "Non-binding colonial history: Boston merchants challenged the writs of assistance; James Otis argued against them. It is the colonial spark for the Fourth Amendment, grounded in U.S. law through Boyd and Riley.",
+    "tags": ["common-law-origins", "paxton", "writ-of-assistance", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-paxton-otis-17",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Who argued against the writs of assistance in Paxton's Case (1761), and at what personal cost?",
+    "back": "James Otis, who resigned his crown office to argue against the writs.",
+    "tags": ["common-law-origins", "paxton", "otis", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-otis-worst-instrument-18",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "How did James Otis describe the writ of assistance (as quoted in Boyd from Paxton's Case)?",
+    "back": "\"The worst instrument of arbitrary power, the most destructive of English liberty, and the fundamental principles of law, that ever was found in an English law book\" — because it placed \"the liberty of every man in the hands of every petty officer.\"",
+    "tags": ["common-law-origins", "paxton", "otis", "quote"],
+    "cite": "Boyd v. United States, 116 U.S. 616, 625 (1886)",
+    "source": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/"
+  },
+  {
+    "id": "common-law-origins-adams-child-independence-19",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What did John Adams, present in the courtroom for the writs-of-assistance argument (1761), later write about it?",
+    "back": "\"Then and there the child Independence was born\" — as quoted in Boyd, 116 U.S. at 625.",
+    "tags": ["common-law-origins", "paxton", "adams", "quote"],
+    "cite": "Boyd v. United States, 116 U.S. 616, 625 (1886)",
+    "source": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/"
+  },
+  {
+    "id": "common-law-origins-house-is-castle-20",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What older maxim did James Otis famously invoke against the writs of assistance in Paxton's Case (1761)?",
+    "back": "\"A man's house is his castle\" — a principle older than the case. (It is rhetorical root, not the operative Fourth Amendment test.)",
+    "tags": ["common-law-origins", "paxton", "house-is-castle", "pitfall"]
+  },
+  {
+    "id": "common-law-origins-wilkes-significance-21",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Wilkes v. Wood (England, 1763) — what did it establish? (Note status.)",
+    "back": "Non-binding English history: a general warrant was used to ransack John Wilkes's house and seize his papers; trespass suits went to juries that returned heavy damages. The principle: there is no roving executive power to search — general warrants are unlawful.",
+    "tags": ["common-law-origins", "wilkes", "general-warrant", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-wilkes-north-briton-22",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What triggered the general warrant in the Wilkes v. Wood affair (1763)?",
+    "back": "The North Briton No. 45 attacked the Crown, prompting a Secretary of State's general warrant used to ransack Wilkes's house and seize his papers indiscriminately.",
+    "tags": ["common-law-origins", "wilkes", "general-warrant", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-wilkes-pratt-camden-23",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Which judge let the Wilkes trespass cases go to juries, and what was the outcome?",
+    "back": "Chief Justice Pratt (soon Lord Camden) let them go to juries, which returned heavy damages condemning general warrants.",
+    "tags": ["common-law-origins", "wilkes", "camden", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-wilkes-verdicts-24",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What damages did the Wilkes litigation produce (as recounted in Boyd)?",
+    "back": "A £1000 verdict against the messenger Wood in Wilkes v. Wood itself, and £4000 against Lord Halifax, the Secretary of State who issued the warrant.",
+    "tags": ["common-law-origins", "wilkes", "non-binding-history"],
+    "cite": "Boyd v. United States, 116 U.S. 616, 626 (1886)",
+    "source": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/"
+  },
+  {
+    "id": "common-law-origins-entick-significance-25",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Entick v. Carrington (England, 1765) — what did Lord Camden hold? (Note status.)",
+    "back": "Non-binding English history: Camden held a general warrant to break into Entick's home and seize his papers illegal and void — government may not invade person, house, or papers without specific legal authority.",
+    "tags": ["common-law-origins", "entick", "camden", "general-warrant", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-entick-facts-to-case-26",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "King's messengers, acting under a general warrant, broke into a home and seized the owner's papers in a seditious-libel matter; Lord Camden held the warrant illegal and void. Name the (non-binding, English) case.",
+    "back": "Entick v. Carrington (England, 1765) — the single most influential antecedent of the Fourth Amendment.",
+    "tags": ["common-law-origins", "entick", "camden", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-entick-papers-contribution-27",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What is Entick v. Carrington's chief contribution to Fourth Amendment thought?",
+    "back": "That there is no general power to search and seize a person's papers — government may not invade person, house, or papers without specific legal authority. It is the chief/most influential antecedent of the Fourth Amendment.",
+    "tags": ["common-law-origins", "entick", "papers", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-entick-camden-trespass-quote-28",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Lord Camden's Entick judgment (quoted in Boyd): what did he say about invasions of private property?",
+    "back": "\"By the laws of England, every invasion of private property, be it ever so minute, is a trespass.\" And: \"If it is law, it will be found in our books; if it is not to be found there, it is not law.\"",
+    "tags": ["common-law-origins", "entick", "camden", "quote"],
+    "cite": "Boyd v. United States, 116 U.S. 616, 627-29 (1886)",
+    "source": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/"
+  },
+  {
+    "id": "common-law-origins-entick-illegal-void-cloze-29",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "cloze",
+    "front": "Lord Camden in Entick (quoted in Boyd): \"the warrant to seize and carry away the party's papers in the case of a seditious libel, is {{illegal and void}}.\"",
+    "back": "illegal and void",
+    "tags": ["common-law-origins", "entick", "camden", "cloze"],
+    "cite": "Boyd v. United States, 116 U.S. 616, 629 (1886)",
+    "source": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/"
+  },
+  {
+    "id": "common-law-origins-entick-most-influential-30",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Which single antecedent does the page identify as the most influential on the Fourth Amendment, and which SCOTUS case canonizes it?",
+    "back": "Entick v. Carrington (1765) — canonized by Boyd, which adopts it as \"the true and ultimate expression of constitutional law\" embodied in the Fourth Amendment.",
+    "tags": ["common-law-origins", "entick", "boyd", "distinction"],
+    "cite": "Boyd v. United States, 116 U.S. 616, 626-27 (1886)",
+    "source": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/"
+  },
+  {
+    "id": "common-law-origins-wilkes-vs-entick-31",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Distinguish the contributions of Wilkes v. Wood and Entick v. Carrington.",
+    "back": "Wilkes (1763): juries condemned general warrants and awarded damages — there is no roving executive power to search. Entick (1765): Lord Camden's judgment holding the general warrant illegal and void — no search/seizure of papers without specific legal authority. Entick is the foundational antecedent.",
+    "tags": ["common-law-origins", "wilkes", "entick", "distinction"]
+  },
+  {
+    "id": "common-law-origins-virginia-declaration-32",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What did the Virginia Declaration of Rights (1776) contribute to the Fourth Amendment's text-history?",
+    "back": "Section 10 condemned general warrants by name — an early American articulation of the antecedent grievance that became the Fourth Amendment.",
+    "tags": ["common-law-origins", "virginia-declaration", "general-warrant", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-mass-const-phrase-33",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Where does the phrase \"unreasonable searches and seizures\" come from?",
+    "back": "The Massachusetts Constitution of 1780, art. XIV, drafted by John Adams; it supplied the formulation the Fourth Amendment adopted.",
+    "tags": ["common-law-origins", "massachusetts-constitution", "adams", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-mass-const-author-34",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Who drafted the Massachusetts Constitution of 1780, art. XIV — the source of the \"unreasonable searches and seizures\" language?",
+    "back": "John Adams.",
+    "tags": ["common-law-origins", "massachusetts-constitution", "adams", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-va-vs-ma-35",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Distinguish what the Virginia Declaration of Rights (1776) and the Massachusetts Constitution (1780) each contributed to the Fourth Amendment.",
+    "back": "Virginia (1776, § 10): condemned general warrants by name. Massachusetts (1780, art. XIV, by John Adams): supplied the operative phrase \"unreasonable searches and seizures.\"",
+    "tags": ["common-law-origins", "virginia-declaration", "massachusetts-constitution", "distinction"]
+  },
+  {
+    "id": "common-law-origins-madison-role-36",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "What was James Madison's role in the Fourth Amendment's enactment?",
+    "back": "Madison introduced the proposed amendments in the First Congress in June 1789 and is the principal drafter of the Bill of Rights, which carried the Entick/Camden principle and the Massachusetts \"unreasonable searches and seizures\" language into the federal Constitution.",
+    "tags": ["common-law-origins", "madison", "bill-of-rights", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-fourth-amendment-ratified-37",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "When was the Fourth Amendment introduced and when ratified?",
+    "back": "Introduced by Madison in the First Congress in June 1789; ratified with the rest of the Bill of Rights in 1791.",
+    "tags": ["common-law-origins", "madison", "bill-of-rights", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-timeline-38",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Put the Fourth Amendment's origins in chronological order: Paxton's Case, Entick, Wilkes, VA Declaration, MA Constitution, ratification.",
+    "back": "1761 Paxton's Case (writs of assistance) → 1763 Wilkes v. Wood (general warrant) → 1765 Entick v. Carrington (Lord Camden) → 1776 Virginia Declaration → 1780 Massachusetts Constitution → 1789-91 Fourth Amendment (Madison/ratified).",
+    "tags": ["common-law-origins", "timeline", "non-binding-history"]
+  },
+  {
+    "id": "common-law-origins-no-us-cite-pitfall-39",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Common pitfall: how should you cite Paxton, Wilkes, or Entick in a U.S. Fourth Amendment argument, given that no U.S. Reports citation or CourtListener entry exists for them?",
+    "back": "Cite the binding SCOTUS case (Boyd/Riley) that recounts them — not the English/colonial reporters. There is no U.S. Reports cite or CourtListener entry for these; Entick lives in 19 Howell's State Trials 1029, Paxton's Case in Quincy's (Mass.) Reports. Do not dress the English reports up as U.S. case law.",
+    "tags": ["common-law-origins", "non-binding-history", "pitfall"]
+  },
+  {
+    "id": "common-law-origins-house-castle-pitfall-40",
+    "page": "common-law-origins",
+    "topic": "Common Law Origins",
+    "type": "qa",
+    "front": "Common pitfall: what is the status of \"a man's house is his castle\" relative to the operative Fourth Amendment test, and why?",
+    "back": "It is the rhetorical root (invoked by Otis in Paxton's Case and echoed by Camden), not the operative test. The operative law is the Fourth Amendment and the SCOTUS doctrine built on it — the maxim is non-binding historical rhetoric, not a doctrinal standard.",
+    "tags": ["common-law-origins", "house-is-castle", "pitfall"]
+  }
+]

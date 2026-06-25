@@ -1,0 +1,350 @@
+[
+  {
+    "id": "three-golden-rules-rule1-articulate-why-01",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Golden Rule #1 of the CSSI instructor maxims: how does articulation affect whether an action survives a suppression challenge?",
+    "back": "The more you articulate WHY you acted, the more likely the action is upheld. Reasonableness is judged on the specific, articulable facts the officer can name, not on a hunch.",
+    "tags": ["three-golden-rules", "golden-rule-1", "articulation", "maxim"]
+  },
+  {
+    "id": "three-golden-rules-rule1-legal-anchor-02",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Which Supreme Court case supplies the legal core for Golden Rule #1 (articulate the facts), framing reasonableness around 'the facts available to the officer at the moment of the seizure'?",
+    "back": "Terry v. Ohio — reasonableness turns on whether the facts available to the officer at the moment of the seizure would warrant a person of reasonable caution in the belief that the action was appropriate.",
+    "tags": ["three-golden-rules", "golden-rule-1", "terry", "articulation"],
+    "cite": "Terry v. Ohio, 392 U.S. 1, 21-22 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "three-golden-rules-terry-quote-cloze-03",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "cloze",
+    "front": "Terry v. Ohio standard for Golden Rule #1: reasonableness asks whether 'the facts available to the officer at the moment of the {{seizure}} or the search' warrant 'a man of reasonable {{caution}}' in the belief the action was appropriate.",
+    "back": "seizure; caution",
+    "tags": ["three-golden-rules", "golden-rule-1", "terry", "quote"],
+    "cite": "Terry v. Ohio, 392 U.S. 1, 21-22 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "three-golden-rules-strive-for-five-def-04",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "definition",
+    "front": "\"Strive for Five\" (CSSI articulation drill) — what is it?",
+    "back": "A training habit of naming at least five articulable factors for any action. It is a teaching device to force real-time articulation, NOT a five-factor legal requirement.",
+    "tags": ["three-golden-rules", "strive-for-five", "articulation", "maxim"]
+  },
+  {
+    "id": "three-golden-rules-strive-for-five-pitfall-05",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Common pitfall: why is it wrong to teach \"Strive for Five\" as a legal element of Fourth Amendment analysis?",
+    "back": "There is no five-factor requirement anywhere in Fourth Amendment law. One decisive fact can suffice and ten weak ones may not. Four factors do not 'fail' and five do not 'pass' — it is a habit, not a threshold.",
+    "tags": ["three-golden-rules", "strive-for-five", "pitfall", "articulation"]
+  },
+  {
+    "id": "three-golden-rules-opinion-then-because-06",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "What is the CSSI articulation form taught for Golden Rule #1 (how to state a justification)?",
+    "back": "State the opinion first, then \"because →\" the facts. It is an articulation drill (form of expression), not a legal standard.",
+    "tags": ["three-golden-rules", "golden-rule-1", "articulation", "maxim"]
+  },
+  {
+    "id": "three-golden-rules-rule1-contemporaneous-pitfall-07",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Common pitfall under Golden Rule #1: why is articulating reasons after the fact (inventing them for the report or the stand) worth little?",
+    "back": "Reasonableness is judged on the facts known at the moment of the action (Terry, 392 U.S. at 21-22). A suppression court reconstructs what the officer knew contemporaneously; reasons manufactured later carry little weight.",
+    "tags": ["three-golden-rules", "golden-rule-1", "pitfall", "terry"],
+    "cite": "Terry v. Ohio, 392 U.S. 1, 21-22 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "three-golden-rules-rule2-seriousness-08",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Golden Rule #2 of the CSSI instructor maxims: how does the seriousness of the crime or circumstance affect reasonableness?",
+    "back": "The more serious the crime or circumstance, the more reasonable the action is viewed. Severity widens what the Fourth Amendment will tolerate (e.g., true emergencies justify warrantless home entry).",
+    "tags": ["three-golden-rules", "golden-rule-2", "seriousness", "maxim"]
+  },
+  {
+    "id": "three-golden-rules-rule2-graham-anchor-09",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Which Supreme Court case supplies the legal core for Golden Rule #2, making 'the severity of the crime at issue' an express factor in the reasonableness balance?",
+    "back": "Graham v. Connor — seizure reasonableness is judged by an objective standard from the perspective of a reasonable officer on the scene, weighing among other factors 'the severity of the crime at issue.'",
+    "tags": ["three-golden-rules", "golden-rule-2", "graham", "seriousness"],
+    "cite": "Graham v. Connor, 490 U.S. 386, 396 (1989)",
+    "source": "https://www.courtlistener.com/opinion/112257/graham-v-connor/"
+  },
+  {
+    "id": "three-golden-rules-graham-objective-standard-10",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Under Graham v. Connor, from whose perspective and under what standard is the reasonableness of a seizure judged?",
+    "back": "From the perspective of a reasonable officer on the scene, under an objective standard — not with 20/20 hindsight.",
+    "tags": ["three-golden-rules", "graham", "objective-reasonableness"],
+    "cite": "Graham v. Connor, 490 U.S. 386, 396 (1989)",
+    "source": "https://www.courtlistener.com/opinion/112257/graham-v-connor/"
+  },
+  {
+    "id": "three-golden-rules-graham-factors-cloze-11",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "cloze",
+    "front": "Graham v. Connor force-reasonableness factors: the court weighs 'the {{severity of the crime}} at issue,' whether the suspect poses an {{immediate threat}}, and whether he is actively {{resisting}}.",
+    "back": "severity of the crime; immediate threat; resisting",
+    "tags": ["three-golden-rules", "graham", "factors", "quote"],
+    "cite": "Graham v. Connor, 490 U.S. 386, 396 (1989)",
+    "source": "https://www.courtlistener.com/opinion/112257/graham-v-connor/"
+  },
+  {
+    "id": "three-golden-rules-rule2-multiplier-not-bypass-12",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Golden Rule #2 — what is the key limit on the idea that seriousness widens reasonableness?",
+    "back": "Seriousness is a multiplier on reasonableness, not a bypass. It widens the lens but never removes the requirement of articulable facts; severity is a factor (Graham), not a warrant exception.",
+    "tags": ["three-golden-rules", "golden-rule-2", "graham", "limit"],
+    "cite": "Graham v. Connor, 490 U.S. 386, 396 (1989)",
+    "source": "https://www.courtlistener.com/opinion/112257/graham-v-connor/"
+  },
+  {
+    "id": "three-golden-rules-rule2-serious-crime-pitfall-13",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Common pitfall under Golden Rule #2: what mistake do officers make by 'letting serious crime do all the work'?",
+    "back": "Treating a grave offense as if it alone authorizes a sweep, entry, or prolonged detention. Severity is only one factor; the officer still needs the specific facts the relevant warrant exception requires.",
+    "tags": ["three-golden-rules", "golden-rule-2", "pitfall", "seriousness"]
+  },
+  {
+    "id": "three-golden-rules-rule3-probabilities-14",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Golden Rule #3 of the CSSI instructor maxims: in what currency does the Fourth Amendment deal?",
+    "back": "The Fourth Amendment deals in PROBABILITIES, not POSSIBILITIES. A bare possibility is never enough; reasonableness runs on a hierarchy of probabilities.",
+    "tags": ["three-golden-rules", "golden-rule-3", "probabilities", "maxim"]
+  },
+  {
+    "id": "three-golden-rules-brinegar-quote-15",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Which case crisply states the core of Golden Rule #3 with the line: 'In dealing with probable cause … we deal with probabilities'?",
+    "back": "Brinegar v. United States — probable cause deals with probabilities, which are 'the factual and practical considerations of everyday life on which reasonable and prudent men … act.'",
+    "tags": ["three-golden-rules", "golden-rule-3", "brinegar", "probable-cause"],
+    "cite": "Brinegar v. United States, 338 U.S. 160, 175 (1949)",
+    "source": "https://www.courtlistener.com/opinion/104716/brinegar-v-united-states/"
+  },
+  {
+    "id": "three-golden-rules-brinegar-everyday-cloze-16",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "cloze",
+    "front": "Brinegar v. United States: probabilities are 'the factual and practical considerations of {{everyday life}} on which reasonable and prudent men, not {{legal technicians}}, act.'",
+    "back": "everyday life; legal technicians",
+    "tags": ["three-golden-rules", "golden-rule-3", "brinegar", "quote"],
+    "cite": "Brinegar v. United States, 338 U.S. 160, 175 (1949)",
+    "source": "https://www.courtlistener.com/opinion/104716/brinegar-v-united-states/"
+  },
+  {
+    "id": "three-golden-rules-gates-fluid-concept-17",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "How does Illinois v. Gates describe probable cause (anchoring Golden Rule #3, probabilities not possibilities)?",
+    "back": "As 'a fluid concept — turning on the assessment of probabilities in particular factual contexts — not readily, or even usefully, reduced to a neat set of legal rules.'",
+    "tags": ["three-golden-rules", "golden-rule-3", "gates", "probable-cause"],
+    "cite": "Illinois v. Gates, 462 U.S. 213, 232 (1983)",
+    "source": "https://www.courtlistener.com/opinion/110959/illinois-v-gates/"
+  },
+  {
+    "id": "three-golden-rules-gates-totality-test-18",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "What probable-cause test did Illinois v. Gates adopt?",
+    "back": "The totality-of-the-circumstances test — probable cause is a practical, common-sense probability judgment made on the whole picture, not a rigid checklist.",
+    "tags": ["three-golden-rules", "gates", "totality-of-circumstances", "probable-cause"],
+    "cite": "Illinois v. Gates, 462 U.S. 213, 230-32 (1983)",
+    "source": "https://www.courtlistener.com/opinion/110959/illinois-v-gates/"
+  },
+  {
+    "id": "three-golden-rules-gates-fluid-cloze-19",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "cloze",
+    "front": "Illinois v. Gates: 'probable cause is a {{fluid}} concept — turning on the assessment of {{probabilities}} in particular factual contexts.'",
+    "back": "fluid; probabilities",
+    "tags": ["three-golden-rules", "gates", "quote", "probable-cause"],
+    "cite": "Illinois v. Gates, 462 U.S. 213, 232 (1983)",
+    "source": "https://www.courtlistener.com/opinion/110959/illinois-v-gates/"
+  },
+  {
+    "id": "three-golden-rules-possibility-vs-probability-20",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Distinction (Golden Rule #3): why are 'someone could be inside' or 'drugs might be there' insufficient?",
+    "back": "That is the language of POSSIBILITY. The Fourth Amendment runs on PROBABILITY (Brinegar; Gates). Every justification must be pushed onto the burden ladder and the actual rung named.",
+    "tags": ["three-golden-rules", "golden-rule-3", "pitfall", "probabilities"]
+  },
+  {
+    "id": "three-golden-rules-ladder-full-21",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Name the burden-of-proof ladder, in order from lowest to highest, used to translate Fourth Amendment actions onto a probability scale.",
+    "back": "Mere suspicion → reasonable suspicion → probable cause → preponderance → clear and convincing → beyond a reasonable doubt.",
+    "tags": ["three-golden-rules", "burden-ladder", "probabilities"]
+  },
+  {
+    "id": "three-golden-rules-ladder-mere-suspicion-22",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "On the burden-of-proof ladder, what does the lowest rung — 'mere suspicion' — justify?",
+    "back": "Nothing. Mere suspicion (a hunch) is not enough to justify any Fourth Amendment intrusion.",
+    "tags": ["three-golden-rules", "burden-ladder", "mere-suspicion"]
+  },
+  {
+    "id": "three-golden-rules-ladder-reasonable-suspicion-23",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "On the burden-of-proof ladder, what action does 'reasonable suspicion' authorize, and which case anchors that tier?",
+    "back": "A brief investigative Terry stop and frisk. The reasonable-suspicion tier comes from Terry v. Ohio.",
+    "tags": ["three-golden-rules", "burden-ladder", "reasonable-suspicion", "terry"],
+    "cite": "Terry v. Ohio, 392 U.S. 1 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "three-golden-rules-ladder-probable-cause-24",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "On the burden-of-proof ladder, what does 'probable cause' authorize, and which cases anchor that tier?",
+    "back": "An arrest and a search warrant. The probable-cause tier is anchored to Gates (totality-of-the-circumstances probability) and Brinegar (probabilities of everyday life).",
+    "tags": ["three-golden-rules", "burden-ladder", "probable-cause", "gates", "brinegar"]
+  },
+  {
+    "id": "three-golden-rules-buie-sweep-test-25",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "What does Maryland v. Buie require before officers may conduct a protective sweep beyond the spaces immediately adjoining the place of arrest?",
+    "back": "'Articulable facts which, taken together with the rational inferences from those facts, would warrant a reasonably prudent officer in believing that the area to be swept harbors an individual posing a danger to those on the arrest scene.'",
+    "tags": ["three-golden-rules", "buie", "protective-sweep", "test"],
+    "cite": "Maryland v. Buie, 494 U.S. 325, 334 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112384/maryland-v-buie/"
+  },
+  {
+    "id": "three-golden-rules-buie-not-automatic-26",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Under Maryland v. Buie, is a protective sweep automatic incident to an in-home arrest?",
+    "back": "No — a protective sweep is 'decidedly not automati[c].' It requires a reasonable, articulable suspicion that the house harbors a person posing a danger; routine sweeps as a matter of course are unlawful.",
+    "tags": ["three-golden-rules", "buie", "protective-sweep", "pitfall"],
+    "cite": "Maryland v. Buie, 494 U.S. 325, 336 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112384/maryland-v-buie/"
+  },
+  {
+    "id": "three-golden-rules-buie-scope-27",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Under Maryland v. Buie, what is the permitted scope and duration of a protective sweep?",
+    "back": "A cursory inspection of only those spaces where a person may be found, lasting no longer than necessary to dispel the reasonable suspicion of danger.",
+    "tags": ["three-golden-rules", "buie", "protective-sweep", "scope"],
+    "cite": "Maryland v. Buie, 494 U.S. 325, 335-36 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112384/maryland-v-buie/"
+  },
+  {
+    "id": "three-golden-rules-buie-three-rules-28",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Why is Maryland v. Buie used to illustrate all three Golden Rules at once?",
+    "back": "It packs them into one doctrine: Rule 1 (articulate the danger), Rule 2 (a real safety threat), and Rule 3 (a probability of danger, not a bare possibility).",
+    "tags": ["three-golden-rules", "buie", "synthesis", "protective-sweep"],
+    "cite": "Maryland v. Buie, 494 U.S. 325, 334, 336 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112384/maryland-v-buie/"
+  },
+  {
+    "id": "three-golden-rules-gaetjens-emergency-aid-29",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Under Gaetjens v. Winnebago County (7th Cir. — persuasive, not binding), when may officials enter a home without a warrant under the emergency-aid exigency?",
+    "back": "When the officer had an objectively reasonable basis to believe someone inside needed immediate help — entry 'to render assistance or prevent harm to persons or property within.'",
+    "tags": ["three-golden-rules", "gaetjens", "emergency-aid", "exigency", "persuasive"],
+    "cite": "Gaetjens v. Winnebago County, 4 F.4th 487, 493-94 (7th Cir. 2021)",
+    "source": "https://www.courtlistener.com/opinion/4899427/sally-gaetjens-v-winnebago-county-illinois/"
+  },
+  {
+    "id": "three-golden-rules-gaetjens-weight-30",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "What is the precedential weight of Gaetjens v. Winnebago County, and which Golden Rule does it illustrate?",
+    "back": "Persuasive only — it is a Seventh Circuit decision, not binding SCOTUS authority. It illustrates Golden Rule #2: seriousness/urgency (a medical emergency) widens what is reasonable, here a warrantless entry.",
+    "tags": ["three-golden-rules", "gaetjens", "persuasive", "golden-rule-2"],
+    "cite": "Gaetjens v. Winnebago County, 4 F.4th 487 (7th Cir. 2021)",
+    "source": "https://www.courtlistener.com/opinion/4899427/sally-gaetjens-v-winnebago-county-illinois/"
+  },
+  {
+    "id": "three-golden-rules-exigency-scope-pitfall-31",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "Common pitfall: what limits the scope of a warrantless entry justified by an exigency (e.g., emergency aid)?",
+    "back": "An emergency justifies entry for the emergency and no further. Officers must stay inside the nexus and purpose that justified entry; evidence gathered after the protective/aid purpose is satisfied risks suppression as exceeding the exception's scope.",
+    "tags": ["three-golden-rules", "exigency", "scope", "pitfall", "gaetjens"]
+  },
+  {
+    "id": "three-golden-rules-emergency-aid-elements-32",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "What three requirements make up the emergency-aid exigency as stated in the CSSI materials (anchored to Gaetjens, 7th Cir.)?",
+    "back": "(1) an objectively reasonable basis to believe a person inside needs immediate aid (or the premises pose an immediate safety threat); (2) a nexus between the emergency and the area entered; (3) scope limited to addressing the emergency.",
+    "tags": ["three-golden-rules", "gaetjens", "emergency-aid", "elements", "exigency"],
+    "cite": "Gaetjens v. Winnebago County, 4 F.4th 487, 493-94 (7th Cir. 2021)",
+    "source": "https://www.courtlistener.com/opinion/4899427/sally-gaetjens-v-winnebago-county-illinois/"
+  },
+  {
+    "id": "three-golden-rules-state-illustration-pitfall-33",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "How should state-court protective-sweep decisions be treated relative to the Golden Rules?",
+    "back": "As persuasive, illustrative only — never as the controlling rule. The binding federal authority for protective sweeps is Maryland v. Buie.",
+    "tags": ["three-golden-rules", "buie", "state-illustrative", "weight"],
+    "cite": "Maryland v. Buie, 494 U.S. 325, 334, 336 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112384/maryland-v-buie/"
+  },
+  {
+    "id": "three-golden-rules-maxims-not-law-34",
+    "page": "three-golden-rules",
+    "topic": "Three Golden Rules",
+    "type": "qa",
+    "front": "What kind of authority are the 3 Golden Rules and \"Strive for Five\" themselves?",
+    "back": "Instructor-development maxims and articulation habits — NOT legal tests or case holdings. Each maxim's legal core is separately anchored to verified federal authority (Terry, Graham, Brinegar, Gates, Buie).",
+    "tags": ["three-golden-rules", "maxim", "strive-for-five", "weight"]
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "terry-stops-ras-standard-01",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Where does reasonable, articulable suspicion (RAS) sit relative to a hunch and probable cause?",
+    "back": "More than an inchoate, unparticularized hunch but less than probable cause.",
+    "tags": ["terry-stops", "ras", "standard", "doctrine"],
+    "cite": "Terry v. Ohio, 392 U.S. 1, 21 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "terry-stops-terry-articulable-facts-02",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Terry v. Ohio — what must an officer be able to point to in order to justify a stop?",
+    "back": "\"Specific and articulable facts which, taken together with rational inferences from those facts, reasonably warrant that intrusion.\"",
+    "tags": ["terry-stops", "terry", "articulable-facts", "rule", "verbatim"],
+    "cite": "Terry v. Ohio, 392 U.S. 1, 21 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "terry-stops-terry-holding-03",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Terry v. Ohio — what two-part authority does it establish?",
+    "back": "On RAS that criminal activity is afoot, an officer may make a brief investigative stop; and on RAS that the person is armed and dangerous, may conduct a limited protective frisk of the outer clothing for weapons.",
+    "tags": ["terry-stops", "terry", "holding", "stop-and-frisk"],
+    "cite": "Terry v. Ohio, 392 U.S. 1 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "terry-stops-terry-significance-04",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Why is Terry v. Ohio significant as a Fourth Amendment milestone?",
+    "back": "It recognized a category of brief seizures and protective searches justified on reasonable suspicion rather than full probable cause, creating the investigative-stop tier between a consensual encounter and an arrest.",
+    "tags": ["terry-stops", "terry", "significance", "doctrine"],
+    "cite": "Terry v. Ohio, 392 U.S. 1 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "terry-stops-two-separate-showings-05",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What are the two SEPARATE RAS showings a Terry stop-and-frisk requires?",
+    "back": "RAS that criminal activity is afoot (justifies the stop) and RAS that the person is armed and dangerous (justifies the frisk) — two distinct showings.",
+    "tags": ["terry-stops", "terry", "stop-vs-frisk", "two-showings", "distinction"],
+    "cite": "Terry v. Ohio, 392 U.S. 1, 30 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "terry-stops-stop-does-not-authorize-frisk-06",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Does a lawful Terry stop automatically authorize a frisk?",
+    "back": "No. The frisk needs its own armed-and-dangerous reasonable suspicion; a valid stop does not by itself supply authority to frisk.",
+    "tags": ["terry-stops", "terry", "frisk", "pitfall", "stop-vs-frisk"],
+    "cite": "Terry v. Ohio, 392 U.S. 1, 30 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "terry-stops-frisk-armed-dangerous-quote-07",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Terry v. Ohio — under what condition is an officer entitled to conduct the protective search of outer clothing?",
+    "back": "When unusual conduct leads the officer reasonably to conclude that \"criminal activity may be afoot and that the persons with whom he is dealing may be armed and presently dangerous,\" he may \"conduct a carefully limited search of the outer clothing of such persons in an attempt to discover weapons which might be used to assault him.\"",
+    "tags": ["terry-stops", "terry", "frisk", "verbatim", "rule"],
+    "cite": "Terry v. Ohio, 392 U.S. 1, 30 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "terry-stops-frisk-weapons-not-evidence-08",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What is a Terry frisk allowed to look for?",
+    "back": "Weapons only — it is a pat-down of the outer clothing for officer safety, not a search for evidence or contraband.",
+    "tags": ["terry-stops", "frisk", "weapons", "scope", "pitfall"],
+    "cite": "Terry v. Ohio, 392 U.S. 1, 30 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "terry-stops-plain-feel-09",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "During a weapons frisk, may an officer seize contraband that is not a weapon?",
+    "back": "Only under \"plain feel\" — contraband whose incriminating nature is immediately apparent by touch may be seized, with no further manipulation of the object (cross-ref Plain View Doctrine).",
+    "tags": ["terry-stops", "frisk", "plain-feel", "plain-view", "cross-reference"]
+  },
+  {
+    "id": "terry-stops-frisk-evidence-pitfall-10",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Common pitfall — what mistake do officers make about the purpose of a Terry frisk?",
+    "back": "Frisking for evidence rather than weapons. The pat-down is for weapons; only contraband immediately apparent by plain feel may be seized.",
+    "tags": ["terry-stops", "frisk", "pitfall", "weapons"]
+  },
+  {
+    "id": "terry-stops-cortez-particularized-objective-11",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "United States v. Cortez — on what basis must reasonable suspicion rest?",
+    "back": "A particularized and objective basis, assessed on the totality of the circumstances (the \"whole picture\").",
+    "tags": ["terry-stops", "cortez", "totality", "particularized-objective", "holding"],
+    "cite": "United States v. Cortez, 449 U.S. 411, 417-18 (1981)",
+    "source": "https://www.courtlistener.com/opinion/110377/united-states-v-cortez/"
+  },
+  {
+    "id": "terry-stops-cortez-whole-picture-quote-12",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "cloze",
+    "front": "Cortez (verbatim): \"the totality of the circumstances—the whole picture—must be taken into account. Based upon that whole picture the detaining officers must have a {{c1::particularized and objective basis}} for suspecting the particular person stopped of criminal activity.\"",
+    "back": "particularized and objective basis",
+    "tags": ["terry-stops", "cortez", "verbatim", "totality", "cloze"],
+    "cite": "United States v. Cortez, 449 U.S. 411, 417-18 (1981)",
+    "source": "https://www.courtlistener.com/opinion/110377/united-states-v-cortez/"
+  },
+  {
+    "id": "terry-stops-sokolow-innocent-factors-13",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "United States v. Sokolow — can factors that are each individually consistent with innocence add up to reasonable suspicion?",
+    "back": "Yes. Factors each individually consistent with innocent travel can, taken together, amount to reasonable suspicion.",
+    "tags": ["terry-stops", "sokolow", "totality", "innocent-factors", "holding"],
+    "cite": "United States v. Sokolow, 490 U.S. 1, 9 (1989)",
+    "source": "https://www.courtlistener.com/opinion/112239/united-states-v-sokolow/"
+  },
+  {
+    "id": "terry-stops-sokolow-quote-14",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Sokolow — how did the Court describe individually innocent factors combining into RAS?",
+    "back": "\"Any one of these factors is not by itself proof of any illegal conduct and is quite consistent with innocent travel. But we think taken together they amount to reasonable suspicion.\"",
+    "tags": ["terry-stops", "sokolow", "verbatim", "totality", "innocent-factors"],
+    "cite": "United States v. Sokolow, 490 U.S. 1, 9 (1989)",
+    "source": "https://www.courtlistener.com/opinion/112239/united-states-v-sokolow/"
+  },
+  {
+    "id": "terry-stops-arvizu-no-divide-conquer-15",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "United States v. Arvizu — how may a reviewing court NOT analyze the factors supporting reasonable suspicion?",
+    "back": "It may not use a \"divide-and-conquer\" analysis evaluating each factor in isolation; the totality of the circumstances governs.",
+    "tags": ["terry-stops", "arvizu", "totality", "divide-and-conquer", "holding"],
+    "cite": "United States v. Arvizu, 534 U.S. 266, 274 (2002)",
+    "source": "https://www.courtlistener.com/opinion/118474/united-states-v-arvizu/"
+  },
+  {
+    "id": "terry-stops-arvizu-quote-16",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Arvizu — what one sentence rejects parsing each suspicion factor separately?",
+    "back": "\"Terry, however, precludes this sort of divide-and-conquer analysis.\"",
+    "tags": ["terry-stops", "arvizu", "verbatim", "divide-and-conquer"],
+    "cite": "United States v. Arvizu, 534 U.S. 266, 274 (2002)",
+    "source": "https://www.courtlistener.com/opinion/118474/united-states-v-arvizu/"
+  },
+  {
+    "id": "terry-stops-adams-informant-tip-17",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Adams v. Williams — can reasonable suspicion for a stop and frisk rest on something other than the officer's own observation?",
+    "back": "Yes. A reliable informant's tip carrying enough indicia of reliability can support the stop and frisk, not only the officer's personal observation.",
+    "tags": ["terry-stops", "adams", "informant", "tips-spectrum", "holding"],
+    "cite": "Adams v. Williams, 407 U.S. 143, 147 (1972)",
+    "source": "https://www.courtlistener.com/opinion/108571/adams-v-williams/"
+  },
+  {
+    "id": "terry-stops-adams-quote-18",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Adams v. Williams — what argument did the Court reject about the source of reasonable cause?",
+    "back": "It rejected the argument \"that reasonable cause for a stop and frisk can only be based on the officer's personal observation, rather than on information supplied by another person.\"",
+    "tags": ["terry-stops", "adams", "verbatim", "informant", "tips-spectrum"],
+    "cite": "Adams v. Williams, 407 U.S. 143, 147 (1972)",
+    "source": "https://www.courtlistener.com/opinion/108571/adams-v-williams/"
+  },
+  {
+    "id": "terry-stops-white-corroborated-anonymous-19",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Alabama v. White — can an anonymous tip ever supply reasonable suspicion for a stop?",
+    "back": "Yes, when sufficiently corroborated by independent police work so that, under the totality of the circumstances, it exhibits enough indicia of reliability — the Court called it a \"close case.\"",
+    "tags": ["terry-stops", "white", "anonymous-tip", "corroboration", "tips-spectrum", "holding"],
+    "cite": "Alabama v. White, 496 U.S. 325, 332 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112454/alabama-v-white/"
+  },
+  {
+    "id": "terry-stops-white-close-case-quote-20",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Alabama v. White — how did the Court characterize the strength of the corroborated anonymous tip?",
+    "back": "\"Although it is a close case, we conclude that under the totality of the circumstances the anonymous tip, as corroborated, exhibited sufficient indicia of reliability to justify the investigatory stop of respondent's car.\"",
+    "tags": ["terry-stops", "white", "verbatim", "anonymous-tip", "close-case"],
+    "cite": "Alabama v. White, 496 U.S. 325, 332 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112454/alabama-v-white/"
+  },
+  {
+    "id": "terry-stops-jl-bare-anonymous-21",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Florida v. J.L. — is a bare anonymous tip that a person is carrying a gun, without more, enough for a stop and frisk?",
+    "back": "No. A bare anonymous tip that a person is carrying a gun, without more, does not justify a stop and frisk.",
+    "tags": ["terry-stops", "jl", "anonymous-tip", "gun-tip", "tips-spectrum", "holding"],
+    "cite": "Florida v. J.L., 529 U.S. 266, 268 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118352/florida-v-jl/"
+  },
+  {
+    "id": "terry-stops-jl-knowledge-quote-22",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Florida v. J.L. — why doesn't an accurate description of a suspect's appearance make an anonymous tip reliable for RAS?",
+    "back": "An accurate description of \"readily observable location and appearance\" only helps identify the person; it \"does not show that the tipster has knowledge of concealed criminal activity.\"",
+    "tags": ["terry-stops", "jl", "verbatim", "anonymous-tip", "reliability"],
+    "cite": "Florida v. J.L., 529 U.S. 266, 272 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118352/florida-v-jl/"
+  },
+  {
+    "id": "terry-stops-navarette-911-tip-23",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Navarette v. California — can a 911 caller's tip supply reasonable suspicion for a stop?",
+    "back": "Yes. A 911 caller's tip bearing adequate indicia of reliability can, under the totality of the circumstances, supply reasonable suspicion to justify a traffic stop.",
+    "tags": ["terry-stops", "navarette", "911-tip", "tips-spectrum", "holding"],
+    "cite": "Navarette v. California, 572 U.S. 393, 398-99 (2014)",
+    "source": "https://www.courtlistener.com/opinion/2670795/prado-navarette-v-california/"
+  },
+  {
+    "id": "terry-stops-navarette-quote-24",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Navarette — how did the Court describe the reliability of the 911 call?",
+    "back": "Even assuming the call was anonymous, \"the call bore adequate indicia of reliability for the officer to credit the caller's account.\"",
+    "tags": ["terry-stops", "navarette", "verbatim", "911-tip", "reliability"],
+    "cite": "Navarette v. California, 572 U.S. 393, 398-99 (2014)",
+    "source": "https://www.courtlistener.com/opinion/2670795/prado-navarette-v-california/"
+  },
+  {
+    "id": "terry-stops-tips-spectrum-25",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Order the anonymous-tip spectrum for RAS from most to least reliable across the four key cases.",
+    "back": "Known reliable informant — OK (Adams); reliable 911 caller — OK (Navarette); corroborated anonymous tip — OK as a \"close case\" (White); bare anonymous gun tip — NOT RAS (J.L.).",
+    "tags": ["terry-stops", "tips-spectrum", "synthesis", "adams", "white", "jl", "navarette"]
+  },
+  {
+    "id": "terry-stops-jl-vs-white-distinction-26",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Distinction — what separates Florida v. J.L. (no RAS) from Alabama v. White (RAS) on anonymous tips?",
+    "back": "In White the tip was corroborated by independent police work, showing predictive inside knowledge; in J.L. the tip merely described readily observable appearance with no corroboration of concealed criminal activity.",
+    "tags": ["terry-stops", "jl", "white", "distinction", "anonymous-tip", "corroboration"]
+  },
+  {
+    "id": "terry-stops-wardlow-flight-27",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Illinois v. Wardlow — can unprovoked flight in a high-crime area furnish reasonable suspicion?",
+    "back": "Yes. Unprovoked, headlong flight upon noticing the police in an area of heavy narcotics trafficking can furnish reasonable suspicion for a Terry stop.",
+    "tags": ["terry-stops", "wardlow", "flight", "high-crime-area", "holding"],
+    "cite": "Illinois v. Wardlow, 528 U.S. 119, 124 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118326/illinois-v-wardlow/"
+  },
+  {
+    "id": "terry-stops-wardlow-evasion-quote-28",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Wardlow — how did the Court characterize headlong flight?",
+    "back": "\"Headlong flight—wherever it occurs—is the consummate act of evasion: It is not necessarily indicative of wrongdoing, but it is certainly suggestive of such.\"",
+    "tags": ["terry-stops", "wardlow", "verbatim", "flight"],
+    "cite": "Illinois v. Wardlow, 528 U.S. 119, 124 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118326/illinois-v-wardlow/"
+  },
+  {
+    "id": "terry-stops-wardlow-high-crime-alone-pitfall-29",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Common pitfall — is presence in a high-crime area, by itself, reasonable suspicion?",
+    "back": "No. In Wardlow it was the unprovoked flight PLUS the high-crime context that supplied RAS, not presence in the area alone.",
+    "tags": ["terry-stops", "wardlow", "pitfall", "high-crime-area", "flight"],
+    "cite": "Illinois v. Wardlow, 528 U.S. 119, 124 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118326/illinois-v-wardlow/"
+  },
+  {
+    "id": "terry-stops-hiibel-compelled-id-30",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Hiibel v. Sixth Judicial District Court — is a stop-and-identify law that compels a suspect's name during a valid Terry stop consistent with the Fourth Amendment?",
+    "back": "Yes. A state law requiring a suspect to disclose his name in the course of a valid Terry stop is consistent with the Fourth Amendment's prohibition on unreasonable searches and seizures.",
+    "tags": ["terry-stops", "hiibel", "compelled-identification", "stop-and-identify", "holding"],
+    "cite": "Hiibel v. Sixth Judicial Dist. Court, 542 U.S. 177, 188 (2004)",
+    "source": "https://www.courtlistener.com/opinion/136990/hiibel-v-sixth-judicial-dist-court-of-nev-humboldt-cty/"
+  },
+  {
+    "id": "terry-stops-hiibel-federal-vs-state-31",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Hiibel — what is the scope of its federal holding versus the state-law question it left open?",
+    "back": "The federal Fourth Amendment holding is only that compelling a name during a valid Terry stop is permissible; whether any given statute reaches further is a state-law question (Hiibel arose under a Nevada stop-and-identify statute).",
+    "tags": ["terry-stops", "hiibel", "federal-holding", "nevada-statute", "scope"],
+    "cite": "Hiibel v. Sixth Judicial Dist. Court, 542 U.S. 177 (2004)",
+    "source": "https://www.courtlistener.com/opinion/136990/hiibel-v-sixth-judicial-dist-court-of-nev-humboldt-cty/"
+  },
+  {
+    "id": "terry-stops-duration-de-facto-arrest-32",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What happens to a Terry stop's justification if it is prolonged beyond its investigative purpose?",
+    "back": "It must be brief and diligently pursued; an over-intrusive or overlong detention becomes a de facto arrest requiring probable cause (cross-ref Traffic Stops — Rodriguez/Sharpe).",
+    "tags": ["terry-stops", "duration", "de-facto-arrest", "scope", "pitfall"]
+  },
+  {
+    "id": "terry-stops-ras-vs-pc-pitfall-33",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Common pitfall — what mistake do people make in describing the reasonable-suspicion standard itself?",
+    "back": "Calling RAS a mere \"hunch\" or conflating it with probable cause. RAS is more than a hunch and less than PC — articulable, particularized, and objective.",
+    "tags": ["terry-stops", "ras", "standard", "pitfall"]
+  },
+  {
+    "id": "terry-stops-three-tier-sequence-34",
+    "page": "terry-stops",
+    "topic": "Terry Stops and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What is the escalating tier sequence from a consensual encounter to an arrest, and the justification at each rung?",
+    "back": "Consensual encounter (no justification needed) -> Terry stop (RAS criminal activity afoot) -> protective frisk (separate RAS armed and dangerous) -> arrest (probable cause).",
+    "tags": ["terry-stops", "doctrine", "tiers", "sequence", "synthesis"]
+  }
+]

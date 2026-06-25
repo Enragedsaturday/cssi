@@ -1,0 +1,532 @@
+[
+  {
+    "id": "plain-view-doctrine-observation-vs-doctrine-01",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "In Fourth Amendment analysis, distinguish plain view as an OBSERVATION from the plain-view DOCTRINE.",
+    "back": "Observation = merely looking at what is knowingly exposed is no search and no Fourth Amendment event (no REP in the exposed). The doctrine = a recognized exception that justifies a warrantless SEIZURE of an item the officer comes across, requiring all three Horton prongs.",
+    "tags": ["plain-view-doctrine", "hicks", "horton", "observation-vs-seizure"]
+  },
+  {
+    "id": "plain-view-doctrine-observation-not-search-02",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Per Arizona v. Hicks, is an officer's merely looking at what is already exposed to view a Fourth Amendment search?",
+    "back": "No. \"[A] truly cursory inspection—one that involves merely looking at what is already exposed to view, without disturbing it—is not a 'search' for Fourth Amendment purposes.\"",
+    "tags": ["plain-view-doctrine", "hicks", "observation", "cursory-inspection"],
+    "cite": "Arizona v. Hicks, 480 U.S. 321, 328 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/"
+  },
+  {
+    "id": "plain-view-doctrine-doctrine-justifies-seizure-03",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "What kind of Fourth Amendment intrusion does the plain-view DOCTRINE (as opposed to the observation) justify?",
+    "back": "A warrantless SEIZURE of an item the officer comes across — not the looking itself, which needs no justification.",
+    "tags": ["plain-view-doctrine", "seizure", "doctrine"]
+  },
+  {
+    "id": "plain-view-doctrine-cardinal-error-04",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "What is the cardinal error / common pitfall when applying the plain-view doctrine?",
+    "back": "Conflating the observation with the doctrine: seeing the exposed is free, but SEIZING an item requires all three Horton prongs.",
+    "tags": ["plain-view-doctrine", "pitfall", "observation-vs-seizure"]
+  },
+  {
+    "id": "plain-view-doctrine-horton-test-05",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "State Horton v. California's three-prong test for a warrantless plain-view SEIZURE.",
+    "back": "(1) The officer is lawfully in the position from which the item can be plainly viewed; (2) the item's incriminating character is \"immediately apparent\" (= probable cause, without manipulation); and (3) the officer has a lawful right of access to the item itself.",
+    "tags": ["plain-view-doctrine", "horton", "three-prongs", "test"],
+    "cite": "Horton v. California, 496 U.S. 128, 136-37 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112448/horton-v-california/"
+  },
+  {
+    "id": "plain-view-doctrine-horton-prong1-06",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "What is the FIRST prong of Horton's plain-view-seizure test?",
+    "back": "The officer must be lawfully in the position (lawful vantage) from which the item can be plainly seen.",
+    "tags": ["plain-view-doctrine", "horton", "prong-1", "lawful-vantage"],
+    "cite": "Horton v. California, 496 U.S. 128, 136-37 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112448/horton-v-california/"
+  },
+  {
+    "id": "plain-view-doctrine-horton-prong2-07",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "What is the SECOND prong of Horton's plain-view-seizure test?",
+    "back": "The item's incriminating character must be \"immediately apparent\" — meaning probable cause, reached without manipulating the item.",
+    "tags": ["plain-view-doctrine", "horton", "prong-2", "immediately-apparent"],
+    "cite": "Horton v. California, 496 U.S. 128, 136 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112448/horton-v-california/"
+  },
+  {
+    "id": "plain-view-doctrine-horton-prong3-08",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "What is the THIRD prong of Horton's plain-view-seizure test?",
+    "back": "The officer must have a lawful right of access to the item itself.",
+    "tags": ["plain-view-doctrine", "horton", "prong-3", "right-of-access"],
+    "cite": "Horton v. California, 496 U.S. 128, 137 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112448/horton-v-california/"
+  },
+  {
+    "id": "plain-view-doctrine-horton-prong2-verbatim-09",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "cloze",
+    "front": "Horton, on prong 2: \"not only must the item be in plain view; its incriminating character must also be {{c1::'immediately apparent.'}}\"",
+    "back": "'immediately apparent.'",
+    "tags": ["plain-view-doctrine", "horton", "prong-2", "verbatim"],
+    "cite": "Horton v. California, 496 U.S. 128, 136 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112448/horton-v-california/"
+  },
+  {
+    "id": "plain-view-doctrine-horton-prongs1and3-verbatim-10",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Quote Horton on the relationship between lawful vantage and lawful right of access (prongs 1 and 3).",
+    "back": "\"[N]ot only must the officer be lawfully located in a place from which the object can be plainly seen, but he or she must also have a lawful right of access to the object itself.\"",
+    "tags": ["plain-view-doctrine", "horton", "prong-1", "prong-3", "verbatim"],
+    "cite": "Horton v. California, 496 U.S. 128, 137 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112448/horton-v-california/"
+  },
+  {
+    "id": "plain-view-doctrine-vantage-vs-access-11",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Why is a lawful VANTAGE not the same as a lawful RIGHT OF ACCESS under Horton? Give the page's example.",
+    "back": "An officer may lawfully SEE contraband through a window from the sidewalk yet still lack the authority to ENTER and seize it — vantage to view does not supply the right of access to the item.",
+    "tags": ["plain-view-doctrine", "horton", "vantage-vs-access", "distinction"]
+  },
+  {
+    "id": "plain-view-doctrine-hicks-immediately-apparent-pc-12",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Per Arizona v. Hicks, what standard does \"immediately apparent\" require, and is reasonable suspicion enough?",
+    "back": "Probable cause is required; reasonable suspicion / a hunch is not enough. \"We now hold that probable cause is required.\"",
+    "tags": ["plain-view-doctrine", "hicks", "immediately-apparent", "probable-cause"],
+    "cite": "Arizona v. Hicks, 480 U.S. 321, 326 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/"
+  },
+  {
+    "id": "plain-view-doctrine-hicks-moorings-quote-13",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "In Hicks, why did the Court reject a lesser standard than probable cause for \"immediately apparent\"?",
+    "back": "\"To say otherwise would be to cut the 'plain view' doctrine loose from its theoretical and practical moorings.\"",
+    "tags": ["plain-view-doctrine", "hicks", "probable-cause", "verbatim"],
+    "cite": "Arizona v. Hicks, 480 U.S. 321, 326 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/"
+  },
+  {
+    "id": "plain-view-doctrine-hicks-facts-14",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Which case held that moving stereo equipment a few inches to read its serial number was a separate search?",
+    "back": "Arizona v. Hicks (1987). Officer Nelson's moving of the equipment \"did constitute a 'search' separate and apart from\" the lawful objective of his entry.",
+    "tags": ["plain-view-doctrine", "hicks", "facts-to-case", "manipulation"],
+    "cite": "Arizona v. Hicks, 480 U.S. 321, 324-25 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/"
+  },
+  {
+    "id": "plain-view-doctrine-manipulation-is-search-15",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Under Hicks, what happens the moment an officer manipulates (moves, turns, opens) an item to develop probable cause?",
+    "back": "He crosses from observation into a SEARCH separate from the lawful entry. Plain view must be apparent as the officer already lawfully stands — without turning, lifting, or opening.",
+    "tags": ["plain-view-doctrine", "hicks", "manipulation", "search"],
+    "cite": "Arizona v. Hicks, 480 U.S. 321, 324-25 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/"
+  },
+  {
+    "id": "plain-view-doctrine-seizing-on-hunch-pitfall-16",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Common pitfall: an officer seizes an item in plain view on a hunch that it is contraband. What is wrong?",
+    "back": "\"Immediately apparent\" means probable cause (Hicks), not reasonable suspicion — a hunch will not support a plain-view seizure.",
+    "tags": ["plain-view-doctrine", "hicks", "pitfall", "probable-cause"]
+  },
+  {
+    "id": "plain-view-doctrine-coolidge-origin-17",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Which case is the doctrinal origin of the modern plain-view doctrine (a plurality on plain view)?",
+    "back": "Coolidge v. New Hampshire (1971).",
+    "tags": ["plain-view-doctrine", "coolidge", "origin"],
+    "cite": "Coolidge v. New Hampshire, 403 U.S. 443 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108377/coolidge-v-new-hampshire/"
+  },
+  {
+    "id": "plain-view-doctrine-coolidge-no-general-search-18",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Per Coolidge, what limiting principle bars using plain view as a general exploratory search?",
+    "back": "Plain view \"may not be used to extend a general exploratory search from one object to another until something incriminating at last emerges.\"",
+    "tags": ["plain-view-doctrine", "coolidge", "general-warrant", "verbatim"],
+    "cite": "Coolidge v. New Hampshire, 403 U.S. 443, 466-67 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108377/coolidge-v-new-hampshire/"
+  },
+  {
+    "id": "plain-view-doctrine-inadvertence-abandoned-19",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Is inadvertent discovery still required for a plain-view seizure? Which cases bear on this?",
+    "back": "No. Coolidge's plurality required inadvertence; Horton expressly abandoned it. An officer who fully expects to find the item may still seize it if the three prongs are met.",
+    "tags": ["plain-view-doctrine", "coolidge", "horton", "inadvertence"]
+  },
+  {
+    "id": "plain-view-doctrine-inadvertence-pitfall-20",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Common pitfall: an officer assumes that because he expected to find an item, plain view cannot apply. Why is this wrong?",
+    "back": "Horton dropped the inadvertence requirement; a prior expectation of finding the item does not defeat a plain-view seizure when the three prongs are satisfied.",
+    "tags": ["plain-view-doctrine", "horton", "inadvertence", "pitfall"]
+  },
+  {
+    "id": "plain-view-doctrine-tarantino-holding-21",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "State v. Tarantino (N.C. — illustrative, non-binding; pair with Hicks/Horton): do tiny cracks in a wall surrender a reasonable expectation of privacy?",
+    "back": "No. \"The presence of tiny cracks ... is not the kind of exposure which serves to eliminate a reasonable expectation of privacy.\" An officer who must make a \"probing examination\" through them to see inside conducts a search.",
+    "tags": ["plain-view-doctrine", "tarantino", "non-binding", "state", "enhanced-observation"],
+    "cite": "State v. Tarantino, 322 N.C. 386, 368 S.E.2d 588, 593, 595 (1988)",
+    "source": "https://www.courtlistener.com/opinion/1294594/state-v-tarantino/"
+  },
+  {
+    "id": "plain-view-doctrine-tarantino-pairing-22",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "What is the binding FEDERAL authority that the illustrative state case State v. Tarantino must be paired with?",
+    "back": "Arizona v. Hicks (and Horton) — Tarantino is state, illustrative, non-binding; it illustrates the observation-versus-enhanced-observation line but does not state the federal rule.",
+    "tags": ["plain-view-doctrine", "tarantino", "hicks", "non-binding", "pairing"]
+  },
+  {
+    "id": "plain-view-doctrine-herlth-holding-23",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Commonwealth v. Herlth (Pa. Super., en banc — illustrative, non-binding; pair with Hicks/Horton): was shining a flashlight through a one-inch hole in a closed shoebox a search?",
+    "back": "Yes. \"Trooper Adams' act of shining a flashlight into the hole of the closed shoebox was a search\" — using an artificial aid to brighten/peer into a closed container in a home was an unlawful search that plain view did not justify.",
+    "tags": ["plain-view-doctrine", "herlth", "non-binding", "state", "enhanced-observation"],
+    "cite": "Commonwealth v. Herlth, 2026 PA Super 114 (Pa. Super. June 5, 2026) (en banc), slip op. at 7, 22",
+    "source": "https://www.courtlistener.com/opinion/10870804/com-v-herlth-j/"
+  },
+  {
+    "id": "plain-view-doctrine-herlth-tarantino-adoption-24",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Which out-of-state case does Commonwealth v. Herlth adopt, and what fully-exposed-structure case does it distinguish?",
+    "back": "Herlth adopts State v. Tarantino and distinguishes United States v. Dunn (an open, fully exposed barn). (Both Herlth and Tarantino are illustrative, non-binding.)",
+    "tags": ["plain-view-doctrine", "herlth", "tarantino", "dunn", "non-binding"]
+  },
+  {
+    "id": "plain-view-doctrine-herlth-tarantino-pitfall-25",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Common pitfall: an instructor cites Herlth or Tarantino as the federal rule on enhanced observation. Why is this wrong?",
+    "back": "Both are state, illustrative, non-binding decisions — always pair them with the controlling federal authority (Hicks/Horton); never present them as the federal rule.",
+    "tags": ["plain-view-doctrine", "herlth", "tarantino", "non-binding", "pitfall"]
+  },
+  {
+    "id": "plain-view-doctrine-flashlight-pitfall-26",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Common pitfall: using a flashlight to peer into a closed container to create plain view. What does the page (Herlth/Tarantino, illustrative) say?",
+    "back": "Using an artificial aid to peer into a closed container can itself be a search, not a permissible plain-view observation — moving/opening or probing to develop incriminating character crosses into a search.",
+    "tags": ["plain-view-doctrine", "herlth", "tarantino", "non-binding", "pitfall", "manipulation"]
+  },
+  {
+    "id": "plain-view-doctrine-riley-digital-premise-27",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "What SCOTUS case supplies the premise of the digital plain-view section — that digital is constitutionally different?",
+    "back": "Riley v. California (2014): physical-world categorical exceptions do not transfer automatically to a phone; \"get a warrant.\"",
+    "tags": ["plain-view-doctrine", "riley", "digital", "premise"],
+    "cite": "Riley v. California, 573 U.S. 373, 403 (2014)",
+    "source": "https://www.courtlistener.com/opinion/2680439/riley-v-cal-united-states/"
+  },
+  {
+    "id": "plain-view-doctrine-digital-mechanical-problem-28",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "On a digital device, what two questions split apart, creating the digital plain-view problem?",
+    "back": "(1) WHETHER the device can be seized and searched at all (generally yes, if it could house the evidence sought); and (2) WHERE WITHIN the device officers may look. Because responsive data can be hidden anywhere, a broad search threatens to become a roving license.",
+    "tags": ["plain-view-doctrine", "digital", "scope", "general-warrant"]
+  },
+  {
+    "id": "plain-view-doctrine-digital-split-flag-29",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "FLAG: How resolved is the question of digital-warrant SCOPE and whether plain view captures non-responsive data?",
+    "back": "Unresolved. Courts diverge sharply (search-latitude, particularity/no-per-se, and use-restriction approaches), and SCOTUS has NOT resolved it. The shared concern: keeping digital warrants from becoming general warrants (Coolidge; Riley).",
+    "tags": ["plain-view-doctrine", "digital", "split", "flag", "unresolved"]
+  },
+  {
+    "id": "plain-view-doctrine-volle-search-latitude-30",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Digital-scope split — search-latitude view (State v. Volle, Kan. — persuasive, non-binding): what does it permit and what limit does it keep?",
+    "back": "Because relevant data may be stored anywhere, broad SEARCHING may be permissible, but \"the warrant must still include a meaningful limiting principle tying the authorized seizure to evidence of a specified offense.\"",
+    "tags": ["plain-view-doctrine", "volle", "digital", "search-latitude", "persuasive"],
+    "cite": "State v. Volle, 580 P.3d 1223, 1233 (Kan. 2025)",
+    "source": "https://www.courtlistener.com/opinion/10811858/state-v-volle/"
+  },
+  {
+    "id": "plain-view-doctrine-volle-search-vs-seizure-31",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "State v. Volle (persuasive, non-binding) distinguishes which two scopes on a digital device?",
+    "back": "Search scope vs seizure scope: officers may need broad SEARCH latitude (data anywhere), but the SEIZURE must stay tethered to evidence of the specified offense.",
+    "tags": ["plain-view-doctrine", "volle", "digital", "search-vs-seizure", "persuasive"]
+  },
+  {
+    "id": "plain-view-doctrine-hughes-no-per-se-32",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Digital-scope split — particularity / no-per-se view (People v. Hughes, Mich. — persuasive, non-binding): what rule does it decline to adopt?",
+    "back": "It declines \"a rule that it is always reasonable for an officer to review the entirety of the digital data seized pursuant to a warrant on the basis of the mere possibility that evidence may conceivably be found anywhere on the device.\"",
+    "tags": ["plain-view-doctrine", "hughes", "digital", "particularity", "persuasive"],
+    "cite": "People v. Hughes, 506 Mich. 512, 958 N.W.2d 98, 117 (2020)",
+    "source": "https://www.courtlistener.com/opinion/4843477/people-of-michigan-v-kristopher-allen-hughes/"
+  },
+  {
+    "id": "plain-view-doctrine-hughes-particularity-rationale-33",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Why does People v. Hughes (persuasive, non-binding) reject a per se whole-device-review rule?",
+    "back": "Such a per se rule \"would effectively nullify the particularity requirement of the Fourth Amendment in the context of cell-phone data.\"",
+    "tags": ["plain-view-doctrine", "hughes", "digital", "particularity", "persuasive"],
+    "cite": "People v. Hughes, 506 Mich. 512, 958 N.W.2d 98, 117 (2020)",
+    "source": "https://www.courtlistener.com/opinion/4843477/people-of-michigan-v-kristopher-allen-hughes/"
+  },
+  {
+    "id": "plain-view-doctrine-mansor-use-restriction-34",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Digital-scope split — use-restriction view (State v. Mansor, Or. — state constitution, persuasive only): what limit does it impose on nonresponsive data?",
+    "back": "\"[T]he state should not be permitted to use information obtained in a computer search if the warrant did not authorize the search for that information, unless some other warrant exception applies\" — a USE restriction rather than letting plain view sweep it in.",
+    "tags": ["plain-view-doctrine", "mansor", "digital", "use-restriction", "persuasive", "state-constitution"],
+    "cite": "State v. Mansor, 363 Or. 185, 421 P.3d 323, 363 (2018)",
+    "source": "https://www.courtlistener.com/opinion/6656738/state-v-mansor/"
+  },
+  {
+    "id": "plain-view-doctrine-mansor-state-ground-35",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Why is State v. Mansor only persuasive (not binding) on the federal digital plain-view question?",
+    "back": "It was decided under the Oregon Constitution (a state-constitutional ground), so it is persuasive only on the federal Fourth Amendment question.",
+    "tags": ["plain-view-doctrine", "mansor", "state-constitution", "persuasive"]
+  },
+  {
+    "id": "plain-view-doctrine-morton-flag-36",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "United States v. Morton (5th Cir. en banc — persuasive, non-binding): what does the concurrence suggest about plain view in the digital world, and did it decide it?",
+    "back": "It suggests \"it would be unsurprising if the Court ... recognized an exception to another longstanding Fourth Amendment doctrine, this time plain view\" — raising the digital general-warrant problem but NOT deciding it (the case resolved on good-faith grounds).",
+    "tags": ["plain-view-doctrine", "morton", "digital", "general-warrant", "persuasive", "flag"],
+    "cite": "United States v. Morton, 46 F.4th 331, 341 (5th Cir. 2022) (en banc)",
+    "source": "https://www.courtlistener.com/opinion/7859188/united-states-v-morton/"
+  },
+  {
+    "id": "plain-view-doctrine-tuggle-katz-37",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "United States v. Tuggle (7th Cir. — persuasive, non-binding): upholding long-term pole-camera surveillance under current doctrine, what did the court warn about the future?",
+    "back": "It warned that \"it might soon be time to revisit the Fourth Amendment test established in Katz\" as digital/surveillance technologies proliferate.",
+    "tags": ["plain-view-doctrine", "tuggle", "digital", "katz", "persuasive"],
+    "cite": "United States v. Tuggle, 4 F.4th 505, 527 (7th Cir. 2021)",
+    "source": "https://www.courtlistener.com/opinion/4899735/united-states-v-travis-tuggle/"
+  },
+  {
+    "id": "plain-view-doctrine-digital-pitfall-38",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Common pitfall: treating a phone warrant as a license to roam and keep whatever turns up. What is the danger and the safer practice?",
+    "back": "That is the digital general-warrant trap; scope and use are contested (Hughes/Volle/Mansor/Morton) and unresolved at SCOTUS. When unsure, get a narrower warrant — or a second warrant for a newly discovered offense.",
+    "tags": ["plain-view-doctrine", "digital", "pitfall", "general-warrant"]
+  },
+  {
+    "id": "plain-view-doctrine-no-general-search-throughline-39",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Which Coolidge principle is the unifying guardrail (the throughline) running from the physical plain-view rule to the digital general-warrant concern?",
+    "back": "Coolidge's anti-general-exploratory-search principle — plain view may not extend a general exploratory search — which guards against digital warrants becoming general warrants.",
+    "tags": ["plain-view-doctrine", "coolidge", "digital", "general-warrant", "throughline"]
+  },
+  {
+    "id": "plain-view-doctrine-brown-pc-not-certainty-40",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Texas v. Brown (plurality): does \"immediately apparent\" require that the officer be certain the item is evidence/contraband?",
+    "back": "No. It requires only probable cause, not near-certainty. The plurality warned the phrase \"immediately apparent\" \"was very likely an unhappy choice of words, since it can be taken to imply that an unduly high degree of certainty ... is necessary,\" when in fact \"probable cause is a flexible, common-sense standard.\"",
+    "tags": ["plain-view-doctrine", "brown", "plurality", "immediately-apparent", "probable-cause"],
+    "cite": "Texas v. Brown, 460 U.S. 730, 741-42 (1983) (plurality)",
+    "source": "https://www.courtlistener.com/opinion/110901/texas-v-brown/"
+  },
+  {
+    "id": "plain-view-doctrine-brown-unhappy-choice-verbatim-41",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "cloze",
+    "front": "Texas v. Brown (plurality) on the phrase \"immediately apparent\": it \"was very likely an {{c1::unhappy choice of words}}, since it can be taken to imply that an unduly high degree of certainty ... is necessary.\"",
+    "back": "unhappy choice of words",
+    "tags": ["plain-view-doctrine", "brown", "plurality", "immediately-apparent", "verbatim"],
+    "cite": "Texas v. Brown, 460 U.S. 730, 741 (1983) (plurality)",
+    "source": "https://www.courtlistener.com/opinion/110901/texas-v-brown/"
+  },
+  {
+    "id": "plain-view-doctrine-brown-flashlight-open-car-42",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Texas v. Brown (plurality): is shining a flashlight to illuminate the interior of a car a Fourth Amendment search?",
+    "back": "No. \"[S]hining his flashlight to illuminate the interior of Brown's car trenched upon no right secured to the latter by the Fourth Amendment.\" Using a flashlight on what is already exposed (an open car interior) is not a search.",
+    "tags": ["plain-view-doctrine", "brown", "plurality", "flashlight", "not-a-search"],
+    "cite": "Texas v. Brown, 460 U.S. 730, 739-40 (1983) (plurality)",
+    "source": "https://www.courtlistener.com/opinion/110901/texas-v-brown/"
+  },
+  {
+    "id": "plain-view-doctrine-brown-over-reading-pitfall-43",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Common pitfall: over-reading \"immediately apparent\" as requiring certainty that an item is contraband. What is the correction (Brown, plurality)?",
+    "back": "It demands probable cause, not near-certainty — the phrase was \"an unhappy choice of words\" (Brown); a \"flexible, common-sense\" probability suffices.",
+    "tags": ["plain-view-doctrine", "brown", "plurality", "pitfall", "immediately-apparent"]
+  },
+  {
+    "id": "plain-view-doctrine-dickerson-plain-feel-44",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Minnesota v. Dickerson: does plain view have a touch analog, and what is it called?",
+    "back": "Yes — plain feel. If during a lawful Terry frisk an object's contour or mass makes its identity as contraband immediately apparent, its warrantless seizure is justified \"by the same practical considerations that inhere in the plain-view context.\"",
+    "tags": ["plain-view-doctrine", "dickerson", "plain-feel", "terry-frisk"],
+    "cite": "Minnesota v. Dickerson, 508 U.S. 366, 375-76 (1993)",
+    "source": "https://www.courtlistener.com/opinion/112873/minnesota-v-dickerson/"
+  },
+  {
+    "id": "plain-view-doctrine-dickerson-plain-feel-verbatim-45",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Quote Minnesota v. Dickerson's plain-feel rule (when an object felt during a lawful frisk may be seized).",
+    "back": "\"If a police officer lawfully pats down a suspect's outer clothing and feels an object whose contour or mass makes its identity immediately apparent, there has been no invasion of the suspect's privacy beyond that already authorized by the officer's search for weapons; if the object is contraband, its warrantless seizure would be justified by the same practical considerations that inhere in the plain-view context.\"",
+    "tags": ["plain-view-doctrine", "dickerson", "plain-feel", "verbatim"],
+    "cite": "Minnesota v. Dickerson, 508 U.S. 366, 375-76 (1993)",
+    "source": "https://www.courtlistener.com/opinion/112873/minnesota-v-dickerson/"
+  },
+  {
+    "id": "plain-view-doctrine-dickerson-manipulation-fails-46",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Minnesota v. Dickerson: why did the seizure fail on the facts of the case itself?",
+    "back": "The officer determined the lump was contraband only after \"squeezing, sliding and otherwise manipulating the contents of the defendant's pocket\" — manipulation beyond the weapons frisk. That exceeded the lawful frisk and was a search.",
+    "tags": ["plain-view-doctrine", "dickerson", "plain-feel", "manipulation"],
+    "cite": "Minnesota v. Dickerson, 508 U.S. 366, 378 (1993)",
+    "source": "https://www.courtlistener.com/opinion/112873/minnesota-v-dickerson/"
+  },
+  {
+    "id": "plain-view-doctrine-dickerson-hicks-analog-47",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "How is Minnesota v. Dickerson the touch-analog of Arizona v. Hicks?",
+    "back": "Both turn on manipulation: develop probable cause by manipulating an item (moving the stereo in Hicks; squeezing/sliding the lump in Dickerson) and you have crossed from observation into a separate search.",
+    "tags": ["plain-view-doctrine", "dickerson", "hicks", "manipulation", "distinction"]
+  },
+  {
+    "id": "plain-view-doctrine-squeezing-frisk-pitfall-48",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Common pitfall: squeezing or sliding a lump felt during a Terry frisk to figure out what it is. Why is this a problem (Dickerson)?",
+    "back": "Manipulating an object felt in a Terry frisk to develop probable cause exceeds the weapons frisk and is a search (Dickerson) — the touch-analog of moving the stereo in Hicks.",
+    "tags": ["plain-view-doctrine", "dickerson", "pitfall", "manipulation"]
+  },
+  {
+    "id": "plain-view-doctrine-carpenter-digital-context-only-49",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Carpenter v. United States: what is it cited for in the digital plain-view section, and what is it NOT?",
+    "back": "It is cited for digital CONTEXT only — that digital-era data (CSLI) receives distinct Fourth Amendment treatment given \"the seismic shifts in digital technology.\" It is CSLI/third-party law and is NOT plain-view authority.",
+    "tags": ["plain-view-doctrine", "carpenter", "digital", "context-only", "not-plain-view"],
+    "cite": "Carpenter v. United States, 585 U.S. 296, 313-16 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "plain-view-doctrine-burgess-search-latitude-50",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Digital-scope split — search-latitude pole, federal exemplar (United States v. Burgess, 10th Cir. — persuasive): what latitude does it allow for computer searches?",
+    "back": "\"It is unrealistic to expect a warrant to prospectively restrict the scope of a search by directory, filename or extension ... that process must remain dynamic\" — though \"that is not to say methodology is irrelevant.\"",
+    "tags": ["plain-view-doctrine", "burgess", "digital", "search-latitude", "persuasive"],
+    "cite": "United States v. Burgess, 576 F.3d 1078, 1093-94 (10th Cir. 2009)",
+    "source": "https://www.courtlistener.com/opinion/172511/united-states-v-burgess/"
+  },
+  {
+    "id": "plain-view-doctrine-ganias-over-retention-51",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Digital-scope split — over-retention axis (United States v. Ganias, 2d Cir. en banc — persuasive): on what ground did the en banc court resolve the years-long retention of forensic mirror images?",
+    "back": "On the good-faith exception, expressly leaving the Fourth Amendment over-retention question OPEN: \"we need not and do not decide whether the Government violated the Fourth Amendment, and we affirm the judgment of the district court.\" The 2014 panel had found a violation.",
+    "tags": ["plain-view-doctrine", "ganias", "digital", "over-retention", "good-faith", "persuasive"],
+    "cite": "United States v. Ganias, 824 F.3d 199, 221 (2d Cir. 2016) (en banc)",
+    "source": "https://www.courtlistener.com/opinion/3207604/united-states-v-ganias/"
+  },
+  {
+    "id": "plain-view-doctrine-circuits-spectrum-52",
+    "page": "plain-view-doctrine",
+    "topic": "Plain View Doctrine",
+    "type": "qa",
+    "front": "Name the federal circuits in the digital plain-view material and characterize the state of the law.",
+    "back": "10th Cir. (Burgess — search latitude), 2d Cir. en banc (Ganias — over-retention left open on good faith), 5th Cir. en banc (Morton — flags a possible digital plain-view exception, not decided), 7th Cir. (Tuggle — warns Katz may need revisiting). Treat it as an approach-spectrum, not a clean circuit conflict; SCOTUS has not resolved it.",
+    "tags": ["plain-view-doctrine", "digital", "circuits", "spectrum", "unresolved"]
+  }
+]

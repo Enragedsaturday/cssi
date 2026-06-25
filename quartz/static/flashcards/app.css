@@ -1,0 +1,604 @@
+/* =========================================================================
+   CSSI Flashcards — study UI
+   A spaced-repetition study tool for a federal Search & Seizure course.
+   Visual direction: the "case caption" — ink on parchment, a constitutional
+   indigo accent, casebook serif for card text, docket-style monospace for
+   citations. Restrained on purpose: this is a legal study instrument.
+
+   Theming: drives off CSS variables. Respects Quartz dark mode
+   ([saved-theme="dark"] on <html>) AND prefers-color-scheme for the
+   standalone page. One token set, two ways to flip it.
+   ========================================================================= */
+
+:root {
+  /* --- light (parchment) palette --- */
+  --fc-bg: #f4f1ea;          /* parchment field around the card */
+  --fc-surface: #fbfaf6;     /* the card itself — warmer than pure white */
+  --fc-surface-2: #efece3;   /* recessed panels, chrome wells */
+  --fc-ink: #1c1f26;         /* primary ink */
+  --fc-ink-soft: #4a4e58;    /* secondary text */
+  --fc-ink-faint: #8a8d96;   /* captions, meta, disabled */
+  --fc-line: #ddd8cc;        /* hairline rules / borders */
+  --fc-line-strong: #c7c1b2;
+  --fc-accent: #2d4a7c;      /* constitutional indigo-ink */
+  --fc-accent-soft: #e4e8f1; /* accent wash */
+  --fc-focus: #2d4a7c;
+
+  /* grade signals — legal-status reads, not candy */
+  --fc-again: #b3261e;       /* deny / lapse — red */
+  --fc-again-bg: #f7e4e2;
+  --fc-hard: #b06a08;        /* amber */
+  --fc-hard-bg: #f7ecdc;
+  --fc-good: #2f7d4f;        /* affirm — green */
+  --fc-good-bg: #e2f0e7;
+  --fc-easy: #2d4a7c;        /* indigo — clear */
+  --fc-easy-bg: #e4e8f1;
+
+  --fc-shadow: 0 1px 2px rgba(28, 31, 38, .06),
+               0 8px 24px -12px rgba(28, 31, 38, .22);
+  --fc-shadow-lift: 0 2px 4px rgba(28, 31, 38, .08),
+                    0 18px 44px -18px rgba(28, 31, 38, .30);
+
+  --fc-radius: 10px;
+  --fc-radius-sm: 7px;
+
+  --fc-serif: "Iowan Old Style", "Charter", "Georgia", "Cambria", "Times New Roman", serif;
+  --fc-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  --fc-mono: "SFMono-Regular", "JetBrains Mono", "Menlo", "Consolas", ui-monospace, monospace;
+
+  --fc-max: 640px;
+}
+
+/* Dark palette — applied two ways so both Quartz and standalone work. */
+:root[saved-theme="dark"] {
+  --fc-bg: #16181d;
+  --fc-surface: #1f232b;
+  --fc-surface-2: #262b34;
+  --fc-ink: #ecedf0;
+  --fc-ink-soft: #b4b8c1;
+  --fc-ink-faint: #777c87;
+  --fc-line: #333944;
+  --fc-line-strong: #444b58;
+  --fc-accent: #8fb0e6;
+  --fc-accent-soft: #28324a;
+  --fc-focus: #8fb0e6;
+
+  --fc-again: #f08a82;
+  --fc-again-bg: #3a2422;
+  --fc-hard: #e0a44e;
+  --fc-hard-bg: #382c1c;
+  --fc-good: #79c594;
+  --fc-good-bg: #1f3328;
+  --fc-easy: #8fb0e6;
+  --fc-easy-bg: #28324a;
+
+  --fc-shadow: 0 1px 2px rgba(0, 0, 0, .3),
+               0 10px 28px -14px rgba(0, 0, 0, .6);
+  --fc-shadow-lift: 0 2px 6px rgba(0, 0, 0, .35),
+                    0 20px 48px -18px rgba(0, 0, 0, .7);
+}
+
+/* Standalone page (no Quartz attribute): follow the OS. */
+@media (prefers-color-scheme: dark) {
+  :root:not([saved-theme="light"]):not([saved-theme="dark"]) {
+    --fc-bg: #16181d;
+    --fc-surface: #1f232b;
+    --fc-surface-2: #262b34;
+    --fc-ink: #ecedf0;
+    --fc-ink-soft: #b4b8c1;
+    --fc-ink-faint: #777c87;
+    --fc-line: #333944;
+    --fc-line-strong: #444b58;
+    --fc-accent: #8fb0e6;
+    --fc-accent-soft: #28324a;
+    --fc-focus: #8fb0e6;
+    --fc-again: #f08a82;  --fc-again-bg: #3a2422;
+    --fc-hard:  #e0a44e;  --fc-hard-bg:  #382c1c;
+    --fc-good:  #79c594;  --fc-good-bg:  #1f3328;
+    --fc-easy:  #8fb0e6;  --fc-easy-bg:  #28324a;
+    --fc-shadow: 0 1px 2px rgba(0,0,0,.3), 0 10px 28px -14px rgba(0,0,0,.6);
+    --fc-shadow-lift: 0 2px 6px rgba(0,0,0,.35), 0 20px 48px -18px rgba(0,0,0,.7);
+  }
+}
+
+/* =========================================================================
+   App shell
+   ========================================================================= */
+#flashcards-app {
+  max-width: var(--fc-max);
+  margin: 0 auto;
+  font-family: var(--fc-sans);
+  color: var(--fc-ink);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  line-height: 1.5;
+}
+
+/* Plain "Loading…" text before the app boots. */
+#flashcards-app:not([data-fc-ready]) {
+  color: var(--fc-ink-faint);
+  font-size: .95rem;
+  padding: 1.5rem 0;
+}
+
+.fc-root { display: flex; flex-direction: column; gap: 1rem; }
+
+/* =========================================================================
+   Header — counts + filter. Reads like a docket status line.
+   ========================================================================= */
+.fc-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding-bottom: .85rem;
+  border-bottom: 1px solid var(--fc-line);
+}
+
+.fc-counts { display: flex; align-items: stretch; gap: 0; }
+
+.fc-count {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 .9rem;
+  border-left: 1px solid var(--fc-line);
+  line-height: 1.1;
+}
+.fc-count:first-child { padding-left: 0; border-left: 0; }
+
+.fc-count b {
+  font-size: 1.15rem;
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -.01em;
+}
+.fc-count span {
+  font-size: .62rem;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  color: var(--fc-ink-faint);
+  font-weight: 600;
+  margin-top: .15rem;
+}
+.fc-count--due b { color: var(--fc-accent); }
+
+/* Topic filter — labeled select, framed as a quiet control */
+.fc-filter { display: flex; align-items: center; gap: .5rem; }
+.fc-filter label {
+  font-size: .62rem;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  color: var(--fc-ink-faint);
+  font-weight: 600;
+}
+.fc-select {
+  font-family: var(--fc-sans);
+  font-size: .85rem;
+  color: var(--fc-ink);
+  background: var(--fc-surface);
+  border: 1px solid var(--fc-line-strong);
+  border-radius: var(--fc-radius-sm);
+  padding: .4rem 1.9rem .4rem .65rem;
+  cursor: pointer;
+  appearance: none;
+  background-image:
+    linear-gradient(45deg, transparent 50%, var(--fc-ink-soft) 50%),
+    linear-gradient(135deg, var(--fc-ink-soft) 50%, transparent 50%);
+  background-position:
+    calc(100% - 15px) 52%,
+    calc(100% - 10px) 52%;
+  background-size: 5px 5px, 5px 5px;
+  background-repeat: no-repeat;
+  transition: border-color .15s ease;
+}
+.fc-select:hover { border-color: var(--fc-accent); }
+.fc-select:focus-visible {
+  outline: 2px solid var(--fc-focus);
+  outline-offset: 2px;
+  border-color: var(--fc-focus);
+}
+
+/* =========================================================================
+   The card — framed like a case caption.
+   ========================================================================= */
+.fc-card {
+  position: relative;
+  background: var(--fc-surface);
+  border: 1px solid var(--fc-line);
+  border-radius: var(--fc-radius);
+  box-shadow: var(--fc-shadow);
+  /* the "spine": a thin accent rule down the binding edge */
+  border-left: 3px solid var(--fc-accent);
+  overflow: hidden;
+  cursor: pointer;
+  transition: box-shadow .2s ease, transform .2s ease, border-color .2s ease;
+}
+.fc-card:hover { box-shadow: var(--fc-shadow-lift); }
+.fc-card:focus-visible {
+  outline: 2px solid var(--fc-focus);
+  outline-offset: 3px;
+}
+.fc-card.is-flipped { box-shadow: var(--fc-shadow-lift); }
+
+/* Caption row: topic + page on the left, type label on the right */
+.fc-caption {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .75rem;
+  padding: .7rem 1.1rem;
+  background: var(--fc-surface-2);
+  border-bottom: 1px solid var(--fc-line);
+}
+.fc-caption-topic {
+  font-size: .68rem;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-weight: 700;
+  color: var(--fc-accent);
+}
+.fc-caption-page {
+  font-family: var(--fc-mono);
+  font-size: .68rem;
+  color: var(--fc-ink-faint);
+  letter-spacing: .01em;
+}
+.fc-caption-type {
+  font-size: .6rem;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-weight: 600;
+  color: var(--fc-ink-faint);
+  border: 1px solid var(--fc-line-strong);
+  border-radius: 999px;
+  padding: .12rem .5rem;
+  white-space: nowrap;
+}
+
+/* The face — the recall prompt and (when flipped) the holding */
+.fc-face { padding: 1.6rem 1.4rem; }
+
+.fc-prompt {
+  font-family: var(--fc-serif);
+  font-size: 1.32rem;
+  line-height: 1.42;
+  color: var(--fc-ink);
+  margin: 0;
+}
+.fc-prompt em { font-style: italic; }
+.fc-prompt strong { font-weight: 700; }
+.fc-prompt code {
+  font-family: var(--fc-mono);
+  font-size: .86em;
+  background: var(--fc-surface-2);
+  padding: .05em .35em;
+  border-radius: 4px;
+}
+
+/* divider between prompt and answer */
+.fc-divider {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  margin: 1.3rem 0 1.1rem;
+  color: var(--fc-ink-faint);
+  font-size: .6rem;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  font-weight: 600;
+}
+.fc-divider::before,
+.fc-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--fc-line);
+}
+
+.fc-answer {
+  font-family: var(--fc-serif);
+  font-size: 1.08rem;
+  line-height: 1.55;
+  color: var(--fc-ink-soft);
+}
+.fc-answer em { font-style: italic; }
+.fc-answer strong { font-weight: 700; color: var(--fc-ink); }
+.fc-answer code {
+  font-family: var(--fc-mono);
+  font-size: .86em;
+  background: var(--fc-surface-2);
+  padding: .05em .35em;
+  border-radius: 4px;
+}
+
+/* Citation + source — small, under the answer */
+.fc-meta {
+  margin-top: 1.15rem;
+  padding-top: .85rem;
+  border-top: 1px dashed var(--fc-line);
+  display: flex;
+  flex-direction: column;
+  gap: .4rem;
+}
+.fc-cite {
+  font-family: var(--fc-mono);
+  font-size: .78rem;
+  color: var(--fc-ink-soft);
+  line-height: 1.4;
+}
+.fc-source {
+  font-size: .78rem;
+  font-weight: 600;
+  color: var(--fc-accent);
+  text-decoration: none;
+  align-self: flex-start;
+  border-bottom: 1px solid transparent;
+  transition: border-color .15s ease;
+}
+.fc-source:hover { border-bottom-color: currentColor; }
+.fc-source:focus-visible {
+  outline: 2px solid var(--fc-focus);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* The flip affordance shown on the unflipped face */
+.fc-hint {
+  margin-top: 1.4rem;
+  display: flex;
+  align-items: center;
+  gap: .55rem;
+  color: var(--fc-ink-faint);
+  font-size: .76rem;
+  font-weight: 500;
+}
+.fc-hint kbd {
+  font-family: var(--fc-mono);
+  font-size: .7rem;
+  background: var(--fc-surface-2);
+  border: 1px solid var(--fc-line-strong);
+  border-bottom-width: 2px;
+  border-radius: 5px;
+  padding: .1rem .42rem;
+  color: var(--fc-ink-soft);
+}
+
+/* reveal animation for the answer block */
+.fc-reveal { animation: fc-rise .26s cubic-bezier(.2, .7, .3, 1) both; }
+@keyframes fc-rise {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* =========================================================================
+   Grade buttons
+   ========================================================================= */
+.fc-grades {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: .6rem;
+  margin-top: .25rem;
+}
+
+.fc-grade {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: .15rem;
+  min-height: 52px;
+  padding: .5rem .4rem;
+  font-family: var(--fc-sans);
+  background: var(--fc-surface);
+  border: 1px solid var(--fc-line-strong);
+  border-radius: var(--fc-radius-sm);
+  cursor: pointer;
+  color: var(--fc-ink);
+  transition: transform .1s ease, box-shadow .15s ease,
+              background .15s ease, border-color .15s ease;
+}
+.fc-grade:hover { transform: translateY(-1px); box-shadow: var(--fc-shadow); }
+.fc-grade:active { transform: translateY(0); }
+.fc-grade:focus-visible {
+  outline: 2px solid var(--fc-focus);
+  outline-offset: 2px;
+}
+.fc-grade-key {
+  font-size: .92rem;
+  font-weight: 700;
+  letter-spacing: .01em;
+}
+.fc-grade-int {
+  font-family: var(--fc-mono);
+  font-size: .66rem;
+  color: var(--fc-ink-faint);
+  font-variant-numeric: tabular-nums;
+}
+.fc-grade small {
+  position: absolute;
+  width: 1px; height: 1px;
+  overflow: hidden; clip: rect(0 0 0 0);
+}
+
+.fc-grade--again { border-color: color-mix(in srgb, var(--fc-again) 40%, var(--fc-line-strong)); }
+.fc-grade--again:hover { background: var(--fc-again-bg); border-color: var(--fc-again); }
+.fc-grade--again .fc-grade-key { color: var(--fc-again); }
+
+.fc-grade--hard { border-color: color-mix(in srgb, var(--fc-hard) 40%, var(--fc-line-strong)); }
+.fc-grade--hard:hover { background: var(--fc-hard-bg); border-color: var(--fc-hard); }
+.fc-grade--hard .fc-grade-key { color: var(--fc-hard); }
+
+.fc-grade--good { border-color: color-mix(in srgb, var(--fc-good) 40%, var(--fc-line-strong)); }
+.fc-grade--good:hover { background: var(--fc-good-bg); border-color: var(--fc-good); }
+.fc-grade--good .fc-grade-key { color: var(--fc-good); }
+
+.fc-grade--easy { border-color: color-mix(in srgb, var(--fc-easy) 40%, var(--fc-line-strong)); }
+.fc-grade--easy:hover { background: var(--fc-easy-bg); border-color: var(--fc-easy); }
+.fc-grade--easy .fc-grade-key { color: var(--fc-easy); }
+
+/* When the card isn't flipped, grades are inert + dimmed */
+.fc-grades[hidden] { display: none; }
+
+/* =========================================================================
+   Footer — progress + reset
+   ========================================================================= */
+.fc-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  font-size: .78rem;
+  color: var(--fc-ink-faint);
+}
+.fc-progress {
+  flex: 1;
+  min-width: 160px;
+  display: flex;
+  align-items: center;
+  gap: .7rem;
+}
+.fc-progress-track {
+  flex: 1;
+  height: 5px;
+  background: var(--fc-surface-2);
+  border-radius: 999px;
+  overflow: hidden;
+  border: 1px solid var(--fc-line);
+}
+.fc-progress-fill {
+  height: 100%;
+  background: var(--fc-accent);
+  border-radius: 999px;
+  transition: width .35s cubic-bezier(.2, .7, .3, 1);
+  width: 0%;
+}
+.fc-progress-label {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.fc-reset {
+  font-family: var(--fc-sans);
+  font-size: .76rem;
+  font-weight: 600;
+  color: var(--fc-ink-soft);
+  background: transparent;
+  border: 1px solid var(--fc-line-strong);
+  border-radius: var(--fc-radius-sm);
+  padding: .42rem .8rem;
+  cursor: pointer;
+  transition: border-color .15s ease, color .15s ease, background .15s ease;
+}
+.fc-reset:hover {
+  border-color: var(--fc-again);
+  color: var(--fc-again);
+  background: var(--fc-again-bg);
+}
+.fc-reset:focus-visible {
+  outline: 2px solid var(--fc-focus);
+  outline-offset: 2px;
+}
+
+/* =========================================================================
+   Status panels — empty / caught-up / error
+   ========================================================================= */
+.fc-panel {
+  text-align: center;
+  background: var(--fc-surface);
+  border: 1px solid var(--fc-line);
+  border-radius: var(--fc-radius);
+  box-shadow: var(--fc-shadow);
+  padding: 2.6rem 1.6rem;
+}
+.fc-panel-mark {
+  font-family: var(--fc-serif);
+  font-size: 2rem;
+  line-height: 1;
+  color: var(--fc-accent);
+  margin-bottom: .9rem;
+}
+.fc-panel h2 {
+  font-family: var(--fc-serif);
+  font-size: 1.3rem;
+  font-weight: 650;
+  margin: 0 0 .5rem;
+  color: var(--fc-ink);
+}
+.fc-panel p {
+  margin: 0 auto;
+  max-width: 42ch;
+  color: var(--fc-ink-soft);
+  font-size: .95rem;
+  line-height: 1.5;
+}
+.fc-panel code {
+  font-family: var(--fc-mono);
+  font-size: .82em;
+  color: var(--fc-ink-soft);
+  background: var(--fc-surface-2);
+  padding: .1em .4em;
+  border-radius: 4px;
+  word-break: break-all;
+}
+.fc-panel--error { border-left: 3px solid var(--fc-again); }
+.fc-panel--error .fc-panel-mark { color: var(--fc-again); }
+
+.fc-panel-actions {
+  margin-top: 1.4rem;
+  display: flex;
+  gap: .6rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.fc-btn {
+  font-family: var(--fc-sans);
+  font-size: .82rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: var(--fc-radius-sm);
+  padding: .55rem 1.1rem;
+  border: 1px solid var(--fc-line-strong);
+  background: var(--fc-surface);
+  color: var(--fc-ink);
+  transition: border-color .15s ease, background .15s ease;
+}
+.fc-btn:hover { border-color: var(--fc-accent); }
+.fc-btn--primary {
+  background: var(--fc-accent);
+  border-color: var(--fc-accent);
+  color: #fff;
+}
+:root[saved-theme="dark"] .fc-btn--primary { color: #16181d; }
+@media (prefers-color-scheme: dark) {
+  :root:not([saved-theme="light"]):not([saved-theme="dark"]) .fc-btn--primary { color: #16181d; }
+}
+.fc-btn:focus-visible { outline: 2px solid var(--fc-focus); outline-offset: 2px; }
+
+/* =========================================================================
+   Responsive — stack on narrow screens
+   ========================================================================= */
+@media (max-width: 560px) {
+  .fc-bar { gap: .75rem; }
+  .fc-filter { width: 100%; justify-content: space-between; }
+  .fc-select { flex: 1; }
+  .fc-face { padding: 1.3rem 1.1rem; }
+  .fc-prompt { font-size: 1.18rem; }
+  .fc-grades { grid-template-columns: repeat(2, 1fr); }
+  .fc-grade { min-height: 48px; }
+  .fc-foot { flex-direction: column; align-items: stretch; }
+  .fc-reset { align-self: flex-end; }
+}
+
+@media (max-width: 380px) {
+  .fc-grades { grid-template-columns: 1fr; }
+  .fc-grade { flex-direction: row; gap: .5rem; min-height: 44px; }
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .fc-card, .fc-grade, .fc-progress-fill, .fc-reveal, .fc-source, .fc-select { transition: none; }
+  .fc-reveal { animation: none; }
+}

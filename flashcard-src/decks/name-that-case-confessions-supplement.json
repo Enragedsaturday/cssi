@@ -1,0 +1,90 @@
+[
+  {
+    "id": "name-that-case-confessions-supplement-mcnabb-01",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Federal agents arrest suspects, skip taking them before a U.S. Commissioner, and instead hold them in a barren cell for 14 hours of continuous questioning until they confess. Invoking its supervisory power (not the Constitution), which case excluded those confessions from federal court?",
+    "back": "**McNabb v. United States (1943)**\nHolding: Confessions obtained from a federal arrestee during prolonged detention before presentment to a magistrate are inadmissible in federal court — an exclusionary rule grounded in the Supreme Court's supervisory power over federal criminal justice, not the Constitution.\nSignature: to admit such evidence \"would stultify the policy which Congress has enacted into law\"; the Court expressly declined to reach the Fifth Amendment issue.\nWhy it matters: origin of the federal prompt-presentment (McNabb-Mallory) rule — a FEDERAL-only confession-suppression doctrine separate from voluntariness and from Miranda.\n⚠ Don't confuse with **Miranda** (warnings) or the **voluntariness** due-process line — McNabb-Mallory turns on UNNECESSARY PRE-PRESENTMENT DELAY, and is a federal supervisory rule.",
+    "tags": ["name-that-case", "prompt-presentment", "mcnabb-mallory", "mcnabb", "confessions", "federal-supervisory-rule"],
+    "cite": "McNabb v. United States, 318 U.S. 332 (1943)",
+    "source": "https://www.courtlistener.com/opinion/103791/mcnabb-v-united-states/"
+  },
+  {
+    "id": "name-that-case-confessions-supplement-mallory-02",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A federal arrestee is held and interrogated for hours instead of being taken \"without unnecessary delay\" before a committing magistrate as Fed. R. Crim. P. 5(a) requires; he then confesses. Which case held the confession must be suppressed because of the delay?",
+    "back": "**Mallory v. United States (1957)**\nHolding: A confession obtained during \"unnecessary delay\" in bringing a federal arrestee before a magistrate (Fed. R. Crim. P. 5(a)) must be excluded; delay to extract a confession is forbidden, though a brief delay for quick verification may be permissible.\nSignature: arraignment \"without unnecessary delay\" — \"the delay must not be of a nature to give opportunity for the extraction of a confession.\"\nWhy it matters: the second half of the \"McNabb-Mallory\" rule — ties the federal prompt-presentment exclusion to Rule 5(a)'s text.\n⚠ Don't confuse with **Miranda** (warnings) or **due-process voluntariness** — this is the federal DELAY rule; a confession can be voluntary yet still suppressed for presentment delay.",
+    "tags": ["name-that-case", "prompt-presentment", "mcnabb-mallory", "mallory", "confessions", "rule-5a"],
+    "cite": "Mallory v. United States, 354 U.S. 449 (1957)",
+    "source": "https://www.courtlistener.com/opinion/105545/mallory-v-united-states/"
+  },
+  {
+    "id": "name-that-case-confessions-supplement-corley-03",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Which 2009 case held that 18 U.S.C. § 3501 modified but did NOT abolish the federal prompt-presentment rule — a voluntary confession within 6 hours of arrest is admissible, but beyond 6 hours the unnecessary-delay exclusionary rule still applies?",
+    "back": "**Corley v. United States (2009)**\nHolding: \"§ 3501 modified McNabb-Mallory without supplanting it\" — under § 3501(c), a voluntary confession made within 6 hours of arrest is admissible despite presentment delay; a confession made beyond 6 hours is still subject to suppression if the delay was unnecessary or unreasonable.\nSignature: the 6-hour safe harbor — reading § 3501(a) to abolish the rule would render § 3501(c) \"nonsensical and superfluous.\"\nWhy it matters: the modern, controlling statement of the federal prompt-presentment rule; resolves the circuit split over § 3501's reach.\n⚠ Don't confuse with **Miranda** (§ 3501 tried and failed to override Miranda; Dickerson handles that) — Corley is about the DELAY/presentment rule, not warnings or voluntariness.",
+    "tags": ["name-that-case", "prompt-presentment", "mcnabb-mallory", "corley", "confessions", "section-3501", "six-hour-rule"],
+    "cite": "Corley v. United States, 556 U.S. 303 (2009)",
+    "source": "https://www.courtlistener.com/opinion/145888/corley-v-united-states/"
+  },
+  {
+    "id": "name-that-case-confessions-supplement-doyle-04",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "At trial a defendant tells an exculpatory \"frame-up\" story for the first time; the prosecutor cross-examines him on why he stayed silent after getting his Miranda warnings at arrest. Which case held this violates due process?",
+    "back": "**Doyle v. Ohio (1976)**\nHolding: Using a defendant's silence AFTER receiving Miranda warnings to impeach his trial testimony violates the Due Process Clause of the Fourteenth Amendment.\nSignature: Miranda warnings carry an \"implicit\" assurance that silence will carry no penalty, so post-warning silence is \"insolubly ambiguous\" and unfair to use against him.\nWhy it matters: the cornerstone limit on impeachment use of post-Miranda silence.\n⚠ Don't confuse with **Harris v. New York** (un-Mirandized STATEMENTS may impeach a testifying defendant) or **Salinas v. Texas** (PRE-custody, pre-warning silence is usable) — Doyle is specifically about POST-warning SILENCE.",
+    "tags": ["name-that-case", "post-miranda-silence", "impeachment", "doyle", "due-process", "confusable"],
+    "cite": "Doyle v. Ohio, 426 U.S. 610 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109491/doyle-v-ohio/"
+  },
+  {
+    "id": "name-that-case-confessions-supplement-mcneil-05",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A defendant, with appointed counsel, invokes his Sixth Amendment right to counsel at a bail hearing on an armed-robbery charge; police later question him (after Miranda waivers) about an unrelated murder. Which case held that invoking 6A counsel did NOT invoke the 5A Miranda right for the uncharged crime?",
+    "back": "**McNeil v. Wisconsin (1991)**\nHolding: The Sixth Amendment right to counsel is \"offense-specific,\" and invoking it at a judicial proceeding (a bail hearing) does NOT invoke the non-offense-specific Fifth Amendment Miranda-Edwards right to counsel for other, uncharged offenses.\nSignature: \"offense-specific\"; \"Requesting the assistance of an attorney at a bail hearing\" is not a request for counsel as to custodial interrogation.\nWhy it matters: the hinge separating the 5A and 6A counsel rights.\n⚠ Don't confuse with **Arizona v. Roberson** (5A-Edwards invocation bars questioning even on UNRELATED crimes) or **Texas v. Cobb** (6A right is offense-specific by Blockburger) — McNeil keeps the two rights in separate lanes.",
+    "tags": ["name-that-case", "sixth-amendment", "offense-specific", "invocation", "mcneil", "confusable"],
+    "cite": "McNeil v. Wisconsin, 501 U.S. 171 (1991)",
+    "source": "https://www.courtlistener.com/opinion/112622/mcneil-v-wisconsin/"
+  },
+  {
+    "id": "name-that-case-confessions-supplement-fulminante-06",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A jailhouse informant offers a frightened inmate protection from other prisoners in exchange for the truth, eliciting a murder confession later found coerced. Which case held that admitting a coerced confession is subject to harmless-error review, not automatic reversal?",
+    "back": "**Arizona v. Fulminante (1991)**\nHolding: The admission of an involuntary/coerced confession is a \"trial error\" subject to harmless-error analysis under Chapman, not automatic reversal (though on these facts the error was NOT harmless and the conviction was reversed).\nSignature: a coerced confession is a \"trial error,\" \"similar in both degree and kind to the erroneous admission of other types of evidence\" — distinguished from \"structural\" defects.\nWhy it matters: overturned the old rule that a coerced confession always required reversal.\n⚠ Don't confuse with the voluntariness/admissibility line (**Brown v. Mississippi, Ashcraft, Spano, Colorado v. Connelly**) — those decide WHETHER a confession comes in; Fulminante decides the consequence when a coerced one was wrongly admitted.",
+    "tags": ["name-that-case", "coerced-confession", "harmless-error", "fulminante", "voluntariness", "confusable"],
+    "cite": "Arizona v. Fulminante, 499 U.S. 279 (1991)",
+    "source": "https://www.courtlistener.com/opinion/112566/arizona-v-fulminante/"
+  },
+  {
+    "id": "name-that-case-confessions-supplement-spring-07",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police give Miranda warnings and get a waiver, then — without telling the suspect in advance — question him about a different, more serious crime (a homicide) than the one he expected. Which case held the waiver was still \"knowing\"?",
+    "back": "**Colorado v. Spring (1987)**\nHolding: A Miranda waiver is \"knowing and intelligent\" even though police did not warn the suspect of all the crimes about which he would be questioned; awareness of every subject of interrogation is not a prerequisite to a valid waiver.\nSignature: \"The Constitution does not require that a criminal suspect know and understand every possible consequence of a waiver\" of the Fifth Amendment privilege.\nWhy it matters: defines the \"knowing\" prong narrowly — police silence about the topic of questioning doesn't defeat a waiver.\n⚠ Pair with **Moran v. Burbine** (waiver judged on the suspect's OWN awareness; police failure to tell him an attorney called does not vitiate it) — both reject outside-information theories of an invalid waiver.",
+    "tags": ["name-that-case", "waiver", "knowing", "spring", "miranda", "confusable"],
+    "cite": "Colorado v. Spring, 479 U.S. 564 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111798/colorado-v-spring/"
+  },
+  {
+    "id": "name-that-case-confessions-supplement-fare-08",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "During custodial interrogation a juvenile asks, \"Can I have my probation officer here?\" Which case held that request is NOT a per se invocation of the right to counsel/silence, so admissibility turns on the totality of the circumstances?",
+    "back": "**Fare v. Michael C. (1979)**\nHolding: A juvenile's request to see his probation officer is NOT a per se invocation of his Fifth Amendment/Miranda rights (a probation officer is not the equivalent of an attorney); whether he validly waived his rights is judged by the totality of the circumstances.\nSignature: admissibility is \"resolved on the totality of the circumstances surrounding the interrogation,\" considering the juvenile's age, experience, and background.\nWhy it matters: limits what counts as an invocation and applies the totality test to juvenile waivers.\n⚠ Don't confuse with **J.D.B. v. North Carolina** (a child's AGE is relevant to the CUSTODY analysis) — Fare is about INVOCATION/WAIVER, a different question; both involve juveniles but at different steps.",
+    "tags": ["name-that-case", "juvenile", "invocation", "fare", "totality-of-circumstances", "confusable"],
+    "cite": "Fare v. Michael C., 442 U.S. 707 (1979)",
+    "source": "https://www.courtlistener.com/opinion/110117/fare-v-michael-c/"
+  }
+]

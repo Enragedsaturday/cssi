@@ -1,0 +1,137 @@
+[
+  {
+    "id": "instructor-development-nine-principles-01",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: what does the principle of 'subject mastery' require of a CSSI instructor?",
+    "back": "Know the material cold — you cannot teach search and seizure from a half-step ahead of the room.",
+    "tags": ["instructor-development", "subject-mastery", "nine-principles"]
+  },
+  {
+    "id": "instructor-development-engagement-02",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: what does 'engagement & energy' mean as an instructor principle?",
+    "back": "Bring the energy — a flat instructor loses the room no matter how good the content is.",
+    "tags": ["instructor-development", "engagement-energy", "nine-principles"]
+  },
+  {
+    "id": "instructor-development-commitment-03",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: under 'commitment to learning,' how should an instructor measure success?",
+    "back": "By whether the students learned it — not by whether you covered it; and stay a student of the material yourself.",
+    "tags": ["instructor-development", "commitment-to-learning", "nine-principles"]
+  },
+  {
+    "id": "instructor-development-clear-communication-04",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: what does the 'clear communication' principle prioritize?",
+    "back": "Say it plainly — clarity beats sophistication every time in this field.",
+    "tags": ["instructor-development", "clear-communication", "nine-principles"]
+  },
+  {
+    "id": "instructor-development-never-insult-05",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: what does 'never insult a student' mean in practice?",
+    "back": "Correct the answer, never the person — the moment you embarrass someone, the class stops asking questions.",
+    "tags": ["instructor-development", "never-insult-student", "nine-principles"]
+  },
+  {
+    "id": "instructor-development-admit-dont-know-06",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: what should an instructor do when asked something they don't know?",
+    "back": "Admit it, then find out — \"I don't know, let me get back to you.\" Bluffing destroys credibility.",
+    "tags": ["instructor-development", "admit-dont-know", "nine-principles"]
+  },
+  {
+    "id": "instructor-development-facts-matter-07",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: what is the analytical habit that anchors every doctrine in the CSSI course?",
+    "back": "\"Facts matter — change the facts, change the outcome.\" Nothing is decided in the abstract; the facts drive the result.",
+    "tags": ["instructor-development", "facts-matter", "nine-principles"]
+  },
+  {
+    "id": "instructor-development-make-good-case-law-08",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: what does the 'make good case law' principle ask an instructor to teach?",
+    "back": "Teach officers to act so their conduct produces good, defensible precedent — not the bad cases that come back to haunt the field.",
+    "tags": ["instructor-development", "make-good-case-law", "nine-principles"]
+  },
+  {
+    "id": "instructor-development-help-help-help-09",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: what posture does the 'help, help, help' principle describe?",
+    "back": "A service posture toward the students in the room and the officers in the field — you are there to help them get it right.",
+    "tags": ["instructor-development", "help-help-help", "nine-principles"]
+  },
+  {
+    "id": "instructor-development-principle-7-quote-cloze-10",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "cloze",
+    "front": "Instructor Development (principle #7): \"Facts matter — change the facts, {{c1::change the outcome}}.\"",
+    "back": "change the outcome",
+    "tags": ["instructor-development", "facts-matter", "cloze"]
+  },
+  {
+    "id": "instructor-development-overall-standard-11",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: what two things does an effective CSSI instructor pair, per 'the standard'?",
+    "back": "Genuine command of the material with a service posture toward the students and the field — habits of credibility, not a checklist to recite.",
+    "tags": ["instructor-development", "the-standard", "why-it-matters"]
+  },
+  {
+    "id": "instructor-development-why-7-is-engine-12",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: why is principle #7 ('change the facts, change the outcome') called the engine of the whole course?",
+    "back": "It is the same instinct the Fourth Amendment demands — reasoning from probabilities, not possibilities, and from the specific facts in front of you, never from generalities.",
+    "tags": ["instructor-development", "facts-matter", "why-it-matters", "three-golden-rules"]
+  },
+  {
+    "id": "instructor-development-why-8-articulation-13",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: how does principle #8 ('make good case law') turn articulation into defensible searches?",
+    "back": "Officers who can articulate why — and act within CREW (Consent, Recognized Exception, or Warrant) — generate the good precedent the field relies on instead of becoming the next bad case.",
+    "tags": ["instructor-development", "make-good-case-law", "why-it-matters", "crew"]
+  },
+  {
+    "id": "instructor-development-why-5-6-protect-learning-14",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: why do principles #5 (never insult) and #6 (admit you don't know) protect the learning?",
+    "back": "A class that fears being insulted or that catches an instructor bluffing stops engaging; candor and respect keep the room asking the questions that make training stick.",
+    "tags": ["instructor-development", "never-insult-student", "admit-dont-know", "why-it-matters"]
+  },
+  {
+    "id": "instructor-development-1-4-table-stakes-15",
+    "page": "instructor-development",
+    "topic": "Instructor Development",
+    "type": "qa",
+    "front": "Instructor Development: why are principles #1–#4 (mastery, energy, commitment, clarity) called 'table stakes'?",
+    "back": "They earn the room's trust in the first place — without them, the doctrine never lands.",
+    "tags": ["instructor-development", "table-stakes", "why-it-matters"]
+  }
+]

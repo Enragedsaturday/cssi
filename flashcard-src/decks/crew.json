@@ -1,0 +1,137 @@
+[
+  {
+    "id": "crew-stands-for-01",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "definition",
+    "front": "In the CSSI course, what does the mnemonic C.R.E.W. stand for?",
+    "back": "Consent, Recognized Exception, or Warrant.",
+    "tags": ["crew", "mnemonic", "reasonableness"]
+  },
+  {
+    "id": "crew-what-it-answers-02",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "qa",
+    "front": "What single question does C.R.E.W. answer in the Fourth Amendment analysis?",
+    "back": "Whether the government action was reasonable — it is the field checklist for the reasonableness step.",
+    "tags": ["crew", "reasonableness"]
+  },
+  {
+    "id": "crew-at-least-one-03",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "qa",
+    "front": "Under C.R.E.W., how many of the three justifications must apply for a search or seizure to be reasonable?",
+    "back": "At least one — Consent, a Recognized Exception, or a Warrant.",
+    "tags": ["crew", "reasonableness"]
+  },
+  {
+    "id": "crew-none-applies-04",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "qa",
+    "front": "Under C.R.E.W., what is the consequence if none of the three justifications applies?",
+    "back": "The search or seizure is presumptively unreasonable, and its fruits are subject to suppression.",
+    "tags": ["crew", "suppression", "reasonableness"]
+  },
+  {
+    "id": "crew-letter-c-consent-05",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "definition",
+    "front": "C.R.E.W. — what justification does the letter 'C' stand for?",
+    "back": "Consent — voluntary consent by the person, or by a third party with common authority over the place or thing.",
+    "tags": ["crew", "consent"]
+  },
+  {
+    "id": "crew-consent-limits-06",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "qa",
+    "front": "Under the C.R.E.W. 'Consent' prong, by what standard is voluntariness judged, and what limits the search?",
+    "back": "Voluntariness is judged on the totality of the circumstances, and the search may not exceed the scope of the consent given.",
+    "tags": ["crew", "consent", "scope"]
+  },
+  {
+    "id": "crew-letter-r-recognized-exception-07",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "definition",
+    "front": "C.R.E.W. — what justification does the letter 'R' stand for?",
+    "back": "Recognized Exception — one of the established exceptions to the warrant requirement.",
+    "tags": ["crew", "recognized-exception"]
+  },
+  {
+    "id": "crew-recognized-exception-bucket-08",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "qa",
+    "front": "Why does the page call the 'Recognized Exception' prong of C.R.E.W. the 'broad bucket'?",
+    "back": "It is a placeholder for many established warrant exceptions (e.g., exigent circumstances, search incident to arrest, automobile, plain view, inventory, Terry frisks), each with its own elements; the full catalog is developed later in the course.",
+    "tags": ["crew", "recognized-exception"]
+  },
+  {
+    "id": "crew-letter-w-warrant-09",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "definition",
+    "front": "C.R.E.W. — what justification does the letter 'W' stand for?",
+    "back": "Warrant — a valid warrant satisfying the Fourth Amendment's requirements.",
+    "tags": ["crew", "warrant"]
+  },
+  {
+    "id": "crew-valid-warrant-requirements-10",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "qa",
+    "front": "Under the C.R.E.W. 'Warrant' prong, what three requirements make a warrant valid?",
+    "back": "Issued by a neutral magistrate, on probable cause, and particularly describing the place to be searched and the things to be seized.",
+    "tags": ["crew", "warrant", "probable-cause", "particularity"]
+  },
+  {
+    "id": "crew-step-in-sequence-11",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "qa",
+    "front": "Where in the Fourth Amendment analysis does C.R.E.W. apply, and what must already be established before reaching it?",
+    "back": "It is the final reasonableness step (step 5), reached only after a search/seizure has been shown to occur and the claimant has standing.",
+    "tags": ["crew", "reasonableness", "analytical-sequence"]
+  },
+  {
+    "id": "crew-not-a-test-mnemonic-12",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "qa",
+    "front": "What kind of authority is C.R.E.W. — a constitutional test, a rule of law, or something else — and what is its legal backbone?",
+    "back": "Neither a test nor a rule of law — it is an instructor mnemonic (a field checklist), not case law; its legal backbone is the warrant requirement and its recognized exceptions developed elsewhere in the course.",
+    "tags": ["crew", "mnemonic"]
+  },
+  {
+    "id": "crew-pitfall-whole-analysis-13",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "qa",
+    "front": "Common pitfall: what goes wrong when an officer or instructor treats C.R.E.W. as the whole Fourth Amendment analysis?",
+    "back": "C.R.E.W. is only the reasonableness step; a defective threshold (search/seizure) or standing analysis is not cured by a good justification.",
+    "tags": ["crew", "pitfall", "reasonableness"]
+  },
+  {
+    "id": "crew-pitfall-consent-not-automatic-14",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "qa",
+    "front": "Common pitfall: what error is made by assuming consent under C.R.E.W. is automatically valid?",
+    "back": "Consent must be voluntary and within scope, and a third party must have actual (or apparent) common authority — none of which is presumed.",
+    "tags": ["crew", "pitfall", "consent"]
+  },
+  {
+    "id": "crew-pitfall-magic-word-exception-15",
+    "page": "crew",
+    "topic": "C.R.E.W.",
+    "type": "qa",
+    "front": "Common pitfall: why is reciting an exception like 'exigent circumstances' or 'plain view' under C.R.E.W. not enough?",
+    "back": "Naming the bucket is not satisfying the exception — you must match the facts to that specific exception's elements and scope limits, or the reasonableness burden fails.",
+    "tags": ["crew", "pitfall", "recognized-exception"]
+  }
+]

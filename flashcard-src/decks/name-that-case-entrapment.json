@@ -1,0 +1,57 @@
+[
+  {
+    "id": "name-that-case-entrapment-sorrells-01",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "During Prohibition, a federal agent posing as a fellow World War veteran works on the defendant's wartime camaraderie and, after repeated and persistent solicitation, finally talks the otherwise law-abiding man into getting him a half-gallon of whiskey. Which case first recognized the entrapment defense?",
+    "back": "**Sorrells v. United States (1932)**\nHolding: Entrapment is a valid defense; it arises when government officials implant the criminal design in the mind of a person who had no previous disposition to commit the offense and then lure that \"otherwise innocent\" person into committing it.\nSignature: the founding case of the entrapment defense; the controlling question is whether the defendant \"is a person otherwise innocent whom the Government is seeking to punish for an alleged offense which is the product of the creative activity of its own officials.\"\nWhy it matters: origin of the FEDERAL SUBJECTIVE test — the inquiry turns on the defendant's predisposition, not on the propriety of police conduct. The majority's predisposition focus over Roberts' concurrence (which urged an objective, government-conduct test) launches the subjective-vs-objective split.\n⚠ Don't confuse with the OBJECTIVE test (Roberts' Sorrells concurrence / Model Penal Code) — that minority approach, adopted by some STATES, asks whether police methods would induce a hypothetical law-abiding person; it is NOT the federal rule.",
+    "tags": ["name-that-case", "entrapment", "sorrells", "subjective-test", "predisposition", "confusable"],
+    "cite": "Sorrells v. United States, 287 U.S. 435 (1932)",
+    "source": "https://www.courtlistener.com/opinion/101997/sorrells-v-united-states/"
+  },
+  {
+    "id": "name-that-case-entrapment-sherman-02",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A government informant meets the defendant in a doctor's office where both are being treated for drug addiction, plays on their shared struggle to get clean, and after repeated pleas finally persuades the recovering addict to obtain narcotics for him. Which case reaffirmed the subjective entrapment test?",
+    "back": "**Sherman v. United States (1958)**\nHolding: Entrapment is established as a matter of law when the government, through its informant, implants the criminal design in an otherwise-unwilling person and induces the crime; the defendant's lack of predisposition was clear (he was a recovering addict pressured by a fellow patient).\nSignature: the line is between \"the unwary innocent and the unwary criminal\" — \"a different question is presented when the criminal design originates with the officials of the Government, and they implant in the mind of an innocent person the disposition to commit the alleged offense and induce its commission.\"\nWhy it matters: unanimously reaffirms the FEDERAL SUBJECTIVE/predisposition test 26 years after Sorrells; the controlling articulation later courts quote.\n⚠ Don't confuse with **Sorrells** (the originating case) — Sherman is the reaffirmation; like Sorrells, a four-Justice concurrence (Frankfurter) again pressed the objective test, which the majority again declined.",
+    "tags": ["name-that-case", "entrapment", "sherman", "subjective-test", "predisposition", "informant", "confusable"],
+    "cite": "Sherman v. United States, 356 U.S. 369 (1958)",
+    "source": "https://www.courtlistener.com/opinion/105681/sherman-v-united-states/"
+  },
+  {
+    "id": "name-that-case-entrapment-russell-03",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An undercover agent supplies a defendant with a hard-to-obtain but perfectly legal chemical (phenyl-2-propanone) needed to manufacture methamphetamine, where the defendant was already in the drug business and predisposed. In a 5-4 ruling, which case kept the subjective test and rejected the objective approach?",
+    "back": "**United States v. Russell (1973)**\nHolding: There is no entrapment where the defendant was predisposed, even though a government agent supplied a difficult-to-obtain but legal ingredient for the crime; the Court (5-4) declined to overturn the predisposition test and rejected the proposed objective test.\nSignature: the entrapment defense was \"not intended to give the federal judiciary a 'chancellor's foot' veto over law enforcement practices of which it did not approve\"; the Court was \"content to leave the matter where it was left by the Court in Sherman.\"\nWhy it matters: cements the FEDERAL SUBJECTIVE/predisposition test as settled law; Stewart's dissent (joined by 3) lays out the OBJECTIVE/government-conduct test, sharpening the subjective-vs-objective divide.\n⚠ Don't confuse with **Jacobson** (no predisposition INDEPENDENT of the government's own inducement → entrapment) — in Russell the predisposition pre-existed, so the defense failed. Pair with **Hampton** (agent supplied contraband, not just a legal ingredient — still no defense).",
+    "tags": ["name-that-case", "entrapment", "russell", "subjective-test", "predisposition", "objective-test", "confusable"],
+    "cite": "United States v. Russell, 411 U.S. 423 (1973)",
+    "source": "https://www.courtlistener.com/opinion/108768/united-states-v-russell/"
+  },
+  {
+    "id": "name-that-case-entrapment-jacobson-04",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Over 26 months, postal inspectors and fictitious organizations repeatedly mail a Nebraska farmer solicitations and pseudo-political appeals about sexual freedom until he finally orders child pornography — conduct that had been legal when he earlier bought similar magazines. Which case found entrapment as a matter of law?",
+    "back": "**Jacobson v. United States (1992)**\nHolding: Where the government induces the crime, it must prove the defendant was predisposed to commit it INDEPENDENT of, and PRIOR TO, the government's inducement; 26 months of government solicitation that itself created the predisposition means the prosecution failed as a matter of law, so entrapment is established.\nSignature: the government \"overstepped the line between setting a trap for the 'unwary innocent' and the 'unwary criminal'\" — predisposition must exist before the government \"came on the scene,\" not be the product of its own campaign.\nWhy it matters: the modern showpiece of the subjective test — sharpens Sorrells/Sherman by demanding predisposition be independent and pre-existing, and reverses a conviction the jury had upheld.\n⚠ Don't confuse with **Russell/Hampton** (predisposition pre-existed → defense FAILS). The discriminator: in Jacobson the government's own long campaign CREATED the predisposition, so it was not independent.",
+    "tags": ["name-that-case", "entrapment", "jacobson", "subjective-test", "predisposition", "inducement", "confusable"],
+    "cite": "Jacobson v. United States, 503 U.S. 540 (1992)",
+    "source": "https://www.courtlistener.com/opinion/112720/jacobson-v-united-states/"
+  },
+  {
+    "id": "name-that-case-entrapment-hampton-05",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A government informant both supplies the heroin AND arranges its sale to undercover agents, but the defendant conceded he was predisposed to deal drugs. He argues that the government supplying the very contraband should bar conviction on due-process grounds. Which case rejected that argument?",
+    "back": "**Hampton v. United States (1976)**\nHolding: Neither the entrapment defense nor the Due Process Clause bars conviction of a PREDISPOSED defendant even where a government agent supplied the contraband (heroin) the defendant then sold; his conceded predisposition defeated the entrapment defense.\nSignature: a predisposed defendant's \"remedy . . . lies solely in the defense of entrapment\" — and that defense is unavailable once predisposition is conceded (Rehnquist plurality).\nWhy it matters: pushes Russell's logic to its limit — even government supply of the actual contraband does not raise an outrageous-government-conduct due-process bar for a predisposed defendant; predisposition controls.\n⚠ Note: a PLURALITY (Rehnquist, 3 Justices) would foreclose any due-process bar; Powell/Blackmun concurred in the judgment but left open that truly outrageous police conduct might someday bar conviction even of a predisposed defendant. Don't confuse with **Russell** (legal ingredient supplied) — Hampton goes further: actual contraband supplied, still no defense.",
+    "tags": ["name-that-case", "entrapment", "hampton", "subjective-test", "predisposition", "due-process", "outrageous-government-conduct", "confusable"],
+    "cite": "Hampton v. United States, 425 U.S. 484 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109437/hampton-v-united-states/"
+  }
+]

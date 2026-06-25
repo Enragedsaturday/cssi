@@ -1,0 +1,349 @@
+[
+  {
+    "id": "abandonment-core-rule-01",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "Under Fourth Amendment abandonment doctrine, what does voluntarily abandoning property do to a person's ability to challenge its later search?",
+    "back": "It eliminates any reasonable expectation of privacy in the property, so the person has no standing to challenge the search or seizure.",
+    "tags": ["abandonment", "standing", "reasonable-expectation-of-privacy", "doctrine"],
+    "cite": "California v. Greenwood, 486 U.S. 35 (1988)",
+    "source": "https://www.courtlistener.com/opinion/112067/california-v-greenwood/"
+  },
+  {
+    "id": "abandonment-standing-throughline-02",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "Why is abandonment analyzed as a standing question rather than as a search-warrant question?",
+    "back": "Because if there is no retained reasonable expectation of privacy, the Fourth Amendment is not implicated at all and the defendant lacks standing to object — the search never had to be justified.",
+    "tags": ["abandonment", "standing", "reasonable-expectation-of-privacy", "doctrine"]
+  },
+  {
+    "id": "abandonment-privacy-not-property-03",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "In Fourth Amendment abandonment analysis, what is the relationship between holding title to property and retaining a Fourth Amendment interest in it?",
+    "back": "They are independent: it turns on the Fourth Amendment expectation-of-privacy standard, not state property law — a person can keep title yet abandon any Fourth Amendment interest.",
+    "tags": ["abandonment", "greenwood", "reasonable-expectation-of-privacy", "property-vs-privacy"],
+    "cite": "California v. Greenwood, 486 U.S. at 39",
+    "source": "https://www.courtlistener.com/opinion/112067/california-v-greenwood/"
+  },
+  {
+    "id": "abandonment-test-standard-04",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "What is the controlling question for whether property has been abandoned for Fourth Amendment purposes?",
+    "back": "Whether the person retained an expectation of privacy \"that society accepts as objectively reasonable\" — the Greenwood/Katz standard.",
+    "tags": ["abandonment", "greenwood", "reasonable-expectation-of-privacy", "test"],
+    "cite": "California v. Greenwood, 486 U.S. at 39",
+    "source": "https://www.courtlistener.com/opinion/112067/california-v-greenwood/"
+  },
+  {
+    "id": "abandonment-factors-totality-05",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "What four factors do courts commonly weigh, as a synthesis of the case law, in the abandonment totality inquiry?",
+    "back": "(1) denial of ownership, (2) physical relinquishment or discard, (3) the location where the item was left, and (4) intent inferred from conduct.",
+    "tags": ["abandonment", "factors", "totality", "test"]
+  },
+  {
+    "id": "abandonment-factors-not-a-checklist-06",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "What is the proper status of the abandonment factors (denial, discard, location, intent) in the analysis?",
+    "back": "They are not a checklist or independent test that must each be satisfied — they are factors bearing on the single ultimate question of whether a reasonable expectation of privacy was retained under Greenwood.",
+    "tags": ["abandonment", "factors", "totality", "pitfall"]
+  },
+  {
+    "id": "abandonment-greenwood-holding-07",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "What did the Supreme Court hold in California v. Greenwood about garbage left for collection at the curb?",
+    "back": "There is no reasonable expectation of privacy in garbage bags left for collection at the curb outside the curtilage, so a warrantless search and seizure of curbside trash does not violate the Fourth Amendment.",
+    "tags": ["abandonment", "greenwood", "trash", "holding"],
+    "cite": "California v. Greenwood, 486 U.S. at 37, 39-41",
+    "source": "https://www.courtlistener.com/opinion/112067/california-v-greenwood/"
+  },
+  {
+    "id": "abandonment-greenwood-facts-to-case-08",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "Which Supreme Court case held that police could search opaque garbage bags a suspect left at the curb for the trash collector without a warrant?",
+    "back": "California v. Greenwood, 486 U.S. 35 (1988).",
+    "tags": ["abandonment", "greenwood", "trash", "facts-to-case"],
+    "cite": "California v. Greenwood, 486 U.S. 35 (1988)",
+    "source": "https://www.courtlistener.com/opinion/112067/california-v-greenwood/"
+  },
+  {
+    "id": "abandonment-greenwood-quote-09",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "cloze",
+    "front": "Greenwood's reason curbside trash fails the test: plastic garbage bags left on or at the side of a public street are \"readily accessible to {{animals, children, scavengers, snoops, and other members of the public}}.\"",
+    "back": "animals, children, scavengers, snoops, and other members of the public",
+    "tags": ["abandonment", "greenwood", "trash", "quote"],
+    "cite": "California v. Greenwood, 486 U.S. at 40",
+    "source": "https://www.courtlistener.com/opinion/112067/california-v-greenwood/"
+  },
+  {
+    "id": "abandonment-greenwood-curtilage-limit-10",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "What express location limit did Greenwood place on its curbside-trash holding?",
+    "back": "The bags had to be left for collection \"outside the curtilage of a home\"; trash still within the curtilage is a different question not covered by Greenwood on its terms.",
+    "tags": ["abandonment", "greenwood", "trash", "curtilage", "pitfall"],
+    "cite": "California v. Greenwood, 486 U.S. at 37",
+    "source": "https://www.courtlistener.com/opinion/112067/california-v-greenwood/"
+  },
+  {
+    "id": "abandonment-pitfall-all-trash-11",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "Common pitfall: why is it wrong to treat all of a suspect's trash as fair game under Greenwood?",
+    "back": "Greenwood authorizes only the curbside bag left for collection outside the curtilage; trash sitting within the curtilage (e.g., a can beside the back door) is not covered.",
+    "tags": ["abandonment", "greenwood", "trash", "curtilage", "pitfall"]
+  },
+  {
+    "id": "abandonment-hester-holding-12",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "What did Hester v. United States hold about containers a fleeing suspect dropped while running from officers?",
+    "back": "By dropping the containers in flight the suspect abandoned any Fourth Amendment interest in them, so examining the contents was no seizure in the legal sense (abandonment by flight).",
+    "tags": ["abandonment", "hester", "flight", "holding"],
+    "cite": "Hester v. United States, 265 U.S. at 58",
+    "source": "https://www.courtlistener.com/opinion/100413/hester-v-united-states/"
+  },
+  {
+    "id": "abandonment-hester-quote-13",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "cloze",
+    "front": "Hester (abandonment by flight): \"there was no {{seizure in the sense of the law}} when the officers examined the contents of each after it had been abandoned.\"",
+    "back": "seizure in the sense of the law",
+    "tags": ["abandonment", "hester", "flight", "quote"],
+    "cite": "Hester v. United States, 265 U.S. at 58",
+    "source": "https://www.courtlistener.com/opinion/100413/hester-v-united-states/"
+  },
+  {
+    "id": "abandonment-hester-facts-to-case-14",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "In which case did the defendant and an associate drop a jug, a jar, and a bottle while fleeing, and the Court treated the contents as abandoned?",
+    "back": "Hester v. United States, 265 U.S. 57 (1924).",
+    "tags": ["abandonment", "hester", "flight", "facts-to-case"],
+    "cite": "Hester v. United States, 265 U.S. 57 (1924)",
+    "source": "https://www.courtlistener.com/opinion/100413/hester-v-united-states/"
+  },
+  {
+    "id": "abandonment-abel-holding-15",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "What did Abel v. United States hold about items a guest left in a hotel-room wastebasket?",
+    "back": "Items left in the wastebasket after the guest had paid his bill and vacated the room were abandoned (\"bona vacantia\"), so the warrantless search and seizure was lawful.",
+    "tags": ["abandonment", "abel", "hotel", "holding"],
+    "cite": "Abel v. United States, 362 U.S. at 241",
+    "source": "https://www.courtlistener.com/opinion/106021/abel-v-united-states/"
+  },
+  {
+    "id": "abandonment-abel-checkout-line-16",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "In Abel, what fact marked the line that made the wastebasket items abandoned — mere absence from the room?",
+    "back": "No — check-out, not mere absence. The guest had \"paid his bill and vacated the room,\" giving the hotel the exclusive right to possession.",
+    "tags": ["abandonment", "abel", "hotel", "nuance"],
+    "cite": "Abel v. United States, 362 U.S. at 241",
+    "source": "https://www.courtlistener.com/opinion/106021/abel-v-united-states/"
+  },
+  {
+    "id": "abandonment-abel-two-grounds-17",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "In Abel, what two grounds independently justified the warrantless search after the guest checked out?",
+    "back": "The guest's abandonment of the articles, and the hotel's consent — once he vacated, the hotel had the exclusive right to possession.",
+    "tags": ["abandonment", "abel", "hotel", "consent", "nuance"],
+    "cite": "Abel v. United States, 362 U.S. at 241",
+    "source": "https://www.courtlistener.com/opinion/106021/abel-v-united-states/"
+  },
+  {
+    "id": "abandonment-bond-holding-18",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "What did Bond v. United States hold about a Border Patrol agent's physical squeezing of a bus passenger's carry-on bag?",
+    "back": "The passenger retained a reasonable expectation of privacy in the bag, and the agent's exploratory physical manipulation (squeezing) was a Fourth Amendment search.",
+    "tags": ["abandonment", "bond", "bailment", "holding"],
+    "cite": "Bond v. United States, 529 U.S. at 335-39",
+    "source": "https://www.courtlistener.com/opinion/118354/bond-v-united-states/"
+  },
+  {
+    "id": "abandonment-bond-quote-19",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "cloze",
+    "front": "Bond on why squeezing the bag was a search: \"Physically invasive inspection is simply {{more intrusive than purely visual inspection}}.\"",
+    "back": "more intrusive than purely visual inspection",
+    "tags": ["abandonment", "bond", "bailment", "quote"],
+    "cite": "Bond v. United States, 529 U.S. at 337",
+    "source": "https://www.courtlistener.com/opinion/118354/bond-v-united-states/"
+  },
+  {
+    "id": "abandonment-bond-facts-to-case-20",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "Which case held that an agent's exploratory squeezing of a bus passenger's overhead carry-on luggage was a search because a bailment is not abandonment?",
+    "back": "Bond v. United States, 529 U.S. 334 (2000).",
+    "tags": ["abandonment", "bond", "bailment", "facts-to-case"],
+    "cite": "Bond v. United States, 529 U.S. 334 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118354/bond-v-united-states/"
+  },
+  {
+    "id": "abandonment-bailment-definition-21",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "definition",
+    "front": "Bailment (in the abandonment context)",
+    "back": "A temporary transfer of possession — e.g., handing a bag to a carrier, hotel, or friend — that preserves a privacy interest and does NOT abandon it.",
+    "tags": ["abandonment", "bond", "bailment", "definition"],
+    "cite": "Bond v. United States, 529 U.S. 334 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118354/bond-v-united-states/"
+  },
+  {
+    "id": "abandonment-vs-bailment-22",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "Distinguish abandonment from bailment under the Fourth Amendment.",
+    "back": "Abandonment relinquishes both possession and any reasonable expectation of privacy (no standing); a bailment relinquishes only possession temporarily and keeps the privacy interest intact (Bond).",
+    "tags": ["abandonment", "bond", "bailment", "distinction"],
+    "cite": "Bond v. United States, 529 U.S. 334 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118354/bond-v-united-states/"
+  },
+  {
+    "id": "abandonment-pitfall-possession-vs-privacy-23",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "Common pitfall: why is giving up possession not the same as giving up privacy?",
+    "back": "A bailment surrenders possession temporarily but keeps a privacy interest, so it is not abandonment — e.g., a bag handed to a bus or luggage to a hotel (Bond).",
+    "tags": ["abandonment", "bond", "bailment", "pitfall"],
+    "cite": "Bond v. United States, 529 U.S. 334 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118354/bond-v-united-states/"
+  },
+  {
+    "id": "abandonment-matlock-holding-24",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "What did United States v. Matlock hold about consent by a third party with common authority?",
+    "back": "A third party with common authority over premises or effects may give valid consent to a search against an absent, nonconsenting co-occupant.",
+    "tags": ["abandonment", "matlock", "common-authority", "consent", "holding"],
+    "cite": "United States v. Matlock, 415 U.S. at 171",
+    "source": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/"
+  },
+  {
+    "id": "abandonment-matlock-definition-25",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "definition",
+    "front": "\"Common authority\" under United States v. Matlock",
+    "back": "Authority resting on \"mutual use of the property by persons generally having joint access or control for most purposes\" — not implied from a mere property interest.",
+    "tags": ["abandonment", "matlock", "common-authority", "definition", "quote"],
+    "cite": "United States v. Matlock, 415 U.S. at 171 n.7",
+    "source": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/"
+  },
+  {
+    "id": "abandonment-matlock-not-property-26",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "Under Matlock, what does common authority NOT rest on, and what does it rest on instead?",
+    "back": "It does not rest on a property interest — common authority \"is, of course, not to be implied from the mere property interest a third party has in the property\"; it rests on mutual use and joint access or control.",
+    "tags": ["abandonment", "matlock", "common-authority", "pitfall", "quote"],
+    "cite": "United States v. Matlock, 415 U.S. at 171 n.7",
+    "source": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/"
+  },
+  {
+    "id": "abandonment-matlock-separate-route-27",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "How does the common-authority route of Matlock relate to abandonment?",
+    "back": "It is a separate third-party consent route, not a sub-test of abandonment: where there is no abandonment, a search may still be valid if someone with common authority consents.",
+    "tags": ["abandonment", "matlock", "common-authority", "consent", "distinction"],
+    "cite": "United States v. Matlock, 415 U.S. 164 (1974)",
+    "source": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/"
+  },
+  {
+    "id": "abandonment-vs-consent-29",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "Distinguish abandonment from consent as Fourth Amendment doctrines.",
+    "back": "Abandonment means NO reasonable expectation of privacy exists at all, so the defendant lacks standing to object; consent presupposes a privacy interest exists but has been voluntarily waived. Different doctrines, different proof.",
+    "tags": ["abandonment", "consent", "standing", "distinction"]
+  },
+  {
+    "id": "abandonment-three-way-distinction-30",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "On the standing throughline, contrast abandonment, bailment, and common-authority consent as to whether a reasonable expectation of privacy survives.",
+    "back": "Abandonment: no REP survives (no standing). Bailment: REP survives (Bond). Common-authority consent: REP survives but a third party with joint access/control validly waives it (Matlock).",
+    "tags": ["abandonment", "bond", "matlock", "bailment", "consent", "standing", "distinction"]
+  },
+  {
+    "id": "abandonment-hodari-flight-31",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "What is the companion seizure-timing rule (California v. Hodari D.) for contraband discarded during flight?",
+    "back": "Contraband a suspect tosses away while fleeing, before submitting to authority, is abandoned and admissible because no seizure of the person has yet occurred.",
+    "tags": ["abandonment", "hodari-d", "flight", "seizure-timing", "cross-reference"],
+    "cite": "California v. Hodari D., 499 U.S. at 623, 629",
+    "source": "https://www.courtlistener.com/opinion/112579/california-v-hodari-d/"
+  },
+  {
+    "id": "abandonment-hester-hodari-pair-32",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "How do Hester and Hodari D. fit together on abandonment by flight?",
+    "back": "Hester supplies the abandonment rule for items dropped in flight; Hodari D. supplies the companion seizure-of-the-person timing — the suspect who \"tossed away\" crack before submitting had abandoned it.",
+    "tags": ["abandonment", "hester", "hodari-d", "flight", "distinction"],
+    "cite": "California v. Hodari D., 499 U.S. at 629",
+    "source": "https://www.courtlistener.com/opinion/112579/california-v-hodari-d/"
+  },
+  {
+    "id": "abandonment-practical-capture-33",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "Practical-capture maxim: how should an officer frame the question in the field to establish abandonment?",
+    "back": "Ask whether the suspect has \"anything to do with\" the item — not merely whether it is \"theirs.\" A clean disclaimer of any connection supports the inference that no expectation of privacy was retained.",
+    "tags": ["abandonment", "practical", "field-technique"]
+  },
+  {
+    "id": "abandonment-why-doctrine-34",
+    "page": "abandonment",
+    "topic": "Abandonment",
+    "type": "qa",
+    "front": "Why does abandonment doctrine exist — what is its core analytical payoff for the Fourth Amendment?",
+    "back": "Because privacy, not property, defines the Amendment's reach: once a person no longer holds an objectively reasonable expectation of privacy in an item, the government's examination of it is not a search or seizure at all.",
+    "tags": ["abandonment", "doctrine", "reasonable-expectation-of-privacy", "why"]
+  }
+]

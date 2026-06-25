@@ -1,0 +1,68 @@
+[
+  {
+    "id": "name-that-case-4a-supplement-soldal-01",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Sheriff's deputies stand by while a trailer-park owner tears a mobile home from its foundation and tows it away — no search, no rummaging, no invasion of privacy, just the carting off of the family's home. Which case held this was still a Fourth Amendment seizure?",
+    "back": "**Soldal v. Cook County (1992)**\nHolding: A Fourth Amendment seizure of property occurs whenever there is \"meaningful interference with an individual's possessory interests in that property\" — and it happens even when there is NO search and NO invasion of privacy or liberty (here, deputies aiding the tow of a mobile home).\nSignature: \"A 'seizure' of property occurs when there is some meaningful interference with an individual's possessory interests in that property\" (quoting Jacobsen); the Amendment protects property as such, not just privacy.\nWhy it matters: separates the two thresholds — a SEARCH is measured by privacy (Katz), a SEIZURE of property by possessory interest; you can have one without the other.\n⚠ Don't confuse the SEARCH threshold (Katz — reasonable expectation of privacy) with the SEIZURE-of-property threshold (Soldal/Jacobsen — possessory interference); Soldal is the seizure side, no privacy invasion required.",
+    "tags": ["name-that-case", "seizure-of-property", "soldal", "possessory-interest", "confusable"],
+    "cite": "Soldal v. Cook County, 506 U.S. 56, 61 (1992)",
+    "source": "https://www.courtlistener.com/opinion/112795/soldal-v-cook-county/"
+  },
+  {
+    "id": "name-that-case-4a-supplement-mcarthur-02",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police with probable cause to believe a man has drugs in his trailer refuse to let him re-enter unaccompanied while an officer leaves to get a warrant — barring him from his own home for about two hours. Which case upheld this temporary seizure of the premises?",
+    "back": "**Illinois v. McArthur (2001)**\nHolding: Police with probable cause may, for a reasonable time, temporarily prevent a resident from entering his home (a roughly two-hour seizure of the premises) to keep him from destroying evidence while they diligently obtain a warrant.\nSignature: a brief, narrowly tailored seizure of the home is reasonable where supported by probable cause, exigency (risk of evidence destruction), and diligent pursuit of a warrant.\nWhy it matters: balancing test — preserving evidence by restraining access to the home is far less intrusive than a warrantless entry, search, or arrest.\n⚠ Pair with the exigent-circumstances exception (the lawful warrantless-entry alternative) and **Segura v. United States** (securing premises from within pending a warrant); McArthur keeps officers OUTSIDE while the warrant is sought.",
+    "tags": ["name-that-case", "temporary-seizure", "mcarthur", "exigency", "confusable"],
+    "cite": "Illinois v. McArthur, 531 U.S. 326, 331-333 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118405/illinois-v-mcarthur/"
+  },
+  {
+    "id": "name-that-case-4a-supplement-van-leeuwen-03",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Suspicious first-class packages (fictitious return address, foreign plates on the mailer's car) are held back from the mail for 29 hours while agents investigate and obtain a warrant. Which case held this detention reasonable?",
+    "back": "**United States v. Van Leeuwen (1970)**\nHolding: Detaining mailed first-class packages on reasonable suspicion — here for 29 hours — pending an investigation and a warrant is a reasonable seizure; the delay alone did not violate the Fourth Amendment.\nSignature: \"detention of mail could at some point become an unreasonable seizure\" — but a limited detention to confirm suspicion and secure a warrant is the prudent, reasonable course.\nWhy it matters: temporary seizure of property/effects on reasonable suspicion is permissible; the touchstone is reasonableness in time and diligence, not a fixed clock.\n⚠ Don't confuse with **United States v. Place** (1983) — a 90-minute detention of luggage was UNreasonable there given the intrusion on the traveler and the agents' lack of diligence; Van Leeuwen's 29-hour mail hold was reasonable because of the unavoidable delay and minimal intrusion.",
+    "tags": ["name-that-case", "temporary-seizure", "van-leeuwen", "mail", "reasonable-suspicion", "confusable"],
+    "cite": "United States v. Van Leeuwen, 397 U.S. 249, 252-253 (1970)",
+    "source": "https://www.courtlistener.com/opinion/108099/united-states-v-van-leeuwen/"
+  },
+  {
+    "id": "name-that-case-4a-supplement-whiteley-04",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers arrest two men based on a statewide radio bulletin — but the sheriff who issued the bulletin had only an uncorroborated informant's tip and no probable cause. The arresting officers acted in good faith on the BOLO. Valid arrest? Which case?",
+    "back": "**Whiteley v. Warden, Wyoming State Penitentiary (1971)**\nHolding: Officers may act on a police bulletin/BOLO, but the arrest is valid only if the ORIGINATING officer actually had probable cause; if the source lacked PC, relaying the request through a bulletin cannot manufacture it, and the arrest is unconstitutional.\nSignature: \"an otherwise illegal arrest cannot be insulated from challenge by the decision of the instigating officer to rely on fellow officers to make the arrest.\"\nWhy it matters: the collective-knowledge / fellow-officer rule AND its limit — the acting officer may rely on the bulletin, but the constitutionality is judged by the knowledge of the agency that issued it.\n⚠ Don't confuse with **United States v. Hensley** (1985) — relying on a flyer/bulletin is proper when the issuing agency HAD the requisite suspicion (RAS for a Terry stop there); Whiteley invalidates the arrest because the source had no probable cause to begin with.",
+    "tags": ["name-that-case", "collective-knowledge", "fellow-officer-rule", "whiteley", "probable-cause", "confusable"],
+    "cite": "Whiteley v. Warden, 401 U.S. 560, 568-569 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108297/whiteley-v-warden-wyoming-state-penitentiary/"
+  },
+  {
+    "id": "name-that-case-4a-supplement-berger-05",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "The Supreme Court strikes down New York's permissive eavesdropping statute as too broad and, in doing so, lays out the constitutional requirements for lawful wiretaps — particularity, probable cause, limited duration, and a return — that Congress then codified in Title III. Which case?",
+    "back": "**Berger v. New York (1967)**\nHolding: New York's eavesdrop statute was unconstitutional because it authorized broad, indiscriminate electronic surveillance without adequate safeguards; the Court set out the requirements electronic-surveillance authorizations must meet — probable cause, particular description of the crime/place/conversations to be seized, strict limits on duration, and prompt notice/return.\nSignature: the constitutional \"blueprint\" for wiretap statutes; its requirements were codified by Congress in Title III of the Omnibus Crime Control Act (18 U.S.C. §§ 2510-2522).\nWhy it matters: the statutory-drafting side of electronic surveillance — Berger defines what a valid wiretap order must contain.\n⚠ Don't confuse with **Katz v. United States** (decided the same year, 1967) — Katz supplies the privacy THEORY (a bug is a search), while Berger supplies the procedural blueprint a wiretap order must satisfy.",
+    "tags": ["name-that-case", "electronic-surveillance", "title-iii", "wiretap", "berger", "confusable"],
+    "cite": "Berger v. New York, 388 U.S. 41, 54-60 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107483/berger-v-new-york/"
+  },
+  {
+    "id": "name-that-case-4a-supplement-dalia-06",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "FBI agents secretly break into a suspect's office to install a bug under a Title III surveillance order that never expressly mentioned a covert entry. Was a separate, explicit authorization for the break-in required? Which case?",
+    "back": "**Dalia v. United States (1979)**\nHolding: A Title III electronic-surveillance order implicitly authorizes a covert/surreptitious entry to install the listening device; no separate or explicit judicial authorization for the entry is required, and such an entry does not per se violate the Fourth Amendment.\nSignature: \"The Fourth Amendment does not prohibit per se a covert entry performed for the purpose of installing otherwise legal electronic bugging equipment.\"\nWhy it matters: makes Title III wiretap orders workable — most bugging is impossible without a break-in, so the power to authorize surveillance carries the power to authorize the entry needed to accomplish it.\n⚠ Pair with **Berger v. New York** — Berger sets the requirements a wiretap order must satisfy; Dalia holds that a valid order silently carries the authority to enter and plant the device.",
+    "tags": ["name-that-case", "electronic-surveillance", "title-iii", "dalia", "covert-entry", "confusable"],
+    "cite": "Dalia v. United States, 441 U.S. 238, 248 (1979)",
+    "source": "https://www.courtlistener.com/opinion/110061/dalia-v-united-states/"
+  }
+]

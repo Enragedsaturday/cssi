@@ -1,0 +1,434 @@
+[
+  {
+    "id": "name-that-case-exclusionary-weeks-01",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Federal marshals enter a man's house without a warrant, seize his private letters and papers, and the government uses them to convict him of running a lottery by mail. The Court holds those papers can't be used against him in FEDERAL court. Which case?",
+    "back": "**Weeks v. United States (1914)**\nHolding: Evidence obtained by federal officers in violation of the Fourth Amendment is inadmissible against the defendant in federal court — the birth of the federal exclusionary rule.\nSignature: without exclusion, the Fourth Amendment \"might as well be stricken from the Constitution.\" 232 U.S. at 393.\nWhy it matters: the origin of the exclusionary rule; for decades it bound only FEDERAL officers (the \"silver platter\" gap let states hand evidence up).\n⚠ Don't confuse with **Mapp** (extends the rule to the STATES, 1961) or **Wolf** (the 1949 way-station that applied 4A to states but withheld the exclusionary remedy).",
+    "tags": [
+      "name-that-case",
+      "exclusionary-rule",
+      "weeks",
+      "origin",
+      "confusable"
+    ],
+    "cite": "Weeks v. United States, 232 U.S. 383, 393 (1914)",
+    "source": "https://www.courtlistener.com/opinion/98094/weeks-v-united-states/"
+  },
+  {
+    "id": "name-that-case-exclusionary-wolf-02",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "The Court holds the Fourth Amendment's core — security against arbitrary intrusion by police — applies to the STATES through the Fourteenth Amendment, but refuses (for now) to force the states to use the exclusionary remedy. Which case?",
+    "back": "**Wolf v. Colorado (1949)**\nHolding: The Fourth Amendment's protection against unreasonable searches binds the states via the Fourteenth Amendment, but the exclusionary rule is NOT (yet) required of state courts — states may choose other remedies.\nSignature: the incorporation-without-the-remedy half-step.\nWhy it matters: the bridge between Weeks and Mapp — recognized the right against the states but left the remedy optional, a gap Mapp would close.\n⚠ Don't confuse with **Mapp** (1961), which OVERRULED Wolf's remedy holding and made exclusion mandatory in state courts, or **Weeks** (federal-only origin).",
+    "tags": [
+      "name-that-case",
+      "exclusionary-rule",
+      "wolf",
+      "incorporation",
+      "confusable"
+    ],
+    "cite": "Wolf v. Colorado, 338 U.S. 25 (1949)",
+    "source": "https://www.courtlistener.com/opinion/104709/wolf-v-colorado/"
+  },
+  {
+    "id": "name-that-case-exclusionary-mapp-03",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Cleveland officers force their way into a woman's home without a valid warrant looking for a bombing suspect, find obscene materials instead, and prosecute her for those. The Court uses the case to make the exclusionary rule binding on the STATES. Which case?",
+    "back": "**Mapp v. Ohio (1961)**\nHolding: \"All evidence obtained by searches and seizures in violation of the Constitution is, by that same authority, inadmissible in a state court.\" 367 U.S. at 655.\nSignature: extended the exclusionary rule to the states; overruled Wolf's remedy holding.\nWhy it matters: completes the timeline Weeks (federal) → Wolf (right, no remedy) → Mapp (remedy applies to states).\n⚠ Don't confuse with **Wolf** (applied 4A to states but WITHOUT the remedy) or **Weeks** (federal officers only).",
+    "tags": [
+      "name-that-case",
+      "exclusionary-rule",
+      "mapp",
+      "incorporation",
+      "confusable"
+    ],
+    "cite": "Mapp v. Ohio, 367 U.S. 643, 655 (1961)",
+    "source": "https://www.courtlistener.com/opinion/106285/mapp-v-ohio/"
+  },
+  {
+    "id": "name-that-case-exclusionary-silverthorne-04",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Federal agents illegally seize a lumber company's books, photograph them, then return the originals and try to subpoena the same documents based on what they learned. Justice Holmes says the government can't use illegally obtained knowledge that way. Which case — the origin of the \"fruit\" principle?",
+    "back": "**Silverthorne Lumber Co. v. United States (1920)**\nHolding: The government may not use information gained from an unconstitutional search — not even indirectly, by issuing a subpoena for documents it learned of through the illegal seizure.\nSignature: Holmes — the knowledge gained illegally cannot be used \"at all\"; the seed of fruit-of-the-poisonous-tree.\nWhy it matters: the doctrinal origin later named in Wong Sun; bars derivative use of tainted evidence.\n⚠ Don't confuse with **Wong Sun** (1963), which coined the \"fruit of the poisonous tree\" label and set the exploitation/attenuation test.",
+    "tags": [
+      "name-that-case",
+      "fruit-of-poisonous-tree",
+      "silverthorne",
+      "origin",
+      "confusable"
+    ],
+    "cite": "Silverthorne Lumber Co. v. United States, 251 U.S. 385 (1920)",
+    "source": "https://www.courtlistener.com/opinion/99506/silverthorne-lumber-co-v-united-states/"
+  },
+  {
+    "id": "name-that-case-exclusionary-wong-sun-05",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "After an unlawful arrest, one statement is tossed but a later voluntary statement — made days after the suspect was released and came back on his own — is allowed. The Court asks not \"but for\" the illegality, but whether the evidence was come at by EXPLOITING it. Which case?",
+    "back": "**Wong Sun v. United States (1963)**\nHolding: Derivative evidence is suppressed only if obtained by exploiting the primary illegality, not merely because it would not have surfaced \"but for\" the illegality; intervening acts of free will can purge the taint.\nSignature: coined \"fruit of the poisonous tree\"; the test is \"exploitation\" vs. \"means sufficiently distinguishable to be purged of the primary taint.\" 371 U.S. at 487-488.\nWhy it matters: the framework for all FOTPT analysis and its exceptions.\n⚠ Don't confuse with **Silverthorne** (the older origin of the principle) — Wong Sun is the one that named it and set the exploitation/attenuation test.",
+    "tags": [
+      "name-that-case",
+      "fruit-of-poisonous-tree",
+      "attenuation",
+      "wong-sun",
+      "confusable"
+    ],
+    "cite": "Wong Sun v. United States, 371 U.S. 471, 487-88 (1963)",
+    "source": "https://www.courtlistener.com/opinion/106515/wong-sun-v-united-states/"
+  },
+  {
+    "id": "name-that-case-exclusionary-nix-06",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A defendant's statements lead police to a murder victim's body — but a volunteer search team was already closing in on the same area and would have found it anyway. The Court lets the body in. Which case?",
+    "back": "**Nix v. Williams (1984)**\nHolding: Inevitable-discovery exception — unlawfully obtained evidence is admissible if the prosecution proves by a preponderance that it would inevitably have been discovered by lawful means.\nSignature: \"ultimately or inevitably would have been discovered by lawful means.\" 467 U.S. at 444.\nWhy it matters: the \"would-have-found-it-anyway\" escape hatch from the fruit doctrine.\n⚠ Don't confuse with **Murray/Segura** (INDEPENDENT SOURCE — evidence was actually obtained a second, lawful way) — inevitable discovery is hypothetical (it WOULD have been found), independent source is actual.",
+    "tags": [
+      "name-that-case",
+      "inevitable-discovery",
+      "nix",
+      "confusable"
+    ],
+    "cite": "Nix v. Williams, 467 U.S. 431, 444 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111204/nix-v-williams/"
+  },
+  {
+    "id": "name-that-case-exclusionary-murray-07",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Agents make an illegal entry into a warehouse and see bales of marijuana, then leave, get a warrant based ONLY on prior untainted information, and seize the marijuana on the lawful re-entry. The Court asks whether the warrant was genuinely independent of what they saw. Which case?",
+    "back": "**Murray v. United States (1988)**\nHolding: Independent-source exception — evidence first seen during an unlawful entry is admissible if later acquired through a genuinely independent lawful source, e.g. a warrant NOT prompted by what was seen and not based on tainted information.\nSignature: \"genuinely independent source\"; invalid if the decision to seek the warrant was prompted by the illegal observation. 487 U.S. at 542.\nWhy it matters: the actual-second-source twin of inevitable discovery.\n⚠ Don't confuse with **Nix** (INEVITABLE discovery — hypothetical lawful discovery) or **Segura** (independent source where the illegal entry just secured the premises while a valid warrant was independently obtained).",
+    "tags": [
+      "name-that-case",
+      "independent-source",
+      "murray",
+      "confusable"
+    ],
+    "cite": "Murray v. United States, 487 U.S. 533, 542 (1988)",
+    "source": "https://www.courtlistener.com/opinion/112136/murray-v-united-states/"
+  },
+  {
+    "id": "name-that-case-exclusionary-segura-08",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Agents illegally enter an apartment and stay to secure it for ~19 hours while others get a search warrant — and the warrant rests entirely on information known BEFORE the illegal entry. The Court admits the evidence seized under the warrant. Which case?",
+    "back": "**Segura v. United States (1984)**\nHolding: Evidence seized under a valid warrant is admissible even after an earlier illegal entry, where the warrant was supported wholly by information known to police independent of (and before) the unlawful entry.\nSignature: an illegal entry to secure premises does not taint evidence later seized under a genuinely independent warrant.\nWhy it matters: an independent-source companion to Murray (decided four years earlier); the illegal entry was harmless because the warrant stood on its own.\n⚠ Don't confuse with **Murray** (saw the evidence during the illegal entry, then got an independent warrant) or **Nix** (inevitable discovery, no second lawful acquisition).",
+    "tags": [
+      "name-that-case",
+      "independent-source",
+      "segura",
+      "confusable"
+    ],
+    "cite": "Segura v. United States, 468 U.S. 796 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111259/segura-v-united-states/"
+  },
+  {
+    "id": "name-that-case-exclusionary-brown-09",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "After an illegal arrest, police give Miranda warnings and the suspect confesses. The State argues the warnings alone purge the taint. The Court rejects that and sets out three factors for whether a confession is purged. Which case?",
+    "back": "**Brown v. Illinois (1975)**\nHolding: Miranda warnings alone do not automatically purge the taint of an illegal arrest; courts weigh (1) temporal proximity, (2) intervening circumstances, and (3) \"particularly, the purpose and flagrancy of the official misconduct.\" 422 U.S. at 603-604.\nSignature: the \"Brown factors\" for attenuation.\nWhy it matters: supplies the attenuation test that Strieff later applies.\n⚠ Don't confuse with **Strieff**, which APPLIES these very factors and finds attenuation; **Wong Sun** is the parent doctrine. Brown = the factors; Strieff = the application.",
+    "tags": [
+      "name-that-case",
+      "attenuation",
+      "brown",
+      "confusable"
+    ],
+    "cite": "Brown v. Illinois, 422 U.S. 590, 603-04 (1975)",
+    "source": "https://www.courtlistener.com/opinion/109304/brown-v-illinois/"
+  },
+  {
+    "id": "name-that-case-exclusionary-strieff-10",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An officer stops a man with no reasonable suspicion (an unlawful stop), runs his name, finds a valid PRE-EXISTING arrest warrant, arrests him on it, and finds drugs in the search incident to arrest. The Court admits the drugs. Which case?",
+    "back": "**Utah v. Strieff (2016)**\nHolding: The discovery of a valid, pre-existing arrest warrant during an unlawful stop is an intervening circumstance that attenuates the taint, so evidence found in the ensuing search-incident-to-arrest is admissible.\nSignature: the outstanding warrant is \"a critical intervening circumstance ... wholly independent of the illegal stop.\" 579 U.S. at 241 (applying the Brown factors).\nWhy it matters: the modern attenuation case; an intervening warrant breaks the causal chain.\n⚠ Don't confuse with **Brown** (the SOURCE of the factors) or with **Wong Sun** (parent doctrine). Strieff = warrant-attenuates-the-stop.",
+    "tags": [
+      "name-that-case",
+      "attenuation",
+      "strieff",
+      "confusable"
+    ],
+    "cite": "Utah v. Strieff, 579 U.S. 232, 241 (2016)",
+    "source": "https://www.courtlistener.com/opinion/8137990/utah-v-strieff/"
+  },
+  {
+    "id": "name-that-case-exclusionary-leon-11",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers get a search warrant from a neutral magistrate and reasonably rely on it, but a court later decides the affidavit didn't establish probable cause. The Court refuses to suppress — punishing reasonable reliance wouldn't deter anyone. Which case launched the good-faith exception?",
+    "back": "**United States v. Leon (1984)**\nHolding: Good-faith exception — evidence seized in objectively reasonable reliance on a search warrant later found unsupported by probable cause is admissible; exclusion would not serve the rule's deterrent purpose.\nSignature: \"objectively reasonable reliance on a subsequently invalidated search warrant.\" 468 U.S. at 922. Good faith FAILS in four situations (468 U.S. at 923): false-affidavit (Franks), magistrate abandoned neutral role (Lo-Ji Sales), affidavit so lacking in indicia of PC that belief is unreasonable, or a warrant so facially deficient officers can't presume it valid.\nWhy it matters: the foundation of the entire good-faith family.\n⚠ Don't confuse the FLAVORS: Leon (defective WARRANT) vs. Sheppard (wrong warrant FORM) vs. Krull (unconstitutional STATUTE) vs. Evans (COURT clerk's error) vs. Herring (POLICE negligence) vs. Davis (binding PRECEDENT).",
+    "tags": [
+      "name-that-case",
+      "good-faith",
+      "leon",
+      "confusable"
+    ],
+    "cite": "United States v. Leon, 468 U.S. 897, 922-23 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111262/united-states-v-leon/"
+  },
+  {
+    "id": "name-that-case-exclusionary-sheppard-12",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An officer fills out a warrant on the only form available — a pre-printed \"controlled substance\" form for a murder investigation — and the judge assures him he'll fix it but doesn't. The warrant is technically defective in FORM, yet the Court admits the evidence. Which case?",
+    "back": "**Massachusetts v. Sheppard (1984)**\nHolding: Leon's companion — where a warrant is defective only because of a clerical/form error and officers reasonably relied on the issuing judge's assurances, the good-faith exception applies; the mistake was the judge's, not the police's.\nSignature: \"it was the judge, not the police officers, who made the critical mistake.\" 468 U.S. at 990.\nWhy it matters: good faith covers a magistrate's paperwork error on an otherwise reasonable search.\n⚠ Don't confuse with **Leon** (warrant lacked probable cause) — Sheppard is the wrong-FORM twin decided the same day. Both turn on officers reasonably relying on the magistrate.",
+    "tags": [
+      "name-that-case",
+      "good-faith",
+      "sheppard",
+      "confusable"
+    ],
+    "cite": "Massachusetts v. Sheppard, 468 U.S. 981, 990 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111263/massachusetts-v-sheppard/"
+  },
+  {
+    "id": "name-that-case-exclusionary-krull-13",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An officer conducts a warrantless administrative search authorized by a state STATUTE that a court later strikes down as unconstitutional. The Court admits the evidence — the officer can't be expected to second-guess the legislature. Which case?",
+    "back": "**Illinois v. Krull (1987)**\nHolding: Good-faith reliance on a STATUTE later held unconstitutional does not trigger exclusion; suppression would not deter an officer who reasonably relied on a facially valid law.\nSignature: \"Unless a statute is clearly unconstitutional, an officer cannot be expected to question the judgment of the legislature.\" 480 U.S. at 349-350.\nWhy it matters: extends Leon's good-faith logic from warrants to statutes.\n⚠ Don't confuse the good-faith flavors: Krull = unconstitutional STATUTE; Leon = defective WARRANT; Evans = COURT-clerk error; Herring = POLICE negligence; Davis = binding PRECEDENT.",
+    "tags": [
+      "name-that-case",
+      "good-faith",
+      "krull",
+      "confusable"
+    ],
+    "cite": "Illinois v. Krull, 480 U.S. 340, 349-50 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111835/illinois-v-krull/"
+  },
+  {
+    "id": "name-that-case-exclusionary-evans-14",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An officer arrests a driver because the patrol-car computer shows an outstanding warrant — but the warrant had been quashed weeks earlier and a COURT clerk simply never deleted it. The Court admits the drugs found in the search. Which case?",
+    "back": "**Arizona v. Evans (1995)**\nHolding: The good-faith exception covers evidence seized on a mistaken arrest record caused by clerical errors of COURT employees; the arresting officer relied objectively reasonably on the police computer.\nSignature: \"a categorical exception to the exclusionary rule for clerical errors of court employees.\" 514 U.S. at 16.\nWhy it matters: extends good faith to a court clerk's recordkeeping mistake (contrast Herring, where the error was the POLICE's own).\n⚠ Don't confuse with **Herring** — Evans = COURT clerk's error; Herring = POLICE's own negligent recordkeeping. Both still admit the evidence, but for different actors.",
+    "tags": [
+      "name-that-case",
+      "good-faith",
+      "evans",
+      "confusable"
+    ],
+    "cite": "Arizona v. Evans, 514 U.S. 1, 16 (1995)",
+    "source": "https://www.courtlistener.com/opinion/117905/arizona-v-evans/"
+  },
+  {
+    "id": "name-that-case-exclusionary-herring-15",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers arrest a man relying on a neighboring county's warrant database showing an active warrant — but the warrant had been recalled and the POLICE in that county failed to update their own records. The Court admits the evidence. Which case?",
+    "back": "**Herring v. United States (2009)**\nHolding: Isolated, attenuated POLICE negligence (a recordkeeping error) does not trigger exclusion; suppression is warranted only where deterrence benefits outweigh costs.\nSignature: to trigger the rule, conduct must be \"sufficiently deliberate ... and sufficiently culpable\" — deliberate, reckless, grossly negligent, or systemic. 555 U.S. at 144.\nWhy it matters: pushed the rule toward a pure cost-benefit, culpability-focused inquiry; mere negligence isn't enough.\n⚠ Don't confuse with **Evans** (the error was a COURT clerk's, not the police's). Herring = the police's OWN negligence; both still admit, but Herring narrows exclusion to culpable police conduct.",
+    "tags": [
+      "name-that-case",
+      "good-faith",
+      "herring",
+      "confusable"
+    ],
+    "cite": "Herring v. United States, 555 U.S. 135, 144 (2009)",
+    "source": "https://www.courtlistener.com/opinion/145922/herring-v-united-states/"
+  },
+  {
+    "id": "name-that-case-exclusionary-davis-16",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police search a car incident to arrest in a way that was lawful under binding appellate precedent at the time — but while the case is on appeal, the Supreme Court changes the rule (Gant). The Court refuses to suppress. Which case?",
+    "back": "**Davis v. United States (2011)**\nHolding: Searches conducted in objectively reasonable reliance on binding appellate precedent are not subject to the exclusionary rule, even if that precedent is later overruled.\nSignature: good-faith reliance on then-binding PRECEDENT; no deterrence value in punishing officers who followed the law as it stood.\nWhy it matters: the precedent-reliance branch of the good-faith family (here, a pre-Gant Belton-style vehicle search).\n⚠ Don't confuse the flavors: Davis = binding PRECEDENT; Leon = defective WARRANT; Krull = unconstitutional STATUTE; Evans = COURT-clerk error; Herring = POLICE negligence.",
+    "tags": [
+      "name-that-case",
+      "good-faith",
+      "davis",
+      "confusable"
+    ],
+    "cite": "Davis v. United States, 564 U.S. 229 (2011)",
+    "source": "https://www.courtlistener.com/opinion/218926/davis-v-united-states/"
+  },
+  {
+    "id": "name-that-case-exclusionary-hudson-19",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police have a valid search warrant but burst in after waiting only 3-5 seconds, violating the knock-and-announce rule. The defendant wants the drugs suppressed. The Court says no — suppression isn't the remedy for that violation. Which case?",
+    "back": "**Hudson v. Michigan (2006)**\nHolding: A knock-and-announce violation does NOT require suppression of the evidence found inside; the interests protected by knock-and-announce have nothing to do with the seizure of evidence, and the deterrence benefits don't justify the cost.\nSignature: \"whether violation of the 'knock-and-announce' rule requires the suppression of all evidence found in the search\" — answer: no.\nWhy it matters: a major limit on the exclusionary remedy — not every Fourth Amendment violation yields suppression.\n⚠ Don't confuse with the good-faith line — Hudson is a CAUSATION/remedy-scope holding (the violation didn't cause the discovery), not a good-faith case.",
+    "tags": [
+      "name-that-case",
+      "remedies",
+      "exclusionary-rule",
+      "hudson",
+      "knock-and-announce",
+      "confusable"
+    ],
+    "cite": "Hudson v. Michigan, 547 U.S. 586 (2006)",
+    "source": "https://www.courtlistener.com/opinion/145646/hudson-v-michigan/"
+  },
+  {
+    "id": "name-that-case-exclusionary-rakas-20",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police search a car and find a rifle and shells under the seat and in the glove box. The PASSENGERS — who don't own the car and claim no interest in the rifle or those areas — try to suppress. The Court says they can't; Fourth Amendment rights are personal. Which case?",
+    "back": "**Rakas v. Illinois (1978)**\nHolding: Fourth Amendment rights are personal and may not be vicariously asserted; a defendant must show that HIS OWN legitimate expectation of privacy was infringed. Passengers with no possessory or privacy interest in the searched areas lack standing.\nSignature: \"Fourth Amendment rights are personal rights which ... may not be vicariously asserted.\" 439 U.S. at 133-134; reframed \"standing\" as part of the merits (REP in the place).\nWhy it matters: the controlling standing case — folds standing into the reasonable-expectation-of-privacy inquiry.\n⚠ Don't confuse with **Rawlings** (owning the ITEMS isn't enough), **Olson** (overnight guest HAS REP), **Carter** (short-term commercial visitor does NOT), or **Byrd** (rental driver not on the agreement CAN have REP).",
+    "tags": [
+      "name-that-case",
+      "standing",
+      "rakas",
+      "confusable"
+    ],
+    "cite": "Rakas v. Illinois, 439 U.S. 128, 133-34, 143 (1978)",
+    "source": "https://www.courtlistener.com/opinion/109953/rakas-v-illinois/"
+  },
+  {
+    "id": "name-that-case-exclusionary-rawlings-21",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A man dumps his drugs into a female companion's purse minutes before police arrive, then admits the drugs are his. He owns the drugs — but the Court says he had no reasonable expectation of privacy in HER purse, so he can't suppress the search of it. Which case?",
+    "back": "**Rawlings v. Kentucky (1980)**\nHolding: Owning the items seized is not enough to challenge a search; a defendant must have a legitimate expectation of privacy in the PLACE searched. No REP in a companion's purse = no standing.\nSignature: ownership of the contraband ≠ privacy interest in the container/place; applies Rakas.\nWhy it matters: separates ownership of the thing from privacy in the place — the place is what matters.\n⚠ Don't confuse with **Rakas** (the parent: passengers, no interest in the car) — Rawlings sharpens it: even OWNING the seized drugs doesn't give you standing to contest the search of someone else's purse.",
+    "tags": [
+      "name-that-case",
+      "standing",
+      "rawlings",
+      "confusable"
+    ],
+    "cite": "Rawlings v. Kentucky, 448 U.S. 98 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110326/rawlings-v-kentucky/"
+  },
+  {
+    "id": "name-that-case-exclusionary-olson-22",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police make a warrantless, nonconsensual entry into a home to arrest a man who was staying there as an OVERNIGHT GUEST. The Court holds he had a reasonable expectation of privacy in the home and could challenge the entry. Which case?",
+    "back": "**Minnesota v. Olson (1990)**\nHolding: An overnight guest has a reasonable expectation of privacy in his host's home and therefore standing to challenge a warrantless entry to arrest him.\nSignature: \"staying overnight in another's home is a longstanding social custom\" that society recognizes as reasonable; an overnight guest HAS REP.\nWhy it matters: the standing case on the YES side — overnight guests are protected.\n⚠ Don't confuse with **Carter** — Olson (overnight guest) HAS standing; Carter (short-term, commercial visitor present a couple hours to bag drugs) does NOT.",
+    "tags": [
+      "name-that-case",
+      "standing",
+      "olson",
+      "confusable"
+    ],
+    "cite": "Minnesota v. Olson, 495 U.S. 91 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112416/minnesota-v-olson/"
+  },
+  {
+    "id": "name-that-case-exclusionary-carter-23",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Two men come to a stranger's apartment purely to bag cocaine — there for a couple of hours, never met the lessee before, no overnight stay. An officer peers through a gap in the blinds. The Court holds these visitors had no Fourth Amendment standing. Which case?",
+    "back": "**Minnesota v. Carter (1998)**\nHolding: A short-term visitor present in another's home for a purely commercial purpose (bagging drugs), with no prior relationship and no overnight stay, has no legitimate expectation of privacy there and cannot challenge the police observation.\nSignature: commercial, transient presence ≠ the social-guest protection of Olson.\nWhy it matters: the standing case on the NO side; marks the line between an overnight/social guest and a brief business visitor.\n⚠ Don't confuse with **Olson** (overnight guest HAS REP). Carter = short-term COMMERCIAL visitor, no standing. The dividing facts: duration, purpose, and prior connection to the home.",
+    "tags": [
+      "name-that-case",
+      "standing",
+      "carter",
+      "confusable"
+    ],
+    "cite": "Minnesota v. Carter, 525 U.S. 83 (1998)",
+    "source": "https://www.courtlistener.com/opinion/118249/minnesota-v-carter/"
+  },
+  {
+    "id": "name-that-case-exclusionary-byrd-24",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A man drives a rental car with the renter's permission, but he is NOT listed as an authorized driver on the rental agreement. Police search the trunk. The Court holds he can still have a reasonable expectation of privacy in the car. Which case?",
+    "back": "**Byrd v. United States (2018)**\nHolding: A driver in lawful possession and control of a rental car generally has a reasonable expectation of privacy in it, even though he is not listed as an authorized driver on the rental agreement.\nSignature: lawful possession, not the paperwork, drives the privacy inquiry; the unlisted driver can have standing.\nWhy it matters: a modern standing case rejecting a bright-line \"not on the contract = no REP\" rule.\n⚠ Don't confuse with **Rakas** (passenger, no possessory/privacy interest) — Byrd had lawful possession and control. Possession matters; mere passenger status does not.",
+    "tags": [
+      "name-that-case",
+      "standing",
+      "byrd",
+      "confusable"
+    ],
+    "cite": "Byrd v. United States, 584 U.S. 395 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4497658/byrd-v-united-states/"
+  },
+  {
+    "id": "name-that-case-exclusionary-calandra-25",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A grand-jury witness refuses to answer questions based on evidence from an allegedly illegal search, claiming the exclusionary rule protects him. The Court says no — the rule is a deterrent remedy, not a personal right, and it doesn't reach grand-jury questioning. Which case?",
+    "back": "**United States v. Calandra (1974)**\nHolding: The exclusionary rule is a judicially created deterrent remedy, not a personal constitutional right of the aggrieved party, and it does not apply to grand-jury questions based on illegally obtained evidence.\nSignature: \"a judicially created remedy designed to safeguard Fourth Amendment rights generally through its deterrent effect, rather than a personal constitutional right of the party aggrieved.\" 414 U.S. at 348.\nWhy it matters: reframed the rule as cost-benefit deterrence (the engine behind Leon, Herring, Hudson) and carved grand juries out of it.\n⚠ Don't confuse with **Lopez-Mendoza** (civil deportation) — both are SCOPE/forum limits where exclusion doesn't fully reach; Calandra = grand jury, Lopez-Mendoza = civil removal.",
+    "tags": [
+      "name-that-case",
+      "remedies",
+      "exclusionary-rule",
+      "calandra",
+      "scope",
+      "confusable"
+    ],
+    "cite": "United States v. Calandra, 414 U.S. 338, 348 (1974)",
+    "source": "https://www.courtlistener.com/opinion/108898/united-states-v-calandra/"
+  },
+  {
+    "id": "name-that-case-exclusionary-lopez-mendoza-26",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A man's admission of unlawful presence follows an allegedly illegal arrest. He wants it excluded from his CIVIL deportation hearing. The Court holds the exclusionary rule generally doesn't apply there. Which case?",
+    "back": "**INS v. Lopez-Mendoza (1984)**\nHolding: The exclusionary rule generally does NOT apply in civil deportation/removal proceedings; under a cost-benefit analysis, the social costs of exclusion outweigh its limited deterrence in that civil context.\nSignature: \"the exclusionary rule need not be applied\" in a civil deportation hearing.\nWhy it matters: a key SCOPE limit — the rule is a criminal-suppression remedy and doesn't automatically reach civil proceedings.\n⚠ Don't confuse with **Calandra** (grand-jury questions) — both are forum/scope limits on the rule; Lopez-Mendoza = civil deportation, Calandra = grand jury.",
+    "tags": [
+      "name-that-case",
+      "remedies",
+      "exclusionary-rule",
+      "lopez-mendoza",
+      "scope",
+      "confusable"
+    ],
+    "cite": "INS v. Lopez-Mendoza, 468 U.S. 1032, 1034-35 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111265/immigration-naturalization-service-v-lopez-mendoza/"
+  },
+  {
+    "id": "name-that-case-exclusionary-harris-27",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A defendant's statements were taken in violation of Miranda, so they're barred from the prosecution's case-in-chief. But he takes the stand and testifies inconsistently with them — and the Court lets the prosecution use the tainted statements to IMPEACH him. Which case?",
+    "back": "**Harris v. New York (1971)**\nHolding: Statements taken in violation of Miranda, though inadmissible in the case-in-chief, may be used to impeach a defendant who takes the stand and testifies inconsistently with them.\nSignature: the shield of Miranda \"cannot be perverted into a license to use perjury\"; the impeachment exception.\nWhy it matters: a limit on the exclusionary remedy — suppressed evidence can still police a testifying defendant's credibility (truth-seeking outweighs deterrence here).\n⚠ Don't confuse the forums: the prosecution still CANNOT use this illegally obtained evidence in its case-in-chief — Harris only permits IMPEACHMENT once the defendant testifies. Cf. **Calandra**/**Lopez-Mendoza** (other scope limits on the rule).",
+    "tags": [
+      "name-that-case",
+      "remedies",
+      "exclusionary-rule",
+      "harris",
+      "impeachment-exception",
+      "scope",
+      "confusable"
+    ],
+    "cite": "Harris v. New York, 401 U.S. 222 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108272/harris-v-new-york/"
+  },
+  {
+    "id": "name-that-case-exclusionary-bivens-28",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Federal narcotics agents enter a man's apartment without a warrant, search it, and arrest him. He sues the agents personally for money damages for the Fourth Amendment violation — and the Court recognizes an implied right to sue even though no statute creates it. Which case?",
+    "back": "**Bivens v. Six Unknown Named Agents (1971)**\nHolding: There is an implied federal cause of action for money damages against federal officers who violate the Fourth Amendment, even absent a statute authorizing the suit.\nSignature: the \"Bivens action\" — a damages remedy directly under the Constitution against federal agents.\nWhy it matters: the civil-remedy counterpart to the exclusionary rule (suppression keeps evidence out; Bivens makes the officer pay), aimed at deterring unconstitutional conduct.\n⚠ Don't confuse the remedies: the exclusionary rule SUPPRESSES evidence in a criminal case; Bivens awards DAMAGES in a civil suit. For state/local officers the analog is a 42 U.S.C. § 1983 action, not Bivens (which is federal-officer only).",
+    "tags": [
+      "name-that-case",
+      "remedies",
+      "exclusionary-rule",
+      "bivens",
+      "civil-damages",
+      "confusable"
+    ],
+    "cite": "Bivens v. Six Unknown Named Agents, 403 U.S. 388 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108375/bivens-v-six-unknown-named-agents-of-federal-bureau-of-narcotics/"
+  }
+]

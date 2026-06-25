@@ -1,0 +1,200 @@
+[
+  {
+    "id": "legal-research-citations-anatomy-parts-01",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "Reading a standard Bluebook case cite left to right (use the neutral example 392 U.S. 1, 30 (1968)), what six components appear and in what order?",
+    "back": "Case name (parties) - volume number - reporter abbreviation - first page - pinpoint (pin cite) - court & year parenthetical.",
+    "tags": ["legal-research-citations", "bluebook", "citation-anatomy", "methodology"]
+  },
+  {
+    "id": "legal-research-citations-pinpoint-vs-firstpage-02",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "In the neutral example cite '392 U.S. 1, 30 (1968),' what is the difference between the '1' and the '30'?",
+    "back": "The '1' is the first page where the opinion starts; the '30' is the pinpoint (pin cite) — the specific page the quoted or relied-on language is on.",
+    "tags": ["legal-research-citations", "bluebook", "pinpoint", "citation-anatomy"]
+  },
+  {
+    "id": "legal-research-citations-pin-rule-03",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "When must you include a pinpoint (pin cite), and why does a cite without one matter?",
+    "back": "Always pin when you quote or attribute a specific holding. A cite without a pin is hard to check and weak in a courtroom.",
+    "tags": ["legal-research-citations", "bluebook", "pinpoint", "pitfall"]
+  },
+  {
+    "id": "legal-research-citations-year-parenthetical-04",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "Why does a Supreme Court cite's parenthetical carry only the year (e.g., '(1968)') while a lower-court cite names the court (e.g., '(9th Cir. 2021)')?",
+    "back": "For SCOTUS the reporter 'U.S.' already identifies the court, so the parenthetical is year only; for lower courts the parenthetical must also name the deciding court.",
+    "tags": ["legal-research-citations", "bluebook", "court-parenthetical", "citation-anatomy"]
+  },
+  {
+    "id": "legal-research-citations-reporter-scotus-05",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "Which three reporter abbreviations identify a U.S. Supreme Court opinion?",
+    "back": "'U.S.' (official United States Reports), 'S. Ct.' (West), and 'L. Ed. 2d' (Lawyers' Edition) — the official plus its two parallels.",
+    "tags": ["legal-research-citations", "reporters", "scotus", "court-mapping"]
+  },
+  {
+    "id": "legal-research-citations-reporter-appeals-district-06",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "Which reporters signal a U.S. Court of Appeals case versus a U.S. District Court case?",
+    "back": "Courts of Appeals -> 'F.4th'/'F.3d'/'F.2d'/'F.' (with the circuit in the parenthetical); District Courts -> 'F. Supp. 3d'/'F. Supp. 2d'/'F. Supp.'",
+    "tags": ["legal-research-citations", "reporters", "courts-of-appeals", "district-courts", "court-mapping"]
+  },
+  {
+    "id": "legal-research-citations-fappx-07",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "What court and what kind of disposition does the reporter 'F. App'x' (Federal Appendix) signal?",
+    "back": "Unpublished circuit (Court of Appeals) dispositions — typically non-precedential, persuasive at best.",
+    "tags": ["legal-research-citations", "reporters", "fed-appendix", "unpublished", "court-mapping"]
+  },
+  {
+    "id": "legal-research-citations-fed-series-08",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "What is the relationship between the reporter series 'F.', 'F.2d', 'F.3d', and 'F.4th'?",
+    "back": "They are successive editions of the same Federal Reporter that started over as volumes filled up over the decades — 'F.4th' is simply the current one; all are Courts of Appeals reporters.",
+    "tags": ["legal-research-citations", "reporters", "federal-reporter", "court-mapping"]
+  },
+  {
+    "id": "legal-research-citations-parallel-cite-09",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "What is a parallel citation, and what should you NOT mistake it for?",
+    "back": "The same opinion reported in more than one reporter at once (e.g., a SCOTUS case in U.S., S. Ct., and L. Ed. 2d). Don't mistake the three parallels for three different cases.",
+    "tags": ["legal-research-citations", "parallel-citations", "reporters", "pitfall"]
+  },
+  {
+    "id": "legal-research-citations-signals-meaning-10",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "In Bluebook practice, what do the introductory signals '(no signal),' 'see,' 'cf.,' 'e.g.,' and 'but see' each tell the reader?",
+    "back": "(no signal) = the source directly states the proposition; see = supports by clear inference; cf. = supports an analogous point; e.g. = one example among many that say the same thing; but see = authority that cuts the other way.",
+    "tags": ["legal-research-citations", "signals", "bluebook", "methodology"]
+  },
+  {
+    "id": "legal-research-citations-id-shortform-11",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "cloze",
+    "front": "Short form: '{{c1::Id.}}' refers to the immediately preceding authority, so 'Id. at 30' means {{c2::same source, new page}}.",
+    "back": "Id. = the immediately preceding authority; 'Id. at 30' = same source, new page. Use only when the cite right before it is the same source.",
+    "tags": ["legal-research-citations", "id", "short-forms", "bluebook"]
+  },
+  {
+    "id": "legal-research-citations-supra-12",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "What does 'supra' point to, and why is it generally NOT used for cases under the Bluebook?",
+    "back": "Supra points back to a source cited earlier but not immediately above; it is used mainly for books, articles, and the like — generally not for cases under Bluebook.",
+    "tags": ["legal-research-citations", "supra", "short-forms", "bluebook"]
+  },
+  {
+    "id": "legal-research-citations-published-vs-unpublished-13",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "What is the practical weight difference between a published and an unpublished federal opinion?",
+    "back": "Published opinions are precedential — binding on that court and the courts below it within the jurisdiction; unpublished dispositions (often in F. App'x) are typically non-precedential and persuasive at best.",
+    "tags": ["legal-research-citations", "published-vs-unpublished", "precedent", "methodology"]
+  },
+  {
+    "id": "legal-research-citations-frap-32-1-14",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "Federal Rule of Appellate Procedure 32.1 permits citing federal unpublished opinions issued on or after Jan. 1, 2007 — why is that permission not the whole story?",
+    "back": "Permission to cite is not the same as binding force; an unpublished opinion remains persuasive at best, so confirm a case is published (or otherwise binding in your jurisdiction) before leaning on it.",
+    "tags": ["legal-research-citations", "unpublished", "frap-32-1", "precedent", "pitfall"]
+  },
+  {
+    "id": "legal-research-citations-per-curiam-15",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "What does 'per curiam' mean, and why can't you judge an opinion's weight from that label alone?",
+    "back": "Per curiam = 'by the court,' issued in the name of the whole court rather than a single authoring judge. They can be fully precedential (many SCOTUS per curiams are) or summary and non-precedential — judge the weight by the court and whether it's published, not by the 'per curiam' label.",
+    "tags": ["legal-research-citations", "per-curiam", "precedent", "pitfall"]
+  },
+  {
+    "id": "legal-research-citations-free-toolkit-16",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "Name the free federal case-law research tools an instructor can rely on instead of Westlaw or Lexis.",
+    "back": "CourtListener (+ RECAP), Google Scholar (case law mode), Justia, Caselaw Access Project (searched via CourtListener), OpenJurist, govinfo, and official court/SCOTUS sites.",
+    "tags": ["legal-research-citations", "free-toolkit", "courtlistener", "research"]
+  },
+  {
+    "id": "legal-research-citations-courtlistener-recap-17",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "What is CourtListener's RECAP Archive, and why check it before paying PACER?",
+    "back": "RECAP is the largest open collection of federal docket filings (briefs, motions, orders) pulled from PACER; the RECAP browser extension captures PACER documents users pull and shares them free, so a filing you need may already be there at no cost.",
+    "tags": ["legal-research-citations", "courtlistener", "recap", "pacer", "research"]
+  },
+  {
+    "id": "legal-research-citations-search-by-what-18",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "The three ways to search depend on what you already have — what are they?",
+    "back": "By citation (drop '392 U.S. 1' into a citation lookup for the exact opinion); by party name (search the case name, watching for same-named different cases); by proposition / full text (search the idea, then read down to the controlling case).",
+    "tags": ["legal-research-citations", "search-strategy", "research", "methodology"]
+  },
+  {
+    "id": "legal-research-citations-good-law-citator-19",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "With no free Shepard's or KeyCite, how do you verify a case is still good law, and what are you scanning for?",
+    "back": "Do it by hand with free citator substitutes — CourtListener's 'Cited By'/'Authorities' and Google Scholar's 'How cited' — scanning whether later courts followed, criticized, distinguished, or overruled it. A narrowed or reversed case is a trap.",
+    "tags": ["legal-research-citations", "good-law", "citator", "courtlistener", "research"]
+  },
+  {
+    "id": "legal-research-citations-read-opinion-not-headnote-20",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "Why must you read the actual opinion rather than cite from a headnote or summary?",
+    "back": "Headnotes are editorial summaries, not the court's words, and can mislead. Pull the text, find the court's actual language, and pin to its page.",
+    "tags": ["legal-research-citations", "headnote", "read-the-opinion", "pitfall"]
+  },
+  {
+    "id": "legal-research-citations-save-organize-triple-21",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "What is the 'unit of trustworthy legal research' — the triple this wiki saves for every verified case?",
+    "back": "A consistent Bluebook cite + a CourtListener permalink + a pinpoint (plus a one-line note on the holding and its weight), so the case can be re-found and re-verified instantly.",
+    "tags": ["legal-research-citations", "save-organize", "courtlistener", "pinpoint", "workflow"]
+  },
+  {
+    "id": "legal-research-citations-circuit-persuasive-22",
+    "page": "legal-research-citations",
+    "topic": "Legal Research and Case Citations",
+    "type": "qa",
+    "front": "What does the circuit named in a Court of Appeals parenthetical (e.g., '(5th Cir.)') tell you about the case's authority, and what's the pitfall?",
+    "back": "It tells you whose persuasive authority it is — a Fifth Circuit case binds the Fifth Circuit but is only persuasive elsewhere. Never anchor a multi-jurisdiction point to one circuit.",
+    "tags": ["legal-research-citations", "circuit", "persuasive-authority", "court-mapping", "pitfall"]
+  }
+]

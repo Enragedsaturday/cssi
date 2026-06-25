@@ -1,0 +1,251 @@
+[
+  {
+    "id": "name-that-case-miranda-waiver-edwards-01",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A suspect in custody says he wants a lawyer, so questioning stops — but the next morning, before counsel arrives, detectives come back to his cell and he confesses. The Court bars the confession with a bright-line rule. Which case?",
+    "back": "**Edwards v. Arizona (1981)**\nHolding: Once an accused invokes his Fifth Amendment right to counsel, police may not reinitiate interrogation until counsel has been made available, unless the accused himself initiates further communication.\nSignature: the \"Edwards rule\" — a second-layer, prophylactic bright line on top of Miranda for invocations of counsel.\nWhy it matters: the anchor case for what happens after a suspect asks for a lawyer — all police-initiated questioning must cease.\n⚠ Don't confuse with **Mosley** (suspect invoked SILENCE, not counsel — police MAY re-approach later about a different crime if they scrupulously honor the right) or **Berghuis** (you must UNAMBIGUOUSLY invoke in the first place). Counsel invoked = everything stops; silence invoked = limited re-approach allowed.",
+    "tags": [
+      "name-that-case",
+      "invocation",
+      "right-to-counsel-5a",
+      "edwards",
+      "confusable"
+    ],
+    "cite": "Edwards v. Arizona, 451 U.S. 477 (1981)",
+    "source": "https://www.courtlistener.com/opinion/110475/edwards-v-arizona/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-mosley-02",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A suspect arrested for robberies invokes his right to remain silent; questioning stops. About two hours later a DIFFERENT detective, after fresh Miranda warnings, questions him about an unrelated murder and he makes statements. The Court admits them. Which case?",
+    "back": "**Michigan v. Mosley (1975)**\nHolding: After a suspect invokes the right to SILENCE, later statements are admissible if police \"scrupulously honored\" the invocation — here, questioning ceased, time passed, fresh warnings were given, and the second interrogation concerned a different crime.\nSignature: the \"scrupulously honored\" standard for re-approach after silence is invoked.\nWhy it matters: invoking silence is not a permanent bar to all future questioning, unlike invoking counsel under Edwards.\n⚠ Don't confuse with **Edwards** (invoking COUNSEL bars all police-initiated re-questioning until counsel is present) or **Roberson** (counsel invoked bars questioning even about an UNRELATED crime — opposite result from Mosley, because counsel, not silence, was invoked).",
+    "tags": [
+      "name-that-case",
+      "invocation",
+      "right-to-silence",
+      "mosley",
+      "confusable"
+    ],
+    "cite": "Michigan v. Mosley, 423 U.S. 96 (1975)",
+    "source": "https://www.courtlistener.com/opinion/109336/michigan-v-mosley/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-davis-03",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "During a military interrogation a suspect says, \"Maybe I should talk to a lawyer.\" Agents clarify, he says he does NOT want a lawyer, and keeps talking. The Court holds this did not invoke his right to counsel. Which case?",
+    "back": "**Davis v. United States (1994)**\nHolding: A suspect must invoke the right to counsel UNAMBIGUOUSLY; an equivocal or ambiguous reference (\"maybe I should talk to a lawyer\") does not require police to stop questioning, and they need not even ask clarifying questions.\nSignature: \"Maybe I should talk to a lawyer\" — the textbook ambiguous request; the Court refused to add a \"third layer of prophylaxis.\"\nWhy it matters: sets the clear-statement rule for invoking counsel; if the request is ambiguous, questioning may continue.\n⚠ Don't confuse with **Berghuis v. Thompkins** — Berghuis extended this same unambiguous-invocation requirement to the right to SILENCE. Davis = ambiguous counsel request; Berghuis = ambiguous/silent assertion of silence.",
+    "tags": [
+      "name-that-case",
+      "invocation",
+      "right-to-counsel-5a",
+      "davis",
+      "confusable"
+    ],
+    "cite": "Davis v. United States, 512 U.S. 452 (1994)",
+    "source": "https://www.courtlistener.com/opinion/117863/davis-v-united-states/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-berghuis-04",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A suspect is read his rights, never says he wants to remain silent or wants a lawyer, and stays almost completely silent for nearly three hours — then answers \"yes\" when asked if he prayed to God for forgiveness for the shooting. The Court admits it. Which case?",
+    "back": "**Berghuis v. Thompkins (2010)**\nHolding: The right to remain silent must be invoked UNAMBIGUOUSLY; merely staying silent does not invoke it, and a suspect who answers questions after a long silence has impliedly waived the right.\nSignature: silence alone is not invocation — \"he did not say that he wanted to remain silent or that he did not want to talk.\"\nWhy it matters: extended Davis's unambiguous-invocation rule from counsel to silence, and reaffirmed that waiver can be implied from a course of conduct.\n⚠ Don't confuse with **Davis** (ambiguous request for COUNSEL) — Berghuis is the SILENCE analogue. And vs **Mosley/Edwards**: those govern re-approach AFTER a valid invocation; Berghuis is about failing to invoke at all.",
+    "tags": [
+      "name-that-case",
+      "invocation",
+      "waiver",
+      "right-to-silence",
+      "berghuis",
+      "confusable"
+    ],
+    "cite": "Berghuis v. Thompkins, 560 U.S. 370 (2010)",
+    "source": "https://www.courtlistener.com/opinion/147529/berghuis-v-thompkins/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-shatzer-05",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An inmate invokes counsel during questioning about abusing his son; police drop it and he returns to the general prison population. About two and a half years later a different officer re-Mirandizes and questions him, and he confesses. The Court adopts a bright-line break-in-custody rule. Which case?",
+    "back": "**Maryland v. Shatzer (2010)**\nHolding: Edwards protection ends after a 14-day break in Miranda custody; once 14 days pass, police may re-approach and seek a fresh waiver. Release back into the general prison population counts as a break in custody.\nSignature: the \"14-day rule\" — \"that period is 14 days,\" enough to shake off the residual coercion of prior custody.\nWhy it matters: puts a time limit on the otherwise indefinite Edwards bar; defines when the post-invocation shield lapses.\n⚠ Don't confuse with **Minnick** (Edwards bar persists even after the suspect actually consulted a lawyer) — Shatzer is about a break in CUSTODY ending the bar, not about consulting counsel.",
+    "tags": [
+      "name-that-case",
+      "invocation",
+      "right-to-counsel-5a",
+      "shatzer",
+      "confusable"
+    ],
+    "cite": "Maryland v. Shatzer, 559 U.S. 98 (2010)",
+    "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-minnick-06",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "After invoking counsel, a suspect actually MEETS with his appointed lawyer several times. Days later officers return — counsel not present — and he talks. The Court suppresses, holding the prior consultation didn't reopen the door. Which case?",
+    "back": "**Minnick v. Mississippi (1990)**\nHolding: Once counsel is invoked, Edwards bars police-initiated re-interrogation without counsel PRESENT — and that protection is not satisfied merely because the suspect has already consulted with an attorney.\nSignature: \"counsel present,\" not just \"counsel consulted\"; the bar is not extinguished by a prior lawyer visit.\nWhy it matters: closed the loophole that an intervening attorney consultation lifts the Edwards shield.\n⚠ Don't confuse with **Shatzer** (a 14-day break in CUSTODY ends the Edwards bar) or **Edwards** itself (the foundational no-reinitiation rule). Minnick = consulting a lawyer is NOT enough to allow re-questioning.",
+    "tags": [
+      "name-that-case",
+      "invocation",
+      "right-to-counsel-5a",
+      "minnick",
+      "confusable"
+    ],
+    "cite": "Minnick v. Mississippi, 498 U.S. 146 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112513/minnick-v-mississippi/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-roberson-07",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A suspect arrested for a burglary invokes his right to counsel. Three days later, a different officer who doesn't know about the invocation Mirandizes him and questions him about a SEPARATE burglary, and he confesses. The Court suppresses. Which case?",
+    "back": "**Arizona v. Roberson (1988)**\nHolding: The Edwards bar is not offense-specific — once a suspect invokes counsel, police may not interrogate him about ANY offense, including an unrelated one, without counsel present (and a second officer's ignorance of the invocation is no excuse).\nSignature: invoking counsel shields against questioning on unrelated crimes too.\nWhy it matters: makes the Fifth Amendment Edwards rule broader than the offense-specific Sixth Amendment right.\n⚠ Don't confuse with **Mosley** — Mosley involved invoking SILENCE (re-approach about a different crime is OK); Roberson involved invoking COUNSEL (no questioning on any crime). The invoked right is what flips the result.",
+    "tags": [
+      "name-that-case",
+      "invocation",
+      "right-to-counsel-5a",
+      "roberson",
+      "confusable"
+    ],
+    "cite": "Arizona v. Roberson, 486 U.S. 675 (1988)",
+    "source": "https://www.courtlistener.com/opinion/112100/arizona-v-roberson/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-burbine-08",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Unknown to a suspect, his sister hires a lawyer who phones the station; police tell the lawyer there'll be no questioning that night, then question the suspect anyway. He waives his rights and confesses. The Court upholds the waiver. Which case?",
+    "back": "**Moran v. Burbine (1986)**\nHolding: A Miranda waiver is valid even though police failed to tell the suspect that an attorney was trying to reach him; events outside the suspect's knowledge don't bear on whether HE knowingly and voluntarily waived his rights.\nSignature: deception of the lawyer ≠ coercion of the suspect; the waiver turns on the suspect's own awareness.\nWhy it matters: the suspect — not the lawyer or family — holds the right; validity is judged from the suspect's perspective.\n⚠ Note: this is the FIFTH Amendment (Miranda) rule; once the SIXTH Amendment right attaches at formal charging, such police conduct is judged far more strictly.",
+    "tags": [
+      "name-that-case",
+      "waiver",
+      "right-to-counsel-5a",
+      "burbine"
+    ],
+    "cite": "Moran v. Burbine, 475 U.S. 412 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111614/moran-v-burbine/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-butler-09",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Given his rights and a waiver form, a suspect says \"I will talk to you but I am not signing any form\" and then answers questions. The Court holds a valid waiver can exist even without an express, signed waiver. Which case?",
+    "back": "**North Carolina v. Butler (1979)**\nHolding: An express written or oral waiver is not required; a valid Miranda waiver may be inferred from the suspect's words and conduct — but silence alone is never enough, and the burden stays on the government.\nSignature: waiver can be IMPLIED from a course of conduct (refusing to sign ≠ refusing to talk).\nWhy it matters: the foundation for \"implied waiver,\" later relied on in Berghuis v. Thompkins.\n⚠ Don't confuse with **Berghuis** — Butler establishes implied waiver; Berghuis applies it to a suspect who stayed mostly silent for hours and then answered.",
+    "tags": [
+      "name-that-case",
+      "waiver",
+      "butler",
+      "confusable"
+    ],
+    "cite": "North Carolina v. Butler, 441 U.S. 369 (1979)",
+    "source": "https://www.courtlistener.com/opinion/110065/north-carolina-v-butler/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-salinas-10",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A man voluntarily answers police questions (NOT in custody, no Miranda needed), but goes silent and looks nervous when asked whether his shotgun would match the shell casings. Prosecutors use that silence against him at trial, and the Court allows it. Which case?",
+    "back": "**Salinas v. Texas (2013)**\nHolding (plurality): A suspect's silence during non-custodial, pre-arrest questioning is not protected by the Fifth Amendment unless he EXPRESSLY invokes the privilege against self-incrimination; prosecutors may comment on unprotected pre-custody silence.\nSignature: you must \"expressly invoke the privilege\" — silence is not self-executing outside custody.\nWhy it matters: the privilege generally must be claimed; it doesn't automatically apply to voluntary, non-custodial encounters.\n⚠ Don't confuse with **Berghuis** (custodial — silence doesn't invoke the right either, but the setting is post-Miranda custody) or **Miranda/Doyle** (post-warning custodial silence CANNOT be used against you). Salinas = no warnings owed, silence not yet protected.",
+    "tags": [
+      "name-that-case",
+      "invocation",
+      "right-to-silence",
+      "salinas",
+      "confusable"
+    ],
+    "cite": "Salinas v. Texas, 570 U.S. 178 (2013)",
+    "source": "https://www.courtlistener.com/opinion/903977/salinas-v-texas/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-powell-11",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A suspect is told he has \"the right to talk to a lawyer before answering any of our questions\" and may invoke that right \"at any time.\" He argues this never clearly said he could have a lawyer DURING questioning. The Court upholds the warnings. Which case?",
+    "back": "**Florida v. Powell (2010)**\nHolding: Miranda warnings need not be given in any precise formulation; warnings are adequate if they reasonably convey the suspect's rights. Telling a suspect he can talk to a lawyer before questioning and invoke that right at any time reasonably conveyed the right to counsel during interrogation.\nSignature: no \"precise formulation\" required — substance over magic words.\nWhy it matters: the modern warning-adequacy standard; reasonable conveyance, not verbatim recital.\n⚠ Don't confuse with **Duckworth v. Eagan** — the other warning-adequacy case, where \"if and when you go to court\" language was upheld. Powell = lawyer \"before\" questioning; Duckworth = appointment timing caveat.",
+    "tags": [
+      "name-that-case",
+      "warning-adequacy",
+      "powell",
+      "confusable"
+    ],
+    "cite": "Florida v. Powell, 559 U.S. 50 (2010)",
+    "source": "https://www.courtlistener.com/opinion/1736/florida-v-powell/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-duckworth-12",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police tell a suspect he has the right to counsel, then add that they have no way to give him a lawyer now, but one will be appointed \"if and when you go to court.\" He argues this confused his rights. The Court upholds the warnings. Which case?",
+    "back": "**Duckworth v. Eagan (1989)**\nHolding: Warnings that include the phrase \"if and when you go to court\" do not render Miranda warnings inadequate; taken as a whole, the advisement reasonably conveyed the right to counsel before and during questioning.\nSignature: the \"if and when you go to court\" advisement — an accurate description of when counsel is appointed, not a defect.\nWhy it matters: warnings are evaluated as a whole for reasonable conveyance, not parsed for a perfect script.\n⚠ Don't confuse with **Powell** (\"right to talk to a lawyer before\" questioning, upheld) — both are warning-adequacy cases; Duckworth is the appointment-timing caveat, Powell is the \"before questioning\" phrasing.",
+    "tags": [
+      "name-that-case",
+      "warning-adequacy",
+      "duckworth",
+      "confusable"
+    ],
+    "cite": "Duckworth v. Eagan, 492 U.S. 195 (1989)",
+    "source": "https://www.courtlistener.com/opinion/112322/duckworth-v-eagan/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-elstad-13",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers get an un-Mirandized admission from a suspect in his living room (\"yes, I was there\"), then take him to the station, give full warnings, and obtain a complete signed confession. The Court admits the second statement. Which case?",
+    "back": "**Oregon v. Elstad (1985)**\nHolding: An initial, un-warned but voluntary statement does not automatically taint a later confession; if the suspect is then properly Mirandized and waives his rights, the second, warned statement is admissible.\nSignature: a Miranda violation is not \"fruit of the poisonous tree\" the way a Fourth Amendment violation is — the warned confession can stand.\nWhy it matters: the lead case allowing a properly-warned confession after an innocent earlier Miranda lapse.\n⚠ Don't confuse with **Seibert** — Elstad is the INNOCENT two-step (good faith, admissible); Seibert is the DELIBERATE question-first/warn-later strategy (impermissible). And vs **Patane** (physical fruits of an unwarned statement come in).",
+    "tags": [
+      "name-that-case",
+      "miranda-fruits",
+      "elstad",
+      "confusable"
+    ],
+    "cite": "Oregon v. Elstad, 470 U.S. 298 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111364/oregon-v-elstad/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-seibert-14",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "As a deliberate department tactic, an officer interrogates a suspect with NO warnings until she confesses, gives her a short break, then Mirandizes her and walks her back through the SAME confession. The Court suppresses the warned repeat. Which case?",
+    "back": "**Missouri v. Seibert (2004)**\nHolding (plurality): A deliberate \"question-first, warn-later\" two-step interrogation designed to undermine Miranda is impermissible; midstream warnings given after a calculated unwarned confession are ineffective, so the post-warning statement is inadmissible.\nSignature: the \"question-first\" / \"two-step\" technique — warnings that come too late can't function.\nWhy it matters: the limit on Elstad — good-faith sequencing is fine, but a strategy built to evade Miranda is not.\n⚠ Don't confuse with **Elstad** — Elstad is the innocent two-step (admissible); Seibert is the DELIBERATE one (suppressed). The distinguishing fact is whether the two-step was a calculated tactic.",
+    "tags": [
+      "name-that-case",
+      "miranda-fruits",
+      "seibert",
+      "confusable"
+    ],
+    "cite": "Missouri v. Seibert, 542 U.S. 600 (2004)",
+    "source": "https://www.courtlistener.com/opinion/137002/missouri-v-seibert/"
+  },
+  {
+    "id": "name-that-case-miranda-waiver-patane-15",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers fail to finish the Miranda warnings, but the suspect voluntarily tells them where his Glock is. They seize the (illegal) pistol. The statement is suppressed — but the Court admits the GUN. Which case?",
+    "back": "**United States v. Patane (2004)**\nHolding (plurality): The physical fruit of a voluntary but unwarned statement is admissible; a failure to give Miranda warnings does not require suppression of the physical evidence (the gun) it leads to.\nSignature: Miranda protects against compelled testimony — not against reliable physical evidence; the Court \"answer[ed] the question presented in the negative.\"\nWhy it matters: physical fruits of a mere Miranda (not Fifth Amendment-coercion) violation are not excluded.\n⚠ Don't confuse with **Elstad** (later WARNED statement admissible) or **Seibert** (deliberate two-step bad). Patane is specifically about PHYSICAL evidence — and requires that the statement be voluntary, not actually coerced.",
+    "tags": [
+      "name-that-case",
+      "miranda-fruits",
+      "patane",
+      "confusable"
+    ],
+    "cite": "United States v. Patane, 542 U.S. 630 (2004)",
+    "source": "https://www.courtlistener.com/opinion/137003/united-states-v-patane/"
+  }
+]

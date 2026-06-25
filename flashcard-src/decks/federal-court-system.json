@@ -1,0 +1,177 @@
+[
+  {
+    "id": "federal-court-system-three-tier-hierarchy-01",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "What are the three tiers of the federal court system, bottom to top?",
+    "back": "U.S. District Courts (trial courts) -> U.S. Courts of Appeals (the circuits) -> U.S. Supreme Court (the final word on federal law).",
+    "tags": ["federal-court-system", "hierarchy", "doctrine"]
+  },
+  {
+    "id": "federal-court-system-district-court-role-02",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "In the federal system, where does a criminal case start and where are suppression motions heard?",
+    "back": "In the U.S. District Courts, the federal trial courts. They hold trials, evidentiary hearings, and (critically for this course) suppression motions. There is at least one district in every state. A case is normally heard by a single district judge.",
+    "tags": ["federal-court-system", "district-court", "suppression-motion"]
+  },
+  {
+    "id": "federal-court-system-appeals-panel-enbanc-03",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "How are appeals normally heard in a U.S. Court of Appeals, and what can override a panel?",
+    "back": "Appeals are normally heard by a three-judge panel. The most significant cases can be reheard en banc (the full active bench of the circuit), which can overrule the panel.",
+    "tags": ["federal-court-system", "courts-of-appeals", "three-judge-panel", "en-banc"]
+  },
+  {
+    "id": "federal-court-system-13-courts-of-appeals-04",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "How many U.S. courts of appeals are there, and what makes up the count?",
+    "back": "13 total: 12 regional circuits (the 11 numbered circuits, 1st-11th, plus the D.C. Circuit) + 1 Federal Circuit, which is subject-matter (e.g., patents), not geographic.",
+    "tags": ["federal-court-system", "courts-of-appeals", "thirteen-circuits"]
+  },
+  {
+    "id": "federal-court-system-federal-circuit-05",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "What distinguishes the Federal Circuit from the other 12 courts of appeals?",
+    "back": "It is subject-matter, not geographic. It hears specialized appeals nationwide (e.g., patents, certain claims against the United States), not the run of criminal and Fourth Amendment appeals. For suppression work, the circuit you care about is the regional one over the district where the case sits.",
+    "tags": ["federal-court-system", "federal-circuit", "courts-of-appeals"]
+  },
+  {
+    "id": "federal-court-system-vertical-stare-decisis-06",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "definition",
+    "front": "Vertical stare decisis -- define it (federal courts).",
+    "back": "A court is bound by the courts above it in its own line: district courts are bound by their circuit and by SCOTUS; a circuit's panels are bound by SCOTUS; and SCOTUS binds everyone on a question of federal law.",
+    "tags": ["federal-court-system", "stare-decisis", "vertical", "definition"]
+  },
+  {
+    "id": "federal-court-system-horizontal-stare-decisis-07",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "definition",
+    "front": "Horizontal stare decisis -- define it (federal courts).",
+    "back": "A court generally follows its own prior published decisions. A circuit panel is bound by earlier published panel decisions of that same circuit -- one panel cannot overrule another. Only the full court en banc, or SCOTUS, can change settled circuit law.",
+    "tags": ["federal-court-system", "stare-decisis", "horizontal", "definition"]
+  },
+  {
+    "id": "federal-court-system-district-not-binding-08",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "Is a U.S. District Court decision binding precedent?",
+    "back": "No. District-court decisions are persuasive only -- even on the same judge, and certainly on other judges. One ruling, however well-reasoned, does not make a rule.",
+    "tags": ["federal-court-system", "district-court", "persuasive-only"]
+  },
+  {
+    "id": "federal-court-system-circuit-binds-within-09",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "Does a circuit's precedent bind courts in another circuit?",
+    "back": "No. Circuit precedent binds only within that circuit. A Fifth Circuit holding is law in the Fifth Circuit and merely persuasive in the Ninth.",
+    "tags": ["federal-court-system", "courts-of-appeals", "within-circuit", "persuasive-only"]
+  },
+  {
+    "id": "federal-court-system-circuit-split-def-10",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "definition",
+    "front": "Circuit split -- define it.",
+    "back": "The same federal question answered differently in different circuits, so the governing rule literally depends on where you stand until SCOTUS resolves it. A split is a classic cert vehicle, not settled law.",
+    "tags": ["federal-court-system", "circuit-split", "definition"]
+  },
+  {
+    "id": "federal-court-system-state-court-binding-11",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "Must a state court follow the federal court of appeals for its region on a federal question?",
+    "back": "No. State courts are bound by SCOTUS on federal law (e.g., the Fourth Amendment), but NOT by their regional circuit. Only SCOTUS binds them on federal questions; the regional circuit binds the federal courts in its territory, not the state courts there.",
+    "tags": ["federal-court-system", "state-courts", "scotus-binding"]
+  },
+  {
+    "id": "federal-court-system-scotus-composition-12",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "Who sets the number of Supreme Court Justices, and what does the Constitution actually fix?",
+    "back": "Congress sets the number of Associate Justices by statute -- it has ranged from 6 to 10 and has been fixed at 9 since 1869. The Constitution mentions only the Chief Justice and does not fix the Court's size. The Court today has 9 Justices: one Chief and eight Associates.",
+    "tags": ["federal-court-system", "supreme-court", "composition", "congress"]
+  },
+  {
+    "id": "federal-court-system-scotus-tenure-13",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "cloze",
+    "front": "Supreme Court Justices are nominated by the {{President}} and confirmed by the {{Senate}}; under Article III they hold office \"during good Behaviour\" -- in practice {{lifetime tenure}}.",
+    "back": "Nominated by the President, confirmed by the Senate; Article III good-behavior tenure means lifetime tenure absent resignation, retirement, or impeachment.",
+    "tags": ["federal-court-system", "supreme-court", "appointment", "article-iii"]
+  },
+  {
+    "id": "federal-court-system-rule-of-four-14",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "What is the \"rule of four\" for the Supreme Court?",
+    "back": "Four of the nine Justices must vote to grant certiorari for the Supreme Court to hear a case. Review is discretionary.",
+    "tags": ["federal-court-system", "supreme-court", "certiorari", "rule-of-four"]
+  },
+  {
+    "id": "federal-court-system-cert-selectivity-15",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "How selective is certiorari, and how do most cases reach the Supreme Court?",
+    "back": "Almost entirely by the Court's choice, via writ of certiorari. The Court receives several thousand petitions a term (commonly ~5,000-7,000) and grants plenary review in only about 60-80 -- roughly 1%. (Original jurisdiction and certified questions are rare.)",
+    "tags": ["federal-court-system", "certiorari", "discretionary-review"]
+  },
+  {
+    "id": "federal-court-system-cert-denied-pitfall-16",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "Pitfall: does \"cert denied\" mean the Supreme Court agreed with (affirmed) the lower court?",
+    "back": "No. A denial of certiorari decides nothing on the merits and sets no precedent -- it just leaves the lower court's decision standing without endorsing it. Don't cite it as Supreme Court approval.",
+    "tags": ["federal-court-system", "certiorari", "cert-denied", "pitfall"]
+  },
+  {
+    "id": "federal-court-system-binding-pitfall-17",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "Pitfall: an instructor cites a well-reasoned district-court ruling, or a sister-circuit case, as the binding rule for a search. What is wrong?",
+    "back": "Neither is binding. A district-court opinion is persuasive only -- one ruling does not make a rule. An out-of-circuit (sister circuit) holding is persuasive, not controlling. Confirm the case is from your circuit (or SCOTUS) before teaching a search from it.",
+    "tags": ["federal-court-system", "district-court", "out-of-circuit", "pitfall"]
+  },
+  {
+    "id": "federal-court-system-marbury-judicial-review-18",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "qa",
+    "front": "What did Marbury v. Madison (1803) establish, and what is its significance for this course?",
+    "back": "Judicial review -- it is the province and duty of the judiciary to say what the law is, and a law repugnant to the Constitution is void. SCOTUS therefore has the ultimate authority to say what the Constitution means; its Fourth Amendment interpretations are the binding federal floor for every doctrine page.",
+    "tags": ["federal-court-system", "marbury", "judicial-review", "supreme-court"],
+    "cite": "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)",
+    "source": "https://www.courtlistener.com/opinion/84759/marbury-v-madison/"
+  },
+  {
+    "id": "federal-court-system-marbury-quote-19",
+    "page": "federal-court-system",
+    "topic": "The Federal Court System",
+    "type": "cloze",
+    "front": "Marbury v. Madison (1803): \"It is emphatically the province and duty of the {{judicial department}} to {{say what the law is}}.\"",
+    "back": "\"It is emphatically the province and duty of the judicial department to say what the law is.\" -- the foundational statement of judicial review.",
+    "tags": ["federal-court-system", "marbury", "judicial-review", "quote"],
+    "cite": "Marbury v. Madison, 5 U.S. (1 Cranch) at 177",
+    "source": "https://www.courtlistener.com/opinion/84759/marbury-v-madison/"
+  }
+]

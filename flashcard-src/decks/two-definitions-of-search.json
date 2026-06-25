@@ -1,0 +1,433 @@
+[
+  {
+    "id": "two-definitions-of-search-two-theories-01",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "What are the TWO independent theories under which government conduct becomes a Fourth Amendment \"search\"?",
+    "back": "(1) Trespass/property — a physical intrusion on a constitutionally protected area to obtain information (Jones); (2) reasonable expectation of privacy (Katz). Either one alone suffices.",
+    "tags": ["two-definitions-of-search", "trespass-vs-privacy", "search-definition"]
+  },
+  {
+    "id": "two-definitions-of-search-either-suffices-02",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Under the two-theories framework, what is the relationship between the trespass theory and the Katz privacy theory — must conduct satisfy both, or is one enough?",
+    "back": "The two theories are independent — satisfying either one alone makes the conduct a search; neither is required to also satisfy the other.",
+    "tags": ["two-definitions-of-search", "trespass-vs-privacy", "either-suffices"]
+  },
+  {
+    "id": "two-definitions-of-search-trespass-vs-privacy-distinction-03",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "How does the TRESPASS theory of a search differ from the PRIVACY (Katz) theory?",
+    "back": "Trespass focuses on a physical intrusion onto a protected area (person, house, paper, effect) to obtain information; privacy focuses on invading an expectation society accepts as reasonable, with no physical intrusion required at all.",
+    "tags": ["two-definitions-of-search", "trespass-vs-privacy", "distinction"]
+  },
+  {
+    "id": "two-definitions-of-search-overlap-not-identical-04",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Are the trespass theory and the privacy theory of a search co-extensive — and if not, how do they relate?",
+    "back": "Not co-extensive. They overlap but are distinct — a trespass is often, but not always, also a privacy violation, and a privacy invasion can occur with no trespass.",
+    "tags": ["two-definitions-of-search", "trespass-vs-privacy", "overlap"]
+  },
+  {
+    "id": "two-definitions-of-search-jones-test-05",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "What TWO elements does the Jones trespass test for a search require?",
+    "back": "(1) A physical intrusion on a constitutionally protected area, conjoined with (2) intent to obtain information. Trespass alone is not enough.",
+    "tags": ["two-definitions-of-search", "jones", "trespass-test"],
+    "cite": "United States v. Jones, 565 U.S. 400, 408 n.5 (2012)",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  },
+  {
+    "id": "two-definitions-of-search-jones-trespass-alone-06",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "cloze",
+    "front": "Jones (trespass test): \"{{c1::Trespass alone does not qualify}}, but there must be conjoined with that ... an attempt to find something or to obtain information.\"",
+    "back": "Trespass alone does not qualify — there must also be intent/attempt to obtain information.",
+    "tags": ["two-definitions-of-search", "jones", "trespass-test"],
+    "cite": "United States v. Jones, 565 U.S. 400, 408 n.5 (2012)",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  },
+  {
+    "id": "two-definitions-of-search-jones-protected-areas-07",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Under the trespass theory, the physical intrusion must be onto which constitutionally protected areas?",
+    "back": "The Fourth Amendment's enumerated categories: \"persons, houses, papers, and effects.\"",
+    "tags": ["two-definitions-of-search", "trespass-test", "protected-areas"]
+  },
+  {
+    "id": "two-definitions-of-search-katz-prong-source-08",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "The familiar two-prong reasonable-expectation-of-privacy test — does it come from the Katz MAJORITY or from a concurrence?",
+    "back": "From Justice Harlan's CONCURRENCE, not the majority opinion.",
+    "tags": ["two-definitions-of-search", "katz", "harlan-concurrence", "pitfall"],
+    "cite": "Katz v. United States, 389 U.S. 347, 361 (1967) (Harlan, J., concurring)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-katz-two-prongs-09",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "What are the two prongs of Justice Harlan's Katz expectation-of-privacy test?",
+    "back": "(1) A person exhibited an actual (subjective) expectation of privacy; and (2) one society is prepared to recognize as \"reasonable.\"",
+    "tags": ["two-definitions-of-search", "katz", "harlan-concurrence", "privacy-test"],
+    "cite": "Katz v. United States, 389 U.S. 347, 361 (1967) (Harlan, J., concurring)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-katz-subjective-prong-10",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "What is the SUBJECTIVE prong of Harlan's Katz privacy test?",
+    "back": "That the person exhibited an actual (subjective) expectation of privacy.",
+    "tags": ["two-definitions-of-search", "katz", "privacy-test", "subjective-prong"],
+    "cite": "Katz v. United States, 389 U.S. 347, 361 (1967) (Harlan, J., concurring)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-katz-objective-prong-11",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "What is the OBJECTIVE prong of Harlan's Katz privacy test?",
+    "back": "That the expectation is one society is prepared to recognize as \"reasonable.\"",
+    "tags": ["two-definitions-of-search", "katz", "privacy-test", "objective-prong"],
+    "cite": "Katz v. United States, 389 U.S. 347, 361 (1967) (Harlan, J., concurring)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-katz-majority-holding-12",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "What rule did the Katz MAJORITY actually state (as opposed to Harlan's concurrence)?",
+    "back": "\"The Fourth Amendment protects people, not places\"; and \"[w]hat a person knowingly exposes to the public ... is not a subject of Fourth Amendment protection.\"",
+    "tags": ["two-definitions-of-search", "katz", "majority-rule"],
+    "cite": "Katz v. United States, 389 U.S. 347, 351 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-katz-people-not-places-13",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "cloze",
+    "front": "Katz majority: \"The Fourth Amendment protects {{c1::people, not places}}.\"",
+    "back": "people, not places",
+    "tags": ["two-definitions-of-search", "katz", "majority-rule"],
+    "cite": "Katz v. United States, 389 U.S. 347, 351 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-katz-facts-14",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Government attached a listening/recording device to the outside of a public telephone booth, with no physical penetration of the booth. Which case, and was it a search?",
+    "back": "Katz v. United States (1967) — yes, it was a search even though there was no trespass; it overruled Olmstead's trespass-only view.",
+    "tags": ["two-definitions-of-search", "katz", "facts-to-case"],
+    "cite": "Katz v. United States, 389 U.S. 347 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-katz-overrules-olmstead-15",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Which earlier wiretap decision did Katz overrule, and on what point?",
+    "back": "Katz overruled Olmstead v. United States (1928) on its trespass-only view — a search can occur with no physical entry.",
+    "tags": ["two-definitions-of-search", "katz", "olmstead", "historical-arc"],
+    "cite": "Katz v. United States, 389 U.S. 347 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-olmstead-holding-16",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "What did Olmstead v. United States (1928) hold about wiretapping that involved no physical entry of the defendants' premises?",
+    "back": "That it was NOT a Fourth Amendment search — a pure property/trespass framing requiring a physical entry.",
+    "tags": ["two-definitions-of-search", "olmstead", "holding", "historical-arc"],
+    "cite": "Olmstead v. United States, 277 U.S. 438, 457, 464 (1928)",
+    "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-olmstead-rationale-17",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "cloze",
+    "front": "Olmstead's no-search rationale: \"There was no searching. There was no seizure. ... There was no {{c1::entry of the houses or offices of the defendants}}.\"",
+    "back": "entry of the houses or offices of the defendants",
+    "tags": ["two-definitions-of-search", "olmstead", "rationale"],
+    "cite": "Olmstead v. United States, 277 U.S. 438, 464 (1928)",
+    "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-olmstead-brandeis-18",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Which Olmstead dissent foreshadowed the modern privacy theory, and with what phrase?",
+    "back": "Justice Brandeis's dissent, urging a broad \"right to be let alone.\"",
+    "tags": ["two-definitions-of-search", "olmstead", "brandeis-dissent"],
+    "cite": "Olmstead v. United States, 277 U.S. 438, 478 (1928) (Brandeis, J., dissenting)",
+    "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-olmstead-revived-19",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Is Olmstead simply a dead letter today?",
+    "back": "No. It is overruled on the privacy point by Katz, but its property/physical-entry instinct was REVIVED by Jones as an independent route to finding a search.",
+    "tags": ["two-definitions-of-search", "olmstead", "jones", "pitfall", "historical-arc"]
+  },
+  {
+    "id": "two-definitions-of-search-silverman-facts-20",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Officers pushed a \"spike mike\" into a party wall until it contacted the heating duct of the house. Which case, and was it a search?",
+    "back": "Silverman v. United States (1961) — yes, an unauthorized physical penetration into a constitutionally protected area, and thus a search.",
+    "tags": ["two-definitions-of-search", "silverman", "facts-to-case"],
+    "cite": "Silverman v. United States, 365 U.S. 505, 509-12 (1961)",
+    "source": "https://www.courtlistener.com/opinion/106187/silverman-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-silverman-holding-21",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "What did Silverman v. United States (1961) hold the test turned on — and what did it expressly decline to rest on?",
+    "back": "It turned on an unauthorized physical intrusion into a constitutionally protected area; the Court expressly declined to rest on local-law refinements of \"technical trespass.\"",
+    "tags": ["two-definitions-of-search", "silverman", "holding"],
+    "cite": "Silverman v. United States, 365 U.S. 505, 511-12 (1961)",
+    "source": "https://www.courtlistener.com/opinion/106187/silverman-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-silverman-not-local-law-22",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Per Silverman, must a Fourth Amendment trespass track state property/tort law to count as a search?",
+    "back": "No. \"Inherent Fourth Amendment rights are not inevitably measurable in terms of ancient niceties of tort or real property law\" — the unauthorized physical penetration into the home was enough.",
+    "tags": ["two-definitions-of-search", "silverman", "trespass-vs-local-law"],
+    "cite": "Silverman v. United States, 365 U.S. 505, 511 (1961)",
+    "source": "https://www.courtlistener.com/opinion/106187/silverman-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-jones-facts-23",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Government installed a GPS tracker on a vehicle and monitored its movements. Which case, and on which theory was it a search?",
+    "back": "United States v. Jones (2012) — a search under the revived TRESPASS theory (physical intrusion on an \"effect\" to obtain information), without reaching Katz.",
+    "tags": ["two-definitions-of-search", "jones", "facts-to-case", "trespass-theory"],
+    "cite": "United States v. Jones, 565 U.S. 400 (2012)",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  },
+  {
+    "id": "two-definitions-of-search-jones-significance-24",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Why does Jones matter — what is its significance in the search-definition framework?",
+    "back": "It is the controlling modern trespass-search case: it revived the property/trespass theory as an independent route to a \"search,\" running in parallel with Katz.",
+    "tags": ["two-definitions-of-search", "jones", "significance"],
+    "cite": "United States v. Jones, 565 U.S. 400 (2012)",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  },
+  {
+    "id": "two-definitions-of-search-jones-occupied-property-25",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "cloze",
+    "front": "Jones described the trespass as: \"The Government physically {{c1::occupied private property for the purpose of obtaining information}}.\"",
+    "back": "occupied private property for the purpose of obtaining information",
+    "tags": ["two-definitions-of-search", "jones", "trespass-theory"],
+    "cite": "United States v. Jones, 565 U.S. 400, 404 (2012)",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  },
+  {
+    "id": "two-definitions-of-search-jones-did-not-replace-katz-26",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Did Jones REPLACE the Katz privacy test with the trespass test?",
+    "back": "No. Jones revived the property/trespass baseline that Katz had supplemented; it did not overrule Katz. The two theories now run in parallel.",
+    "tags": ["two-definitions-of-search", "jones", "katz", "distinction"],
+    "cite": "United States v. Jones, 565 U.S. 400, 408 (2012)",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  },
+  {
+    "id": "two-definitions-of-search-jones-katz-not-narrowed-27",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "cloze",
+    "front": "Jones on the relationship between the theories: \"Katz did not {{c1::narrow the Fourth Amendment's scope}}.\"",
+    "back": "narrow the Fourth Amendment's scope",
+    "tags": ["two-definitions-of-search", "jones", "katz"],
+    "cite": "United States v. Jones, 565 U.S. 400, 408 (2012)",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  },
+  {
+    "id": "two-definitions-of-search-jones-rights-do-not-rise-fall-28",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Per Jones, do a defendant's Fourth Amendment rights depend solely on the Katz formulation?",
+    "back": "No — a defendant's \"Fourth Amendment rights do not rise or fall with the Katz formulation.\" The trespass theory is an independent basis.",
+    "tags": ["two-definitions-of-search", "jones", "either-suffices"],
+    "cite": "United States v. Jones, 565 U.S. 400, 406 (2012)",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  },
+  {
+    "id": "two-definitions-of-search-property-not-snuffed-out-29",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "How did Jones (quoting Soldal v. Cook County) describe what Katz did to property-based protection?",
+    "back": "Katz \"established that property rights are not the sole measure of Fourth Amendment violations, but did not snuff out the previously recognized protection for property.\"",
+    "tags": ["two-definitions-of-search", "jones", "soldal", "trespass-vs-privacy"],
+    "cite": "United States v. Jones, 565 U.S. 400, 407 (2012) (quoting Soldal v. Cook County, 506 U.S. 56, 64 (1992))",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  },
+  {
+    "id": "two-definitions-of-search-jardines-facts-30",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Officers brought a drug-detection dog onto the front porch of a home to sniff for narcotics. Which case, and on which theory was it a search?",
+    "back": "Florida v. Jardines (2013) — a search under the Jones TRESPASS theory: entering the curtilage with the dog exceeded the implied license to approach and knock.",
+    "tags": ["two-definitions-of-search", "jardines", "facts-to-case", "trespass-theory"],
+    "cite": "Florida v. Jardines, 569 U.S. 1 (2013)",
+    "source": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/"
+  },
+  {
+    "id": "two-definitions-of-search-jardines-significance-31",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "What is Jardines's significance for the trespass theory of a search?",
+    "back": "It applied the Jones trespass theory to the home's curtilage — exceeding the implied license to approach is a trespassory search, and the Court did not need to reach Katz privacy.",
+    "tags": ["two-definitions-of-search", "jardines", "significance", "curtilage"],
+    "cite": "Florida v. Jardines, 569 U.S. 1, 5-8, 11 (2013)",
+    "source": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/"
+  },
+  {
+    "id": "two-definitions-of-search-carpenter-holding-32",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "What did Carpenter v. United States (2018) hold about the government acquiring extended historical cell-site location information (CSLI)?",
+    "back": "It is a search — a person has a reasonable expectation of privacy in \"the whole of their physical movements.\"",
+    "tags": ["two-definitions-of-search", "carpenter", "holding", "privacy-theory"],
+    "cite": "Carpenter v. United States, 585 U.S. 296, 310-16 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-carpenter-whole-of-movements-33",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "cloze",
+    "front": "Carpenter: individuals have a reasonable expectation of privacy in \"the {{c1::whole of their physical movements}}.\"",
+    "back": "whole of their physical movements",
+    "tags": ["two-definitions-of-search", "carpenter", "privacy-theory"],
+    "cite": "Carpenter v. United States, 585 U.S. 296, 310 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-carpenter-third-party-34",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "What is the third-party doctrine, and what did Carpenter do to it?",
+    "back": "The third-party doctrine is the rule that information voluntarily shared with a third party generally loses Fourth Amendment protection. Carpenter NARROWED it for pervasive digital location data; it did not abolish it.",
+    "tags": ["two-definitions-of-search", "carpenter", "third-party-doctrine", "pitfall"],
+    "cite": "Carpenter v. United States, 585 U.S. 296, 310-16 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-carpenter-significance-35",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "In the historical arc of the privacy theory, what does Carpenter represent?",
+    "back": "The Katz privacy theory recalibrating to new technology — applying reasonable-expectation-of-privacy analysis to pervasive digital-age location data.",
+    "tags": ["two-definitions-of-search", "carpenter", "katz", "historical-arc", "privacy-theory"],
+    "cite": "Carpenter v. United States, 585 U.S. 296 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-pitfall-no-trespass-no-search-36",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Common pitfall: an officer assumes \"no physical trespass means no search.\" Why is that wrong?",
+    "back": "That was Olmstead, which Katz overruled. A bug on a phone booth, a thermal scan, or long-term CSLI can be a search with zero physical entry under the privacy theory.",
+    "tags": ["two-definitions-of-search", "pitfall", "privacy-theory"]
+  },
+  {
+    "id": "two-definitions-of-search-pitfall-no-privacy-no-search-37",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Common pitfall: an officer assumes \"no privacy invasion means no search.\" Why is that wrong?",
+    "back": "Jones and Jardines find a search on TRESPASS grounds even where a pure Katz analysis is contested (e.g., a car's location on public roads). Trespass to gather information is independently a search.",
+    "tags": ["two-definitions-of-search", "pitfall", "trespass-theory"]
+  },
+  {
+    "id": "two-definitions-of-search-pitfall-katz-majority-38",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Common pitfall: attributing the two-prong reasonable-expectation test to the Katz majority. What is the correct attribution?",
+    "back": "It is Justice Harlan's concurrence — cite it as Katz, 389 U.S. at 361 (Harlan, J., concurring), not the majority.",
+    "tags": ["two-definitions-of-search", "pitfall", "katz", "harlan-concurrence"],
+    "cite": "Katz v. United States, 389 U.S. 347, 361 (1967) (Harlan, J., concurring)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "two-definitions-of-search-historical-arc-trespass-39",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Name the historical arc of the TRESPASS theory of a search (three cases, in order).",
+    "back": "Olmstead (1928, property/entry framing) → Silverman (1961, physical penetration into the home) → Jones (2012, revived trespass theory) — extended to curtilage in Jardines (2013).",
+    "tags": ["two-definitions-of-search", "historical-arc", "trespass-theory"]
+  },
+  {
+    "id": "two-definitions-of-search-historical-arc-privacy-40",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Name the historical arc of the PRIVACY theory of a search (two anchor cases, in order).",
+    "back": "Katz (1967, reasonable expectation of privacy supplements property) → Carpenter (2018, privacy theory recalibrated for digital-age CSLI).",
+    "tags": ["two-definitions-of-search", "historical-arc", "privacy-theory"]
+  },
+  {
+    "id": "two-definitions-of-search-katz-supplement-not-supplant-41",
+    "page": "two-definitions-of-search",
+    "topic": "Two Definitions of Search",
+    "type": "qa",
+    "front": "Did Katz SUPPLANT the property baseline or merely SUPPLEMENT it?",
+    "back": "It supplemented it. Katz added the privacy theory; it did not eliminate property-based protection, which Jones later revived as an independent route.",
+    "tags": ["two-definitions-of-search", "katz", "jones", "distinction", "historical-arc"],
+    "cite": "United States v. Jones, 565 U.S. 400, 408 (2012)",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "consent-searches-core-rule-01",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What is consent's place among the justifications for a warrantless search, and which CREW letter does it supply?",
+    "back": "Consent is a recognized, warrant-free justification for a search — it is the \"C\" of CREW.",
+    "tags": ["consent-searches", "crew", "warrant-exception", "doctrine"]
+  },
+  {
+    "id": "consent-searches-three-prongs-02",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What are the three prongs that must all line up for a valid consent search?",
+    "back": "(1) Voluntariness (totality of circumstances, no warning needed — Schneckloth); (2) Authority (actual common authority — Matlock — or apparent authority — Rodriguez); (3) Scope (objective reasonableness; suspect may delimit — Jimeno).",
+    "tags": ["consent-searches", "three-prongs", "voluntariness", "authority", "scope", "doctrine"]
+  },
+  {
+    "id": "consent-searches-prong1-cloze-03",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "cloze",
+    "front": "Consent-search prong one is {{voluntariness}}, anchored in the case {{Schneckloth v. Bustamonte}}.",
+    "back": "voluntariness; Schneckloth v. Bustamonte",
+    "tags": ["consent-searches", "voluntariness", "schneckloth", "three-prongs"]
+  },
+  {
+    "id": "consent-searches-prong2-cloze-04",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "cloze",
+    "front": "Consent-search prong two is {{authority}} — either actual common authority ({{Matlock}}) or apparent authority ({{Illinois v. Rodriguez}}).",
+    "back": "authority; Matlock; Illinois v. Rodriguez",
+    "tags": ["consent-searches", "authority", "matlock", "rodriguez", "three-prongs"]
+  },
+  {
+    "id": "consent-searches-prong3-cloze-05",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "cloze",
+    "front": "Consent-search prong three is {{scope}} — measured by objective reasonableness, anchored in {{Florida v. Jimeno}}.",
+    "back": "scope; Florida v. Jimeno",
+    "tags": ["consent-searches", "scope", "jimeno", "three-prongs"]
+  },
+  {
+    "id": "consent-searches-schneckloth-holding-06",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What did Schneckloth v. Bustamonte hold about how the voluntariness of a consent search is determined?",
+    "back": "Voluntariness is a question of fact determined from the totality of all the circumstances.",
+    "tags": ["consent-searches", "schneckloth", "voluntariness", "totality", "holding"],
+    "cite": "Schneckloth v. Bustamonte, 412 U.S. at 227",
+    "source": "https://www.courtlistener.com/opinion/108800/schneckloth-v-bustamonte/"
+  },
+  {
+    "id": "consent-searches-schneckloth-no-warning-07",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Under Schneckloth v. Bustamonte, must the government prove the consenting person knew of the right to refuse?",
+    "back": "No — there is no Miranda-style warning requirement. Knowledge of the right to refuse is merely one factor, not the sine qua non of effective consent.",
+    "tags": ["consent-searches", "schneckloth", "voluntariness", "no-warning", "holding"],
+    "cite": "Schneckloth v. Bustamonte, 412 U.S. at 227",
+    "source": "https://www.courtlistener.com/opinion/108800/schneckloth-v-bustamonte/"
+  },
+  {
+    "id": "consent-searches-schneckloth-quote-08",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Quote Schneckloth's verbatim formulation of the consent-voluntariness test.",
+    "back": "Whether consent was \"in fact 'voluntary' or was the product of duress or coercion, express or implied, is a question of fact to be determined from the totality of all the circumstances.\"",
+    "tags": ["consent-searches", "schneckloth", "voluntariness", "quote", "totality"],
+    "cite": "Schneckloth v. Bustamonte, 412 U.S. at 227",
+    "source": "https://www.courtlistener.com/opinion/108800/schneckloth-v-bustamonte/"
+  },
+  {
+    "id": "consent-searches-schneckloth-facts-09",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Which consent-search case established that no warning of the right to refuse is required and that voluntariness turns on the totality of the circumstances?",
+    "back": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973).",
+    "tags": ["consent-searches", "schneckloth", "recognize-case", "voluntariness"],
+    "cite": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+    "source": "https://www.courtlistener.com/opinion/108800/schneckloth-v-bustamonte/"
+  },
+  {
+    "id": "consent-searches-watson-holding-10",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What did United States v. Watson hold about whether being in custody renders consent involuntary?",
+    "back": "Custody alone never demonstrates coerced consent; being under arrest is one factor in the voluntariness totality, not per se coercion.",
+    "tags": ["consent-searches", "watson", "voluntariness", "custody", "holding"],
+    "cite": "United States v. Watson, 423 U.S. at 424",
+    "source": "https://www.courtlistener.com/opinion/109352/united-states-v-watson/"
+  },
+  {
+    "id": "consent-searches-watson-quote-11",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Quote Watson's verbatim statement on whether the fact of custody alone can show coerced consent.",
+    "back": "\"[T]he fact of custody alone has never been enough in itself to demonstrate a coerced confession or consent to search.\"",
+    "tags": ["consent-searches", "watson", "custody", "quote", "voluntariness"],
+    "cite": "United States v. Watson, 423 U.S. at 424",
+    "source": "https://www.courtlistener.com/opinion/109352/united-states-v-watson/"
+  },
+  {
+    "id": "consent-searches-watson-setting-caveat-12",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Watson's voluntary-consent holding arose in what setting, and what setting did Schneckloth expressly reserve?",
+    "back": "Watson's consent was given on a public street while under arrest; consent obtained from a person held at the station was a question Schneckloth expressly reserved (412 U.S. at 240–41 & n.29). The more custodial and coercive the setting, the heavier the government's burden.",
+    "tags": ["consent-searches", "watson", "schneckloth", "custody", "nuance"],
+    "cite": "United States v. Watson, 423 U.S. at 424",
+    "source": "https://www.courtlistener.com/opinion/109352/united-states-v-watson/"
+  },
+  {
+    "id": "consent-searches-watson-recognize-13",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "A suspect, arrested and on a public street, consents to a search — which consent case holds that this custody does not, by itself, make the consent coerced?",
+    "back": "United States v. Watson, 423 U.S. 411 (1976).",
+    "tags": ["consent-searches", "watson", "recognize-case", "custody"],
+    "cite": "United States v. Watson, 423 U.S. 411 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109352/united-states-v-watson/"
+  },
+  {
+    "id": "consent-searches-matlock-common-authority-14",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Under United States v. Matlock, what does \"common authority\" rest on — and what does it NOT rest on?",
+    "back": "It rests on mutual use of the property by persons generally having joint access or control for most purposes — not on mere property/legal title.",
+    "tags": ["consent-searches", "matlock", "common-authority", "holding"],
+    "cite": "United States v. Matlock, 415 U.S. at 171 n.7",
+    "source": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/"
+  },
+  {
+    "id": "consent-searches-matlock-absent-cooccupant-15",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Under United States v. Matlock, against whom is the consent of one with common authority valid?",
+    "back": "It is valid against the absent, nonconsenting co-occupant with whom that authority is shared — who assumed the risk that any co-inhabitant might permit a search of the common area.",
+    "tags": ["consent-searches", "matlock", "common-authority", "absent-cooccupant", "holding"],
+    "cite": "United States v. Matlock, 415 U.S. at 170",
+    "source": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/"
+  },
+  {
+    "id": "consent-searches-matlock-quote-16",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Quote Matlock's verbatim definition of common authority.",
+    "back": "\"[M]utual use of the property by persons generally having joint access or control for most purposes, so that it is reasonable to recognize that any of the co-inhabitants has the right to permit the inspection in his own right and that the others have assumed the risk that one of their number might permit the common area to be searched.\"",
+    "tags": ["consent-searches", "matlock", "common-authority", "quote"],
+    "cite": "United States v. Matlock, 415 U.S. at 171 n.7",
+    "source": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/"
+  },
+  {
+    "id": "consent-searches-matlock-assumption-of-risk-17",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What is the rationale in Matlock for letting a co-occupant's consent bind an absent co-occupant, and which related doctrine does that logic link to?",
+    "back": "The assumption-of-risk rationale: co-inhabitants assume the risk that any one of them may permit a search of the common area. This logic links to abandonment.",
+    "tags": ["consent-searches", "matlock", "assumption-of-risk", "abandonment", "significance"]
+  },
+  {
+    "id": "consent-searches-rodriguez-apparent-authority-18",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What did Illinois v. Rodriguez hold about a warrantless entry based on the consent of someone who only appeared to have common authority?",
+    "back": "The entry is valid if officers, at the time of entry, reasonably (even if mistakenly) believed the consenting third party possessed common authority over the premises — i.e., apparent authority validates the entry.",
+    "tags": ["consent-searches", "rodriguez", "apparent-authority", "holding"],
+    "cite": "Illinois v. Rodriguez, 497 U.S. at 179",
+    "source": "https://www.courtlistener.com/opinion/112475/illinois-v-rodriguez/"
+  },
+  {
+    "id": "consent-searches-rodriguez-objective-standard-19",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "By what standard is apparent authority judged under Illinois v. Rodriguez?",
+    "back": "An objective standard: would the facts available to the officer at the moment warrant a person of reasonable caution in the belief that the consenting party had authority over the premises?",
+    "tags": ["consent-searches", "rodriguez", "apparent-authority", "objective-standard", "holding"],
+    "cite": "Illinois v. Rodriguez, 497 U.S. at 188",
+    "source": "https://www.courtlistener.com/opinion/112475/illinois-v-rodriguez/"
+  },
+  {
+    "id": "consent-searches-rodriguez-duty-to-inquire-20",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Under Illinois v. Rodriguez, what must an officer do when a reasonable officer would doubt the consenter's authority?",
+    "back": "Ambiguity triggers a duty to inquire further before relying on the consent (497 U.S. at 188–89); officers cannot rely on apparent authority when a reasonable officer would doubt it.",
+    "tags": ["consent-searches", "rodriguez", "apparent-authority", "duty-to-inquire", "pitfall"],
+    "cite": "Illinois v. Rodriguez, 497 U.S. at 188",
+    "source": "https://www.courtlistener.com/opinion/112475/illinois-v-rodriguez/"
+  },
+  {
+    "id": "consent-searches-actual-vs-apparent-21",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Distinguish actual common authority (Matlock) from apparent authority (Rodriguez) under the consent-search authority prong.",
+    "back": "Actual common authority (Matlock) requires the consenter genuinely to share mutual use/joint access. Apparent authority (Rodriguez) needs only an objectively reasonable — even if mistaken — police belief that the consenter had common authority.",
+    "tags": ["consent-searches", "matlock", "rodriguez", "authority", "distinction"]
+  },
+  {
+    "id": "consent-searches-jimeno-scope-standard-22",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Under Florida v. Jimeno, what is the standard for measuring the scope of a suspect's consent?",
+    "back": "Objective reasonableness — what the typical reasonable person would have understood by the exchange between the officer and the suspect.",
+    "tags": ["consent-searches", "jimeno", "scope", "objective-reasonableness", "holding"],
+    "cite": "Florida v. Jimeno, 500 U.S. at 251",
+    "source": "https://www.courtlistener.com/opinion/112595/florida-v-jimeno/"
+  },
+  {
+    "id": "consent-searches-jimeno-quote-23",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Quote Jimeno's verbatim formulation of the consent-scope standard.",
+    "back": "\"The standard for measuring the scope of a suspect's consent under the Fourth Amendment is that of 'objective' reasonableness — what would the typical reasonable person have understood by the exchange between the officer and the suspect?\"",
+    "tags": ["consent-searches", "jimeno", "scope", "quote", "objective-reasonableness"],
+    "cite": "Florida v. Jimeno, 500 U.S. at 251",
+    "source": "https://www.courtlistener.com/opinion/112595/florida-v-jimeno/"
+  },
+  {
+    "id": "consent-searches-jimeno-containers-24",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Under Florida v. Jimeno, does general consent to search a car for drugs reach closed containers inside the car?",
+    "back": "Yes — general consent to search a car for drugs reasonably extends to closed containers inside that might hold drugs; police need not separately request permission for each container.",
+    "tags": ["consent-searches", "jimeno", "scope", "containers", "holding"],
+    "cite": "Florida v. Jimeno, 500 U.S. at 251",
+    "source": "https://www.courtlistener.com/opinion/112595/florida-v-jimeno/"
+  },
+  {
+    "id": "consent-searches-jimeno-delimit-25",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Under Florida v. Jimeno, who controls the limits of a consent search, and how is that stated verbatim?",
+    "back": "The suspect controls the limits: \"A suspect may of course delimit as he chooses the scope of the search to which he consents.\"",
+    "tags": ["consent-searches", "jimeno", "scope", "delimit", "quote"],
+    "cite": "Florida v. Jimeno, 500 U.S. at 252",
+    "source": "https://www.courtlistener.com/opinion/112595/florida-v-jimeno/"
+  },
+  {
+    "id": "consent-searches-revocation-corollary-26",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What is the status of the rule that consent, once given, may be withdrawn or revoked before the search concludes?",
+    "back": "It is a circuit-level (persuasive), not a SCOTUS, holding. Federal circuits broadly recognize it as a corollary anchored in Jimeno's scope-control language (\"delimit as he chooses,\" 500 U.S. at 252); on an unequivocal withdrawal the officer must stop absent independent justification.",
+    "tags": ["consent-searches", "jimeno", "revocation", "persuasive", "scope", "nuance"]
+  },
+  {
+    "id": "consent-searches-limit-vs-revoke-27",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Distinguish the settled right to limit consent at the outset from the right to withdraw consent mid-search, by their legal weight.",
+    "back": "The right to limit (delimit) scope at the outset is settled SCOTUS law (Jimeno, 500 U.S. at 252). The right to withdraw consent once given is only a circuit-level/persuasive corollary, not a SCOTUS holding.",
+    "tags": ["consent-searches", "jimeno", "revocation", "distinction", "scope"]
+  },
+  {
+    "id": "consent-searches-randolph-holding-28",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What did Georgia v. Randolph hold about a search over the objection of a present co-tenant?",
+    "back": "A physically present, expressly objecting co-occupant's refusal prevails over another tenant's consent, rendering the warrantless search unreasonable and invalid as to the objector.",
+    "tags": ["consent-searches", "randolph", "co-tenant", "holding"],
+    "cite": "Georgia v. Randolph, 547 U.S. at 106",
+    "source": "https://www.courtlistener.com/opinion/145669/georgia-v-randolph/"
+  },
+  {
+    "id": "consent-searches-randolph-quote-29",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Quote Georgia v. Randolph's verbatim holding on a physically present co-occupant's refusal.",
+    "back": "\"[A] physically present co-occupant's stated refusal to permit entry prevails, rendering the warrantless search unreasonable and invalid as to him.\"",
+    "tags": ["consent-searches", "randolph", "co-tenant", "quote"],
+    "cite": "Georgia v. Randolph, 547 U.S. at 106",
+    "source": "https://www.courtlistener.com/opinion/145669/georgia-v-randolph/"
+  },
+  {
+    "id": "consent-searches-fernandez-holding-30",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "How did Fernandez v. California limit Georgia v. Randolph?",
+    "back": "Randolph is limited to situations where the objecting occupant is physically present. Once the objector is lawfully removed (e.g., by arrest), the remaining occupant's consent is valid.",
+    "tags": ["consent-searches", "fernandez", "randolph", "co-tenant", "holding"],
+    "cite": "Fernandez v. California, 571 U.S. at 296",
+    "source": "https://www.courtlistener.com/opinion/2654534/fernandez-v-california/"
+  },
+  {
+    "id": "consent-searches-fernandez-objectively-reasonable-31",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Under Fernandez v. California, what is the test for whether a removed objector's removal lets the remaining occupant consent?",
+    "back": "Not the officers' subjective intent, but whether the removal of the potential objector was objectively reasonable. A lawful arrest is fine; a staged removal to manufacture a \"yes\" is not.",
+    "tags": ["consent-searches", "fernandez", "co-tenant", "objectively-reasonable", "holding"],
+    "cite": "Fernandez v. California, 571 U.S. at 302",
+    "source": "https://www.courtlistener.com/opinion/2654534/fernandez-v-california/"
+  },
+  {
+    "id": "consent-searches-randolph-vs-fernandez-32",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Distinguish the operational rule of Georgia v. Randolph from that of Fernandez v. California for disputing co-tenants.",
+    "back": "Present objector = no (Randolph: the present objector's refusal defeats the other's consent). Objector lawfully/objectively-reasonably removed = yes (Fernandez: the remaining occupant may then validly consent).",
+    "tags": ["consent-searches", "randolph", "fernandez", "co-tenant", "distinction"]
+  },
+  {
+    "id": "consent-searches-person-area-specific-33",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Why does a driver's general consent to search \"the car\" not automatically reach a passenger's personal bag?",
+    "back": "Authority is person- and area-specific (Matlock common authority): the driver lacks common authority over a passenger's personal effects. Framed as objective reasonableness plus common authority, a reasonable officer would not understand the driver's consent or authority to extend to that item.",
+    "tags": ["consent-searches", "matlock", "jimeno", "authority", "pitfall"]
+  },
+  {
+    "id": "consent-searches-pitfall-warning-34",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Common pitfall: must officers Mirandize or warn of the right to refuse before asking to search?",
+    "back": "No. Under Schneckloth no warning is required — but voluntariness is still scrutinized on the totality of the circumstances.",
+    "tags": ["consent-searches", "schneckloth", "no-warning", "pitfall"]
+  },
+  {
+    "id": "consent-searches-pitfall-container-35",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Common pitfall: is every closed container off-limits under a general consent to search a car for drugs?",
+    "back": "No. Under Jimeno, general consent to search a car for drugs reaches containers that might hold drugs — unless the suspect limited the consent.",
+    "tags": ["consent-searches", "jimeno", "scope", "containers", "pitfall"]
+  },
+  {
+    "id": "consent-searches-analytical-sequence-36",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "In what order are the three consent-search prongs analyzed, and what happens if any one fails?",
+    "back": "Voluntary? then Authority? then Scope? If any prong fails, the consent is invalid (and the co-tenant-dispute branch can block a search as to a present objector even where authority otherwise exists).",
+    "tags": ["consent-searches", "three-prongs", "analytical-sequence", "doctrine"]
+  },
+  {
+    "id": "consent-searches-bumper-holding-37",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What did Bumper v. North Carolina hold about consent given after an officer claims to have a warrant?",
+    "back": "Consent that is mere acquiescence to a claim of lawful authority (e.g., the officer asserts a warrant) is invalid; the government cannot discharge its burden of proving voluntary consent by showing submission to a claim of authority.",
+    "tags": ["consent-searches", "bumper", "voluntariness", "acquiescence", "holding"],
+    "cite": "Bumper v. North Carolina, 391 U.S. at 548-50",
+    "source": "https://www.courtlistener.com/opinion/107716/bumper-v-north-carolina/"
+  },
+  {
+    "id": "consent-searches-bumper-burden-quote-38",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Quote Bumper's verbatim statement on the government's burden and what cannot discharge it.",
+    "back": "\"When a prosecutor seeks to rely upon consent to justify the lawfulness of a search, he has the burden of proving that the consent was, in fact, freely and voluntarily given. This burden cannot be discharged by showing no more than acquiescence to a claim of lawful authority.\"",
+    "tags": ["consent-searches", "bumper", "voluntariness", "burden", "quote"],
+    "cite": "Bumper v. North Carolina, 391 U.S. at 548-49",
+    "source": "https://www.courtlistener.com/opinion/107716/bumper-v-north-carolina/"
+  },
+  {
+    "id": "consent-searches-bumper-coercion-quote-39",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Quote Bumper on why an officer's claim of a warrant is coercive and forecloses consent.",
+    "back": "\"When a law enforcement officer claims authority to search a home under a warrant, he announces in effect that the occupant has no right to resist the search. The situation is instinct with coercion—albeit colorably lawful coercion. Where there is coercion there cannot be consent.\"",
+    "tags": ["consent-searches", "bumper", "coercion", "quote", "voluntariness"],
+    "cite": "Bumper v. North Carolina, 391 U.S. at 550",
+    "source": "https://www.courtlistener.com/opinion/107716/bumper-v-north-carolina/"
+  },
+  {
+    "id": "consent-searches-bumper-recognize-40",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "An officer falsely tells an occupant he has a warrant, and the occupant then \"agrees\" to the search — which consent case holds this acquiescence is not voluntary consent?",
+    "back": "Bumper v. North Carolina, 391 U.S. 543 (1968).",
+    "tags": ["consent-searches", "bumper", "recognize-case", "acquiescence"],
+    "cite": "Bumper v. North Carolina, 391 U.S. 543 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107716/bumper-v-north-carolina/"
+  },
+  {
+    "id": "consent-searches-drayton-no-refusal-warning-41",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What did United States v. Drayton hold about advising of the right to refuse a search?",
+    "back": "Officers need not advise a person of the right to refuse consent for that consent to be voluntary; knowledge of the right to refuse is one factor, not the sine qua non of effective consent, and voluntariness is judged on the totality of the circumstances.",
+    "tags": ["consent-searches", "drayton", "no-warning", "voluntariness", "holding"],
+    "cite": "United States v. Drayton, 536 U.S. at 206-07",
+    "source": "https://www.courtlistener.com/opinion/121153/united-states-v-drayton/"
+  },
+  {
+    "id": "consent-searches-robinette-free-to-go-42",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What did Ohio v. Robinette hold about telling a lawfully detained motorist he is \"free to go\" before consent?",
+    "back": "The Fourth Amendment does not require that a lawfully seized motorist be advised he is \"free to go\" before his consent to search will be deemed voluntary. \"We hold that it does not.\"",
+    "tags": ["consent-searches", "robinette", "no-warning", "free-to-go", "holding"],
+    "cite": "Ohio v. Robinette, 519 U.S. at 35, 39-40",
+    "source": "https://www.courtlistener.com/opinion/118066/ohio-v-robinette/"
+  },
+  {
+    "id": "consent-searches-no-warning-vs-bumper-43",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Distinguish the no-warning rule (Drayton / Robinette) from the voluntariness floor (Bumper) on prong one.",
+    "back": "No-warning rule: officers need NOT advise of the right to refuse (Drayton) or that the person is \"free to go\" (Robinette) for consent to be voluntary. Voluntariness floor: but a claim of lawful authority (e.g., asserting a warrant) converts \"yes\" into mere submission, which is NOT consent (Bumper). Prong one is a spectrum — silence about rights is fine, but a coercive claim of authority is not.",
+    "tags": ["consent-searches", "drayton", "robinette", "bumper", "no-warning", "distinction"]
+  },
+  {
+    "id": "consent-searches-frazier-assumption-of-risk-44",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "What did Frazier v. Cupp hold about a joint user who shares a bag and leaves it with a co-user?",
+    "back": "By allowing the co-user (Rawls) to use the bag and leaving it in his house, the defendant assumed the risk that the co-user would let someone else look inside — a joint user may consent to the bag's search (common authority / assumption of risk).",
+    "tags": ["consent-searches", "frazier", "assumption-of-risk", "common-authority", "holding"],
+    "cite": "Frazier v. Cupp, 394 U.S. at 740",
+    "source": "https://www.courtlistener.com/opinion/107913/frazier-v-cupp/"
+  },
+  {
+    "id": "consent-searches-frazier-quote-45",
+    "page": "consent-searches",
+    "topic": "Consent Searches",
+    "type": "qa",
+    "front": "Quote Frazier v. Cupp's verbatim statement of the assumption-of-risk rationale for a shared bag.",
+    "back": "Petitioner, \"in allowing Rawls to use the bag and in leaving it in his house, must be taken to have assumed the risk that Rawls would allow someone else to look inside.\"",
+    "tags": ["consent-searches", "frazier", "assumption-of-risk", "quote"],
+    "cite": "Frazier v. Cupp, 394 U.S. at 740",
+    "source": "https://www.courtlistener.com/opinion/107913/frazier-v-cupp/"
+  }
+]

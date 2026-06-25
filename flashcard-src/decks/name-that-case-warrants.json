@@ -1,0 +1,288 @@
+[
+  {
+    "id": "name-that-case-warrants-gates-01",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police get an anonymous letter predicting a couple's drug-running travel; officers corroborate the innocent details of the prediction and obtain a warrant. The Court tosses the rigid two-prong informant test in favor of a flexible standard. Which case?",
+    "back": "**Illinois v. Gates (1983)**\nHolding: Probable cause from an informant's tip is judged by the **totality of the circumstances** — the issuing magistrate makes a practical, common-sense decision whether there is a fair probability of crime; an informant's veracity, reliability, and basis of knowledge are relevant factors but not independent, dispositive hurdles.\nSignature: \"totality-of-the-circumstances\" probable cause; corroboration of predicted future conduct can carry a deficient tip.\nWhy it matters: abandoned the rigid Aguilar-Spinelli two-prong test; the controlling federal standard for probable cause from tips.\n⚠ Don't confuse with **Aguilar / Spinelli** (the abandoned rigid two-prong: basis of knowledge AND veracity each required) — Gates folds them into one flexible balance.",
+    "tags": [
+      "name-that-case",
+      "probable-cause",
+      "gates",
+      "informant",
+      "totality",
+      "confusable"
+    ],
+    "cite": "Illinois v. Gates, 462 U.S. 213 (1983)",
+    "source": "https://www.courtlistener.com/opinion/110959/illinois-v-gates/"
+  },
+  {
+    "id": "name-that-case-warrants-aguilar-02",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A warrant affidavit recites only that officers 'have received reliable information from a credible person' that narcotics are at the home — no facts about how the informant knew or why he's believable. Which case set the (now-defunct) test that struck this down?",
+    "back": "**Aguilar v. Texas (1964)**\nHolding: A magistrate may issue a warrant on an informant's hearsay only if the affidavit shows **(1) the informant's basis of knowledge** (how he got the information) **and (2) his veracity/reliability** (why he should be believed).\nSignature: the two-prong informant test — \"basis of knowledge\" + \"veracity.\"\nWhy it matters: with Spinelli, the rigid pre-Gates framework for evaluating informant tips.\n⚠ Don't confuse with **Gates** (1983), which **replaced** this rigid two-prong with a totality-of-the-circumstances balance.",
+    "tags": [
+      "name-that-case",
+      "probable-cause",
+      "aguilar",
+      "two-prong",
+      "informant",
+      "confusable"
+    ],
+    "cite": "Aguilar v. Texas, 378 U.S. 108 (1964)",
+    "source": "https://www.courtlistener.com/opinion/106865/aguilar-v-texas/"
+  },
+  {
+    "id": "name-that-case-warrants-spinelli-03",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An FBI affidavit pairs an informant's bare tip that a man is running a phone-based bookmaking operation with surveillance showing he visits an apartment with two phones. The Court refines the two-prong informant test — and finds the tip still falls short. Which case?",
+    "back": "**Spinelli v. United States (1969)**\nHolding: Refined Aguilar's two-prong test — a tip that fails the prongs can be salvaged only if independent corroboration is detailed enough to show the informant gained his information in a reliable way; the bare tip plus innocent corroboration here was insufficient.\nSignature: the elaborated Aguilar-Spinelli two-prong analysis.\nWhy it matters: marked the high-water mark of the rigid two-prong approach — expressly **abandoned by Illinois v. Gates** in favor of totality of the circumstances.\n⚠ Don't confuse with **Gates** (totality test that overruled this approach) or **Draper** (where the corroborated tip DID establish probable cause).",
+    "tags": [
+      "name-that-case",
+      "probable-cause",
+      "spinelli",
+      "two-prong",
+      "informant",
+      "confusable"
+    ],
+    "cite": "Spinelli v. United States, 393 U.S. 410 (1969)",
+    "source": "https://www.courtlistener.com/opinion/107831/spinelli-v-united-states/"
+  },
+  {
+    "id": "name-that-case-warrants-draper-04",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An informant tells an agent that a man will arrive on a specific train from Chicago wearing particular clothes and walking fast; the man steps off exactly as described. The Court holds the verified details established probable cause to arrest. Which case?",
+    "back": "**Draper v. United States (1959)**\nHolding: When police independently corroborate the predictive details of an informant's tip — right down to the suspect's clothing and arrival — the verified accuracy gives probable cause that the remaining, unverified assertion (he's carrying drugs) is also true.\nSignature: corroborated informant tip = probable cause; the model the later tip cases build on.\nWhy it matters: the foundational corroboration case; Gates relied on its logic that confirming predicted details vouches for the tip as a whole.\n⚠ Don't confuse with **Spinelli** (corroboration of merely innocent, non-predictive detail there was NOT enough) — Draper's corroboration was of specific predicted future conduct.",
+    "tags": [
+      "name-that-case",
+      "probable-cause",
+      "draper",
+      "informant",
+      "corroboration"
+    ],
+    "cite": "Draper v. United States, 358 U.S. 307 (1959)",
+    "source": "https://www.courtlistener.com/opinion/105820/draper-v-united-states/"
+  },
+  {
+    "id": "name-that-case-warrants-franks-05",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A defendant claims the affidavit supporting his search warrant contained deliberate lies. Which case entitles him to a hearing to challenge the truthfulness of a facially valid warrant affidavit?",
+    "back": "**Franks v. Delaware (1978)**\nHolding: A defendant is entitled to an evidentiary hearing on a warrant affidavit if he makes a **substantial preliminary showing** that the affiant included a false statement **knowingly and intentionally, or with reckless disregard for the truth**, and the falsehood was necessary to the probable-cause finding; if proven and the remaining content is insufficient, the warrant is voided and the fruits suppressed.\nSignature: the \"Franks hearing\" for deliberate or reckless falsehoods in a warrant affidavit.\nWhy it matters: the mechanism for attacking the veracity (not just the facial sufficiency) of a warrant; a knowing or reckless falsehood is also the first of Leon's four exceptions to the good-faith rule (good-faith reliance won't save such a warrant).\n⚠ Mere negligence or innocent mistake in the affidavit does NOT trigger a Franks hearing — the false statement must be intentional or reckless.",
+    "tags": [
+      "name-that-case",
+      "warrant-requirement",
+      "franks",
+      "affidavit",
+      "false-statement",
+      "franks-hearing"
+    ],
+    "cite": "Franks v. Delaware, 438 U.S. 154 (1978)",
+    "source": "https://www.courtlistener.com/opinion/109925/franks-v-delaware/"
+  },
+  {
+    "id": "name-that-case-warrants-coolidge-06",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A state Attorney General — who was also the chief investigator and prosecutor in the case — personally signs the search warrant for the suspect's car. The Court holds the warrant invalid because of who issued it. Which case?",
+    "back": "**Coolidge v. New Hampshire (1971)**\nHolding: A warrant must be issued by a **neutral and detached magistrate**; a warrant signed by the state Attorney General (who was leading the prosecution) is void because he was not neutral — a per se rule of disqualification, so the search stands as if there were no warrant at all.\nSignature: \"neutral and detached magistrate\" — the issuer cannot be the prosecutor/investigator.\nWhy it matters: anchors the neutral-magistrate requirement of the Warrant Clause (also the plain-view doctrine's origin case).\n⚠ Don't confuse with **Lo-Ji Sales** (a magistrate who started neutral but ABANDONED that role by joining the search party) — Coolidge's issuer was disqualified from the outset.",
+    "tags": [
+      "name-that-case",
+      "warrant-requirement",
+      "coolidge",
+      "neutral-magistrate",
+      "confusable"
+    ],
+    "cite": "Coolidge v. New Hampshire, 403 U.S. 443 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108377/coolidge-v-new-hampshire/"
+  },
+  {
+    "id": "name-that-case-warrants-lo-ji-07",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A town justice signs an open-ended warrant to seize 'obscene' items at an adult bookstore, then personally rides along with the police, browses the store, and decides item-by-item what to seize. The Court invalidates it. Which case?",
+    "back": "**Lo-Ji Sales, Inc. v. New York (1979)**\nHolding: A magistrate forfeits his neutral-and-detached character when he joins and effectively leads the search party and makes on-the-scene seizure decisions; the open-ended warrant (filled in during the search) was an unconstitutional general warrant lacking particularity.\nSignature: the magistrate who became \"an adjunct law enforcement officer.\"\nWhy it matters: shows the neutral-magistrate requirement is about conduct, not just title; one of Leon's named exceptions where good faith won't save a warrant.\n⚠ Don't confuse with **Coolidge** (issuer disqualified from the start — the prosecutor) — here a proper magistrate abandoned neutrality during execution.",
+    "tags": [
+      "name-that-case",
+      "warrant-requirement",
+      "lo-ji-sales",
+      "neutral-magistrate",
+      "particularity",
+      "general-warrant",
+      "confusable"
+    ],
+    "cite": "Lo-Ji Sales, Inc. v. New York, 442 U.S. 319 (1979)",
+    "source": "https://www.courtlistener.com/opinion/110100/lo-ji-sales-inc-v-new-york/"
+  },
+  {
+    "id": "name-that-case-warrants-groh-08",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An ATF agent's warrant describes the place to be searched but, in the box for the items to be seized, mistakenly describes the house itself — listing no weapons or contraband at all. The Court holds the warrant facially void. Which case?",
+    "back": "**Groh v. Ramirez (2004)**\nHolding: A warrant that utterly **fails to describe the persons or things to be seized** is facially invalid under the Particularity Clause — even if the supporting affidavit is particular — and the search is presumptively unreasonable; the officer who drafted and led it was not entitled to qualified immunity because no reasonable officer could believe such a warrant valid.\nSignature: particularity is non-delegable — the **warrant itself** must describe what may be seized; \"so facially deficient\" no good-faith reliance is reasonable.\nWhy it matters: the modern Particularity Clause anchor; ties to Leon's fourth good-faith exception (facially deficient warrants).\n⚠ Don't confuse with **Maryland v. Garrison** (a reasonable, honest mistake about the premises was upheld) — Groh's defect was a facial failure of particularity, not a good-faith error.",
+    "tags": [
+      "name-that-case",
+      "particularity",
+      "groh",
+      "warrant-requirement",
+      "qualified-immunity",
+      "confusable"
+    ],
+    "cite": "Groh v. Ramirez, 540 U.S. 551 (2004)",
+    "source": "https://www.courtlistener.com/opinion/131161/groh-v-ramirez/"
+  },
+  {
+    "id": "name-that-case-warrants-garrison-09",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers get a warrant for 'the third-floor apartment,' reasonably believing there's only one; in fact there are two, and they begin searching the wrong tenant's unit before realizing the mistake. The Court upholds the search. Which case?",
+    "back": "**Maryland v. Garrison (1987)**\nHolding: A warrant's validity is judged on the information reasonably available to officers when they sought it; a reasonable, good-faith mistake about the premises (here, that one apartment occupied the whole floor) does not invalidate the warrant or the search conducted before the error became apparent.\nSignature: the **reasonable-mistake** rule for warrant execution — \"sufficient particularity\" judged by what was reasonably knowable.\nWhy it matters: tempers particularity with objective reasonableness; officers must stop once they realize they're in the wrong place.\n⚠ Don't confuse with **Groh** (a facial particularity failure — NOT excused) — Garrison was an honest, reasonable mistake about a particular-on-its-face warrant.",
+    "tags": [
+      "name-that-case",
+      "particularity",
+      "garrison",
+      "warrant-execution",
+      "reasonable-mistake",
+      "confusable"
+    ],
+    "cite": "Maryland v. Garrison, 480 U.S. 79 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111823/maryland-v-garrison/"
+  },
+  {
+    "id": "name-that-case-warrants-grubbs-10",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A warrant is issued to search a home for child pornography, but it won't take effect unless and until a controlled package is actually delivered and taken inside. Which case upheld this kind of warrant?",
+    "back": "**United States v. Grubbs (2006)**\nHolding: **Anticipatory warrants** — warrants that take effect only upon a future 'triggering condition' — are not categorically unconstitutional; they require the magistrate to find it now probable that (1) the triggering condition will occur and (2) if it does, contraband will be at the place to be searched.\nSignature: anticipatory warrants are valid; \"no different in principle from ordinary warrants.\"\nWhy it matters: confirms probable cause can rest on conditions to be satisfied in the future, so long as both probabilities are established up front.\n⚠ The Fourth Amendment does not require the triggering condition itself to be spelled out on the face of the warrant.",
+    "tags": [
+      "name-that-case",
+      "warrant-requirement",
+      "grubbs",
+      "anticipatory-warrant",
+      "probable-cause"
+    ],
+    "cite": "United States v. Grubbs, 547 U.S. 90 (2006)",
+    "source": "https://www.courtlistener.com/opinion/145670/united-states-v-grubbs/"
+  },
+  {
+    "id": "name-that-case-warrants-wilson-11",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Which case held that the common-law requirement that police knock and announce their presence before entering a home is part of the Fourth Amendment reasonableness inquiry?",
+    "back": "**Wilson v. Arkansas (1995)**\nHolding: The common-law **knock-and-announce** principle — that officers must announce their presence and authority before forcibly entering a dwelling — is an element of the Fourth Amendment reasonableness analysis; but it is not a rigid rule and yields to countervailing law-enforcement interests (threat of violence, destruction of evidence, escape).\nSignature: knock-and-announce is constitutionally embedded in 'reasonableness.'\nWhy it matters: constitutionalized the knock-and-announce rule and framed it as flexible, setting up the exceptions.\n⚠ Don't confuse with **Richards** (held there's no blanket exception for felony drug cases — it's case-by-case) or **Hudson** (the violation does NOT trigger the exclusionary rule — remedy bucket).",
+    "tags": [
+      "name-that-case",
+      "knock-and-announce",
+      "wilson",
+      "warrant-execution",
+      "reasonableness",
+      "confusable"
+    ],
+    "cite": "Wilson v. Arkansas, 514 U.S. 927 (1995)",
+    "source": "https://www.courtlistener.com/opinion/117936/wilson-v-arkansas/"
+  },
+  {
+    "id": "name-that-case-warrants-richards-12",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A state court tried to create a blanket rule that police never have to knock and announce when executing a warrant in a felony drug investigation. The Supreme Court rejected the categorical exception. Which case?",
+    "back": "**Richards v. Wisconsin (1997)**\nHolding: There is **no blanket exception** to knock-and-announce for entire categories of crime (e.g., felony drug cases); the no-knock decision must be evaluated case-by-case — officers need **reasonable suspicion** that knocking would be dangerous, futile, or would allow destruction of evidence.\nSignature: rejected a per se drug-case exception; established the 'reasonable suspicion' standard for a no-knock entry.\nWhy it matters: defines the threshold for dispensing with knock-and-announce — reasonable suspicion, made individually.\n⚠ Don't confuse with **Wilson** (which first put knock-and-announce in the Fourth Amendment) — Richards sets the standard for excusing it.",
+    "tags": [
+      "name-that-case",
+      "knock-and-announce",
+      "richards",
+      "no-knock",
+      "reasonable-suspicion",
+      "confusable"
+    ],
+    "cite": "Richards v. Wisconsin, 520 U.S. 385 (1997)",
+    "source": "https://www.courtlistener.com/opinion/118103/richards-v-wisconsin/"
+  },
+  {
+    "id": "name-that-case-warrants-banks-13",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers with a drug warrant knock, shout 'police search warrant,' wait 15 to 20 seconds with no answer, then break the door with a battering ram — catching the suspect in the shower. The Court holds the short wait reasonable. Which case?",
+    "back": "**United States v. Banks (2003)**\nHolding: A **15-to-20-second wait** after knocking and announcing, in a drug case, was reasonable before forced entry — the relevant clock is the time it would take to destroy the evidence (flush the cocaine), not the time to reach the front door; reasonableness is judged on the totality of the circumstances.\nSignature: 15-20 seconds = reasonable wait when exigency (evidence destruction) is in play.\nWhy it matters: gives a concrete benchmark for how long police must wait before forcing entry on a knock-and-announce warrant.\n⚠ The reasonable wait turns on the exigency (imminent disposal of drugs), not on whether the occupant actually heard or had time to answer.",
+    "tags": [
+      "name-that-case",
+      "knock-and-announce",
+      "banks",
+      "warrant-execution",
+      "wait-time",
+      "exigency"
+    ],
+    "cite": "United States v. Banks, 540 U.S. 31 (2003)",
+    "source": "https://www.courtlistener.com/opinion/131146/united-states-v-banks/"
+  },
+  {
+    "id": "name-that-case-warrants-summers-14",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "As officers arrive to execute a search warrant on a house, they detain the resident who is leaving and hold him while they search. The Court holds they may detain occupants during the search. Which case?",
+    "back": "**Michigan v. Summers (1981)**\nHolding: A warrant to search a residence for contraband carries the limited authority to **detain the occupants of the premises** while the search is conducted — a detention justified by officer safety, orderly completion of the search, and preventing flight, and supported by the warrant itself (no separate probable cause needed).\nSignature: occupants may be detained incident to executing a search warrant.\nWhy it matters: the foundational rule allowing detention during warrant execution — later cabined geographically by Bailey.\n⚠ Don't confuse with **Bailey** (the detention power is limited to occupants in the **immediate vicinity** of the premises) or **Ybarra** (a search warrant for a place does NOT authorize searching bystanders).",
+    "tags": [
+      "name-that-case",
+      "warrant-execution",
+      "summers",
+      "detention",
+      "confusable"
+    ],
+    "cite": "Michigan v. Summers, 452 U.S. 692 (1981)",
+    "source": "https://www.courtlistener.com/opinion/110534/michigan-v-summers/"
+  },
+  {
+    "id": "name-that-case-warrants-bailey-15",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers with a search warrant watch a man leave the house, follow him, and stop him about a mile away, then detain him under the authority to hold occupants during a search. The Court holds the detention unlawful. Which case?",
+    "back": "**Bailey v. United States (2013)**\nHolding: The Summers rule authorizing detention of occupants during a search-warrant execution is **limited to the immediate vicinity of the premises**; once a person has left and is no longer in the immediate vicinity, his detention must be justified on other grounds (e.g., Terry reasonable suspicion or probable cause).\nSignature: the spatial limit on Summers — detention only in the 'immediate vicinity.'\nWhy it matters: caps Summers geographically so police can't follow and seize departed occupants on the warrant alone.\n⚠ Don't confuse with **Michigan v. Summers** (which authorizes the detention in the first place — at or near the scene) — Bailey is the limiting case.",
+    "tags": [
+      "name-that-case",
+      "warrant-execution",
+      "bailey",
+      "detention",
+      "immediate-vicinity",
+      "confusable"
+    ],
+    "cite": "Bailey v. United States, 568 U.S. 186 (2013)",
+    "source": "https://www.courtlistener.com/opinion/820749/bailey-v-united-states/"
+  },
+  {
+    "id": "name-that-case-warrants-ybarra-16",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police have a warrant to search a tavern and its bartender for heroin; while there, they pat down and search a customer who simply happened to be drinking at the bar. The Court suppresses what they found on him. Which case?",
+    "back": "**Ybarra v. Illinois (1979)**\nHolding: A warrant to search a place (and a named person) does **not** authorize searching other people who happen to be present; a search of a person requires probable cause **particularized with respect to that person** — mere presence at a lawfully searched premises is not enough.\nSignature: \"probable cause, particularized with respect to that person\" — no searching the patrons.\nWhy it matters: the limit on premises warrants — they don't sweep in bystanders; each person searched needs individualized justification.\n⚠ Don't confuse with **Michigan v. Summers** (occupants of a home may be **detained** during a search) — Ybarra bars **searching** mere bystanders absent individualized probable cause.",
+    "tags": [
+      "name-that-case",
+      "warrant-execution",
+      "ybarra",
+      "particularity",
+      "probable-cause",
+      "bystanders",
+      "confusable"
+    ],
+    "cite": "Ybarra v. Illinois, 444 U.S. 85 (1979)",
+    "source": "https://www.courtlistener.com/opinion/110158/ybarra-v-illinois/"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "name-that-case-miranda-core-brown-01",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Mississippi deputies hang a suspect from a tree, then brutally whip him until he confesses to murder; the whipping marks are still on his body at trial, and the confession is the only evidence. Which case?",
+    "back": "**Brown v. Mississippi (1936)**\nHolding: A confession extracted by physical torture is involuntary and its use to convict violates Fourteenth Amendment due process.\nSignature: the first case to reverse a state conviction for a coerced confession; the deputies' methods were \"revolting to the sense of justice.\"\nWhy it matters: founds the pre-Miranda due-process \"voluntariness\" line — confessions are tested for voluntariness long before Miranda's bright-line warnings.\n⚠ Don't confuse with **Connelly** (coercion must come from POLICE) — Brown is the paradigm of overt police coercion; Connelly is its absence.",
+    "tags": ["name-that-case", "voluntariness", "brown", "due-process", "coerced-confession", "confusable"],
+    "cite": "Brown v. Mississippi, 297 U.S. 278 (1936)",
+    "source": "https://www.courtlistener.com/opinion/102604/brown-v-mississippi/"
+  },
+  {
+    "id": "name-that-case-miranda-core-ashcraft-02",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police question a murder suspect under electric lights for 36 hours straight, in relays, with no sleep, until he confesses. No physical beating — but the Court calls the situation \"inherently coercive.\" Which case?",
+    "back": "**Ashcraft v. Tennessee (1944)**\nHolding: Thirty-six hours of continuous, relay interrogation without sleep is \"inherently coercive,\" rendering the resulting confession involuntary under due process.\nSignature: \"inherently coercive\" — prolonged incommunicado interrogation alone can break the will, no blows required.\nWhy it matters: extends the voluntariness rule from physical torture (Brown) to psychological/duration coercion.\n⚠ Don't confuse with **Brown** (physical torture) — Ashcraft shows coercion need not be physical; the marathon interrogation itself sufficed.",
+    "tags": ["name-that-case", "voluntariness", "ashcraft", "due-process", "coerced-confession", "confusable"],
+    "cite": "Ashcraft v. Tennessee, 322 U.S. 143 (1944)",
+    "source": "https://www.courtlistener.com/opinion/103981/ashcraft-v-tennessee/"
+  },
+  {
+    "id": "name-that-case-miranda-core-spano-03",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police have a rookie officer — the suspect's childhood friend, Bruno — falsely tell him that Bruno's job and pregnant wife are in jeopardy unless the suspect talks. Worn down by the fake sympathy, he confesses. Which case?",
+    "back": "**Spano v. New York (1959)**\nHolding: A confession produced by psychological pressure — here a friend's feigned distress plus persistent overnight questioning of a suspect who had a lawyer and asked for him — is involuntary; \"the petitioner's will was overborne.\"\nSignature: \"will was overborne\" by false-friend psychological coercion.\nWhy it matters: capstone of the totality-of-circumstances voluntariness era just before Miranda; concurrences urging a per se right to counsel foreshadow Massiah (6A).\n⚠ Don't confuse with **Massiah** (6A right to counsel, post-indictment) — Spano's MAJORITY rests on due-process voluntariness, not the Sixth Amendment.",
+    "tags": ["name-that-case", "voluntariness", "spano", "due-process", "psychological-coercion", "confusable"],
+    "cite": "Spano v. New York, 360 U.S. 315 (1959)",
+    "source": "https://www.courtlistener.com/opinion/105917/spano-v-new-york/"
+  },
+  {
+    "id": "name-that-case-miranda-core-connelly-04",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A man with schizophrenia walks up to an officer on the street and confesses to murder, saying the \"voice of God\" commanded him to. There was no police pressure at all. Was the confession involuntary — and which case?",
+    "back": "**Colorado v. Connelly (1986)**\nHolding: A confession is \"involuntary\" for due-process purposes only when there is COERCIVE POLICE ACTIVITY; a suspect's mental illness or internal compulsion, without police overreaching, does not make it involuntary.\nSignature: \"coercive police activity is a necessary predicate\" to a finding of involuntariness.\nWhy it matters: relocates voluntariness from the suspect's mind to police conduct — free will alone isn't the test; also sets a preponderance standard for waiver/voluntariness.\n⚠ Don't confuse with **Brown / Ashcraft / Spano** (police coercion clearly present) — Connelly is the case where coercion is ABSENT, so the confession stands.",
+    "tags": ["name-that-case", "voluntariness", "connelly", "police-coercion", "mental-illness", "confusable"],
+    "cite": "Colorado v. Connelly, 479 U.S. 157 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111779/colorado-v-connelly/"
+  },
+  {
+    "id": "name-that-case-miranda-core-miranda-05",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Which case held that before any custodial interrogation police must warn a suspect of the right to remain silent, that anything said can be used against him, and the right to counsel (appointed if needed) — to protect the Fifth Amendment privilege?",
+    "back": "**Miranda v. Arizona (1966)**\nHolding: Statements from custodial interrogation are inadmissible unless police first gave the warnings and the suspect knowingly, voluntarily waived them; custody = \"taken into custody or otherwise deprived of his freedom of action in any significant way.\"\nSignature: \"You have the right to remain silent...\" — the four warnings safeguarding the 5A privilege against self-incrimination.\nWhy it matters: the bright-line replacement for the murky case-by-case voluntariness test; the spine of confession law.\n⚠ Custody + interrogation BOTH required — lose either (Mathiason: no custody; Muniz booking: not interrogation) and no warnings are needed.",
+    "tags": ["name-that-case", "miranda", "warnings", "custodial-interrogation", "fifth-amendment"],
+    "cite": "Miranda v. Arizona, 384 U.S. 436, 444 (1966)",
+    "source": "https://www.courtlistener.com/opinion/107252/miranda-v-arizona/"
+  },
+  {
+    "id": "name-that-case-miranda-core-dickerson-06",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Congress passed 18 U.S.C. § 3501 trying to make voluntariness — not the warnings — the sole admissibility test, effectively overruling Miranda by statute. Which case struck that down?",
+    "back": "**Dickerson v. United States (2000)**\nHolding: Miranda is a constitutional rule that Congress may not supersede by statute; § 3501 is unconstitutional and Miranda governs the admissibility of confessions in federal court.\nSignature: Miranda \"announced a constitutional rule\" and \"may not be in effect overruled by an Act of Congress.\"\nWhy it matters: cements Miranda's constitutional status and forecloses legislative repeal — written by Rehnquist, a longtime Miranda skeptic.\n⚠ Don't confuse with **Vega v. Tekoh** — Dickerson keeps Miranda alive as a constitutional rule; Vega still holds a Miranda breach isn't itself a § 1983 violation.",
+    "tags": ["name-that-case", "miranda", "dickerson", "constitutional-rule", "section-3501", "confusable"],
+    "cite": "Dickerson v. United States, 530 U.S. 428, 432, 444 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118380/dickerson-v-united-states/"
+  },
+  {
+    "id": "name-that-case-miranda-core-chavez-07",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police relentlessly question a man who was just shot by officers, in the ER, while he screams in pain and is never given Miranda warnings — but he is never charged and his statements are never used in any criminal trial. Can he sue for a Fifth Amendment violation? Which case?",
+    "back": "**Chavez v. Martinez (2003)**\nHolding: The Fifth Amendment Self-Incrimination Clause is a trial right; mere coercive, un-Mirandized questioning is not a completed constitutional violation where no statement is ever used in a criminal case — so no § 1983 claim on that theory (fragmented plurality).\nSignature: the privilege is not violated until a compelled statement is \"used in a criminal case.\"\nWhy it matters: the precursor to Vega — separates the act of questioning from the constitutional injury.\n⚠ Don't confuse with **Vega v. Tekoh** (2022), which squarely held a Miranda violation alone never supports § 1983; Chavez left a possible substantive-due-process avenue open on remand.",
+    "tags": ["name-that-case", "miranda", "chavez", "section-1983", "self-incrimination", "confusable"],
+    "cite": "Chavez v. Martinez, 538 U.S. 760 (2003)",
+    "source": "https://www.courtlistener.com/opinion/127927/chavez-v-martinez/"
+  },
+  {
+    "id": "name-that-case-miranda-core-vega-tekoh-08",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A nursing assistant is acquitted at trial, then sues the officer under § 1983 for damages, claiming the officer took an un-Mirandized statement that was used against him. Does a Miranda violation, by itself, support a civil damages suit? Which case?",
+    "back": "**Vega v. Tekoh (2022)**\nHolding: \"A violation of the Miranda rules does not provide a basis for a § 1983 claim\" — Miranda is a prophylactic rule, and its breach is not itself a violation of the Fifth Amendment right actionable in damages.\nSignature: a Miranda violation ≠ a constitutional violation for civil-liability purposes (Alito, J.).\nWhy it matters: the remedy for a Miranda breach is suppression at the criminal trial, not money damages against the officer.\n⚠ Don't confuse with **Dickerson** — Miranda is still a \"constitutional rule\" for suppression, yet (per Vega) not a free-standing § 1983 cause of action.",
+    "tags": ["name-that-case", "miranda", "vega-tekoh", "section-1983", "prophylactic-rule", "confusable"],
+    "cite": "Vega v. Tekoh, 597 U.S. 134 (2022)",
+    "source": "https://www.courtlistener.com/opinion/6480695/vega-v-tekoh/"
+  },
+  {
+    "id": "name-that-case-miranda-core-berkemer-09",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An officer stops a driver, asks a few roadside questions and runs field-sobriety tests, then arrests him for a misdemeanor DUI — no warnings given roadside. The Court says the roadside questions weren't custodial, but Miranda still applies once he's arrested even for a misdemeanor. Which case?",
+    "back": "**Berkemer v. McCarty (1984)**\nHolding: (1) Miranda applies to ALL custodial interrogation regardless of the offense's severity — misdemeanors included; (2) the temporary, public detention of an ordinary traffic stop is NOT Miranda custody.\nSignature: a routine traffic stop is presumptively non-custodial — brief, public, and not police-dominated like \"station house\" questioning.\nWhy it matters: defines the custody line at the roadside and rejects any \"minor offense\" exception to Miranda.\n⚠ Don't confuse with **Quarles** (offense severity is irrelevant to custody) or treat a Terry/traffic stop as custody — Berkemer says it generally isn't, but a full DUI arrest is.",
+    "tags": ["name-that-case", "custody", "berkemer", "traffic-stop", "misdemeanor", "confusable"],
+    "cite": "Berkemer v. McCarty, 468 U.S. 420 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111249/berkemer-v-mccarty/"
+  },
+  {
+    "id": "name-that-case-miranda-core-mathiason-10",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A parolee voluntarily comes to the police station after an officer leaves a card asking him to call; he's told he is NOT under arrest, is falsely told his prints were at the scene, confesses, and then leaves freely. No warnings given. Custody? Which case?",
+    "back": "**Oregon v. Mathiason (1977)**\nHolding: A suspect who comes voluntarily to the station, is told he is not under arrest, and is free to leave is NOT in custody for Miranda — even inside a police building and even when confronted with a (false) claim of evidence.\nSignature: Miranda turns on custody, not on a \"coercive environment\" generally or the station's location; no warnings were required here.\nWhy it matters: location at a police station does not equal custody — the test is restraint on freedom akin to formal arrest. (Reaffirmed by California v. Beheler.)\n⚠ Don't confuse with a station-house arrest — voluntariness of the visit + freedom to leave is what defeats custody here.",
+    "tags": ["name-that-case", "custody", "mathiason", "voluntary-station-visit", "free-to-leave", "confusable"],
+    "cite": "Oregon v. Mathiason, 429 U.S. 492 (1977) (per curiam)",
+    "source": "https://www.courtlistener.com/opinion/109587/oregon-v-mathiason/"
+  },
+  {
+    "id": "name-that-case-miranda-core-howes-fields-11",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A prison inmate is taken from his cell to a conference room and questioned for hours about an unrelated crime, told he could leave and return to his cell at any time. Is a prisoner automatically \"in custody\" for Miranda just because he's incarcerated? Which case?",
+    "back": "**Howes v. Fields (2012)**\nHolding: Imprisonment alone does not make questioning custodial for Miranda; whether an inmate is \"in custody\" depends on the totality — here, told he could leave and return to his cell, he was not in Miranda custody.\nSignature: there is no per se rule that questioning a prisoner is custodial; \"standard conditions of confinement\" don't add the extra restraint Miranda targets.\nWhy it matters: the custody test is functional, not status-based — even a prisoner can be non-custodial.\n⚠ Don't confuse with **Mathiason / Berkemer** — same lesson (custody ≠ location/status), applied to the prison setting.",
+    "tags": ["name-that-case", "custody", "howes-fields", "prison-inmate", "confusable"],
+    "cite": "Howes v. Fields, 565 U.S. 499 (2012)",
+    "source": "https://www.courtlistener.com/opinion/623144/howes-v-fields/"
+  },
+  {
+    "id": "name-that-case-miranda-core-jdb-12",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A 13-year-old is pulled from class and questioned by police in a closed school conference room, with no warnings and no parent, until he confesses to burglaries. Does the child's AGE factor into whether he was \"in custody\"? Which case?",
+    "back": "**J.D.B. v. North Carolina (2011)**\nHolding: A child's age is a relevant factor in the Miranda custody analysis when it was known to or objectively apparent to the officer — because a reasonable child may feel restrained where an adult would not.\nSignature: age is part of the objective \"would a reasonable person feel free to leave\" inquiry for juveniles.\nWhy it matters: injects an objective age factor into the otherwise person-neutral custody test.\n⚠ Don't confuse with **Yarborough v. Alvarado** (2004), which declined to require age/experience in the custody test — J.D.B. carved out age for children specifically.",
+    "tags": ["name-that-case", "custody", "jdb", "juvenile", "age", "confusable"],
+    "cite": "J.D.B. v. North Carolina, 564 U.S. 261 (2011)",
+    "source": "https://www.courtlistener.com/opinion/218925/j-d-b-v-north-carolina/"
+  },
+  {
+    "id": "name-that-case-miranda-core-yarborough-alvarado-13",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "On federal habeas, the Court declined to fault a state court for NOT factoring a 17-year-old's youth and inexperience into the objective custody test. Which case (the one J.D.B. later distinguished)?",
+    "back": "**Yarborough v. Alvarado (2004)**\nHolding: Under AEDPA deference, it was not unreasonable to omit a suspect's age and prior experience from the objective \"in custody\" analysis; the custody test focuses on the objective circumstances, not the individual's personal traits.\nSignature: age/experience are not required elements of the objective custody inquiry (decided on habeas deference).\nWhy it matters: the high-water mark for a purely objective custody test — later limited for juveniles by J.D.B.\n⚠ Don't confuse with **J.D.B.** (2011) — J.D.B. held a CHILD's age IS relevant to custody, distinguishing Yarborough.",
+    "tags": ["name-that-case", "custody", "yarborough-alvarado", "age", "objective-test", "confusable"],
+    "cite": "Yarborough v. Alvarado, 541 U.S. 652 (2004)",
+    "source": "https://www.courtlistener.com/opinion/134748/yarborough-v-alvarado/"
+  },
+  {
+    "id": "name-that-case-miranda-core-stansbury-14",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "The lower court thought a suspect wasn't \"in custody\" partly because the officer didn't yet consider him a suspect — the officer's hidden, uncommunicated suspicions. Does an officer's unspoken focus matter to custody? Which case?",
+    "back": "**Stansbury v. California (1994)**\nHolding: Custody is determined by the objective circumstances of the interrogation, not by the subjective, undisclosed views of the officer or the suspect; an officer's uncommunicated suspicion is irrelevant.\nSignature: \"the objective circumstances\" govern — a policeman's unarticulated focus on the suspect doesn't create or defeat custody.\nWhy it matters: locks custody to the objective \"reasonable person\" test (cf. Berkemer); subjective belief counts only if conveyed and it would affect how a reasonable person gauges his freedom.\n⚠ Don't confuse with **Beckwith/Mathiason** facts — Stansbury's point is the LEGAL test (objective), not a particular setting.",
+    "tags": ["name-that-case", "custody", "stansbury", "objective-test", "officer-suspicion", "confusable"],
+    "cite": "Stansbury v. California, 511 U.S. 318 (1994) (per curiam)",
+    "source": "https://www.courtlistener.com/opinion/117843/stansbury-v-california/"
+  },
+  {
+    "id": "name-that-case-miranda-core-innis-15",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "In the squad car after arrest, officers don't question the suspect — they just remark to each other that it would be a shame if a child from the nearby school for the handicapped found the missing shotgun and got hurt. He leads them to the gun. Was that \"interrogation\"? Which case?",
+    "back": "**Rhode Island v. Innis (1980)**\nHolding: \"Interrogation\" under Miranda includes not just express questioning but its \"functional equivalent\" — any words or actions police should know are reasonably likely to elicit an incriminating response; on these facts, the offhand remarks were NOT interrogation.\nSignature: the \"functional equivalent\" test — \"words or actions on the part of the police... reasonably likely to elicit an incriminating response.\"\nWhy it matters: defines the \"interrogation\" half of \"custodial interrogation,\" focusing on the suspect's perceptions, not police intent.\n⚠ Don't confuse with **Perkins** (undercover agent in a cell = no Miranda interrogation because no police-dominated coercion) or **Muniz** (booking questions exempt).",
+    "tags": ["name-that-case", "interrogation", "innis", "functional-equivalent", "confusable"],
+    "cite": "Rhode Island v. Innis, 446 U.S. 291, 300-01 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110254/rhode-island-v-innis/"
+  },
+  {
+    "id": "name-that-case-miranda-core-perkins-16",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An undercover officer poses as a fellow inmate in a cellblock and, without any warnings, coaxes a jailed suspect into bragging about a murder. No Miranda warnings were given. Admissible? Which case?",
+    "back": "**Illinois v. Perkins (1990)**\nHolding: Miranda warnings are not required when an undercover officer (or agent) posing as an inmate elicits statements from a suspect — because there is no police-dominated \"coercive atmosphere\"; the suspect doesn't know he's talking to law enforcement.\nSignature: Miranda guards against coercion of custody-plus-known-interrogation; \"the essential ingredients of a police-dominated atmosphere\" are absent when the suspect thinks he's chatting with a cellmate.\nWhy it matters: custody alone isn't enough — Miranda's premise is the coercion of KNOWN official interrogation.\n⚠ Don't confuse with **Innis** (overheard police remarks = possible interrogation) or **Massiah** (once 6A attaches post-charge, a jailhouse plant DOES violate the right to counsel).",
+    "tags": ["name-that-case", "interrogation", "perkins", "undercover", "jailhouse", "confusable"],
+    "cite": "Illinois v. Perkins, 496 U.S. 292 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112452/illinois-v-perkins/"
+  },
+  {
+    "id": "name-that-case-miranda-core-muniz-17",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A DUI arrestee, unwarned, is asked his name, address, height, weight, and the date of his sixth birthday; his slurred, confused answers are used as evidence. Which questions were exempt from Miranda — and which case draws the line?",
+    "back": "**Pennsylvania v. Muniz (1990)**\nHolding: \"Routine booking questions\" (name, address, height, weight, age) fall within a booking exception to Miranda; but the \"sixth-birthday\" question called for a testimonial answer whose content was incriminating, so that response needed warnings (slurred delivery, by contrast, is non-testimonial physical evidence).\nSignature: the \"routine booking question\" exception — biographical booking data is administrative, not interrogation.\nWhy it matters: carves a practical booking exception and separates testimonial content (covered by 5A) from physical manner of speech (not covered).\n⚠ Don't confuse with **Innis** — Muniz is the OTHER kind of non-interrogation: administrative booking, not the \"functional equivalent\" inquiry.",
+    "tags": ["name-that-case", "interrogation", "muniz", "booking-exception", "testimonial", "confusable"],
+    "cite": "Pennsylvania v. Muniz, 496 U.S. 582 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112464/pennsylvania-v-muniz/"
+  },
+  {
+    "id": "name-that-case-miranda-core-quarles-18",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers chase an armed-rape suspect into a supermarket, catch and cuff him, find an empty shoulder holster, and — before any warnings — ask \"Where is the gun?\" He nods toward the cartons and says \"the gun is over there.\" Admissible? Which case?",
+    "back": "**New York v. Quarles (1984)**\nHolding: There is a \"public safety\" exception to Miranda — when officers ask questions reasonably prompted by an immediate threat to public safety (e.g., a hidden loaded gun), the unwarned answers and the gun are admissible.\nSignature: the \"public safety\" exception — \"Where is the gun?\" — a \"narrow exception\" where the need to neutralize danger outweighs the prophylactic warnings.\nWhy it matters: the principal carve-out from Miranda; objective threat, not the officer's motive, triggers it.\n⚠ Don't confuse with the **booking exception (Muniz)** or **undercover (Perkins)** — Quarles is the EXIGENCY carve-out: warnings yield to an immediate safety threat.",
+    "tags": ["name-that-case", "public-safety", "quarles", "exception", "miranda", "confusable"],
+    "cite": "New York v. Quarles, 467 U.S. 649 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111214/new-york-v-quarles/"
+  }
+]

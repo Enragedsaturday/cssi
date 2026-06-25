@@ -1,0 +1,222 @@
+[
+  {
+    "id": "name-that-case-consent-exigency-schneckloth-01",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An officer asks a man if he can search his car; the man says yes. The officer never tells him he has the right to refuse. The government concedes nothing about whether he knew he could say no. Is the consent valid — and which case sets the test?",
+    "back": "**Schneckloth v. Bustamonte (1973)**\nHolding: Consent is valid if voluntary under the totality of the circumstances; the government need NOT prove the person knew of, or was warned of, the right to refuse.\nSignature: \"a question of fact to be determined from the totality of all the circumstances\"; knowledge of the right to refuse is \"one factor,\" not the \"sine qua non.\"\nWhy it matters: The voluntariness spine of consent-search doctrine — there is no Miranda-style consent warning.\n⚠ Don't confuse with **Bumper** — there a false claim of a warrant turned \"yes\" into mere acquiescence (invalid).",
+    "tags": ["name-that-case", "consent-search", "schneckloth", "voluntariness", "totality-of-circumstances"],
+    "cite": "Schneckloth v. Bustamonte, 412 U.S. 218, 227 (1973)",
+    "source": "https://www.courtlistener.com/opinion/108800/schneckloth-v-bustamonte/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-bumper-02",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers tell a grandmother they have a warrant to search her house; relying on that, she lets them in. There was no valid warrant. The State then tries to justify the entry as a consent search. Which case?",
+    "back": "**Bumper v. North Carolina (1968)**\nHolding: Consent that is mere acquiescence to a claim of lawful authority (e.g., an asserted warrant) is NOT voluntary and cannot satisfy the government's burden.\nSignature: a claimed warrant \"announces in effect that the occupant has no right to resist\"; \"[w]here there is coercion there cannot be consent.\"\nWhy it matters: The floor under prong one — submission to claimed authority is not consent.\n⚠ Don't confuse with **Schneckloth** (no warning required) — Bumper is the opposite pole: a false assertion of authority voids consent.",
+    "tags": ["name-that-case", "consent-search", "bumper", "voluntariness", "acquiescence-to-authority"],
+    "cite": "Bumper v. North Carolina, 391 U.S. 543, 548-50 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107716/bumper-v-north-carolina/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-matlock-03",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "While a suspect sits in a squad car outside, a woman who shares the bedroom with him lets police in and consents to a search of that room. The suspect never objected because he was not asked and not present. Which case validates the search?",
+    "back": "**United States v. Matlock (1974)**\nHolding: A co-occupant with common authority (mutual use / joint access, not property title) may consent to a search valid against an ABSENT, non-consenting co-occupant who assumed the risk.\nSignature: \"common authority\" rests on \"mutual use of the property by persons generally having joint access or control.\"\nWhy it matters: Anchors third-party (actual-authority) consent.\n⚠ Don't confuse with **Randolph** (a physically PRESENT objector defeats the other's consent) or **Rodriguez** (apparent — even mistaken — authority).",
+    "tags": ["name-that-case", "consent-search", "third-party-consent", "matlock", "common-authority", "confusable"],
+    "cite": "United States v. Matlock, 415 U.S. 164, 170-71 & n.7 (1974)",
+    "source": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-rodriguez-04",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A woman calls herself the suspect's girlfriend, says \"our apartment,\" and uses her key to let officers in to consent to a search. It later turns out she had moved out and no longer had authority — but the officers reasonably believed she did. Which case?",
+    "back": "**Illinois v. Rodriguez (1990)**\nHolding: Apparent authority — a warrantless entry on third-party consent is valid if officers REASONABLY (even if mistakenly) believed the consenter had common authority, judged by an objective standard.\nSignature: would the facts \"warrant a man of reasonable caution in the belief\" that the consenter had authority?\nWhy it matters: Extends valid consent to reasonable mistakes of fact; ambiguity triggers a duty to inquire further.\n⚠ Don't confuse with **Matlock** (ACTUAL common authority) — Rodriguez covers the mistaken-but-reasonable belief.",
+    "tags": ["name-that-case", "consent-search", "third-party-consent", "rodriguez", "apparent-authority", "confusable"],
+    "cite": "Illinois v. Rodriguez, 497 U.S. 177, 188 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112475/illinois-v-rodriguez/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-randolph-05",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A wife invites police in and consents to search the home, but her husband is standing right there at the door and expressly tells them \"no.\" Officers search anyway. Which case makes that search invalid as to the husband?",
+    "back": "**Georgia v. Randolph (2006)**\nHolding: A physically present co-occupant's express refusal to consent prevails over another occupant's consent — the search is unreasonable and invalid as to the objector.\nSignature: \"a physically present co-occupant's stated refusal to permit entry prevails.\"\nWhy it matters: Carves a present-objector exception out of Matlock's co-tenant rule.\n⚠ Don't confuse with **Matlock** (absent co-tenant — consent good) or **Fernandez** (objector lawfully REMOVED — remaining tenant may then consent).",
+    "tags": ["name-that-case", "consent-search", "third-party-consent", "randolph", "present-objector", "confusable"],
+    "cite": "Georgia v. Randolph, 547 U.S. 103, 106, 120 (2006)",
+    "source": "https://www.courtlistener.com/opinion/145669/georgia-v-randolph/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-fernandez-06",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A man objects to police entering his apartment, so they arrest him for an unrelated assault and haul him away. An hour later, with him gone, his girlfriend consents to the search. Which case upholds it?",
+    "back": "**Fernandez v. California (2014)**\nHolding: Randolph applies only while the objector is physically present; once he is lawfully and objectively-reasonably removed (e.g., by arrest), the remaining occupant may validly consent.\nSignature: Randolph \"was limited to situations in which the objecting occupant is physically present\"; removal must not be objectively unreasonable.\nWhy it matters: Narrows Randolph — a present \"no\" doesn't survive the objector's lawful departure.\n⚠ Don't confuse with **Randolph** (objector PRESENT and objecting — search blocked); a STAGED removal to manufacture consent is not allowed.",
+    "tags": ["name-that-case", "consent-search", "third-party-consent", "fernandez", "objector-removed", "confusable"],
+    "cite": "Fernandez v. California, 571 U.S. 292, 296-97, 302 (2014)",
+    "source": "https://www.courtlistener.com/opinion/2654534/fernandez-v-california/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-jimeno-07",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A driver gives general consent to search his car for drugs. An officer opens a folded paper bag on the floorboard and finds cocaine inside. The driver argues he never specifically authorized opening the bag. Which case rejects that argument?",
+    "back": "**Florida v. Jimeno (1991)**\nHolding: The scope of consent is measured by objective reasonableness — general consent to search a car for drugs reasonably reaches closed containers inside that might hold drugs; police need not separately ask for each.\nSignature: \"what would the typical reasonable person have understood\"; a suspect \"may of course delimit as he chooses the scope.\"\nWhy it matters: The scope prong of consent — and the suspect's power to limit it.\n⚠ Note: authority is still person-/area-specific — a driver's consent to \"the car\" does not necessarily reach a passenger's personal bag.",
+    "tags": ["name-that-case", "consent-search", "jimeno", "scope-of-consent", "objective-reasonableness"],
+    "cite": "Florida v. Jimeno, 500 U.S. 248, 251-52 (1991)",
+    "source": "https://www.courtlistener.com/opinion/112595/florida-v-jimeno/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-stoner-08",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police, without a warrant, get the night clerk of a hotel to unlock a guest's room with a passkey — \"Be my guest\" — and they search it while the guest is out. Which case holds that consent invalid?",
+    "back": "**Stoner v. California (1964)**\nHolding: A hotel clerk has no authority to consent to a police search of a guest's room; the guest's Fourth Amendment right is his alone to waive.\nSignature: the Fourth Amendment's protections \"are not to be eroded by strained applications of the law of agency.\"\nWhy it matters: Third-party consent requires real common authority — innkeepers, landlords, and clerks can't surrender a tenant/guest's privacy.\n⚠ Don't confuse with **Matlock/Rodriguez** (co-occupant with actual or apparent authority) — a clerk has neither over the guest's room.",
+    "tags": ["name-that-case", "consent-search", "third-party-consent", "stoner", "hotel-guest", "no-authority"],
+    "cite": "Stoner v. California, 376 U.S. 483, 488-89 (1964)",
+    "source": "https://www.courtlistener.com/opinion/106777/stoner-v-california/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-hayden-09",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Cab drivers radio that an armed robber just fled into a particular house. Police arrive minutes later and, without a warrant, enter and search the house (and find weapons and clothing) while looking for the robber and weapons. Which case upholds the entry?",
+    "back": "**Warden v. Hayden (1967)**\nHolding: Hot pursuit of a fleeing armed robber into a house is a valid warrantless entry and search where \"the exigencies of the situation made that course imperative\"; the case also abolished the old \"mere evidence\" rule.\nSignature: \"hot pursuit\"; \"the exigencies of the situation made that course imperative.\"\nWhy it matters: A foundational hot-pursuit / exigent-circumstances entry case.\n⚠ Don't confuse with **Lange** (fleeing MISDEMEANANT — no categorical exigency) or **Welsh** (minor, nonjailable offense — no exigent home entry).",
+    "tags": ["name-that-case", "exigent-circumstances", "hot-pursuit", "hayden", "fleeing-felon", "confusable"],
+    "cite": "Warden v. Hayden, 387 U.S. 294, 298-99 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107465/warden-maryland-penitentiary-v-hayden/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-king-10",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police smell marijuana at an apartment door, knock loudly and announce \"Police!\", then hear sounds of people moving — \"like things were being moved inside\" — and kick the door in to stop evidence destruction. The defendant says the police created their own exigency. Which case?",
+    "back": "**Kentucky v. King (2011)**\nHolding: Police do not impermissibly \"create\" an exigency so long as they did not gain entry by, or threaten to engage in, conduct that violates the Fourth Amendment; lawful knocking-and-announcing that prompts evidence destruction is fine.\nSignature: \"police-created exigency\" doctrine; OK \"[w]here... the police did not create the exigency by engaging or threatening to engage in conduct that violates the Fourth Amendment.\"\nWhy it matters: Sets the test for the police-created-exigency limit on the destruction-of-evidence exception.\n⚠ Don't confuse with **Lange** (misdemeanant flight — case-by-case, no categorical entry).",
+    "tags": ["name-that-case", "exigent-circumstances", "king", "police-created-exigency", "destruction-of-evidence", "confusable"],
+    "cite": "Kentucky v. King, 563 U.S. 452, 462 (2011)",
+    "source": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-schmerber-11",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "After a car accident, an officer with probable cause for DUI directs hospital staff to draw the arrestee's blood without a warrant, fearing the alcohol level will fall while a warrant is sought. On these facts, which 1966 case upholds the warrantless blood draw?",
+    "back": "**Schmerber v. California (1966)**\nHolding: A warrantless DUI blood draw was reasonable ON THESE FACTS — the officer could reasonably believe an emergency, where delay to get a warrant (after an accident) threatened \"the destruction of evidence\" as alcohol dissipated.\nSignature: warrantless blood test upheld given \"the destruction of evidence\" risk and the accident's delay.\nWhy it matters: The original DUI blood-draw exigency case — but decided on its facts, not as a blanket rule.\n⚠ Don't confuse with **McNeely** — alcohol's natural dissipation is NOT a per se exigency; exigency is case-by-case.",
+    "tags": ["name-that-case", "exigent-circumstances", "schmerber", "dui-blood-draw", "destruction-of-evidence", "confusable"],
+    "cite": "Schmerber v. California, 384 U.S. 757, 770-71 (1966)",
+    "source": "https://www.courtlistener.com/opinion/107262/schmerber-v-california/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-mcneely-12",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A routine 2 a.m. DUI stop — no accident, no special delay. The officer takes the driver straight to a lab for a warrantless blood draw, arguing that because alcohol always dissipates, exigency is automatic. Which case rejects that per se rule?",
+    "back": "**Missouri v. McNeely (2013)**\nHolding: The natural metabolization of alcohol is NOT a per se exigency justifying a warrantless DUI blood draw in every case; exigency must be decided case-by-case on the totality of the circumstances.\nSignature: \"exigency in this context must be determined case by case based on the totality of the circumstances.\"\nWhy it matters: Confines Schmerber to its facts — dissipation alone doesn't excuse the warrant.\n⚠ Don't confuse with **Schmerber** (accident + delay = exigency on the facts) or **Mitchell** (unconscious driver — exigency almost always present).",
+    "tags": ["name-that-case", "exigent-circumstances", "mcneely", "dui-blood-draw", "no-per-se-exigency", "confusable"],
+    "cite": "Missouri v. McNeely, 569 U.S. 141, 145, 156 (2013)",
+    "source": "https://www.courtlistener.com/opinion/858288/missouri-v-mcneely/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-mitchell-13",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A drunk driver passes out before any breath test can be given and is rushed to the hospital; with probable cause, police order a warrantless blood draw while he's unconscious. Which 2019 case (a plurality) upholds it?",
+    "back": "**Mitchell v. Wisconsin (2019) (plurality)**\nHolding: When police have probable cause for DUI and the driver's unconsciousness/stupor forces hospitalization before a breath test can be given, they may almost always order a warrantless blood draw under the exigency exception.\nSignature: unconsciousness creates a second exigency factor on top of BAC dissipation; \"Schmerber controls.\"\nWhy it matters: Applies the exigency framework to the unconscious-driver scenario; note it is a plurality (Alito), so its reach is narrower than a majority.\n⚠ Don't confuse with **McNeely** (ordinary DUI — no per se exigency) — Mitchell turns on the added emergency of an unconscious driver.",
+    "tags": ["name-that-case", "exigent-circumstances", "mitchell", "dui-blood-draw", "unconscious-driver", "confusable"],
+    "cite": "Mitchell v. Wisconsin, 588 U.S. 840 (2019) (plurality op.)",
+    "source": "https://www.courtlistener.com/opinion/9231242/mitchell-v-wisconsin/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-mincey-14",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "After a homicide, police conduct a sweeping four-day warrantless search of the apartment, justifying it as a \"murder scene\" exception. Which case holds there is no such exception?",
+    "back": "**Mincey v. Arizona (1978)**\nHolding: There is no general \"murder-scene\" exception — the seriousness of the offense does not by itself create exigency; but police may make a warrantless entry to render immediate aid and a prompt sweep for other victims or a killer, with scope limited to the emergency.\nSignature: \"the seriousness of the offense under investigation\" does not \"itself create[] exigent circumstances.\"\nWhy it matters: Caps emergency-scene authority — aid/sweep yes, general crime-scene search no.\n⚠ Don't confuse with **Brigham City** (objective emergency-aid entry is allowed) — Mincey forbids the open-ended crime-scene search that follows.",
+    "tags": ["name-that-case", "exigent-circumstances", "emergency-aid", "mincey", "no-murder-scene-exception", "confusable"],
+    "cite": "Mincey v. Arizona, 437 U.S. 385, 392-94 (1978)",
+    "source": "https://www.courtlistener.com/opinion/109905/mincey-v-arizona/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-brigham-city-15",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Through a window, officers see a fight inside a house — a juvenile punches an adult who spits blood. They enter without a warrant to break it up. The homeowner says the officers really wanted to investigate, not help. Which case says their subjective motive doesn't matter?",
+    "back": "**Brigham City v. Stuart (2006)**\nHolding: Police may enter a home without a warrant on an objectively reasonable basis to believe an occupant is seriously injured or imminently threatened; the officer's subjective motivation is irrelevant.\nSignature: \"objectively reasonable basis for believing that an occupant is seriously injured or imminently threatened\"; \"[t]he officer's subjective motivation is irrelevant.\"\nWhy it matters: The controlling emergency-aid (in-home) standard — purely objective.\n⚠ Don't confuse with **Mincey** (no murder-scene exception; aid yes, general search no) or **Caniglia** (no freestanding caretaking entry into a home).",
+    "tags": ["name-that-case", "emergency-aid", "exigent-circumstances", "brigham-city", "objective-standard", "confusable"],
+    "cite": "Brigham City v. Stuart, 547 U.S. 398, 400, 404 (2006)",
+    "source": "https://www.courtlistener.com/opinion/145654/brigham-city-v-stuart/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-fisher-16",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers find a man screaming and throwing things inside his house, with blood on his hand and a smashed truck outside. He won't let them in. They enter without a warrant. Which per curiam case applies the emergency-aid rule to uphold the entry?",
+    "back": "**Michigan v. Fisher (2009) (per curiam)**\nHolding: Applies Brigham City — emergency-aid entry is lawful where it is objectively reasonable to believe someone is injured or in danger; officers need no ironclad proof of serious injury and need not turn out to be right.\nSignature: the test \"is not what [the officer] believed, but whether there was an objectively reasonable basis for believing\" aid was needed.\nWhy it matters: A concrete, officer-facing application of the objective emergency-aid standard.\n⚠ Don't confuse with **Brigham City** (the source rule) — Fisher is its applied per curiam progeny.",
+    "tags": ["name-that-case", "emergency-aid", "exigent-circumstances", "fisher", "objective-standard", "confusable"],
+    "cite": "Michigan v. Fisher, 558 U.S. 45, 47, 49 (2009) (per curiam)",
+    "source": "https://www.courtlistener.com/opinion/1755/michigan-v-fisher/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-welsh-17",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A man drives off the road and walks home; police, without a warrant, enter his house at night and arrest him for a nonjailable, civil-forfeiture DUI offense, partly to preserve his blood-alcohol evidence. Which case holds this warrantless home entry unlawful?",
+    "back": "**Welsh v. Wisconsin (1984)**\nHolding: A warrantless nighttime home entry to arrest for a minor, nonjailable offense is not justified by exigent circumstances; the gravity of the underlying offense is an important factor, and evidence dissipation alone won't justify entry for a trivial crime.\nSignature: \"an important factor to be considered\" is \"the gravity of the underlying offense\"; hesitation is greatest when the offense is \"relatively minor.\"\nWhy it matters: Offense-seriousness limits exigent home entries.\n⚠ Don't confuse with **Hayden** (armed-robbery hot pursuit — entry OK) or **Lange** (misdemeanant flight — case-by-case).",
+    "tags": ["name-that-case", "exigent-circumstances", "welsh", "minor-offense", "home-entry-limit", "confusable"],
+    "cite": "Welsh v. Wisconsin, 466 U.S. 740, 753 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111173/welsh-v-wisconsin/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-lange-18",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A man playing loud music and honking is followed by an officer who flips on his lights; the man keeps driving into his own garage. The officer sticks a foot under the closing door and enters to arrest him for a misdemeanor. Which 2021 case rejects a categorical pursuit rule here?",
+    "back": "**Lange v. California (2021)**\nHolding: Pursuit of a fleeing misdemeanant does not categorically justify a warrantless home entry; courts must assess exigency case-by-case.\nSignature: \"[t]he flight of a suspected misdemeanant does not always justify a warrantless entry into a home.\"\nWhy it matters: Refuses a flat hot-pursuit rule for misdemeanors — flight plus a real exigency (harm, escape, evidence loss) is needed.\n⚠ Don't confuse with **Hayden** (felony hot pursuit — entry OK) or **King** (police-created exigency for evidence destruction).",
+    "tags": ["name-that-case", "exigent-circumstances", "hot-pursuit", "lange", "fleeing-misdemeanant", "confusable"],
+    "cite": "Lange v. California, 594 U.S. 295, 298-99 (2021)",
+    "source": "https://www.courtlistener.com/opinion/4894407/lange-v-california/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-caniglia-19",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "After a domestic argument, officers do a welfare check, then enter a man's home without a warrant and seize his guns, invoking a \"community caretaking\" rationale. Which 2021 case holds there is no such standalone exception for the home?",
+    "back": "**Caniglia v. Strom (2021)**\nHolding: There is no freestanding \"community caretaking\" exception authorizing warrantless entry into a home; Cady's caretaking rationale was vehicle-specific and does not transplant to the house.\nSignature: caretaking tasks are \"not an open-ended license to perform them anywhere\"; the lower court's rule \"goes beyond anything this Court has recognized.\"\nWhy it matters: Polices the boundary — home welfare entries must run through consent, a warrant, or genuine exigency/emergency aid (which survive).\n⚠ Don't confuse with **Cady** (community caretaking for VEHICLES — valid) or **Brigham City/Fisher** (emergency-aid home entry, still allowed).",
+    "tags": ["name-that-case", "community-caretaking", "caniglia", "no-home-caretaking-exception", "confusable"],
+    "cite": "Caniglia v. Strom, 593 U.S. 194, 196-98 (2021)",
+    "source": "https://www.courtlistener.com/opinion/4883694/caniglia-v-strom/"
+  },
+  {
+    "id": "name-that-case-consent-exigency-cady-20",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police impound a drunk-driving officer's wrecked car and, without a warrant, search the trunk for his service revolver to keep it out of the wrong hands. Which case coins the \"community caretaking\" idea?",
+    "back": "**Cady v. Dombrowski (1973)**\nHolding: A warrantless caretaking search of an impounded vehicle (here, for a firearm) can be reasonable; police perform many vehicle functions divorced from criminal investigation.\nSignature: \"community caretaking functions, totally divorced from the detection, investigation, or acquisition of evidence relating to the violation of a criminal statute.\"\nWhy it matters: Origin of the community-caretaking doctrine — and it is vehicle-specific, resting on the car/home distinction.\n⚠ Don't confuse with **Caniglia** — there is no community-caretaking exception for the HOME; Cady is for cars at the roadside.",
+    "tags": ["name-that-case", "community-caretaking", "cady", "impounded-vehicle", "vehicle-doctrine", "confusable"],
+    "cite": "Cady v. Dombrowski, 413 U.S. 433, 441 (1973)",
+    "source": "https://www.courtlistener.com/opinion/108850/cady-v-dombrowski/"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "common-legal-terms-mens-rea-01",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Mens rea",
+    "back": "The \"guilty mind\" — the mental state (intent, knowledge, recklessness, or negligence) the prosecution must prove for a crime. Example: walking out with someone else's umbrella by honest mistake lacks the mens rea for theft.",
+    "tags": ["common-legal-terms", "criminal-law", "latin", "mens-rea"]
+  },
+  {
+    "id": "common-legal-terms-actus-reus-02",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Actus reus",
+    "back": "The \"guilty act\" — the physical conduct (or unlawful omission) that makes up the crime. Example: pulling the trigger is the actus reus of a shooting; a crime generally needs both an act and the requisite mental state.",
+    "tags": ["common-legal-terms", "criminal-law", "latin", "actus-reus"]
+  },
+  {
+    "id": "common-legal-terms-mens-vs-actus-03",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "qa",
+    "front": "What is the difference between mens rea and actus reus, and what does a crime usually require?",
+    "back": "Mens rea is the guilty mind (the intent/mental state); actus reus is the guilty act (the physical conduct). Most crimes require both.",
+    "tags": ["common-legal-terms", "criminal-law", "distinction", "mens-rea", "actus-reus"]
+  },
+  {
+    "id": "common-legal-terms-corpus-delicti-04",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Corpus delicti",
+    "back": "The \"body of the crime\" — proof that a crime actually occurred, separate from who did it; a confession alone usually isn't enough without it. Example: before a murder conviction the state must show a death caused by a criminal act, not just the defendant's admission.",
+    "tags": ["common-legal-terms", "criminal-law", "latin", "corpus-delicti"]
+  },
+  {
+    "id": "common-legal-terms-modus-operandi-05",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Modus operandi (M.O.)",
+    "back": "A person's characteristic method of committing crimes — the recognizable pattern in how it's done. Example: a burglar who always enters through a rear basement window and disables the same alarm model has a distinctive M.O. linking the cases.",
+    "tags": ["common-legal-terms", "criminal-law", "latin", "modus-operandi"]
+  },
+  {
+    "id": "common-legal-terms-probable-cause-06",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Probable cause",
+    "back": "A fair probability that a crime occurred or that evidence is present — the standard for arrests and most warrants. Example: finding stolen items on a person gives probable cause to arrest.",
+    "tags": ["common-legal-terms", "fourth-amendment", "probable-cause", "standards"]
+  },
+  {
+    "id": "common-legal-terms-reasonable-suspicion-07",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Reasonable suspicion",
+    "back": "A lower, articulable belief that criminal activity is afoot — the standard for a brief investigative (Terry) stop. Example: seeing someone repeatedly case parked cars may support reasonable suspicion to stop and ask questions.",
+    "tags": ["common-legal-terms", "fourth-amendment", "reasonable-suspicion", "standards"]
+  },
+  {
+    "id": "common-legal-terms-pc-vs-rs-08",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "qa",
+    "front": "How do probable cause and reasonable suspicion differ as tiers of justification?",
+    "back": "Probable cause is a fair probability that a crime occurred or evidence is present (the standard for arrests and most warrants); reasonable suspicion is a lower, articulable belief that criminal activity is afoot (the standard for a brief investigative stop).",
+    "tags": ["common-legal-terms", "fourth-amendment", "distinction", "probable-cause", "reasonable-suspicion"]
+  },
+  {
+    "id": "common-legal-terms-fruit-poisonous-tree-09",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Fruit of the poisonous tree",
+    "back": "Derivative evidence discovered because of an earlier illegal search or seizure; if the \"tree\" (the original act) is tainted, its \"fruit\" is generally suppressed too. Example: an illegal stop reveals a key that opens a locker of contraband — the contraband may be excluded.",
+    "tags": ["common-legal-terms", "evidence", "exclusionary-rule", "fruit-of-the-poisonous-tree"]
+  },
+  {
+    "id": "common-legal-terms-habeas-corpus-10",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Habeas corpus",
+    "back": "\"That you have the body\" — a petition challenging the legality of a person's detention and demanding the custodian justify it. Example: a prisoner files a writ of habeas corpus arguing he's held under an unconstitutional conviction and must be released.",
+    "tags": ["common-legal-terms", "procedure", "latin", "habeas-corpus"]
+  },
+  {
+    "id": "common-legal-terms-ex-parte-11",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Ex parte",
+    "back": "\"From one party\" — a proceeding or order made with only one side present, without notice to the other. Example: police obtain a search warrant ex parte; the suspect isn't notified or heard before it issues.",
+    "tags": ["common-legal-terms", "procedure", "latin", "ex-parte"]
+  },
+  {
+    "id": "common-legal-terms-de-minimis-12",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "De minimis",
+    "back": "Short for de minimis non curat lex, \"the law doesn't concern itself with trifles\" — too small or trivial to matter legally. Example: a momentary, fleeting touch may be deemed de minimis and not rise to a legally significant seizure.",
+    "tags": ["common-legal-terms", "latin", "de-minimis"]
+  },
+  {
+    "id": "common-legal-terms-de-facto-de-jure-13",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "qa",
+    "front": "What is the difference between de facto and de jure?",
+    "back": "De facto = \"in fact\" — how things actually are in practice; de jure = \"in law\" — how things are by formal legal right. Example: someone who runs an operation without holding the title is the de facto manager; the de jure manager is whoever is named on paper.",
+    "tags": ["common-legal-terms", "latin", "distinction", "de-facto", "de-jure"]
+  },
+  {
+    "id": "common-legal-terms-prima-facie-14",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Prima facie",
+    "back": "\"At first sight\" — a showing strong enough to establish a fact or claim unless it's rebutted. Example: producing a valid signed contract makes a prima facie case that an agreement existed, shifting the burden to the other side.",
+    "tags": ["common-legal-terms", "latin", "prima-facie", "burden-of-proof"]
+  },
+  {
+    "id": "common-legal-terms-pro-bono-15",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Pro bono",
+    "back": "Short for pro bono publico, \"for the public good\" — legal work done without charge. Example: an attorney takes an indigent appeal pro bono, charging no fee.",
+    "tags": ["common-legal-terms", "latin", "pro-bono"]
+  },
+  {
+    "id": "common-legal-terms-pro-se-16",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Pro se",
+    "back": "\"For oneself\" — representing yourself in court without a lawyer. Example: a defendant who waives counsel and argues his own suppression motion is proceeding pro se.",
+    "tags": ["common-legal-terms", "latin", "pro-se"]
+  },
+  {
+    "id": "common-legal-terms-inter-alia-17",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Inter alia",
+    "back": "\"Among other things\" — signals that a list is not exhaustive. Example: a motion challenging the stop on Fourth Amendment grounds, inter alia, means other grounds are raised too.",
+    "tags": ["common-legal-terms", "latin", "inter-alia"]
+  },
+  {
+    "id": "common-legal-terms-duces-tecum-18",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Subpoena duces tecum",
+    "back": "A subpoena commanding a person to produce documents or things (duces tecum = \"bring with you\"). Example: a subpoena duces tecum orders a bank to produce a defendant's account records for a specific date range.",
+    "tags": ["common-legal-terms", "procedure", "latin", "subpoena"]
+  },
+  {
+    "id": "common-legal-terms-duces-vs-ad-test-19",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "qa",
+    "front": "What is the difference between a subpoena duces tecum and a subpoena ad testificandum?",
+    "back": "A subpoena duces tecum commands producing documents or things; a subpoena ad testificandum commands a person to appear and testify (the ordinary \"show up and answer questions\" subpoena).",
+    "tags": ["common-legal-terms", "procedure", "latin", "distinction", "subpoena"]
+  },
+  {
+    "id": "common-legal-terms-in-forma-pauperis-20",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "In forma pauperis (IFP)",
+    "back": "\"In the manner of a pauper\" — permission to proceed in court without paying the usual fees because the party can't afford them. Example: an indigent defendant files an appeal in forma pauperis, so the filing fee is waived.",
+    "tags": ["common-legal-terms", "procedure", "latin", "in-forma-pauperis"]
+  },
+  {
+    "id": "common-legal-terms-statute-of-limitations-21",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Statute of limitations",
+    "back": "The deadline by which a charge or claim must be brought; once it runs, the case is generally time-barred. Example: if the limitations period on a fraud is five years, charges filed in year six are barred even with strong evidence.",
+    "tags": ["common-legal-terms", "procedure", "statute-of-limitations"]
+  },
+  {
+    "id": "common-legal-terms-stare-decisis-22",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Stare decisis",
+    "back": "\"To stand by things decided\" — the doctrine that courts follow precedent, which is what makes the court hierarchy work. Example: a district court applies a controlling Supreme Court rule under stare decisis even though the judge personally questions it.",
+    "tags": ["common-legal-terms", "precedent", "latin", "stare-decisis"]
+  },
+  {
+    "id": "common-legal-terms-voir-dire-23",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Voir dire",
+    "back": "\"To speak the truth\" — the questioning of prospective jurors (or a witness's qualifications) to test for bias or competence. Example: during voir dire the judge dismisses a juror who admits she couldn't be fair to anyone accused of the charged offense.",
+    "tags": ["common-legal-terms", "procedure", "voir-dire", "jury"]
+  },
+  {
+    "id": "common-legal-terms-holding-24",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Holding",
+    "back": "The court's actual ruling on the legal question presented — the binding part of the decision that resolves the case. Example: the holding is that the warrantless search violated the Fourth Amendment, so the evidence is suppressed.",
+    "tags": ["common-legal-terms", "opinions", "precedent", "holding"]
+  },
+  {
+    "id": "common-legal-terms-dicta-25",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Dicta (obiter dictum)",
+    "back": "Remarks in an opinion not necessary to the holding — persuasive commentary, but not binding. Example: a court rules the stop lawful, then muses about how it would analyze a nighttime stop; that aside is dicta.",
+    "tags": ["common-legal-terms", "opinions", "precedent", "dicta", "latin"]
+  },
+  {
+    "id": "common-legal-terms-holding-vs-dicta-26",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "qa",
+    "front": "What is the difference between a court's holding and its dicta?",
+    "back": "The holding is the court's binding ruling on the issue presented; dicta are non-binding remarks not necessary to the decision (persuasive but not controlling).",
+    "tags": ["common-legal-terms", "opinions", "precedent", "distinction", "holding", "dicta"]
+  },
+  {
+    "id": "common-legal-terms-per-curiam-27",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Per curiam",
+    "back": "\"By the court\" — an unsigned opinion issued in the name of the whole court rather than a named author. Example: the court resolves a straightforward issue with a brief per curiam opinion.",
+    "tags": ["common-legal-terms", "opinions", "latin", "per-curiam"]
+  },
+  {
+    "id": "common-legal-terms-plurality-28",
+    "page": "common-legal-terms",
+    "topic": "Common Legal Terms",
+    "type": "definition",
+    "front": "Plurality opinion",
+    "back": "The opinion with the most votes when no single opinion commands a majority; its reasoning is influential but its precedential force is limited. Example: a 4-1-4 split produces a plurality opinion that announces the judgment but leaves the governing rule unsettled.",
+    "tags": ["common-legal-terms", "opinions", "precedent", "plurality"]
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "id": "fourth-amendment-framework-two-clauses-01",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What two clauses make up the Fourth Amendment?",
+    "back": "The reasonableness clause (the general command that searches and seizures be reasonable) and the warrant clause (no warrants shall issue but upon probable cause).",
+    "tags": ["fourth-amendment-framework", "text", "two-clauses"]
+  },
+  {
+    "id": "fourth-amendment-framework-text-protects-02",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "cloze",
+    "front": "Fourth Amendment text: it secures the right of the people to be secure in their {{persons, houses, papers, and effects}}, against unreasonable searches and seizures.",
+    "back": "persons, houses, papers, and effects",
+    "tags": ["fourth-amendment-framework", "text", "protected-interests"],
+    "cite": "U.S. Const. amend. IV"
+  },
+  {
+    "id": "fourth-amendment-framework-restrains-government-03",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Whom does the Fourth Amendment restrain — and whom does it NOT restrain?",
+    "back": "It restrains the government only; it does not reach private parties acting on their own initiative.",
+    "tags": ["fourth-amendment-framework", "state-action", "jacobsen"],
+    "cite": "United States v. Jacobsen, 466 U.S. 109, 113-14 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111143/united-states-v-jacobsen/"
+  },
+  {
+    "id": "fourth-amendment-framework-four-step-sequence-04",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What is the four-step order in which every Fourth Amendment problem is worked?",
+    "back": "(1) Was a constitutionally protected area or interest involved; (2) did a search or seizure occur; (3) does the claimant have standing (were the claimant's OWN rights invaded); and (4) was the government action reasonable (C.R.E.W.).",
+    "tags": ["fourth-amendment-framework", "analysis", "four-step"]
+  },
+  {
+    "id": "fourth-amendment-framework-step-three-standing-05",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "In the four-step framework, what question is asked at the STANDING step (step 3)?",
+    "back": "Were the claimant's OWN protected interests invaded — was the place searched or the thing seized his? Fourth Amendment rights are personal.",
+    "tags": ["fourth-amendment-framework", "analysis", "standing"]
+  },
+  {
+    "id": "fourth-amendment-framework-step-four-reasonableness-06",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "In the four-step framework, how is the REASONABLENESS step (step 4) operationally satisfied?",
+    "back": "Through C.R.E.W.: Consent, a Recognized Exception, or a Warrant.",
+    "tags": ["fourth-amendment-framework", "analysis", "crew", "reasonableness"]
+  },
+  {
+    "id": "fourth-amendment-framework-crew-mnemonic-07",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What does the instructor mnemonic C.R.E.W. stand for, and what does it operationalize?",
+    "back": "Consent, Recognized Exception, or Warrant — the three ways government action becomes reasonable. (C.R.E.W. is an instructor maxim, not case law.)",
+    "tags": ["fourth-amendment-framework", "crew", "mnemonic", "reasonableness"]
+  },
+  {
+    "id": "fourth-amendment-framework-two-search-definitions-08",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What are the two independent definitions of a Fourth Amendment 'search'?",
+    "back": "(a) The government physically intrudes on a constitutionally protected area to obtain information (trespass theory), OR (b) the government invades a reasonable expectation of privacy (Katz theory). Either independently establishes a search.",
+    "tags": ["fourth-amendment-framework", "search-definition", "trespass", "katz"]
+  },
+  {
+    "id": "fourth-amendment-framework-trespass-theory-area-09",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What does the TRESPASS theory of a search require that the Katz theory does not?",
+    "back": "A constitutionally protected AREA — persons, houses, papers, or effects — physically intruded upon to obtain information.",
+    "tags": ["fourth-amendment-framework", "search-definition", "trespass"]
+  },
+  {
+    "id": "fourth-amendment-framework-katz-not-confined-10",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Is the Katz (reasonable-expectation-of-privacy) theory of a search confined to persons, houses, papers, and effects?",
+    "back": "No — it protects a reasonable expectation of privacy and is not confined to the enumerated categories: 'the Fourth Amendment protects people, not places.'",
+    "tags": ["fourth-amendment-framework", "search-definition", "katz"]
+  },
+  {
+    "id": "fourth-amendment-framework-katz-supplement-not-replace-11",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Did the Katz privacy theory REPLACE the property/trespass baseline for searches?",
+    "back": "No — Katz supplemented the property baseline; it did not replace it. Either theory independently establishes a search.",
+    "tags": ["fourth-amendment-framework", "search-definition", "katz", "trespass"]
+  },
+  {
+    "id": "fourth-amendment-framework-seizure-property-def-12",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "definition",
+    "front": "Define a Fourth Amendment seizure of PROPERTY (Jacobsen).",
+    "back": "'Some meaningful interference with an individual's possessory interests in that property.'",
+    "tags": ["fourth-amendment-framework", "seizure-property", "jacobsen"],
+    "cite": "United States v. Jacobsen, 466 U.S. at 113",
+    "source": "https://www.courtlistener.com/opinion/111143/united-states-v-jacobsen/"
+  },
+  {
+    "id": "fourth-amendment-framework-seizure-property-to-case-13",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Which case defines a property seizure as 'some meaningful interference with an individual's possessory interests in that property'?",
+    "back": "United States v. Jacobsen, 466 U.S. 109 (1984).",
+    "tags": ["fourth-amendment-framework", "seizure-property", "jacobsen", "reverse"],
+    "cite": "United States v. Jacobsen, 466 U.S. at 113",
+    "source": "https://www.courtlistener.com/opinion/111143/united-states-v-jacobsen/"
+  },
+  {
+    "id": "fourth-amendment-framework-seizure-person-def-14",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "definition",
+    "front": "Define a Fourth Amendment seizure of a PERSON.",
+    "back": "A restraint on liberty of movement by physical force or by submission to a show of authority.",
+    "tags": ["fourth-amendment-framework", "seizure-person"]
+  },
+  {
+    "id": "fourth-amendment-framework-seizure-property-vs-person-15",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Distinguish what is interfered with in a seizure of PROPERTY versus a seizure of a PERSON.",
+    "back": "Property seizure = meaningful interference with possessory interests in the property. Person seizure = restraint on liberty of movement (by force or submission to a show of authority).",
+    "tags": ["fourth-amendment-framework", "seizure-property", "seizure-person", "distinction"]
+  },
+  {
+    "id": "fourth-amendment-framework-camara-admin-search-16",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What did Camara v. Municipal Court hold about administrative area inspections?",
+    "back": "Administrative inspections ARE Fourth Amendment searches.",
+    "tags": ["fourth-amendment-framework", "camara", "reasonableness", "holding"],
+    "cite": "Camara v. Municipal Court, 387 U.S. 523 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107473/camara-v-municipal-court-of-city-and-county-of-san-francisco/"
+  },
+  {
+    "id": "fourth-amendment-framework-camara-balancing-quote-17",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Quote Camara's statement of the reasonableness-balancing test.",
+    "back": "'[T]here can be no ready test for determining reasonableness other than by balancing the need to search against the invasion which the search entails.'",
+    "tags": ["fourth-amendment-framework", "camara", "reasonableness", "balancing", "quote"],
+    "cite": "Camara v. Municipal Court, 387 U.S. at 536-37",
+    "source": "https://www.courtlistener.com/opinion/107473/camara-v-municipal-court-of-city-and-county-of-san-francisco/"
+  },
+  {
+    "id": "fourth-amendment-framework-reasonableness-touchstone-18",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What is the 'touchstone' of the Fourth Amendment, and what is its essential character?",
+    "back": "Reasonableness is the touchstone, and it is a BALANCE — Camara's balancing of the need to search against the invasion is the root of every later reasonableness inquiry.",
+    "tags": ["fourth-amendment-framework", "camara", "reasonableness", "significance"]
+  },
+  {
+    "id": "fourth-amendment-framework-camara-significance-19",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Why does Camara v. Municipal Court matter to the broader framework (its significance)?",
+    "back": "Its balancing formulation — need to search vs. the invasion — is the root of every later Fourth Amendment reasonableness inquiry.",
+    "tags": ["fourth-amendment-framework", "camara", "significance", "reasonableness"],
+    "cite": "Camara v. Municipal Court, 387 U.S. at 536-37",
+    "source": "https://www.courtlistener.com/opinion/107473/camara-v-municipal-court-of-city-and-county-of-san-francisco/"
+  },
+  {
+    "id": "fourth-amendment-framework-standing-personal-20",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What is the core rule of Fourth Amendment standing?",
+    "back": "Fourth Amendment rights are personal: a defendant may suppress only evidence obtained by invading HIS OWN protected interest, not a third party's.",
+    "tags": ["fourth-amendment-framework", "standing"]
+  },
+  {
+    "id": "fourth-amendment-framework-standing-pitfall-21",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Common pitfall: officers/instructors conflate 'the search was illegal' with what — and why is that wrong?",
+    "back": "They conflate it with 'THIS defendant can suppress.' Wrong: standing requires the claimant's OWN protected interest to have been invaded, not a third party's.",
+    "tags": ["fourth-amendment-framework", "standing", "pitfall"]
+  },
+  {
+    "id": "fourth-amendment-framework-hicks-facts-22",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Key facts → case: An officer moved stereo equipment a few inches to read its serial numbers. Which case, and was that a search?",
+    "back": "Arizona v. Hicks — yes, moving the equipment was a NEW search requiring probable cause.",
+    "tags": ["fourth-amendment-framework", "hicks", "facts-to-case", "search-definition"],
+    "cite": "Arizona v. Hicks, 480 U.S. 321 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/"
+  },
+  {
+    "id": "fourth-amendment-framework-hicks-rule-23",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What rule does Arizona v. Hicks stand for about the magnitude of an intrusion?",
+    "back": "A trivial / minimal further intrusion is still a search — even moving an object a few inches to read a serial number requires probable cause.",
+    "tags": ["fourth-amendment-framework", "hicks", "search-definition", "rule"],
+    "cite": "Arizona v. Hicks, 480 U.S. at 325",
+    "source": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/"
+  },
+  {
+    "id": "fourth-amendment-framework-hicks-new-invasion-quote-24",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "cloze",
+    "front": "In Hicks, picking up the turntables to read serial numbers 'produced a {{new invasion}} of respondent's privacy unjustified by the exigent circumstance.'",
+    "back": "new invasion",
+    "tags": ["fourth-amendment-framework", "hicks", "quote", "search-definition"],
+    "cite": "Arizona v. Hicks, 480 U.S. at 325",
+    "source": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/"
+  },
+  {
+    "id": "fourth-amendment-framework-hicks-pitfall-25",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Common pitfall (Hicks): what do officers forget about small intrusions?",
+    "back": "That small intrusions count — moving an object a few inches to read a serial number is itself a search.",
+    "tags": ["fourth-amendment-framework", "hicks", "pitfall", "search-definition"]
+  },
+  {
+    "id": "fourth-amendment-framework-state-action-threshold-26",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Why is STATE ACTION described as the threshold for the whole Fourth Amendment?",
+    "back": "Because the Amendment does not apply at all to a search or seizure (even an arbitrary one) effected by a private party on his own initiative — without government action there is no Fourth Amendment event.",
+    "tags": ["fourth-amendment-framework", "state-action", "skinner"],
+    "cite": "Skinner v. Railway Labor Executives' Ass'n, 489 U.S. 602, 614 (1989)",
+    "source": "https://www.courtlistener.com/opinion/112219/skinner-v-railway-labor-executives-assn/"
+  },
+  {
+    "id": "fourth-amendment-framework-skinner-private-initiative-27",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Per Skinner, when DOES the Fourth Amendment apply to conduct by a private party?",
+    "back": "When the private party 'acted as an instrument or agent of the Government' — not when he acted 'on his own initiative.'",
+    "tags": ["fourth-amendment-framework", "state-action", "skinner", "rule"],
+    "cite": "Skinner v. Railway Labor Executives' Ass'n, 489 U.S. at 614",
+    "source": "https://www.courtlistener.com/opinion/112219/skinner-v-railway-labor-executives-assn/"
+  },
+  {
+    "id": "fourth-amendment-framework-skinner-degree-participation-28",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Per Skinner, whether a private party is a government agent 'necessarily turns on' what?",
+    "back": "'The degree of the Government's participation in the private party's activities,' resolved 'in light of all the circumstances.'",
+    "tags": ["fourth-amendment-framework", "state-action", "skinner", "quote"],
+    "cite": "Skinner v. Railway Labor Executives' Ass'n, 489 U.S. at 614-15",
+    "source": "https://www.courtlistener.com/opinion/112219/skinner-v-railway-labor-executives-assn/"
+  },
+  {
+    "id": "fourth-amendment-framework-state-actor-triggers-29",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "A private party becomes a state actor when the government does what?",
+    "back": "When the government instigates, directs, or significantly encourages or participates in the search.",
+    "tags": ["fourth-amendment-framework", "state-action", "skinner"]
+  },
+  {
+    "id": "fourth-amendment-framework-coolidge-private-clean-30",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What did Coolidge v. New Hampshire establish about evidence from a genuinely private search?",
+    "back": "Evidence produced by a genuinely private search does not implicate the Fourth Amendment; whether conduct is private or governmental is determined in light of all the circumstances.",
+    "tags": ["fourth-amendment-framework", "coolidge", "state-action", "holding"],
+    "cite": "Coolidge v. New Hampshire, 403 U.S. 443 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108377/coolidge-v-new-hampshire/"
+  },
+  {
+    "id": "fourth-amendment-framework-private-evidence-pitfall-31",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Common pitfall: why is private-party evidence NOT automatically 'clean'?",
+    "back": "It is clean only if the actor was genuinely private. If the government instigated, directed, or significantly participated, the private party is a state actor and the Amendment applies (Skinner).",
+    "tags": ["fourth-amendment-framework", "state-action", "skinner", "pitfall"]
+  },
+  {
+    "id": "fourth-amendment-framework-two-part-agency-gloss-32",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What is the commonly taught two-part private-agency test, and what is its actual authority status?",
+    "back": "(1) Government knowledge and acquiescence, and (2) the private party's intent to assist law enforcement. It is CIRCUIT GLOSS — treat it as persuasive, not a SCOTUS holding.",
+    "tags": ["fourth-amendment-framework", "state-action", "agency-test", "nuance"]
+  },
+  {
+    "id": "fourth-amendment-framework-private-search-cat-bag-33",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "State the private-search doctrine ('the cat is out of the bag').",
+    "back": "Once a private party has searched and exposed contents, a later government inspection that does NOT exceed the scope of the private search invades no remaining expectation of privacy.",
+    "tags": ["fourth-amendment-framework", "private-search", "jacobsen"],
+    "cite": "United States v. Jacobsen, 466 U.S. at 115-17",
+    "source": "https://www.courtlistener.com/opinion/111143/united-states-v-jacobsen/"
+  },
+  {
+    "id": "fourth-amendment-framework-jacobsen-fedex-facts-34",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Key facts → case: FedEx employees opened a damaged package, then the DEA inspected it. Which case, and was the government inspection lawful?",
+    "back": "United States v. Jacobsen — the DEA's later inspection within the scope of the private search was lawful (invaded no remaining privacy).",
+    "tags": ["fourth-amendment-framework", "jacobsen", "private-search", "facts-to-case"],
+    "cite": "United States v. Jacobsen, 466 U.S. at 115-17",
+    "source": "https://www.courtlistener.com/opinion/111143/united-states-v-jacobsen/"
+  },
+  {
+    "id": "fourth-amendment-framework-private-search-three-subrules-35",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "What are the three sub-rules governing the private-search doctrine?",
+    "back": "(1) Cannot exceed the private search's scope (Walter); (2) re-examination needs 'virtual certainty' nothing else of significance will be revealed (Jacobsen); (3) the officer must already have a lawful right of access to the item.",
+    "tags": ["fourth-amendment-framework", "private-search", "jacobsen", "walter"]
+  },
+  {
+    "id": "fourth-amendment-framework-private-search-scope-walter-36",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Private-search sub-rule 1: what happens if the government search exceeds what the private party exposed?",
+    "back": "It is a SEPARATE search needing its own justification — the government may stand in the private party's shoes but no further (Walter).",
+    "tags": ["fourth-amendment-framework", "private-search", "walter", "scope"],
+    "cite": "Walter v. United States, 447 U.S. 649 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110314/walter-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-framework-walter-films-facts-37",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Key facts → case: A private party turned over films it had NOT actually viewed, and the FBI then screened them. Which case, and was the screening lawful?",
+    "back": "Walter v. United States — the FBI's screening of films the private party had not viewed was a separate, UNLAWFUL search exceeding the private search's scope.",
+    "tags": ["fourth-amendment-framework", "walter", "private-search", "facts-to-case"],
+    "cite": "Walter v. United States, 447 U.S. 649 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110314/walter-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-framework-walter-frustrated-quote-38",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Quote Walter on what a partial private search does (and does not do) to remaining Fourth Amendment protection.",
+    "back": "The private 'search merely frustrated that expectation in part. It did not . . . strip the remaining unfrustrated portion . . . of all Fourth Amendment protection.'",
+    "tags": ["fourth-amendment-framework", "walter", "private-search", "quote"],
+    "cite": "Walter v. United States, 447 U.S. at 659",
+    "source": "https://www.courtlistener.com/opinion/110314/walter-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-framework-virtual-certainty-39",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Private-search sub-rule 2: when may officers re-examine or reopen what a private party already searched?",
+    "back": "Where there is 'a virtual certainty that nothing else of significance' would be revealed beyond what the private party already disclosed (Jacobsen).",
+    "tags": ["fourth-amendment-framework", "private-search", "jacobsen", "virtual-certainty"],
+    "cite": "United States v. Jacobsen, 466 U.S. at 119",
+    "source": "https://www.courtlistener.com/opinion/111143/united-states-v-jacobsen/"
+  },
+  {
+    "id": "fourth-amendment-framework-lawful-right-access-40",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Private-search sub-rule 3: what access requirement must the officer satisfy?",
+    "back": "The officer must already have a lawful right of access to the item the private party searched.",
+    "tags": ["fourth-amendment-framework", "private-search", "lawful-access"]
+  },
+  {
+    "id": "fourth-amendment-framework-walter-pitfall-41",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Common pitfall: what is 'the Walter trap' in private-search cases?",
+    "back": "Going beyond what the private party exposed — without independent justification or virtual certainty nothing new will appear — is a FRESH search. The officer stands in the private party's shoes but no further.",
+    "tags": ["fourth-amendment-framework", "walter", "private-search", "pitfall"]
+  },
+  {
+    "id": "fourth-amendment-framework-threshold-pitfall-42",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Common pitfall: what happens if you skip the threshold (search-or-seizure) question?",
+    "back": "If no search or seizure occurred, there is nothing to justify and no suppression remedy. Work the sequence in order; don't jump to warrant exceptions.",
+    "tags": ["fourth-amendment-framework", "analysis", "pitfall", "threshold"]
+  },
+  {
+    "id": "fourth-amendment-framework-heller-preexisting-right-43",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "For what single framing point is District of Columbia v. Heller cited on this Fourth Amendment page (and what caution applies)?",
+    "back": "Only for the framing that the Bill of Rights was 'widely understood to codify a pre-existing right, rather than to fashion a new one.' CAUTION: Heller is a SECOND Amendment case, NOT Fourth Amendment authority.",
+    "tags": ["fourth-amendment-framework", "heller", "second-amendment", "pre-existing-right"],
+    "cite": "District of Columbia v. Heller, 554 U.S. 570, 592 (2008)",
+    "source": "https://www.courtlistener.com/opinion/145777/district-of-columbia-v-heller/"
+  },
+  {
+    "id": "fourth-amendment-framework-katz-crossref-44",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Which case supplies the privacy ('reasonable expectation of privacy') theory of a search?",
+    "back": "Katz v. United States, 389 U.S. 347 (1967). (Deep treatment lives on the 'two searches under the 4th Amendment' page.)",
+    "tags": ["fourth-amendment-framework", "katz", "search-definition", "cross-reference"],
+    "cite": "Katz v. United States, 389 U.S. 347 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-framework-jones-crossref-45",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Which case revived the trespass/physical-intrusion theory of a search (GPS tracker on a vehicle)?",
+    "back": "United States v. Jones, 565 U.S. 400 (2012). (Deep treatment lives on the 'two searches under the 4th Amendment' page.)",
+    "tags": ["fourth-amendment-framework", "jones", "search-definition", "trespass", "cross-reference"],
+    "cite": "United States v. Jones, 565 U.S. 400 (2012)",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  },
+  {
+    "id": "fourth-amendment-framework-trespass-vs-privacy-distinction-46",
+    "page": "fourth-amendment-framework",
+    "topic": "Fourth Amendment Framework",
+    "type": "qa",
+    "front": "Distinction: which search theory is associated with Jones, and which with Katz?",
+    "back": "Trespass / physical-intrusion theory → Jones. Reasonable-expectation-of-privacy theory → Katz. Each independently establishes a search.",
+    "tags": ["fourth-amendment-framework", "jones", "katz", "distinction", "search-definition"]
+  }
+]

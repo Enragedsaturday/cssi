@@ -1,0 +1,389 @@
+[
+  {
+    "id": "name-that-case-threshold-katz-01",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "FBI agents attach a listening-and-recording device to the OUTSIDE of a public telephone booth to overhear a bookmaker's calls — no physical entry of the booth. \"The Fourth Amendment protects people, not places.\" Which case?",
+    "back": "**Katz v. United States (1967)**\nHolding: Electronic eavesdropping that invades a justified expectation of privacy is a search even with no physical trespass; overruled Olmstead's trespass-only view.\nSignature: \"the Fourth Amendment protects people, not places\"; the two-prong reasonable-expectation-of-privacy test — (1) subjective expectation, (2) one society accepts as reasonable — is from **Harlan's CONCURRENCE**, not the majority.\nWhy it matters: founds the privacy theory of a \"search.\"\n⚠ Don't confuse with **Jones/Jardines** (trespass theory — physical intrusion) — Katz is the privacy theory, no trespass needed. The famous two-part test is Harlan's concurrence, not the Katz majority.",
+    "tags": [
+      "name-that-case",
+      "reasonable-expectation-of-privacy",
+      "katz",
+      "privacy-test",
+      "confusable"
+    ],
+    "cite": "Katz v. United States, 389 U.S. 347, 351, 361 (1967) (Harlan, J., concurring)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "name-that-case-threshold-olmstead-02",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Prohibition agents wiretap phone lines out on the public street — no physical entry of the defendants' homes or offices — and the Court holds it is NOT a search. (Brandeis dissents: \"the right to be let alone.\") Which case?",
+    "back": "**Olmstead v. United States (1928)**\nHolding: Wiretapping with no physical trespass into the premises and no seizure of tangible things was not a Fourth Amendment search — a pure property/trespass framing.\nSignature: Brandeis, J., dissenting — \"the right to be let alone.\"\nWhy it matters: the pre-Katz rule; overruled on the privacy point by Katz (1967), but its property/entry instinct was later revived by Jones (2012).\n⚠ Don't confuse with **Katz** — Katz overruled Olmstead and held a bug needs no trespass to be a search.",
+    "tags": [
+      "name-that-case",
+      "reasonable-expectation-of-privacy",
+      "olmstead",
+      "wiretap",
+      "trespass-test",
+      "confusable"
+    ],
+    "cite": "Olmstead v. United States, 277 U.S. 438, 457, 464 (1928); id. at 478 (Brandeis, J., dissenting)",
+    "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+    "id": "name-that-case-threshold-jones-03",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Agents secretly attach a GPS tracker to the undercarriage of a suspect's car and monitor its movements for 28 days. The Court finds a search by reviving the old PROPERTY/TRESPASS theory. Which case?",
+    "back": "**United States v. Jones (2012)**\nHolding: Physically installing a GPS device on a vehicle (an \"effect\") to obtain information is a search under the trespass theory — no need to reach Katz privacy.\nSignature: revived the trespass test — \"The Government physically occupied private property for the purpose of obtaining information.\" Two elements: (1) physical intrusion on a protected area, (2) intent to obtain information.\nWhy it matters: the controlling modern trespass-search case; \"Katz did not narrow the Fourth Amendment's scope\" — trespass and privacy now run in parallel.\n⚠ Don't confuse with **Katz** (privacy theory) or **Knotts** (beeper, public roads, no trespass installation by govt = no search).",
+    "tags": [
+      "name-that-case",
+      "trespass-test",
+      "jones",
+      "gps",
+      "confusable"
+    ],
+    "cite": "United States v. Jones, 565 U.S. 400, 404-05, 408 & n.5 (2012)",
+    "source": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/"
+  },
+  {
+    "id": "name-that-case-threshold-jardines-04",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police walk a drug-detection dog up to the FRONT PORCH of a house to sniff for marijuana. The implied license covers \"the Nation's Girl Scouts and trick-or-treaters\" — but not this. Which case?",
+    "back": "**Florida v. Jardines (2013)**\nHolding: Bringing a drug dog onto the home's curtilage (the front porch) to investigate exceeded the implied license to approach and knock — a trespassory search under the Jones property theory.\nSignature: the implied license lets a visitor \"approach the home by the front path, knock promptly, wait briefly... and then... leave,\" as \"managed without incident by the Nation's Girl Scouts and trick-or-treaters.\"\nWhy it matters: applies the trespass theory to curtilage; a knock-and-talk has a limited SCOPE.\n⚠ Don't confuse with **Place/Caballes** (a dog sniff of luggage or a car is NOT a search) — Jardines is a search because the dog entered the curtilage.",
+    "tags": [
+      "name-that-case",
+      "trespass-test",
+      "curtilage",
+      "jardines",
+      "dog-sniff",
+      "confusable"
+    ],
+    "cite": "Florida v. Jardines, 569 U.S. 1, 6-8 (2013)",
+    "source": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/"
+  },
+  {
+    "id": "name-that-case-threshold-kyllo-05",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Agents aim a thermal-imaging device at a home from the street to detect heat from marijuana grow-lamps inside. Sense-enhancing tech \"not in general public use,\" pointed at a home. Which case?",
+    "back": "**Kyllo v. United States (2001)**\nHolding: Using sense-enhancing technology not in general public use to obtain information about the interior of a home that could not otherwise be known without physical intrusion is a search, presumptively unreasonable without a warrant.\nSignature: \"the technology in question is not in general public use\"; preserves \"that degree of privacy against government that existed when the Fourth Amendment was adopted.\"\nWhy it matters: the home gets special protection against new surveillance tech.\n⚠ Don't confuse with **Ciraolo/Riley** (naked-eye aerial observation of curtilage = NOT a search) — Kyllo is a search because tech pierced the home's interior.",
+    "tags": [
+      "name-that-case",
+      "reasonable-expectation-of-privacy",
+      "kyllo",
+      "thermal-imaging",
+      "technology",
+      "confusable"
+    ],
+    "cite": "Kyllo v. United States, 533 U.S. 27, 34-35, 40 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118443/kyllo-v-united-states/"
+  },
+  {
+    "id": "name-that-case-threshold-smith-06",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Without a warrant, police have the phone company install a PEN REGISTER recording the numbers a robbery suspect dials from his home phone. No reasonable expectation of privacy in numbers dialed. Which case?",
+    "back": "**Smith v. Maryland (1979)**\nHolding: Installing a pen register to record dialed numbers is not a search — a caller has no legitimate expectation of privacy in the numbers he voluntarily conveys to the phone company.\nSignature: third-party doctrine — petitioner \"voluntarily conveyed numerical information to the telephone company\" and thus \"assumed the risk\" it would be disclosed.\nWhy it matters: the dialed-numbers leg of the third-party doctrine (with Miller).\n⚠ Don't confuse with **Carpenter** — extended cell-site LOCATION data IS a search; Smith covers only dialed numbers, not pervasive location tracking.",
+    "tags": [
+      "name-that-case",
+      "third-party-doctrine",
+      "smith",
+      "pen-register",
+      "confusable"
+    ],
+    "cite": "Smith v. Maryland, 442 U.S. 735, 743-44 (1979)",
+    "source": "https://www.courtlistener.com/opinion/110118/smith-v-maryland/"
+  },
+  {
+    "id": "name-that-case-threshold-miller-07",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "The government subpoenas a suspect's BANK RECORDS (checks, deposit slips, statements) without a warrant. The depositor has no privacy interest in records he handed over to the bank. Which case?",
+    "back": "**United States v. Miller (1976)**\nHolding: A bank depositor has no legitimate expectation of privacy in financial information voluntarily conveyed to banks and exposed to their employees in the ordinary course of business — so obtaining bank records is not a search.\nSignature: third-party doctrine — \"voluntarily conveyed to... banks and exposed to their employees.\"\nWhy it matters: the business-records leg of the third-party doctrine (with Smith); spurred the Bank Secrecy / Right to Financial Privacy statutes.\n⚠ Don't confuse with **Carpenter**, which declined to mechanically extend Miller/Smith to digital cell-site location data.",
+    "tags": [
+      "name-that-case",
+      "third-party-doctrine",
+      "miller",
+      "bank-records",
+      "confusable"
+    ],
+    "cite": "United States v. Miller, 425 U.S. 435, 442 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109433/united-states-v-miller/"
+  },
+  {
+    "id": "name-that-case-threshold-white-08",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A government informant wears a hidden radio transmitter (a \"wire\") and lets agents listen in real time to incriminating conversations the suspect has with him. No warrant. Which case?",
+    "back": "**United States v. White (1971)**\nHolding: A defendant has no Fourth Amendment protection against an informant who, with the defendant's consent to the conversation, simultaneously transmits or records it for the government — no warrant needed.\nSignature: assumption of risk — one who confides in a companion \"necessarily risks\" that the companion is reporting to police; \"the risk is his.\"\nWhy it matters: the wired-informant rule; consensual electronic monitoring by a party to the conversation is not a search.\n⚠ Don't confuse with **Katz** (a bug on a booth, no party consenting, IS a search) — in White a participant consented.",
+    "tags": [
+      "name-that-case",
+      "third-party-doctrine",
+      "white",
+      "informant",
+      "wire",
+      "assumption-of-risk",
+      "confusable"
+    ],
+    "cite": "United States v. White, 401 U.S. 745, 751-53 (1971) (plurality)",
+    "source": "https://www.courtlistener.com/opinion/108304/united-states-v-white/"
+  },
+  {
+    "id": "name-that-case-threshold-hoffa-09",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A \"false friend\" invited into the defendant's hotel suite secretly reports the defendant's jury-tampering statements to the government. The Fourth Amendment does not protect \"misplaced confidence.\" Which case?",
+    "back": "**Hoffa v. United States (1966)**\nHolding: No search occurs when a person voluntarily confides wrongdoing to a companion who turns out to be a government informant — the speaker relied on misplaced trust, not on a protected privacy interest.\nSignature: \"the Fourth Amendment [does not] protect[] a wrongdoer's misplaced belief that a person to whom he voluntarily confides his wrongdoing will not reveal it.\"\nWhy it matters: the false-friend / misplaced-trust doctrine, foundation for White's assumption-of-risk rule.\n⚠ Don't confuse with **White** — Hoffa is the unwired false friend; White extends it to one wearing a transmitter.",
+    "tags": [
+      "name-that-case",
+      "third-party-doctrine",
+      "hoffa",
+      "false-friend",
+      "assumption-of-risk",
+      "confusable"
+    ],
+    "cite": "Hoffa v. United States, 385 U.S. 293, 302 (1966)",
+    "source": "https://www.courtlistener.com/opinion/107318/hoffa-v-united-states/"
+  },
+  {
+    "id": "name-that-case-threshold-carpenter-10",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "The government obtains 127 days of historical CELL-SITE LOCATION INFORMATION from a robbery suspect's wireless carrier — mapping his every movement — without a warrant. Which case?",
+    "back": "**Carpenter v. United States (2018)**\nHolding: Acquiring extended historical cell-site location information is a search requiring a warrant; people have a reasonable expectation of privacy in \"the whole of their physical movements.\"\nSignature: a digital-age limit on the third-party doctrine — sharing location data with a carrier does not strip it of protection.\nWhy it matters: third-party doctrine does NOT mechanically extend to pervasive digital location tracking.\n⚠ Don't confuse with **Smith/Miller** (dialed numbers, bank records — no privacy under third-party doctrine) — Carpenter carves out long-term location data.",
+    "tags": [
+      "name-that-case",
+      "third-party-doctrine",
+      "reasonable-expectation-of-privacy",
+      "carpenter",
+      "cell-site-location",
+      "confusable"
+    ],
+    "cite": "Carpenter v. United States, 585 U.S. 296, 310-16 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "name-that-case-threshold-oliver-11",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers ignore a locked gate and \"No Trespassing\" signs, walk past them onto secluded farmland, and find a marijuana field. The Court holds the OPEN FIELDS get no Fourth Amendment protection. Which case?",
+    "back": "**Oliver v. United States (1984)**\nHolding: Open fields receive no Fourth Amendment protection — even fenced, posted land — because they are not an area where intimate activities deserving shelter occur; only curtilage carries the home's protection.\nSignature: \"No Trespassing\" signs and fences are irrelevant; \"open fields do not provide the setting for those intimate activities that the Amendment is intended to shelter.\"\nWhy it matters: reaffirms and entrenches Hester's open-fields doctrine.\n⚠ Don't confuse with **Hester** (the 1924 origin) — Oliver is the modern reaffirmation holding signage/fencing immaterial.",
+    "tags": [
+      "name-that-case",
+      "open-fields",
+      "oliver",
+      "no-trespassing",
+      "confusable"
+    ],
+    "cite": "Oliver v. United States, 466 U.S. 170, 176-81 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111146/oliver-v-united-states/"
+  },
+  {
+    "id": "name-that-case-threshold-hester-12",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "1924 — the ORIGIN of the open-fields doctrine: revenue agents watch a moonshiner in a field beyond his home, and the Court says the Fourth Amendment's protection of \"persons, houses, papers, and effects\" does not reach open fields. Which case?",
+    "back": "**Hester v. United States (1924)**\nHolding: The Fourth Amendment's protection does not extend to open fields, which the common law has always distinguished from the curtilage.\nSignature: the open-fields doctrine's origin (Holmes, J.).\nWhy it matters: the root case for open fields vs. curtilage; also the abandonment-by-flight origin (defendant dropped containers while fleeing).\n⚠ Don't confuse with **Oliver** — Hester is the 1924 origin; Oliver (1984) reaffirms it and adds that fences/\"No Trespassing\" signs don't matter.",
+    "tags": [
+      "name-that-case",
+      "open-fields",
+      "hester",
+      "origin",
+      "confusable"
+    ],
+    "cite": "Hester v. United States, 265 U.S. 57, 59 (1924)",
+    "source": "https://www.courtlistener.com/opinion/100413/hester-v-united-states/"
+  },
+  {
+    "id": "name-that-case-threshold-dunn-13",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A barn sits about 60 yards from the ranch house, outside the fence around the home; officers cross the outer fence and peer in. Which case gave us the FOUR-FACTOR test for curtilage vs. open fields?",
+    "back": "**United States v. Dunn (1987)**\nHolding: Sets the four-factor curtilage test; a barn ~60 yards from the house and outside the fence surrounding the home was not curtilage (so within the open fields).\nSignature: the **four factors** — (1) proximity to the home; (2) whether within an enclosure surrounding the home; (3) the nature of the uses to which the area is put; (4) steps taken to protect it from observation by passersby.\nWhy it matters: the operative test for drawing the curtilage line.\n⚠ Don't confuse with **Jardines** (front porch — clearly curtilage) — Dunn is the test you apply to closer calls like barns and outbuildings.",
+    "tags": [
+      "name-that-case",
+      "curtilage",
+      "dunn",
+      "four-factor-test",
+      "confusable"
+    ],
+    "cite": "United States v. Dunn, 480 U.S. 294, 301 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111833/united-states-v-dunn/"
+  },
+  {
+    "id": "name-that-case-threshold-ciraolo-14",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Acting on a tip, police fly a fixed-wing plane at 1,000 feet over a fenced backyard and spot marijuana with the NAKED EYE. Naked-eye aerial observation from navigable airspace. Which case?",
+    "back": "**California v. Ciraolo (1986)**\nHolding: Warrantless naked-eye aerial observation of a fenced curtilage from public navigable airspace (1,000 ft) is not a search — no reasonable expectation of privacy from the air.\nSignature: lawful vantage, not entry — what is knowingly exposed to the public, even in the curtilage, is not protected.\nWhy it matters: the home/curtilage can be observed (not entered) from a place police may lawfully be.\n⚠ Don't confuse with **Kyllo** (sense-enhancing tech aimed at the home IS a search) — Ciraolo is naked-eye only. Pairs with **Riley** (helicopter at 400 ft).",
+    "tags": [
+      "name-that-case",
+      "curtilage",
+      "ciraolo",
+      "aerial-surveillance",
+      "confusable"
+    ],
+    "cite": "California v. Ciraolo, 476 U.S. 207, 213-14 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111666/california-v-ciraolo/"
+  },
+  {
+    "id": "name-that-case-threshold-riley-15",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An officer circles a HELICOPTER at 400 feet over a partially-open greenhouse in a backyard and, through gaps in the roof, sees marijuana with the naked eye. Which case?",
+    "back": "**Florida v. Riley (1989)**\nHolding: Naked-eye observation of curtilage from a helicopter lawfully in public airspace at 400 feet is not a search — any member of the public could legally have flown there and observed the same.\nSignature: extends Ciraolo to helicopters at low altitude (no FAA-floor limit), where such flight is routine.\nWhy it matters: aerial observation of curtilage from lawful airspace is not a search, even by helicopter.\n⚠ Don't confuse with **Ciraolo** (fixed-wing at 1,000 ft) — Riley is the helicopter-at-400-ft variant; both reach \"no search.\"",
+    "tags": [
+      "name-that-case",
+      "curtilage",
+      "riley",
+      "aerial-surveillance",
+      "helicopter",
+      "confusable"
+    ],
+    "cite": "Florida v. Riley, 488 U.S. 445, 450-52 (1989) (plurality)",
+    "source": "https://www.courtlistener.com/opinion/112175/florida-v-riley/"
+  },
+  {
+    "id": "name-that-case-threshold-greenwood-16",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Police have the trash collector hand over the opaque garbage bags a suspect left at the CURB for pickup, then search them for drug evidence. No warrant. Which case?",
+    "back": "**California v. Greenwood (1988)**\nHolding: There is no reasonable expectation of privacy in garbage bags left for collection at the curb, outside the curtilage; a warrantless search of curbside trash is not a Fourth Amendment violation.\nSignature: curbside trash is \"readily accessible to animals, children, scavengers, snoops, and other members of the public\" — abandonment / no REP.\nWhy it matters: leading abandonment-of-privacy case; note the limit — trash must be OUTSIDE the curtilage.\n⚠ Don't confuse with **Bond** (squeezing a bus passenger's bag IS a search) — giving up trash abandons privacy; a bailment does not.",
+    "tags": [
+      "name-that-case",
+      "reasonable-expectation-of-privacy",
+      "greenwood",
+      "abandonment",
+      "trash",
+      "confusable"
+    ],
+    "cite": "California v. Greenwood, 486 U.S. 35, 37, 40-41 (1988)",
+    "source": "https://www.courtlistener.com/opinion/112067/california-v-greenwood/"
+  },
+  {
+    "id": "name-that-case-threshold-place-17",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Agents subject a traveler's LUGGAGE at an airport to a trained narcotics dog. The Court calls the canine sniff \"sui generis\" — it reveals only contraband — and holds it is NOT a search. Which case?",
+    "back": "**United States v. Place (1983)**\nHolding: A canine sniff of luggage in a public place is not a Fourth Amendment search because it is minimally intrusive and discloses only the presence or absence of contraband.\nSignature: the sniff is \"sui generis\" — it \"discloses only the presence or absence of narcotics, a contraband item.\"\nWhy it matters: founds the dog-sniff-is-not-a-search line (extended in Caballes).\n⚠ Don't confuse with **Jardines** — a sniff at a home's front porch (curtilage) IS a search; Place involves luggage in public.",
+    "tags": [
+      "name-that-case",
+      "dog-sniff",
+      "place",
+      "sui-generis",
+      "confusable"
+    ],
+    "cite": "United States v. Place, 462 U.S. 696, 707 (1983)",
+    "source": "https://www.courtlistener.com/opinion/110979/united-states-v-place/"
+  },
+  {
+    "id": "name-that-case-threshold-caballes-18",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "During an otherwise lawful traffic stop for speeding, a second officer walks a drug dog around the car and it alerts. The sniff revealed only contraband, so no privacy interest was compromised. Which case?",
+    "back": "**Illinois v. Caballes (2005)**\nHolding: A dog sniff conducted during a concededly lawful traffic stop that reveals only the location of contraband does not violate the Fourth Amendment — there is no legitimate privacy interest in possessing contraband.\nSignature: \"any interest in possessing contraband cannot be deemed legitimate\"; a contraband-only sniff \"compromises no legitimate privacy interest.\"\nWhy it matters: extends Place to traffic stops (so long as the stop isn't prolonged for the sniff — cf. Rodriguez).\n⚠ Don't confuse with **Jardines** (dog on the curtilage = search) — Caballes is a car on a lawful stop.",
+    "tags": [
+      "name-that-case",
+      "dog-sniff",
+      "caballes",
+      "traffic-stop",
+      "confusable"
+    ],
+    "cite": "Illinois v. Caballes, 543 U.S. 405, 408-10 (2005)",
+    "source": "https://www.courtlistener.com/opinion/137742/illinois-v-caballes/"
+  },
+  {
+    "id": "name-that-case-threshold-harris-19",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Which case held that a drug-dog's RELIABILITY for probable cause is judged by the totality of the circumstances — and that satisfactory performance in a bona fide training/certification program can suffice — rejecting a rigid evidentiary checklist?",
+    "back": "**Florida v. Harris (2013)**\nHolding: Whether a dog's alert furnishes probable cause is a totality-of-the-circumstances question; evidence of a dog's satisfactory performance in a certification or training program can itself provide reason to trust the alert — no rigid checklist of field-record evidence is required.\nSignature: rejects an \"inflexible\" evidentiary checklist; \"the better measure of a dog's reliability... comes away from the field, in controlled testing environments.\"\nWhy it matters: the standard for proving drug-dog reliability (probable cause), the companion to Place/Caballes.\n⚠ Don't confuse with **Place/Caballes** (whether a sniff is a SEARCH) — Harris is about the RELIABILITY of the alert for probable cause.",
+    "tags": [
+      "name-that-case",
+      "dog-sniff",
+      "harris",
+      "reliability",
+      "probable-cause",
+      "confusable"
+    ],
+    "cite": "Florida v. Harris, 568 U.S. 237, 244-48 (2013)",
+    "source": "https://www.courtlistener.com/opinion/820744/florida-v-harris/"
+  },
+  {
+    "id": "name-that-case-threshold-knotts-20",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Officers put a radio BEEPER in a chloroform container and track the suspect's car as he drives over PUBLIC ROADS to a cabin. No reasonable expectation of privacy in one's movements on public thoroughfares. Which case?",
+    "back": "**United States v. Knotts (1983)**\nHolding: Monitoring a beeper to track a vehicle's movements over public roads is not a search — a person traveling on public thoroughfares has no reasonable expectation of privacy in his movements.\nSignature: \"A person traveling in an automobile on public thoroughfares has no reasonable expectation of privacy in his movements from one place to another.\"\nWhy it matters: the public-movements baseline; later cabined by Carpenter (long-term aggregate location) and Jones (the trespass of installing the device).\n⚠ Don't confuse with **Karo** — monitoring a beeper INSIDE a private home reveals what public surveillance cannot, and IS a search.",
+    "tags": [
+      "name-that-case",
+      "reasonable-expectation-of-privacy",
+      "knotts",
+      "beeper",
+      "public-roads",
+      "confusable"
+    ],
+    "cite": "United States v. Knotts, 460 U.S. 276, 281-82 (1983)",
+    "source": "https://www.courtlistener.com/opinion/110882/united-states-v-knotts/"
+  },
+  {
+    "id": "name-that-case-threshold-karo-21",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Agents use a beeper to confirm that a container is located INSIDE a private residence — revealing a fact about the home's interior they could not have learned from outside. Which case?",
+    "back": "**United States v. Karo (1984)**\nHolding: Using a beeper to monitor an object's location inside a private residence is a search, because it reveals information about the interior of the home that could not be obtained by visual surveillance from outside.\nSignature: \"Indiscriminate monitoring of property that has been withdrawn from public view would present far too serious a threat to privacy interests in the home.\"\nWhy it matters: the beeper-inside-the-home limit on Knotts — the home interior is protected.\n⚠ Don't confuse with **Knotts** — tracking a beeper on PUBLIC roads is not a search; Karo is the moment it goes INSIDE a home.",
+    "tags": [
+      "name-that-case",
+      "reasonable-expectation-of-privacy",
+      "karo",
+      "beeper",
+      "home-interior",
+      "confusable"
+    ],
+    "cite": "United States v. Karo, 468 U.S. 705, 714-16 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111257/united-states-v-karo/"
+  },
+  {
+    "id": "name-that-case-threshold-bond-22",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A Border Patrol agent boards a bus and physically SQUEEZES and manipulates a passenger's soft-sided carry-on bag in the overhead rack, feeling a brick-like object. Which case?",
+    "back": "**Bond v. United States (2000)**\nHolding: An agent's exploratory physical manipulation of a bus passenger's carry-on luggage was a Fourth Amendment search — the passenger retained a reasonable expectation of privacy in his bag; a bailment is not abandonment.\nSignature: \"Physically invasive inspection is simply more intrusive than purely visual inspection.\"\nWhy it matters: handing a bag to a carrier (bailment) does not abandon privacy; tactile exploration of an effect is a search.\n⚠ Don't confuse with **Greenwood** (curbside trash IS abandoned, no REP) — Bond's bag was a bailment, so privacy was retained.",
+    "tags": [
+      "name-that-case",
+      "reasonable-expectation-of-privacy",
+      "bond",
+      "luggage",
+      "bailment",
+      "confusable"
+    ],
+    "cite": "Bond v. United States, 529 U.S. 334, 337-39 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118354/bond-v-united-states/"
+  }
+]

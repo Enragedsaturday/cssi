@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>CSSI Flashcards — Search &amp; Seizure</title>
+  <meta name="description" content="Spaced-repetition study deck for the CSSI federal Search & Seizure course." />
+  <meta name="color-scheme" content="light dark" />
+  <link rel="stylesheet" href="./app.css" />
+  <style>
+    /* Minimal standalone theme — the app supplies its own tokens; this just
+       frames the page and follows prefers-color-scheme. The app's CSS keys
+       off :root not having [saved-theme], so OS dark mode flows through. */
+    :root {
+      --page-bg: #efece3;
+      --page-ink: #1c1f26;
+      --page-faint: #8a8d96;
+      --page-line: #ddd8cc;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --page-bg: #101216;
+        --page-ink: #ecedf0;
+        --page-faint: #777c87;
+        --page-line: #2a2f38;
+      }
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; }
+    body {
+      background: var(--page-bg);
+      color: var(--page-ink);
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      padding: clamp(1rem, 4vw, 2.5rem) 1rem 4rem;
+      min-height: 100vh;
+    }
+    .page-head {
+      max-width: 640px;
+      margin: 0 auto clamp(1.25rem, 3vw, 2rem);
+    }
+    .page-eyebrow {
+      font-size: .64rem;
+      text-transform: uppercase;
+      letter-spacing: .16em;
+      font-weight: 700;
+      color: #2d4a7c;
+      margin: 0 0 .5rem;
+    }
+    @media (prefers-color-scheme: dark) { .page-eyebrow { color: #8fb0e6; } }
+    .page-head h1 {
+      font-family: "Iowan Old Style", "Charter", "Georgia", "Cambria", serif;
+      font-size: clamp(1.6rem, 4vw, 2.1rem);
+      font-weight: 650;
+      letter-spacing: -.015em;
+      margin: 0 0 .5rem;
+      line-height: 1.15;
+    }
+    .page-head p {
+      margin: 0;
+      color: var(--page-faint);
+      font-size: .92rem;
+      line-height: 1.5;
+      max-width: 56ch;
+    }
+    .page-head hr {
+      border: 0;
+      border-top: 1px solid var(--page-line);
+      margin: 1.1rem 0 0;
+    }
+  </style>
+</head>
+<body>
+  <header class="page-head">
+    <p class="page-eyebrow">CSSI · Federal Search &amp; Seizure</p>
+    <h1>Flashcards</h1>
+    <p>Click a card or press Space to reveal the holding, then rate your recall 1–4 (Again / Hard / Good / Easy). Progress is saved on this device and scheduled with spaced repetition.</p>
+    <hr />
+  </header>
+
+  <div id="flashcards-app" data-deck-url="/static/flashcards/flashcards.json">Loading flashcards…</div>
+
+  <script src="./vendor/ts-fsrs-5.4.1.umd.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "fourth-amendment-analysis-checklist-five-steps-ordered-01",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "What are the five ordered steps of a Fourth Amendment analysis?",
+    "back": "(1) Government action? (2) Protected area or interest? (3) Did a search or seizure occur? (4) Standing — was it the claimant's own right? (5) Reasonable — C.R.E.W.?",
+    "tags": ["fourth-amendment-analysis-checklist", "checklist", "analytical-sequence"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-work-in-order-02",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "In the Fourth Amendment checklist, what happens if an earlier step fails?",
+    "back": "You never reach the next step — the questions are worked strictly in order, and a failure at any earlier step ends the analysis.",
+    "tags": ["fourth-amendment-analysis-checklist", "analytical-sequence", "why"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-step1-government-action-03",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "Step 1 of the Fourth Amendment checklist asks what?",
+    "back": "Who acted — was it a government agent? The Fourth Amendment restrains the government, not private parties.",
+    "tags": ["fourth-amendment-analysis-checklist", "state-action", "government-action"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-private-actor-bound-04",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "Under the state-action / private-search doctrine, when is a private actor bound by the Fourth Amendment?",
+    "back": "Only when the government instigated, directed, or significantly participated in the private party's conduct.",
+    "tags": ["fourth-amendment-analysis-checklist", "state-action", "private-search"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-step2-protected-interest-05",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "Step 2 of the Fourth Amendment checklist asks what?",
+    "back": "Was a protected area or interest involved? — persons, houses, papers, effects, plus any reasonable expectation of privacy (not limited to those four categories).",
+    "tags": ["fourth-amendment-analysis-checklist", "protected-interest", "reasonable-expectation-of-privacy"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-curtilage-vs-open-fields-06",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "At the protected-interest step, how do curtilage, open fields, and abandoned property differ?",
+    "back": "A home's curtilage is protected; open fields and abandoned property are not.",
+    "tags": ["fourth-amendment-analysis-checklist", "protected-interest", "curtilage", "open-fields", "abandonment"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-step3-search-or-seizure-07",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "Step 3 of the Fourth Amendment checklist asks what, and what follows if neither occurred?",
+    "back": "Did a search or a seizure actually occur? If neither happened, the analysis ends — there is nothing to justify.",
+    "tags": ["fourth-amendment-analysis-checklist", "search", "seizure"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-search-defined-08",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "definition",
+    "front": "In the checklist, what counts as a \"search\"?",
+    "back": "A physical trespass on a protected area to obtain information, OR an invasion of a reasonable expectation of privacy — either one is enough.",
+    "tags": ["fourth-amendment-analysis-checklist", "search", "two-theories"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-seizure-property-vs-person-09",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "In the checklist, how does a seizure of property differ from a seizure of a person?",
+    "back": "Seizure of property = meaningful interference with possessory interests; seizure of a person = physical force with intent to restrain, or submission to a show of authority.",
+    "tags": ["fourth-amendment-analysis-checklist", "seizure", "distinction"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-seizure-property-defined-17",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "definition",
+    "front": "In the checklist, what is a seizure of property?",
+    "back": "A meaningful interference with possessory interests.",
+    "tags": ["fourth-amendment-analysis-checklist", "seizure", "property"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-seizure-person-defined-18",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "definition",
+    "front": "In the checklist, what is a seizure of a person?",
+    "back": "Physical force applied with intent to restrain, or submission to a show of authority.",
+    "tags": ["fourth-amendment-analysis-checklist", "seizure", "person"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-step4-standing-10",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "Step 4 of the Fourth Amendment checklist asks what?",
+    "back": "Does this person have standing? Fourth Amendment rights are personal — the claimant must show their own protected interest was invaded, not a third party's.",
+    "tags": ["fourth-amendment-analysis-checklist", "standing"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-standing-personal-distinction-11",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "Why is \"the search was illegal\" not the same as \"this defendant can suppress\"?",
+    "back": "Standing is personal — suppression requires that the claimant's own protected interest was invaded, not merely that some search was unlawful as to someone else.",
+    "tags": ["fourth-amendment-analysis-checklist", "standing", "distinction"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-step5-crew-12",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "Step 5 of the Fourth Amendment checklist asks what, and what does C.R.E.W. stand for?",
+    "back": "Was it reasonable? — satisfied by Consent, a Recognized Exception, or a Warrant. No justification → presumptively unreasonable → suppress.",
+    "tags": ["fourth-amendment-analysis-checklist", "crew", "reasonableness"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-crew-is-one-step-13",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "Where does C.R.E.W. fit in the Fourth Amendment analysis — and what does it NOT cover?",
+    "back": "It comes last and answers only reasonableness; it is one step, not the whole test, and applies only after the threshold and standing are satisfied.",
+    "tags": ["fourth-amendment-analysis-checklist", "crew", "reasonableness", "pitfall"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-threshold-vs-merits-14",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "In the Fourth Amendment checklist, which steps are the threshold/standing questions and which is the merits?",
+    "back": "Steps 1–4 (government action, protected interest, search/seizure, standing) are the threshold and standing questions; step 5 (reasonableness via C.R.E.W.) is the merits.",
+    "tags": ["fourth-amendment-analysis-checklist", "analytical-sequence", "threshold"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-pitfall-skip-to-crew-15",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "Common pitfall: why is \"skipping straight to C.R.E.W.\" a mistake?",
+    "back": "Justifying a search you never established was a search wastes the strongest argument — that there was no Fourth Amendment event at all.",
+    "tags": ["fourth-amendment-analysis-checklist", "pitfall", "crew"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-pitfall-private-search-gate-19",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "Common pitfall: why can't you ignore the private-search / state-action gate?",
+    "back": "Evidence handed over by a genuinely private party is not a Fourth Amendment problem — until the government's involvement makes that private party its agent.",
+    "tags": ["fourth-amendment-analysis-checklist", "pitfall", "state-action", "private-search"]
+  },
+  {
+    "id": "fourth-amendment-analysis-checklist-strive-for-five-16",
+    "page": "fourth-amendment-analysis-checklist",
+    "topic": "Analysis Checklist",
+    "type": "qa",
+    "front": "What does the instructor maxim \"Strive for Five\" remind you to do at each step of the analysis?",
+    "back": "Articulate the facts behind your call — at every step, state the specific facts supporting your conclusion.",
+    "tags": ["fourth-amendment-analysis-checklist", "strive-for-five", "mnemonic"]
+  }
+]

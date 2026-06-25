@@ -1,0 +1,178 @@
+[
+  {
+    "id": "name-that-case-counsel-id-massiah-01",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "After a man is INDICTED and released on bail, federal agents wire a radio transmitter in his codefendant's car and get the codefendant to draw him into incriminating talk — no interrogation room, no questioning by police. Which case?",
+    "back": "**Massiah v. United States (1964)**\nHolding: Once adversary proceedings have begun (here, post-indictment), the government violates the Sixth Amendment when it deliberately elicits incriminating statements from the accused in the absence of counsel — even surreptitiously, outside any custodial setting.\nSignature: the \"deliberately elicited\" test; founds the Sixth Amendment right-to-counsel line of interrogation cases.\nWhy it matters: the cornerstone of the Massiah doctrine — a counsel-based, charge-triggered limit on getting statements, distinct from Miranda.\n⚠ Don't confuse with **Miranda** (5A, custodial interrogation, triggered by custody+questioning) — Massiah is 6A, triggered by the filing of formal charges, and reaches secret elicitation with no custody at all.",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "deliberate-elicitation", "massiah", "confusable"],
+    "cite": "Massiah v. United States, 377 U.S. 201, 206 (1964)",
+    "source": "https://www.courtlistener.com/opinion/106822/massiah-v-united-states/"
+  },
+  {
+    "id": "name-that-case-counsel-id-escobedo-02",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A murder suspect is interrogated at the station BEFORE any indictment; he repeatedly asks to see his lawyer, his lawyer is in the building asking to see him, and police refuse to let them meet. Decided two years before Miranda. Which case?",
+    "back": "**Escobedo v. Illinois (1964)**\nHolding: Where a police investigation has focused on a suspect in custody who has requested and been denied counsel, and police have not warned him of his right to remain silent, statements elicited violate the Sixth Amendment right to counsel.\nSignature: the immediate forerunner of Miranda — counsel's role at the accusatory, pre-indictment interrogation.\nWhy it matters: bridged Massiah and Miranda; its reasoning was largely absorbed into Miranda's Fifth Amendment framework two years later.\n⚠ Don't confuse with **Miranda** (1966), which recast the protection as a Fifth Amendment / self-incrimination warnings rule; Escobedo today is read narrowly, mostly of historical importance.",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "escobedo", "pre-miranda", "confusable"],
+    "cite": "Escobedo v. Illinois, 378 U.S. 478 (1964)",
+    "source": "https://www.courtlistener.com/opinion/106883/escobedo-v-illinois/"
+  },
+  {
+    "id": "name-that-case-counsel-id-brewer-williams-03",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A murder suspect has been arraigned and has counsel in two cities; on a long car ride, a detective tells him the little girl's parents deserve to give her a proper burial before the snow falls — and the suspect leads them to the body. Which case?",
+    "back": "**Brewer v. Williams (1977)**\nHolding: The detective's \"Christian burial speech\" was the functional equivalent of interrogation and deliberately elicited incriminating statements after the Sixth Amendment right had attached (post-arraignment), with no valid waiver — a Massiah violation.\nSignature: the \"Christian burial speech\"; deliberate elicitation need not be formal questioning.\nWhy it matters: extended Massiah to a clever, indirect appeal; the statements were suppressed (the body itself later came in under inevitable discovery in Nix v. Williams).\n⚠ Don't confuse with **Rhode Island v. Innis** (5A Miranda \"functional equivalent of interrogation\" — different amendment, custody-triggered) — Brewer is 6A, triggered by the arraignment.",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "deliberate-elicitation", "brewer-williams", "confusable"],
+    "cite": "Brewer v. Williams, 430 U.S. 387, 392-93, 399-400 (1977)",
+    "source": "https://www.courtlistener.com/opinion/109624/brewer-v-williams/"
+  },
+  {
+    "id": "name-that-case-counsel-id-henry-04",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "The government pays a jailhouse informant — placed in the indicted defendant's cellblock and told to keep his ears open — and he engages the defendant in conversation that draws out incriminating remarks. ACTIVE informant. Which case?",
+    "back": "**United States v. Henry (1980)**\nHolding: By intentionally creating a situation likely to induce the indicted defendant to make incriminating statements, the government (through a paid informant who was ostensibly just a fellow inmate) \"deliberately elicited\" them in violation of the Sixth Amendment.\nSignature: three factors — paid government informant, posing as a mere fellow inmate, while the accused was in custody under indictment.\nWhy it matters: applies Massiah to active jailhouse informants — you cannot do indirectly (via a planted agent) what you cannot do directly.\n⚠ Don't confuse with **Kuhlmann v. Wilson** — Henry's informant actively drew the defendant out (violation); Kuhlmann's informant merely listened (no violation).",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "deliberate-elicitation", "henry", "informant", "confusable"],
+    "cite": "United States v. Henry, 447 U.S. 264, 270-74 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110300/united-states-v-henry/"
+  },
+  {
+    "id": "name-that-case-counsel-id-kuhlmann-05",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A jailhouse informant is planted in the cell of an indicted defendant but is told only to listen — he asks no questions about the crime and makes no effort to draw the defendant out — and the defendant spontaneously confesses. PASSIVE informant. Which case?",
+    "back": "**Kuhlmann v. Wilson (1986)**\nHolding: A defendant does not make out a Sixth Amendment violation merely by showing an informant reported his statements; he must show the informant took some action, beyond merely listening, designed deliberately to elicit them. A pure \"listening post\" is permissible.\nSignature: the \"listening post\" rule — passive listening is not deliberate elicitation.\nWhy it matters: marks the boundary of Massiah/Henry — the line is active elicitation vs. passive overhearing.\n⚠ Don't confuse with **Henry** — same jailhouse-informant setup, opposite result: Henry's agent actively prompted the defendant (violation); Kuhlmann's only listened (no violation).",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "deliberate-elicitation", "kuhlmann", "informant", "confusable"],
+    "cite": "Kuhlmann v. Wilson, 477 U.S. 436, 459 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111726/kuhlmann-v-wilson/"
+  },
+  {
+    "id": "name-that-case-counsel-id-moulton-06",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A charged codefendant turns informant and wears a wire to a meeting the DEFENDANT himself requested to plan trial strategy; police knowingly use that meeting to record incriminating statements. Which case?",
+    "back": "**Maine v. Moulton (1985)**\nHolding: The Sixth Amendment is violated when the State knowingly exploits an opportunity to confront the accused without counsel — it makes no difference that the meeting was set up by the defendant, not the police, once the right has attached.\nSignature: bars the \"knowing exploitation by the State\" of any opportunity to confront the accused without counsel after charges.\nWhy it matters: extends Massiah to government exploitation of a chance encounter; the affirmative-vs.-passive distinction does not save knowing exploitation.\n⚠ Don't confuse with **Kuhlmann** (a passive listening post is fine) — in Moulton the informant actively engaged and police knowingly used him.",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "deliberate-elicitation", "moulton", "informant"],
+    "cite": "Maine v. Moulton, 474 U.S. 159 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111546/maine-v-moulton/"
+  },
+  {
+    "id": "name-that-case-counsel-id-kirby-07",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Two robbery suspects are arrested and shown to the victim at a stationhouse showup — but they have NOT yet been indicted or arraigned, and no counsel is present. The Court asks: had any formal charge been filed? Which case?",
+    "back": "**Kirby v. Illinois (1972)**\nHolding: The Sixth Amendment right to counsel attaches only at or after the initiation of adversary judicial criminal proceedings (formal charge, preliminary hearing, indictment, information, or arraignment). A pre-charge identification is not a critical stage requiring counsel.\nSignature: the right-to-counsel \"attachment\" rule — no counsel at a pre-indictment ID.\nWhy it matters: cabins Wade/Gilbert — the lineup-counsel right exists only after charges; it is the timing anchor for the whole 6A interrogation/ID line.\n⚠ Don't confuse with **Wade/Gilbert** (counsel required at a POST-charge lineup) — Kirby says no counsel at a PRE-charge ID; and with **Rothgery** on exactly when the right attaches.",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "eyewitness-id", "lineup", "kirby", "confusable"],
+    "cite": "Kirby v. Illinois, 406 U.S. 682, 688-90 (1972) (plurality opinion)",
+    "source": "https://www.courtlistener.com/opinion/108554/kirby-v-illinois/"
+  },
+  {
+    "id": "name-that-case-counsel-id-rothgery-08",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A man is brought before a magistrate after a warrantless arrest, told of the accusation, and committed to jail (a \"magistrate's hearing\"); no prosecutor is involved yet. The Court fixes the precise moment the 6A right to counsel attaches. Which case?",
+    "back": "**Rothgery v. Gillespie County (2008)**\nHolding: A criminal defendant's initial appearance before a magistrate, where he learns the charge against him and his liberty is restricted, marks the attachment of the Sixth Amendment right to counsel — even if no prosecutor is aware of or involved in it.\nSignature: attachment = the first appearance / initial arraignment before a judicial officer.\nWhy it matters: pins down Kirby's \"initiation of adversary proceedings\" to a concrete event; attachment does not require prosecutorial involvement.\n⚠ Don't confuse with **Kirby** — Kirby establishes THAT the right attaches at formal proceedings; Rothgery specifies WHEN (the first appearance before a magistrate).",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "rothgery", "attachment", "confusable"],
+    "cite": "Rothgery v. Gillespie County, 554 U.S. 191, 198, 213 (2008)",
+    "source": "https://www.courtlistener.com/opinion/145785/rothgery-v-gillespie-county/"
+  },
+  {
+    "id": "name-that-case-counsel-id-cobb-09",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A man is charged with BURGLARY and has a lawyer for it; while free on bond he is questioned about the still-uncharged MURDERS connected to that same burglary, and confesses. Is the burglary lawyer's right to counsel a shield for the murders? Which case?",
+    "back": "**Texas v. Cobb (2001)**\nHolding: The Sixth Amendment right to counsel is offense-specific; it attaches only to the charged offense and does not extend to other, uncharged offenses — even factually related ones (using the Blockburger same-elements test to define \"offense\").\nSignature: \"offense-specific\" right to counsel.\nWhy it matters: police may question a represented defendant about different, uncharged crimes without violating the 6A; narrows the protection's reach.\n⚠ Don't confuse with **McNeil v. Wisconsin** (6A is offense-specific in the waiver context) — Cobb defines the offense via Blockburger, refusing a broad \"closely related\" reading.",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "offense-specific", "cobb", "confusable"],
+    "cite": "Texas v. Cobb, 532 U.S. 162, 167-68, 173 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118417/texas-v-cobb/"
+  },
+  {
+    "id": "name-that-case-counsel-id-montejo-10",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "After counsel is appointed at a preliminary hearing, police read the defendant his Miranda rights and he agrees to go along on a trip to find the murder weapon, writing an inculpatory letter en route. The Court overrules Michigan v. Jackson. Which case?",
+    "back": "**Montejo v. Louisiana (2009)**\nHolding: A defendant may validly waive his Sixth Amendment right to counsel during police-initiated interrogation even after counsel has been appointed; the Court overruled Michigan v. Jackson's rule that such a waiver was presumptively invalid.\nSignature: overruled Michigan v. Jackson; Miranda/Edwards-style waiver rules now do the protective work.\nWhy it matters: a represented, charged defendant can waive 6A counsel after warnings — the protection runs through voluntary-waiver doctrine, not an automatic bar.\n⚠ Don't confuse with **Edwards v. Arizona** (5A: once a suspect invokes counsel, police may not re-initiate) — Montejo is the 6A side and rejects an automatic post-appointment bar.",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "waiver", "montejo", "confusable"],
+    "cite": "Montejo v. Louisiana, 556 U.S. 778, 797 (2009)",
+    "source": "https://www.courtlistener.com/opinion/145873/montejo-v-louisiana/"
+  },
+  {
+    "id": "name-that-case-counsel-id-wade-11",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "After indictment, a bank-robbery defendant is placed in a lineup — wearing strips of tape on his face and made to say the robber's words — with no notice to his lawyer. Was that lineup a \"critical stage\"? Which case?",
+    "back": "**United States v. Wade (1967)**\nHolding: A post-indictment lineup is a critical stage of the prosecution at which the accused has a Sixth Amendment right to counsel; counsel's absence may taint a later in-court identification unless the in-court ID has an independent source.\nSignature: the post-charge lineup as a \"critical stage\" requiring counsel.\nWhy it matters: anchors the right-to-counsel branch of eyewitness-ID law; remedy is an independent-source inquiry for the in-court ID.\n⚠ Don't confuse with **Gilbert** (companion case — applies a PER SE exclusion to the lineup-identification testimony itself) and **Kirby** (no counsel right at a PRE-charge ID).",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "eyewitness-id", "lineup", "wade", "confusable"],
+    "cite": "United States v. Wade, 388 U.S. 218, 236-37, 240-42 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107486/united-states-v-wade/"
+  },
+  {
+    "id": "name-that-case-counsel-id-gilbert-12",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "Wade's companion case: at trial, witnesses testify that they identified the defendant at an uncounseled post-indictment lineup. The Court applies a strict, automatic exclusion to that lineup-ID testimony. Which case?",
+    "back": "**Gilbert v. California (1967)**\nHolding: Testimony that a witness identified the accused at an uncounseled post-indictment lineup must be excluded per se — a strict rule (no harmless-error / reliability cure) to deter Sixth Amendment violations at lineups.\nSignature: the per se exclusionary rule for testimony about the uncounseled lineup itself.\nWhy it matters: the enforcement teeth of Wade — the lineup-ID evidence is automatically out, while a later in-court ID survives only with an independent source.\n⚠ Don't confuse with **Wade** — Wade allows an in-court ID if independently sourced (taint test); Gilbert flatly bars testimony about the uncounseled lineup (per se).",
+    "tags": ["name-that-case", "sixth-amendment", "right-to-counsel", "eyewitness-id", "lineup", "gilbert", "confusable"],
+    "cite": "Gilbert v. California, 388 U.S. 263, 272-74 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107487/gilbert-v-california/"
+  },
+  {
+    "id": "name-that-case-counsel-id-stovall-13",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A stabbing victim, hospitalized and possibly dying, is shown a single handcuffed suspect at her bedside — a one-on-one \"showup,\" not a lineup — and identifies him. The Court judges it not by a counsel rule but by due process. Which case?",
+    "back": "**Stovall v. Denno (1967)**\nHolding: A confrontation that is unnecessarily suggestive and conducive to irreparable mistaken identification can violate due process; admissibility turns on the totality of the circumstances (here the bedside showup was justified by the witness's critical condition).\nSignature: the due-process \"unnecessarily suggestive / totality of the circumstances\" test for IDs.\nWhy it matters: opens the due-process branch of ID law (distinct from Wade's counsel branch); Wade/Gilbert were also held non-retroactive here.\n⚠ Don't confuse with **Wade/Gilbert** (6A right-to-counsel branch) — Stovall is the DUE PROCESS branch, applying to showups and pre-charge IDs where no counsel right exists.",
+    "tags": ["name-that-case", "due-process", "eyewitness-id", "suggestiveness", "showup", "stovall", "confusable"],
+    "cite": "Stovall v. Denno, 388 U.S. 293, 301-02 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107488/stovall-v-denno/"
+  },
+  {
+    "id": "name-that-case-counsel-id-biggers-14",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A rape victim identifies her attacker at a suggestive one-man showup months later — yet she had seen him up close for a long time during the crime and gave a detailed description. The Court lists FIVE factors to decide if the ID is still reliable. Which case?",
+    "back": "**Neil v. Biggers (1972)**\nHolding: Even an unnecessarily suggestive identification is admissible if, under the totality of the circumstances, it is nonetheless reliable; reliability is judged by five factors.\nSignature: the five reliability factors — (1) the witness's opportunity to view the criminal, (2) degree of attention, (3) accuracy of the prior description, (4) level of certainty, and (5) the time between the crime and the confrontation.\nWhy it matters: suggestiveness alone does not exclude an ID — reliability can save it; supplies the operative test.\n⚠ Don't confuse with **Stovall** (whether the procedure was unnecessarily suggestive) — Biggers supplies the next step: the five-factor reliability check that can admit a suggestive ID anyway.",
+    "tags": ["name-that-case", "due-process", "eyewitness-id", "suggestiveness", "reliability", "biggers", "confusable"],
+    "cite": "Neil v. Biggers, 409 U.S. 188, 199-200 (1972)",
+    "source": "https://www.courtlistener.com/opinion/108639/neil-v-biggers/"
+  },
+  {
+    "id": "name-that-case-counsel-id-brathwaite-15",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "An undercover officer is shown a SINGLE photo of the suspected drug dealer and later identifies him from it. The Court refuses a per se exclusion of suggestive IDs and declares reliability the \"linchpin.\" Which case?",
+    "back": "**Manson v. Brathwaite (1977)**\nHolding: There is no per se rule excluding identifications from unnecessarily suggestive procedures; reliability is the linchpin, assessed under the Biggers five-factor totality test and weighed against the corrupting effect of the suggestive procedure.\nSignature: \"reliability is the linchpin\" — adopts the totality/reliability approach over a per se bar.\nWhy it matters: the controlling modern framework for due-process challenges to suggestive eyewitness IDs (built on Biggers).\n⚠ Don't confuse with **Gilbert's** per se rule — that is the 6A counsel branch (uncounseled lineup); Manson REJECTS a per se rule for the due-process suggestiveness branch, favoring reliability.",
+    "tags": ["name-that-case", "due-process", "eyewitness-id", "suggestiveness", "reliability", "brathwaite", "confusable"],
+    "cite": "Manson v. Brathwaite, 432 U.S. 98, 113-14 (1977)",
+    "source": "https://www.courtlistener.com/opinion/109693/manson-v-brathwaite/"
+  },
+  {
+    "id": "name-that-case-counsel-id-perry-16",
+    "page": "name-that-case",
+    "topic": "Name That Case",
+    "type": "qa",
+    "front": "A witness, looking out her window, spontaneously points to a man standing next to a police officer in a parking lot as the thief — the suggestiveness came from the circumstances, not from anything the police arranged. Does due process require screening this ID? Which case?",
+    "back": "**Perry v. New Hampshire (2012)**\nHolding: The Due Process Clause requires a preliminary judicial screening of eyewitness-identification reliability ONLY when the suggestive circumstances were arranged by law enforcement; absent improper police conduct, reliability is left to the ordinary safeguards of trial (cross-examination, instructions, the jury).\nSignature: due-process ID screening is triggered by POLICE-arranged suggestiveness, not by happenstance.\nWhy it matters: caps the Stovall/Biggers/Manson due-process inquiry — no special screening for accidentally suggestive IDs.\n⚠ Don't confuse with **Biggers/Manson** (reliability factors that apply once a suggestive police procedure is in play) — Perry says you never reach those factors unless the police created the suggestive circumstances.",
+    "tags": ["name-that-case", "due-process", "eyewitness-id", "suggestiveness", "perry", "confusable"],
+    "cite": "Perry v. New Hampshire, 565 U.S. 228, 232-33, 248 (2012)",
+    "source": "https://www.courtlistener.com/opinion/620671/perry-v-new-hampshire/"
+  }
+]
