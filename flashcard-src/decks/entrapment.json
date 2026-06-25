@@ -1,0 +1,295 @@
+[
+  {
+    "id": "entrapment-doctrine-nature-01",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Is entrapment a Fourth Amendment suppression remedy or a substantive defense?",
+    "back": "A substantive defense to criminal liability — it bars conviction; it does not suppress evidence.",
+    "tags": ["entrapment", "doctrine", "defense-vs-suppression"]
+  },
+  {
+    "id": "entrapment-federal-test-02",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "What test does federal law apply for entrapment?",
+    "back": "The subjective test — it turns on the defendant's predisposition to commit the crime, not merely on the fact of government inducement.",
+    "tags": ["entrapment", "doctrine", "subjective-test", "predisposition"]
+  },
+  {
+    "id": "entrapment-controlling-fact-03",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "cloze",
+    "front": "In the federal entrapment analysis, the controlling fact is the defendant's {{c1::predisposition}} — inducement alone is never entrapment.",
+    "back": "predisposition (whether the defendant was ready and willing before the government appeared); inducement alone is never entrapment.",
+    "tags": ["entrapment", "doctrine", "predisposition"]
+  },
+  {
+    "id": "entrapment-opportunity-vs-implant-04",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Entrapment doctrine: what may the government do versus what may it not do regarding a defendant's criminal conduct?",
+    "back": "The government may furnish an opportunity to break the law, but it may not implant the criminal design in the mind of an otherwise-unwilling person and then lure that person into committing the offense.",
+    "tags": ["entrapment", "doctrine", "opportunity-vs-inducement"]
+  },
+  {
+    "id": "entrapment-burden-05",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Once the defense raises inducement in a federal entrapment case, what must the government prove and to what standard?",
+    "back": "The government must prove beyond a reasonable doubt that the defendant was predisposed to commit the crime.",
+    "tags": ["entrapment", "doctrine", "burden-of-proof"]
+  },
+  {
+    "id": "entrapment-sorrells-holding-06",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "What did Sorrells v. United States (1932) establish about entrapment?",
+    "back": "It recognized entrapment as a valid defense, arising when government officials implant the criminal design in a person who had no previous disposition and then lure that otherwise-innocent person into committing the offense.",
+    "tags": ["entrapment", "sorrells", "case-holding"],
+    "cite": "Sorrells v. United States, 287 U.S. 435 (1932)",
+    "source": "https://www.courtlistener.com/opinion/101997/sorrells-v-united-states/"
+  },
+  {
+    "id": "entrapment-sorrells-significance-07",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Which 1932 Supreme Court case first recognized entrapment as a defense in federal law?",
+    "back": "Sorrells v. United States, 287 U.S. 435 (1932).",
+    "tags": ["entrapment", "sorrells", "holding-to-case", "significance"],
+    "cite": "Sorrells v. United States, 287 U.S. 435 (1932)",
+    "source": "https://www.courtlistener.com/opinion/101997/sorrells-v-united-states/"
+  },
+  {
+    "id": "entrapment-sherman-holding-08",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "What did Sherman v. United States (1958) hold about entrapment?",
+    "back": "Entrapment was established as a matter of law: the government's informant implanted the criminal design in an otherwise-unwilling person and induced the crime; the defendant's lack of predisposition was clear.",
+    "tags": ["entrapment", "sherman", "case-holding", "matter-of-law"],
+    "cite": "Sherman v. United States, 356 U.S. 369 (1958)",
+    "source": "https://www.courtlistener.com/opinion/105681/sherman-v-united-states/"
+  },
+  {
+    "id": "entrapment-sherman-facts-09",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "In which entrapment case was a recovering addict pressured into drug crimes by a fellow patient acting as a government informant?",
+    "back": "Sherman v. United States (1958) — entrapment was established as a matter of law because the unwilling defendant was induced by the informant.",
+    "tags": ["entrapment", "sherman", "facts-to-case"],
+    "cite": "Sherman v. United States, 356 U.S. 369 (1958)",
+    "source": "https://www.courtlistener.com/opinion/105681/sherman-v-united-states/"
+  },
+  {
+    "id": "entrapment-russell-holding-10",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "What did United States v. Russell (1973) hold about supplying a legal-but-scarce ingredient to a predisposed defendant?",
+    "back": "No entrapment — even though a government agent supplied a difficult-to-obtain but legal ingredient, the predisposed defendant had no defense.",
+    "tags": ["entrapment", "russell", "case-holding", "predisposition"],
+    "cite": "United States v. Russell, 411 U.S. 423 (1973)",
+    "source": "https://www.courtlistener.com/opinion/108768/united-states-v-russell/"
+  },
+  {
+    "id": "entrapment-russell-objective-rejection-11",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "In United States v. Russell (1973), what did the Court do with the proposed objective entrapment test?",
+    "back": "It reaffirmed the subjective predisposition test and rejected the proposed objective test.",
+    "tags": ["entrapment", "russell", "subjective-vs-objective", "case-holding"],
+    "cite": "United States v. Russell, 411 U.S. 423 (1973)",
+    "source": "https://www.courtlistener.com/opinion/108768/united-states-v-russell/"
+  },
+  {
+    "id": "entrapment-russell-facts-12",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "In which entrapment case did a government agent supply a hard-to-obtain but legal ingredient for manufacturing drugs, yet the predisposed defendant lost?",
+    "back": "United States v. Russell (1973).",
+    "tags": ["entrapment", "russell", "facts-to-case"],
+    "cite": "United States v. Russell, 411 U.S. 423 (1973)",
+    "source": "https://www.courtlistener.com/opinion/108768/united-states-v-russell/"
+  },
+  {
+    "id": "entrapment-jacobson-holding-13",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "What did Jacobson v. United States (1992) hold when the government induces the crime?",
+    "back": "The government must prove the defendant was predisposed independent of, and prior to, the government's inducement; 26 months of solicitation that itself created the predisposition meant the prosecution failed as a matter of law.",
+    "tags": ["entrapment", "jacobson", "case-holding", "timing-rule"],
+    "cite": "Jacobson v. United States, 503 U.S. 540 (1992)",
+    "source": "https://www.courtlistener.com/opinion/112720/jacobson-v-united-states/"
+  },
+  {
+    "id": "entrapment-jacobson-timing-rule-14",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "What is the Jacobson v. United States timing rule for predisposition?",
+    "back": "Predisposition must exist before the government's contact; government conduct cannot manufacture the very predisposition it then points to.",
+    "tags": ["entrapment", "jacobson", "timing-rule", "predisposition"],
+    "cite": "Jacobson v. United States, 503 U.S. 540 (1992)",
+    "source": "https://www.courtlistener.com/opinion/112720/jacobson-v-united-states/"
+  },
+  {
+    "id": "entrapment-jacobson-quote-15",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "How did Jacobson v. United States describe how settled the prior-predisposition requirement is?",
+    "back": "\"[T]he proposition that the accused must be predisposed prior to contact with law enforcement officers is so firmly established that the Government conceded the point at oral argument.\"",
+    "tags": ["entrapment", "jacobson", "quote", "timing-rule"],
+    "cite": "Jacobson v. United States, 503 U.S. 540, 549 (1992)",
+    "source": "https://www.courtlistener.com/opinion/112720/jacobson-v-united-states/"
+  },
+  {
+    "id": "entrapment-jacobson-facts-16",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "In which entrapment case did roughly 26 months of government solicitation that itself created the predisposition defeat the prosecution as a matter of law?",
+    "back": "Jacobson v. United States (1992).",
+    "tags": ["entrapment", "jacobson", "facts-to-case"],
+    "cite": "Jacobson v. United States, 503 U.S. 540 (1992)",
+    "source": "https://www.courtlistener.com/opinion/112720/jacobson-v-united-states/"
+  },
+  {
+    "id": "entrapment-mathews-holding-17",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Under Mathews v. United States (1988), may a defendant deny an element of the crime and still get an entrapment instruction?",
+    "back": "Yes — even while denying one or more elements, the defendant is entitled to an entrapment instruction whenever sufficient evidence could let a reasonable jury find entrapment.",
+    "tags": ["entrapment", "mathews", "case-holding", "denial-plus-entrapment"],
+    "cite": "Mathews v. United States, 485 U.S. 58 (1988)",
+    "source": "https://www.courtlistener.com/opinion/112012/mathews-v-united-states/"
+  },
+  {
+    "id": "entrapment-mathews-quote-18",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "What is the verbatim holding of Mathews v. United States (1988) on denying the crime while claiming entrapment?",
+    "back": "\"[E]ven if the defendant denies one or more elements of the crime, he is entitled to an entrapment instruction whenever there is sufficient evidence from which a reasonable jury could find entrapment.\"",
+    "tags": ["entrapment", "mathews", "quote", "denial-plus-entrapment"],
+    "cite": "Mathews v. United States, 485 U.S. 58, 62 (1988)",
+    "source": "https://www.courtlistener.com/opinion/112012/mathews-v-united-states/"
+  },
+  {
+    "id": "entrapment-mathews-significance-19",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Which Supreme Court case holds that a defendant need not admit the acts in order to raise entrapment?",
+    "back": "Mathews v. United States (1988).",
+    "tags": ["entrapment", "mathews", "holding-to-case", "significance"],
+    "cite": "Mathews v. United States, 485 U.S. 58 (1988)",
+    "source": "https://www.courtlistener.com/opinion/112012/mathews-v-united-states/"
+  },
+  {
+    "id": "entrapment-hampton-holding-20",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "What did Hampton v. United States (1976) hold about a predisposed defendant who sold government-supplied contraband?",
+    "back": "Neither the entrapment defense nor the Due Process Clause bars conviction of a predisposed defendant who sold government-supplied contraband; conceded predisposition defeated the defense.",
+    "tags": ["entrapment", "hampton", "case-holding", "due-process"],
+    "cite": "Hampton v. United States, 425 U.S. 484 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109437/hampton-v-united-states/"
+  },
+  {
+    "id": "entrapment-hampton-facts-21",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "In which case did a government agent supply the very heroin the defendant then sold, yet his conceded predisposition defeated both entrapment and a due-process challenge?",
+    "back": "Hampton v. United States (1976).",
+    "tags": ["entrapment", "hampton", "facts-to-case", "due-process"],
+    "cite": "Hampton v. United States, 425 U.S. 484 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109437/hampton-v-united-states/"
+  },
+  {
+    "id": "entrapment-russell-vs-hampton-22",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Distinguish what the government supplied in Russell versus Hampton, and why neither defendant won the entrapment defense.",
+    "back": "Russell: a legal-but-scarce ingredient. Hampton: the contraband (heroin) itself. In both, the defendant was predisposed, so furnishing the means did not establish entrapment.",
+    "tags": ["entrapment", "russell", "hampton", "distinction", "predisposition"]
+  },
+  {
+    "id": "entrapment-furnishing-means-23",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Does furnishing the means or contraband to a predisposed person establish entrapment under federal law?",
+    "back": "No — supplying a legal-but-scarce ingredient (Russell) or even the contraband itself (Hampton) does not establish entrapment of a predisposed person and raised no due-process bar on those facts.",
+    "tags": ["entrapment", "russell", "hampton", "doctrine", "furnishing-means"]
+  },
+  {
+    "id": "entrapment-subjective-vs-objective-24",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Distinguish the subjective entrapment test from the objective test, and which governs in federal court.",
+    "back": "Subjective test: focuses on this defendant's predisposition — controls in federal court. Objective test: asks whether the police conduct would induce a hypothetical law-abiding person — a non-federal/state alternative, illustrative only, that does not govern federally.",
+    "tags": ["entrapment", "subjective-vs-objective", "distinction", "federal-state-split"]
+  },
+  {
+    "id": "entrapment-objective-test-nonfederal-25",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "cloze",
+    "front": "The objective entrapment test (would the conduct induce a hypothetical law-abiding person?) is a {{c1::non-federal / state}} alternative — it does NOT govern in federal court.",
+    "back": "non-federal / state (minority) alternative; federal courts apply the subjective predisposition test instead.",
+    "tags": ["entrapment", "subjective-vs-objective", "federal-state-split"]
+  },
+  {
+    "id": "entrapment-pitfall-inducement-26",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Common pitfall: do persuasion, opportunity, or even repeated requests automatically entrap a defendant?",
+    "back": "No — those do not entrap a predisposed person. Predisposition controls; treating inducement as automatic entrapment is a mistake.",
+    "tags": ["entrapment", "common-pitfall", "predisposition"]
+  },
+  {
+    "id": "entrapment-pitfall-objective-fed-27",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Common pitfall: an instructor asks \"would this tactic induce an average person?\" in a federal entrapment case — what is wrong with that?",
+    "back": "That is the state/objective framing. Federal law asks about this defendant's predisposition, not the effect on a hypothetical average person.",
+    "tags": ["entrapment", "common-pitfall", "subjective-vs-objective"]
+  },
+  {
+    "id": "entrapment-pitfall-suppression-28",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "Common pitfall: does a successful entrapment claim suppress evidence?",
+    "back": "No — entrapment does not suppress evidence. It is a defense to liability decided by the jury (or, when clear, as a matter of law).",
+    "tags": ["entrapment", "common-pitfall", "defense-vs-suppression"]
+  },
+  {
+    "id": "entrapment-decision-tree-29",
+    "page": "entrapment",
+    "topic": "Entrapment",
+    "type": "qa",
+    "front": "In the entrapment decision sequence: if there was government inducement but the defendant was predisposed before that inducement, what is the result?",
+    "back": "No defense — the defendant may be convicted even though induced, because predisposition existed before the government's contact.",
+    "tags": ["entrapment", "doctrine", "decision-tree", "predisposition"]
+  }
+]

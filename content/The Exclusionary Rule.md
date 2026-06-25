@@ -4,7 +4,7 @@ topic: The Exclusionary Rule
 type: doctrine
 jurisdiction: Federal (U.S. Const. amend. IV); SCOTUS baseline
 status: verified
-related: ["[[Section 1983 Liability and Qualified Immunity]]", "[[Search Incident to Arrest]]", "[[Two Definitions of Search]]", "[[Fourth Amendment Analysis Checklist]]", "[[Legal Research and Case Citations]]"]
+related: ["[[Standing to Challenge a Search]]", "[[Section 1983 Liability and Qualified Immunity]]", "[[Search Incident to Arrest]]", "[[Two Definitions of Search]]", "[[Fourth Amendment Analysis Checklist]]", "[[Legal Research and Case Citations]]"]
 ---
 
 ## Rule
@@ -46,6 +46,8 @@ The exclusionary rule bars the government from using, in its case-in-chief, evid
 Each exception below carries its own rule and its controlling (or illustrative) authority. Together they are the reason a Fourth Amendment violation does **not** automatically suppress.
 
 **1. Standing — a threshold gate (*Rakas*).** Suppression is available **only** to a defendant whose **own** Fourth Amendment rights were violated. "Fourth Amendment rights are personal rights which, like some other constitutional rights, may not be vicariously asserted." *Rakas*, 439 U.S. at 133–34. The inquiry is whether the defendant himself had a legitimate expectation of privacy in the place searched: "capacity to claim the protection of the Fourth Amendment depends not upon a property right in the invaded place but upon whether the person who claims the protection of the Amendment has a legitimate expectation of privacy in the invaded place." *Id.* at 143. No standing → no suppression, even if officers plainly acted unlawfully as to **someone**. (See [[Two Definitions of Search]] for the reasonable-expectation-of-privacy test that drives the standing inquiry.)
+
+> **→ Standing is now treated in full on its own page: [[Standing to Challenge a Search]]** — possession (actual vs. constructive, joint, willful blindness), the overnight guest (*Olson*) vs. transient visitor (*Carter*), the unauthorized rental driver (*Byrd*), the passenger who may challenge the *stop* (*Brendlin*), and the abolition of "automatic standing" (*Salvucci*, overruling *Jones*). This page keeps standing only as the **threshold gate** to suppression.
 
 **2. Inevitable discovery (*Nix*).** Unlawfully obtained evidence comes in if the government shows it would have been found anyway by lawful means. "If the prosecution can establish by a preponderance of the evidence that the information ultimately or inevitably would have been discovered by lawful means … then the deterrence rationale has so little basis that the evidence should be received." *Nix*, 467 U.S. at 444.
 - **Applied (admitted) — *Soto-Peguero* (1st Cir., persuasive).** The First Circuit affirmed admission because the agent would have sought and obtained a warrant regardless: "Because Soto-Peguero has not succeeded in establishing that the United States failed to meet the requirements for applying the inevitable discovery doctrine, we affirm the District Court's denial of his motion to suppress." 978 F.3d at 21.

@@ -1,0 +1,336 @@
+[
+  {
+    "id": "border-searches-doctrine-rule-01",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Under the border-search exception, what level of suspicion does a ROUTINE search of persons, baggage, or property at the international border require?",
+    "back": "None — no warrant, no probable cause, and no individualized suspicion. It is a categorical exception to the warrant requirement because the sovereign's self-protective interest is at its zenith at the border.",
+    "tags": ["border-searches", "routine-search", "warrant-requirement", "doctrine"]
+  },
+  {
+    "id": "border-searches-doctrine-nonroutine-02",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Under the border-search exception, what level of suspicion does a NON-ROUTINE, highly intrusive border intrusion (prolonged detention, body-cavity, alimentary-canal search) require?",
+    "back": "Reasonable suspicion.",
+    "tags": ["border-searches", "non-routine-search", "reasonable-suspicion", "doctrine"]
+  },
+  {
+    "id": "border-searches-doctrine-masterline-03",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "In border-search doctrine, what is the 'master line' that determines whether a search needs reasonable suspicion?",
+    "back": "Routine vs. non-routine. The trigger for the non-routine (reasonable-suspicion) tier is intrusion on the dignity and bodily integrity of the PERSON — not property damage.",
+    "tags": ["border-searches", "routine-vs-non-routine", "doctrine"]
+  },
+  {
+    "id": "border-searches-doctrine-geographic-04",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Where does the border-search exception apply geographically?",
+    "back": "At the actual international border and its functional equivalents. It is geographic, not portable — it does not float free into the deep interior.",
+    "tags": ["border-searches", "functional-equivalent", "geographic-limit", "doctrine"]
+  },
+  {
+    "id": "border-searches-doctrine-why-05",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Why are the Fourth Amendment's ordinary expectations relaxed at the international border?",
+    "back": "Because the sovereign's interest in protecting itself is at its zenith there; this inherent self-protective authority justifies the categorical border-search exception.",
+    "tags": ["border-searches", "sovereign-interest", "doctrine", "why"]
+  },
+  {
+    "id": "border-searches-ramsey-holding-06",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What did *United States v. Ramsey* (1977) hold about routine border searches (here, incoming international mail)?",
+    "back": "They require neither a warrant nor probable cause; the border-search exception rests on the sovereign's inherent authority to protect itself.",
+    "tags": ["border-searches", "ramsey", "routine-search", "case-holding"],
+    "cite": "United States v. Ramsey, 431 U.S. 606 (1977)",
+    "source": "https://www.courtlistener.com/opinion/109675/united-states-v-ramsey/"
+  },
+  {
+    "id": "border-searches-ramsey-facts-07",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Which SCOTUS case upheld a suspicionless search of incoming international mail at the border, grounding the border-search exception in the sovereign's inherent self-protective authority?",
+    "back": "*United States v. Ramsey*, 431 U.S. 606 (1977).",
+    "tags": ["border-searches", "ramsey", "facts-to-case", "international-mail"],
+    "cite": "United States v. Ramsey, 431 U.S. 606 (1977)",
+    "source": "https://www.courtlistener.com/opinion/109675/united-states-v-ramsey/"
+  },
+  {
+    "id": "border-searches-montoya-holding-08",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What did *United States v. Montoya de Hernandez* (1985) hold about prolonged detention of a suspected alimentary-canal smuggler at the border?",
+    "back": "The prolonged detention is reasonable when customs officers have reasonable suspicion that the traveler is smuggling contraband internally — placing it in the non-routine tier.",
+    "tags": ["border-searches", "montoya-de-hernandez", "non-routine-search", "reasonable-suspicion", "case-holding"],
+    "cite": "United States v. Montoya de Hernandez, 473 U.S. 531 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111509/united-states-v-montoya-de-hernandez/"
+  },
+  {
+    "id": "border-searches-montoya-quote-09",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "cloze",
+    "front": "Fill in the *Montoya de Hernandez* standard: detention beyond a routine customs search is justified at its inception if customs agents, considering all the facts surrounding the traveler and her trip, {{c1::reasonably suspect that the traveler is smuggling contraband in her alimentary canal}}.",
+    "back": "reasonably suspect that the traveler is smuggling contraband in her alimentary canal",
+    "tags": ["border-searches", "montoya-de-hernandez", "verbatim-quote", "reasonable-suspicion"],
+    "cite": "United States v. Montoya de Hernandez, 473 U.S. at 541",
+    "source": "https://www.courtlistener.com/opinion/111509/united-states-v-montoya-de-hernandez/"
+  },
+  {
+    "id": "border-searches-montoya-facts-10",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Which SCOTUS case set the floor for the non-routine border tier by approving prolonged detention of a suspected balloon/alimentary-canal smuggler on reasonable suspicion?",
+    "back": "*United States v. Montoya de Hernandez*, 473 U.S. 531 (1985).",
+    "tags": ["border-searches", "montoya-de-hernandez", "facts-to-case", "non-routine-search"],
+    "cite": "United States v. Montoya de Hernandez, 473 U.S. 531 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111509/united-states-v-montoya-de-hernandez/"
+  },
+  {
+    "id": "border-searches-flores-holding-11",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What did *United States v. Flores-Montano* (2004) hold about disassembling and reassembling a vehicle's gas tank at the border?",
+    "back": "The suspicionless authority over vehicles at the border includes disassembling and reassembling a gas tank; this property search is routine and needs no reasonable suspicion.",
+    "tags": ["border-searches", "flores-montano", "routine-search", "vehicle-search", "case-holding"],
+    "cite": "United States v. Flores-Montano, 541 U.S. 149 (2004)",
+    "source": "https://www.courtlistener.com/opinion/134729/united-states-v-flores-montano/"
+  },
+  {
+    "id": "border-searches-flores-significance-12",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What is the doctrinal significance of *Flores-Montano* (gas-tank disassembly) for the routine/non-routine line?",
+    "back": "It confirms that dignity-intrusion on the PERSON — not property damage — drives the reasonable-suspicion tier. A destructive property search (disassembling a gas tank) stayed routine and needed no suspicion.",
+    "tags": ["border-searches", "flores-montano", "routine-vs-non-routine", "significance"],
+    "cite": "United States v. Flores-Montano, 541 U.S. 149 (2004)",
+    "source": "https://www.courtlistener.com/opinion/134729/united-states-v-flores-montano/"
+  },
+  {
+    "id": "border-searches-pitfall-destructive-13",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Common pitfall: is a destructive property search at the border (like disassembling a gas tank) 'non-routine' because of the property damage?",
+    "back": "No. Per *Flores-Montano*, property damage does not make a search non-routine; only dignity-intrusion on the person bumps a search into the reasonable-suspicion tier. The gas-tank disassembly stayed routine.",
+    "tags": ["border-searches", "flores-montano", "common-pitfall", "routine-vs-non-routine"],
+    "cite": "United States v. Flores-Montano, 541 U.S. 149 (2004)",
+    "source": "https://www.courtlistener.com/opinion/134729/united-states-v-flores-montano/"
+  },
+  {
+    "id": "border-searches-almeida-holding-14",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What did *Almeida-Sanchez v. United States* (1973) hold about a roving-patrol vehicle search ~20 miles inside the border, without probable cause or consent?",
+    "back": "It violated the Fourth Amendment. The border-search exception does not reach the deep interior; such a search is not a 'border search.'",
+    "tags": ["border-searches", "almeida-sanchez", "roving-patrol", "geographic-limit", "case-holding"],
+    "cite": "Almeida-Sanchez v. United States, 413 U.S. 266 (1973)",
+    "source": "https://www.courtlistener.com/opinion/108845/almeida-sanchez-v-united-states/"
+  },
+  {
+    "id": "border-searches-almeida-quote-15",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "cloze",
+    "front": "Fill in *Almeida-Sanchez*: as to the roving-patrol search 20+ miles north of the border, '{{c1::In the absence of probable cause or consent}}, that search violated the petitioner's Fourth Amendment right to be free of \"unreasonable searches and seizures.\"'",
+    "back": "In the absence of probable cause or consent",
+    "tags": ["border-searches", "almeida-sanchez", "verbatim-quote", "roving-patrol"],
+    "cite": "Almeida-Sanchez v. United States, 413 U.S. at 273",
+    "source": "https://www.courtlistener.com/opinion/108845/almeida-sanchez-v-united-states/"
+  },
+  {
+    "id": "border-searches-almeida-pitfall-16",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Common pitfall: does the border-search exception authorize a suspicionless roving-patrol search miles inland from the border?",
+    "back": "No. *Almeida-Sanchez* invalidated a suspicionless roving-patrol search ~20 miles inside the border; interior searches need probable cause, a warrant, or consent.",
+    "tags": ["border-searches", "almeida-sanchez", "common-pitfall", "deep-interior"],
+    "cite": "Almeida-Sanchez v. United States, 413 U.S. 266 (1973)",
+    "source": "https://www.courtlistener.com/opinion/108845/almeida-sanchez-v-united-states/"
+  },
+  {
+    "id": "border-searches-brignoni-holding-17",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What did *United States v. Brignoni-Ponce* (1975) hold about a roving Border Patrol stopping a vehicle near the border to question occupants?",
+    "back": "A roving patrol may make a brief stop to question occupants only on reasonable suspicion, based on specific articulable facts, that they are aliens illegally in the country.",
+    "tags": ["border-searches", "brignoni-ponce", "roving-patrol", "reasonable-suspicion", "case-holding"],
+    "cite": "United States v. Brignoni-Ponce, 422 U.S. 873, 884, 886-87 (1975)",
+    "source": "https://www.courtlistener.com/opinion/109311/united-states-v-brignoni-ponce/"
+  },
+  {
+    "id": "border-searches-brignoni-ancestry-18",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Per *Brignoni-Ponce*, is apparent Mexican ancestry alone enough to justify a roving-patrol stop near the border?",
+    "back": "No. Apparent Mexican ancestry ALONE is not enough; reasonable suspicion must rest on specific articulable facts.",
+    "tags": ["border-searches", "brignoni-ponce", "roving-patrol", "reasonable-suspicion"],
+    "cite": "United States v. Brignoni-Ponce, 422 U.S. 873, 884, 886-87 (1975)",
+    "source": "https://www.courtlistener.com/opinion/109311/united-states-v-brignoni-ponce/"
+  },
+  {
+    "id": "border-searches-almeida-brignoni-distinction-19",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Distinguish *Brignoni-Ponce* from *Almeida-Sanchez* for roving patrols near the border.",
+    "back": "*Brignoni-Ponce* allows a brief STOP on reasonable suspicion (ancestry alone insufficient); *Almeida-Sanchez* bars a suspicionless SEARCH in the interior, which needs probable cause or consent.",
+    "tags": ["border-searches", "brignoni-ponce", "almeida-sanchez", "distinction", "stop-vs-search"],
+    "cite": "United States v. Brignoni-Ponce, 422 U.S. 873, 884, 886-87 (1975)",
+    "source": "https://www.courtlistener.com/opinion/109311/united-states-v-brignoni-ponce/"
+  },
+  {
+    "id": "border-searches-martinez-holding-20",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What did *United States v. Martinez-Fuerte* (1976) hold about brief stops at fixed/permanent interior immigration checkpoints?",
+    "back": "They are constitutional without any individualized suspicion; routine questioning and referral to secondary inspection are reasonable.",
+    "tags": ["border-searches", "martinez-fuerte", "checkpoint", "case-holding"],
+    "cite": "United States v. Martinez-Fuerte, 428 U.S. 543 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109541/united-states-v-martinez-fuerte/"
+  },
+  {
+    "id": "border-searches-checkpoint-power-21",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Are fixed interior immigration checkpoints (*Martinez-Fuerte*) an exercise of the border-SEARCH power?",
+    "back": "No. Fixed checkpoints (and roving-patrol stops near the border) are seizure / special-needs doctrines, not the border-search power. *Martinez-Fuerte* upholds suspicionless checkpoint STOPS, not suspicionless searches.",
+    "tags": ["border-searches", "martinez-fuerte", "checkpoint", "distinction", "special-needs"],
+    "cite": "United States v. Martinez-Fuerte, 428 U.S. 543 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109541/united-states-v-martinez-fuerte/"
+  },
+  {
+    "id": "border-searches-checkpoint-pitfall-22",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Common pitfall: can *Martinez-Fuerte* be cited as authority to SEARCH without suspicion away from the border?",
+    "back": "No. *Martinez-Fuerte* upholds suspicionless checkpoint stops only; it is not authority to search without suspicion, and it is not a border-search holding.",
+    "tags": ["border-searches", "martinez-fuerte", "common-pitfall", "checkpoint"],
+    "cite": "United States v. Martinez-Fuerte, 428 U.S. 543 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109541/united-states-v-martinez-fuerte/"
+  },
+  {
+    "id": "border-searches-roving-tiers-23",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Near the border, what is required for (a) a brief checkpoint stop, (b) a roving-patrol stop, and (c) a roving-patrol search in the interior?",
+    "back": "(a) Brief checkpoint stops are suspicionless (*Martinez-Fuerte*); (b) a roving-patrol stop needs reasonable suspicion (*Brignoni-Ponce*); (c) a roving-patrol search in the interior needs probable cause or consent (*Almeida-Sanchez*).",
+    "tags": ["border-searches", "checkpoint", "roving-patrol", "distinction", "doctrine"]
+  },
+  {
+    "id": "border-searches-cotterman-holding-24",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What did the Ninth Circuit hold in *United States v. Cotterman* (2013) (en banc) about forensic examination of a device seized at the border? (persuasive only)",
+    "back": "A forensic (comprehensive) examination of the device requires reasonable suspicion; it is the comprehensive/intrusive nature of the forensic search, not its location, that triggers the requirement.",
+    "tags": ["border-searches", "cotterman", "device-search", "reasonable-suspicion", "ninth-circuit", "persuasive"],
+    "cite": "United States v. Cotterman, 709 F.3d 952 (9th Cir. 2013) (en banc)",
+    "source": "https://www.courtlistener.com/opinion/854692/united-states-v-howard-cotterman/"
+  },
+  {
+    "id": "border-searches-cotterman-quote-25",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "cloze",
+    "front": "Fill in *Cotterman* (9th Cir., persuasive): 'We therefore hold that the forensic examination of Cotterman's computer required a showing of {{c1::reasonable suspicion}}, a modest requirement in light of the Fourth Amendment.'",
+    "back": "reasonable suspicion",
+    "tags": ["border-searches", "cotterman", "verbatim-quote", "device-search", "ninth-circuit"],
+    "cite": "United States v. Cotterman, 709 F.3d at 968",
+    "source": "https://www.courtlistener.com/opinion/854692/united-states-v-howard-cotterman/"
+  },
+  {
+    "id": "border-searches-cano-holding-26",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What did the Ninth Circuit hold in *United States v. Cano* (2019) about manual vs. forensic phone searches at the border? (persuasive only)",
+    "back": "A manual phone search needs no suspicion, but a forensic (Cellebrite-type) device search requires reasonable suspicion that the device itself contains contraband — and the border-search exception covers only searches for digital contraband, not evidence of past or future crimes.",
+    "tags": ["border-searches", "cano", "device-search", "manual-vs-forensic", "ninth-circuit", "persuasive"],
+    "cite": "United States v. Cano, 934 F.3d 1002 (9th Cir. 2019)",
+    "source": "https://www.courtlistener.com/opinion/4649091/united-states-v-miguel-cano/"
+  },
+  {
+    "id": "border-searches-cano-limits-27",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "How did *Cano* (9th Cir. 2019) confine *Cotterman*'s reasonable-suspicion rule for device searches?",
+    "back": "It limited the rule to searches for DIGITAL CONTRABAND — the border-search exception covers searches for contraband, not searches for evidence of past or future crimes.",
+    "tags": ["border-searches", "cano", "cotterman", "device-search", "ninth-circuit", "significance"],
+    "cite": "United States v. Cano, 934 F.3d 1002 (9th Cir. 2019)",
+    "source": "https://www.courtlistener.com/opinion/4649091/united-states-v-miguel-cano/"
+  },
+  {
+    "id": "border-searches-touset-holding-28",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What did the Eleventh Circuit hold in *United States v. Touset* (2018) about forensic searches of electronic devices at the border? (persuasive only)",
+    "back": "No suspicion at all — not even reasonable suspicion — is required. Devices are property, and reasonable suspicion is reserved for highly intrusive searches of a person's body.",
+    "tags": ["border-searches", "touset", "device-search", "eleventh-circuit", "persuasive"],
+    "cite": "United States v. Touset, 890 F.3d 1227 (11th Cir. 2018)",
+    "source": "https://www.courtlistener.com/opinion/4500452/united-states-v-karl-touset/"
+  },
+  {
+    "id": "border-searches-touset-rationale-29",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What is the Eleventh Circuit's rationale in *Touset* for requiring no suspicion to forensically search a device at the border?",
+    "back": "Devices are PROPERTY, and reasonable suspicion is reserved only for intrusive searches of the person's BODY — so a property search of a device falls in the routine tier.",
+    "tags": ["border-searches", "touset", "device-search", "eleventh-circuit", "why"],
+    "cite": "United States v. Touset, 890 F.3d 1227 (11th Cir. 2018)",
+    "source": "https://www.courtlistener.com/opinion/4500452/united-states-v-karl-touset/"
+  },
+  {
+    "id": "border-searches-split-30",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "What is the circuit split on FORENSIC searches of electronic devices at the border, and has SCOTUS resolved it?",
+    "back": "9th Cir. (*Cotterman*/*Cano*) requires reasonable suspicion; 11th Cir. (*Touset*) requires no suspicion at all. Both are persuasive only outside their circuits, and SCOTUS has not resolved the split — there is no nationwide device rule.",
+    "tags": ["border-searches", "circuit-split", "device-search", "cotterman", "touset", "doctrine"]
+  },
+  {
+    "id": "border-searches-split-pitfall-31",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Common pitfall: is it correct to state a nationwide rule that 'forensic device searches always need reasonable suspicion' (or 'never do')?",
+    "back": "No. 'Always need reasonable suspicion' overstates the 9th Cir. (*Cotterman*/*Cano*); 'never do' overstates the 11th Cir. (*Touset*). Label the circuit and flag the unresolved split — there is no nationwide rule.",
+    "tags": ["border-searches", "circuit-split", "common-pitfall", "device-search"]
+  },
+  {
+    "id": "border-searches-cano-touset-distinction-32",
+    "page": "border-searches",
+    "topic": "Border Searches",
+    "type": "qa",
+    "front": "Distinguish how the 9th and 11th Circuits classify a forensic device search within the routine/non-routine framework.",
+    "back": "The 9th Cir. (*Cotterman*/*Cano*) treats a forensic device search as intrusive enough to require reasonable suspicion; the 11th Cir. (*Touset*) treats the device as property in the routine tier, reserving reasonable suspicion for intrusive searches of the body.",
+    "tags": ["border-searches", "cotterman", "touset", "distinction", "device-search"]
+  }
+]

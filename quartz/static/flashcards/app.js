@@ -2,7 +2,12 @@
    CSSI Flashcards — spaced-repetition study app (vanilla JS, no build step)
 
    Scheduler: ts-fsrs 5.4.1, vendored UMD. Global is window.FSRS.
-   Persistence: localStorage, one key, migrate-by-id on deck version change.
+   Persistence: IndexedDB (DB "cssi-flashcards"), with a one-time, lossless
+   migration from the legacy localStorage blob (key "cssi.flashcards.v1").
+   localStorage is preserved untouched as a safety fallback, and is also the
+   live store when IndexedDB is unavailable (private mode, blocked, no support).
+   Migrate-by-id on deck version change: survivors keep progress, removed ids
+   are dropped, new ids start as New.
    Mounts on #flashcards-app. SPA-robust: re-inits on Quartz `nav` events,
    guards against double-binding, and also runs standalone.
 
@@ -38,11 +43,19 @@
   }
 
   /* ----- constants ----- */
-  var KEY = "cssi.flashcards.v1";
+  var KEY = "cssi.flashcards.v1";   // legacy localStorage blob key (still read for migration / fallback)
   var STORAGE_SCHEMA = 1;
   var NEW_PER_SESSION = 20;
   var SWIPE_THRESHOLD = 60;
   var DEFAULT_DECK_URL = "/static/flashcards/flashcards.json";
+
+  /* IndexedDB names. "progress" is keyed by card id and holds the same
+     serialized FSRS card record the app already uses; "meta" is a small
+     key/value store for deckVersion, filter, the one-time migrated flag, etc. */
+  var IDB_NAME = "cssi-flashcards";
+  var IDB_VERSION = 1;
+  var STORE_PROGRESS = "progress";
+  var STORE_META = "meta";
 
   // One scheduler instance for the whole app. Fuzz spreads due dates.
   var scheduler = fsrs({ enable_fuzz: true });
@@ -51,18 +64,20 @@
   var current = null;
 
   /* =======================================================================
-     Storage helpers — all wrapped so private mode / quota degrade to memory.
+     Legacy localStorage helpers — all wrapped so private mode / quota degrade
+     to memory. Still used as the migration source and as the fallback store
+     when IndexedDB is unavailable.
      ===================================================================== */
-  function loadStorage() {
+  function loadLocal() {
     try {
       var raw = localStorage.getItem(KEY);
       return raw ? JSON.parse(raw) : null;
     } catch (e) { return null; }
   }
-  function saveStorage(s) {
+  function saveLocal(s) {
     try { localStorage.setItem(KEY, JSON.stringify(s)); } catch (e) { /* memory-only */ }
   }
-  function clearStorage() {
+  function clearLocal() {
     try { localStorage.removeItem(KEY); } catch (e) { /* ignore */ }
   }
   function freshStorage(version) {
@@ -73,6 +88,199 @@
       cards: {},
       updatedAt: new Date().toISOString()
     };
+  }
+
+  /* =======================================================================
+     IndexedDB layer.
+
+     Schema (DB "cssi-flashcards", v1):
+       - object store "progress": keyed by card id; value is the serialized
+         FSRS card record (the exact shape stored in state.cards[id] — due,
+         stability, difficulty, reps, lapses, state, last_review,
+         scheduled_days, elapsed_days, learning_steps, …).
+       - object store "meta": key/value pairs { key, value }. Keys used:
+         "storageSchema", "deckVersion", "filter", "updatedAt", "migrated".
+
+     The rest of the app keeps working against the same in-memory `state`
+     object ({ storageSchema, deckVersion, filter, cards:{}, updatedAt }); the
+     IDB facade just hydrates that object on load and persists changes on write.
+     ===================================================================== */
+
+  function idbSupported() {
+    try { return typeof indexedDB !== "undefined" && indexedDB !== null; }
+    catch (e) { return false; }
+  }
+
+  function reqAsPromise(req) {
+    return new Promise(function (resolve, reject) {
+      req.onsuccess = function () { resolve(req.result); };
+      req.onerror = function () { reject(req.error); };
+    });
+  }
+  function txDone(tx) {
+    return new Promise(function (resolve, reject) {
+      tx.oncomplete = function () { resolve(); };
+      tx.onerror = function () { reject(tx.error); };
+      tx.onabort = function () { reject(tx.error || new Error("tx aborted")); };
+    });
+  }
+
+  /* Open (and upgrade/create) the database. Rejects if IDB is unavailable or
+     blocked, so callers can fall back to the localStorage path. */
+  function openDB() {
+    return new Promise(function (resolve, reject) {
+      if (!idbSupported()) { reject(new Error("indexedDB unavailable")); return; }
+      var req;
+      try { req = indexedDB.open(IDB_NAME, IDB_VERSION); }
+      catch (e) { reject(e); return; }
+      req.onupgradeneeded = function () {
+        var db = req.result;
+        if (!db.objectStoreNames.contains(STORE_PROGRESS)) db.createObjectStore(STORE_PROGRESS);
+        if (!db.objectStoreNames.contains(STORE_META)) db.createObjectStore(STORE_META, { keyPath: "key" });
+      };
+      req.onsuccess = function () { resolve(req.result); };
+      req.onerror = function () { reject(req.error); };
+      // Some browsers fire onblocked instead of resolving when a prior
+      // connection holds an older version open; treat as a failure to open.
+      req.onblocked = function () { reject(new Error("indexedDB open blocked")); };
+    });
+  }
+
+  function metaGet(db, key) {
+    var tx = db.transaction(STORE_META, "readonly");
+    return reqAsPromise(tx.objectStore(STORE_META).get(key)).then(function (row) {
+      return row ? row.value : undefined;
+    });
+  }
+
+  /* Read the entire persisted state back into the in-memory blob shape. */
+  function idbLoadState(db) {
+    var tx = db.transaction([STORE_PROGRESS, STORE_META], "readonly");
+    var progStore = tx.objectStore(STORE_PROGRESS);
+    var metaStore = tx.objectStore(STORE_META);
+    var out = { cards: {} };
+    var pending = [];
+
+    // Prefer getAllKeys/getAll where available; fall back to a cursor.
+    if (typeof progStore.getAll === "function" && typeof progStore.getAllKeys === "function") {
+      pending.push(
+        Promise.all([reqAsPromise(progStore.getAllKeys()), reqAsPromise(progStore.getAll())])
+          .then(function (pair) {
+            var keys = pair[0], vals = pair[1];
+            for (var i = 0; i < keys.length; i++) out.cards[keys[i]] = vals[i];
+          })
+      );
+    } else {
+      pending.push(new Promise(function (resolve, reject) {
+        var creq = progStore.openCursor();
+        creq.onsuccess = function () {
+          var cur = creq.result;
+          if (cur) { out.cards[cur.key] = cur.value; cur.continue(); }
+          else resolve();
+        };
+        creq.onerror = function () { reject(creq.error); };
+      }));
+    }
+
+    pending.push(reqAsPromise(metaStore.getAll ? metaStore.getAll() : null).then(function (rows) {
+      (rows || []).forEach(function (row) { out[row.key] = row.value; });
+    }).catch(function () { /* getAll may be absent; meta keys read individually below */ }));
+
+    return Promise.all(pending).then(function () {
+      // If getAll wasn't available for meta, fetch the keys we care about.
+      if (out.storageSchema === undefined && out.deckVersion === undefined) {
+        return Promise.all([
+          metaGet(db, "storageSchema"), metaGet(db, "deckVersion"),
+          metaGet(db, "filter"), metaGet(db, "updatedAt")
+        ]).then(function (vals) {
+          out.storageSchema = vals[0]; out.deckVersion = vals[1];
+          out.filter = vals[2]; out.updatedAt = vals[3];
+          return out;
+        });
+      }
+      return out;
+    });
+  }
+
+  /* Persist the whole in-memory state into IDB in one transaction. Used after
+     reconcile/migration and on reset. */
+  function idbSaveState(db, state, alsoMigratedFlag) {
+    var tx = db.transaction([STORE_PROGRESS, STORE_META], "readwrite");
+    var progStore = tx.objectStore(STORE_PROGRESS);
+    var metaStore = tx.objectStore(STORE_META);
+    progStore.clear();
+    var cards = state.cards || {};
+    Object.keys(cards).forEach(function (id) { progStore.put(cards[id], id); });
+    metaStore.put({ key: "storageSchema", value: state.storageSchema });
+    metaStore.put({ key: "deckVersion", value: state.deckVersion });
+    metaStore.put({ key: "filter", value: state.filter });
+    metaStore.put({ key: "updatedAt", value: state.updatedAt });
+    if (alsoMigratedFlag) metaStore.put({ key: "migrated", value: true });
+    return txDone(tx);
+  }
+
+  /* Persist a single card record + the updatedAt stamp (the hot path: grading). */
+  function idbPutCard(db, id, record, updatedAt) {
+    var tx = db.transaction([STORE_PROGRESS, STORE_META], "readwrite");
+    tx.objectStore(STORE_PROGRESS).put(record, id);
+    if (updatedAt != null) tx.objectStore(STORE_META).put({ key: "updatedAt", value: updatedAt });
+    return txDone(tx);
+  }
+
+  /* Persist just a single meta key (e.g. the filter selection). */
+  function idbPutMeta(db, key, value) {
+    var tx = db.transaction(STORE_META, "readwrite");
+    tx.objectStore(STORE_META).put({ key: key, value: value });
+    return txDone(tx);
+  }
+
+  /* One-time, lossless migration of the legacy localStorage blob into IDB.
+     Copies every card record verbatim (all FSRS fields preserved) plus the
+     deck/filter meta, then sets migrated=true. localStorage is NOT cleared.
+     Safe to call when there is nothing to migrate (writes an empty fresh
+     state + the flag). Returns the freshly-loaded in-memory state. */
+  function idbMigrateFromLocal(db, version) {
+    var legacy = loadLocal();
+    var seed;
+    if (legacy && legacy.storageSchema === STORAGE_SCHEMA && legacy.cards) {
+      // Copy verbatim — do not reshape records; preserve every FSRS field.
+      seed = {
+        storageSchema: STORAGE_SCHEMA,
+        deckVersion: legacy.deckVersion != null ? legacy.deckVersion : version,
+        filter: legacy.filter || "All",
+        cards: legacy.cards,
+        updatedAt: legacy.updatedAt || new Date().toISOString()
+      };
+    } else {
+      // Nothing usable to migrate — start clean but still set the flag so we
+      // never re-run migration (and never clobber later IDB writes).
+      seed = freshStorage(version);
+    }
+    return idbSaveState(db, seed, true).then(function () { return seed; });
+  }
+
+  /* Resolve the live state for this boot.
+       - IDB available  -> open, migrate-once, load, return { db, state }.
+       - IDB unavailable -> { db: null, state: <localStorage blob or null> }.
+     Always resolves (never rejects); falls back to localStorage on any error. */
+  function openPersistence(version) {
+    if (!idbSupported()) {
+      return Promise.resolve({ db: null, state: loadLocal() });
+    }
+    return openDB().then(function (db) {
+      return metaGet(db, "migrated").then(function (migrated) {
+        var ready = migrated ? Promise.resolve(null) : idbMigrateFromLocal(db, version);
+        return ready.then(function () {
+          return idbLoadState(db).then(function (state) {
+            return { db: db, state: state };
+          });
+        });
+      });
+    }).catch(function () {
+      // Any IDB failure (blocked, private mode, quota on open, etc.) -> fall
+      // back to the still-intact localStorage path. No data is lost.
+      return { db: null, state: loadLocal() };
+    });
   }
 
   /* Stable FNV-1a deck fingerprint for bare-array decks lacking a version. */
@@ -212,6 +420,7 @@
     this.root = root;
     this.deck = [];
     this.state = null;
+    this.db = null;            // open IDBDatabase, or null when using localStorage fallback
     this.version = "";
     this.filter = "All";
     this.queue = [];
@@ -224,6 +433,40 @@
   Controller.prototype.destroy = function () {
     this.cleanups.forEach(function (fn) { try { fn(); } catch (e) {} });
     this.cleanups = [];
+    if (this.db) { try { this.db.close(); } catch (e) {} this.db = null; }
+  };
+
+  /* ----- persistence facade: route writes to IDB when open, else localStorage.
+     All wrapped so a failed write degrades to in-memory without throwing. ----- */
+
+  // Persist the whole state (after reconcile/migration and on reset).
+  Controller.prototype.persistAll = function () {
+    if (this.db) {
+      var self = this;
+      idbSaveState(this.db, this.state, false).catch(function () { saveLocal(self.state); });
+    } else {
+      saveLocal(this.state);
+    }
+  };
+
+  // Persist one graded card record + the updatedAt stamp (hot path).
+  Controller.prototype.persistCard = function (id, record, updatedAt) {
+    if (this.db) {
+      var self = this;
+      idbPutCard(this.db, id, record, updatedAt).catch(function () { saveLocal(self.state); });
+    } else {
+      saveLocal(this.state);
+    }
+  };
+
+  // Persist a single meta value (the filter selection).
+  Controller.prototype.persistMeta = function (key, value) {
+    if (this.db) {
+      var self = this;
+      idbPutMeta(this.db, key, value).catch(function () { saveLocal(self.state); });
+    } else {
+      saveLocal(this.state);
+    }
   };
 
   Controller.prototype.start = function () {
@@ -242,6 +485,7 @@
   };
 
   Controller.prototype.boot = function (deck) {
+    var self = this;
     var cards = Array.isArray(deck) ? deck : (deck && deck.cards) || [];
     cards = cards.filter(function (c) { return c && c.id; });
     if (!cards.length) { this.renderEmptyDeck(); return; }
@@ -250,14 +494,23 @@
     this.deckTitle = (deck && deck.title) || "";
     this.version = (deck && deck.version) || deckHash(cards);
 
-    var stored = reconcile(loadStorage(), cards, this.version);
-    saveStorage(stored);
-    this.state = stored;
-    this.filter = stored.filter || "All";
+    // Open persistence (IDB with one-time migration, or localStorage fallback)
+    // and ONLY THEN reconcile + render. The await here is what prevents reading
+    // progress before the migration has finished.
+    openPersistence(this.version).then(function (res) {
+      if (!self.root.isConnected) { if (res.db) { try { res.db.close(); } catch (e) {} } return; }
+      self.db = res.db;
+      var stored = reconcile(res.state, cards, self.version);
+      self.state = stored;
+      self.filter = stored.filter || "All";
+      // Persist the reconciled state (covers fresh state, deck-version migration,
+      // and the post-localStorage-migration write). One transaction.
+      self.persistAll();
 
-    this.buildShell();
-    this.rebuildQueue();
-    this.render();
+      self.buildShell();
+      self.rebuildQueue();
+      self.render();
+    });
   };
 
   /* Build the persistent shell once; render() updates the body region. */
@@ -288,7 +541,7 @@
     onEvent(this, select, "change", function () {
       self.filter = select.value;
       self.state.filter = self.filter;
-      saveStorage(self.state);
+      self.persistMeta("filter", self.filter);
       self.rebuildQueue();
       self.render();
     });
@@ -409,9 +662,10 @@
     var id = this.currentId;
     var card = getCard(this.state, id);
     var res = scheduler.next(card, new Date(), rating);
-    this.state.cards[id] = serialize(res.card);
+    var record = serialize(res.card);
+    this.state.cards[id] = record;
     this.state.updatedAt = new Date().toISOString();
-    saveStorage(this.state);
+    this.persistCard(id, record, this.state.updatedAt);
     this.reviewedThisSession++;
 
     // Remove from queue (it may re-enter on rebuild if still due — learning step).
@@ -432,9 +686,16 @@
         "This cannot be undone.");
     } catch (e) { ok = true; }
     if (!ok) return;
-    clearStorage();
     this.state = freshStorage(this.version);
-    saveStorage(this.state);
+    // Wipe the active store (IDB when open, else localStorage). The legacy
+    // localStorage blob is intentionally left intact as a fallback when IDB
+    // is the active store — it is only the migration source / fallback.
+    if (this.db) {
+      this.persistAll();
+    } else {
+      clearLocal();
+      saveLocal(this.state);
+    }
     this.reviewedThisSession = 0;
     this.currentId = null;
     this.flipped = false;

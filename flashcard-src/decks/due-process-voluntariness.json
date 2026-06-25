@@ -1,0 +1,315 @@
+[
+  {
+    "id": "due-process-voluntariness-rule-01",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Under the Due Process Clause, what does an involuntary confession mean, and what does the Clause bar?",
+    "back": "An involuntary confession is one produced by coercion that overbears the suspect's will; the Due Process Clause bars its use to convict.",
+    "tags": ["due-process-voluntariness", "due-process", "rule", "overborne-will"]
+  },
+  {
+    "id": "due-process-voluntariness-test-02",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "What is the federal test for whether a confession is voluntary under the Due Process Clause?",
+    "back": "The totality of the circumstances — weighing interrogation length, deprivation of sleep/food/contact, threats or promises, and the suspect's individual characteristics — asking whether the suspect's will was overborne.",
+    "tags": ["due-process-voluntariness", "totality", "test", "rule"]
+  },
+  {
+    "id": "due-process-voluntariness-totality-cloze-03",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "cloze",
+    "front": "Due-process voluntariness is judged by the {{c1::totality of the circumstances}}, not by any single dispositive factor.",
+    "back": "totality of the circumstances",
+    "tags": ["due-process-voluntariness", "totality", "rule"]
+  },
+  {
+    "id": "due-process-voluntariness-totality-factors-04",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Name the kinds of factors courts weigh in the totality-of-circumstances voluntariness inquiry.",
+    "back": "Interrogation duration; physical deprivation (sleep, food, contact); threats or promises; and the suspect's individual traits (age, intelligence, mental state).",
+    "tags": ["due-process-voluntariness", "totality", "factors"]
+  },
+  {
+    "id": "due-process-voluntariness-no-single-factor-05",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "In the due-process voluntariness inquiry, is any single factor dispositive?",
+    "back": "No. No one element controls; courts weigh interrogation duration, physical deprivation, threats/promises, and the suspect's age, intelligence, and mental state together.",
+    "tags": ["due-process-voluntariness", "totality", "doctrine"]
+  },
+  {
+    "id": "due-process-voluntariness-vs-miranda-06",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "How does the due-process voluntariness inquiry relate to Miranda — can a confession be voluntary yet inadmissible, or Miranda-compliant yet involuntary?",
+    "back": "Yes to both. They are separate inquiries: a confession can be voluntary but excluded for a Miranda defect, or Miranda-compliant but still involuntary under the Due Process Clause.",
+    "tags": ["due-process-voluntariness", "miranda", "distinction"]
+  },
+  {
+    "id": "due-process-voluntariness-pitfall-miranda-cure-07",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Common pitfall: do Miranda warnings cure an otherwise involuntary confession?",
+    "back": "No. A confession can clear Miranda yet still be suppressed as involuntary under the Due Process Clause; voluntariness is a separate, freestanding test.",
+    "tags": ["due-process-voluntariness", "miranda", "common-pitfall"]
+  },
+  {
+    "id": "due-process-voluntariness-distinct-doctrines-08",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Suppression of an involuntary confession under due process is independent of which other doctrines?",
+    "back": "It is distinct from Miranda waiver, the Sixth Amendment right to counsel, and the exclusionary-rule analyses tied to those doctrines.",
+    "tags": ["due-process-voluntariness", "distinction", "doctrine"]
+  },
+  {
+    "id": "due-process-voluntariness-brown-holding-09",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "What did Brown v. Mississippi (1936) hold about a confession extracted by physical torture?",
+    "back": "Such a confession is involuntary, and its use to convict violates Fourteenth Amendment due process.",
+    "tags": ["due-process-voluntariness", "brown-v-mississippi", "case-holding", "torture"],
+    "cite": "Brown v. Mississippi, 297 U.S. 278 (1936)",
+    "source": "https://www.courtlistener.com/opinion/102604/brown-v-mississippi/"
+  },
+  {
+    "id": "due-process-voluntariness-brown-significance-10",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Which case is the founding coerced-confession decision establishing that torture-extracted confessions violate due process?",
+    "back": "Brown v. Mississippi (1936) — the founding case of the due-process voluntariness line.",
+    "tags": ["due-process-voluntariness", "brown-v-mississippi", "significance"],
+    "cite": "Brown v. Mississippi, 297 U.S. 278 (1936)",
+    "source": "https://www.courtlistener.com/opinion/102604/brown-v-mississippi/"
+  },
+  {
+    "id": "due-process-voluntariness-chambers-holding-11",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "What did Chambers v. Florida (1940) hold about confessions wrung from helpless prisoners by prolonged, incommunicado interrogation?",
+    "back": "They were the product of compulsion, and using them to convict violates due process.",
+    "tags": ["due-process-voluntariness", "chambers-v-florida", "case-holding", "incommunicado"],
+    "cite": "Chambers v. Florida, 309 U.S. 227 (1940)",
+    "source": "https://www.courtlistener.com/opinion/103301/chambers-v-florida/"
+  },
+  {
+    "id": "due-process-voluntariness-chambers-quote-12",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Complete Chambers v. Florida's warning: permitting convictions on confessions so obtained \"would make of the constitutional requirement of due process of law ___.\"",
+    "back": "\"a meaningless symbol.\"",
+    "tags": ["due-process-voluntariness", "chambers-v-florida", "quote"],
+    "cite": "Chambers v. Florida, 309 U.S. 227, 240 (1940)",
+    "source": "https://www.courtlistener.com/opinion/103301/chambers-v-florida/"
+  },
+  {
+    "id": "due-process-voluntariness-chambers-significance-13",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "What broader point does Chambers v. Florida make about the stakes of admitting coerced confessions?",
+    "back": "The stakes are constitutional, not merely evidentiary — allowing such convictions would render the due-process requirement \"a meaningless symbol.\"",
+    "tags": ["due-process-voluntariness", "chambers-v-florida", "significance", "doctrine"],
+    "cite": "Chambers v. Florida, 309 U.S. 227, 240 (1940)",
+    "source": "https://www.courtlistener.com/opinion/103301/chambers-v-florida/"
+  },
+  {
+    "id": "due-process-voluntariness-ashcraft-holding-14",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "What did Ashcraft v. Tennessee (1944) hold about thirty-six hours of continuous relay questioning without sleep?",
+    "back": "It is inherently coercive, rendering the resulting confession involuntary under due process.",
+    "tags": ["due-process-voluntariness", "ashcraft-v-tennessee", "case-holding", "duration"],
+    "cite": "Ashcraft v. Tennessee, 322 U.S. 143 (1944)",
+    "source": "https://www.courtlistener.com/opinion/103981/ashcraft-v-tennessee/"
+  },
+  {
+    "id": "due-process-voluntariness-ashcraft-facts-15",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Which case found a confession involuntary because the suspect underwent thirty-six hours of continuous, relay interrogation without sleep?",
+    "back": "Ashcraft v. Tennessee (1944) — the questioning was \"inherently coercive.\"",
+    "tags": ["due-process-voluntariness", "ashcraft-v-tennessee", "facts-to-case"],
+    "cite": "Ashcraft v. Tennessee, 322 U.S. 143 (1944)",
+    "source": "https://www.courtlistener.com/opinion/103981/ashcraft-v-tennessee/"
+  },
+  {
+    "id": "due-process-voluntariness-spano-holding-16",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "What did Spano v. New York (1959) hold about a confession produced by psychological overbearing?",
+    "back": "A friend's feigned distress plus persistent overnight questioning overbore the suspect's will, making the confession involuntary.",
+    "tags": ["due-process-voluntariness", "spano-v-new-york", "case-holding", "psychological-pressure"],
+    "cite": "Spano v. New York, 360 U.S. 315 (1959)",
+    "source": "https://www.courtlistener.com/opinion/105917/spano-v-new-york/"
+  },
+  {
+    "id": "due-process-voluntariness-spano-facts-17",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Which case involved a friend's feigned distress and persistent overnight questioning that overbore the suspect's will?",
+    "back": "Spano v. New York (1959) — \"the petitioner's will was overborne.\"",
+    "tags": ["due-process-voluntariness", "spano-v-new-york", "facts-to-case"],
+    "cite": "Spano v. New York, 360 U.S. 315 (1959)",
+    "source": "https://www.courtlistener.com/opinion/105917/spano-v-new-york/"
+  },
+  {
+    "id": "due-process-voluntariness-spano-significance-18",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "What do Ashcraft and Spano together show about how a confession can be rendered involuntary?",
+    "back": "That sustained duration and psychological pressure can overbear the will even without physical force.",
+    "tags": ["due-process-voluntariness", "ashcraft-v-tennessee", "spano-v-new-york", "doctrine", "distinction"]
+  },
+  {
+    "id": "due-process-voluntariness-extreme-end-19",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Which two cases mark the extreme end of the coercion spectrum (torture and incommunicado compulsion)?",
+    "back": "Brown v. Mississippi (physical torture) and Chambers v. Florida (incommunicado compulsion).",
+    "tags": ["due-process-voluntariness", "brown-v-mississippi", "chambers-v-florida", "distinction"]
+  },
+  {
+    "id": "due-process-voluntariness-connelly-holding-20",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "What did Colorado v. Connelly (1986) hold about a mentally ill suspect whose internal compulsion (\"voices\") prompted his confession?",
+    "back": "Without coercive police activity, that internal compulsion does not make the confession involuntary for due-process purposes.",
+    "tags": ["due-process-voluntariness", "colorado-v-connelly", "case-holding", "police-coercion"],
+    "cite": "Colorado v. Connelly, 479 U.S. 157 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111779/colorado-v-connelly/"
+  },
+  {
+    "id": "due-process-voluntariness-connelly-quote-21",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Quote Colorado v. Connelly's rule on the predicate for an involuntary confession.",
+    "back": "\"[C]oercive police activity is a necessary predicate to the finding that a confession is not 'voluntary' within the meaning of the Due Process Clause of the Fourteenth Amendment.\"",
+    "tags": ["due-process-voluntariness", "colorado-v-connelly", "quote", "rule"],
+    "cite": "Colorado v. Connelly, 479 U.S. 157, 167 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111779/colorado-v-connelly/"
+  },
+  {
+    "id": "due-process-voluntariness-connelly-cloze-22",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "cloze",
+    "front": "Connelly: {{c1::coercive police activity}} is a necessary predicate to finding a confession involuntary under the Due Process Clause.",
+    "back": "coercive police activity",
+    "tags": ["due-process-voluntariness", "colorado-v-connelly", "police-coercion", "rule"],
+    "cite": "Colorado v. Connelly, 479 U.S. 157, 167 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111779/colorado-v-connelly/"
+  },
+  {
+    "id": "due-process-voluntariness-connelly-predicate-23",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "After Connelly, can a suspect's mental illness, intoxication, or internal compulsion alone make a statement involuntary?",
+    "back": "No. Absent police overreaching, such internal states do not make a statement involuntary, however unreliable it may be.",
+    "tags": ["due-process-voluntariness", "colorado-v-connelly", "police-coercion", "doctrine"],
+    "cite": "Colorado v. Connelly, 479 U.S. 157 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111779/colorado-v-connelly/"
+  },
+  {
+    "id": "due-process-voluntariness-pitfall-coercion-req-24",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Common pitfall: is any \"unreliable\" or \"compelled-feeling\" statement involuntary under due process?",
+    "back": "No. After Connelly, there is no due-process voluntariness problem without coercive police activity — the suspect's internal state alone is not enough.",
+    "tags": ["due-process-voluntariness", "colorado-v-connelly", "common-pitfall", "police-coercion"]
+  },
+  {
+    "id": "due-process-voluntariness-frazier-holding-25",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "What did Frazier v. Cupp (1969) hold about falsely telling a suspect that his codefendant had confessed?",
+    "back": "That misrepresentation did not, by itself, render the confession involuntary; deception is one factor in the totality, not per se coercion.",
+    "tags": ["due-process-voluntariness", "frazier-v-cupp", "case-holding", "deception"],
+    "cite": "Frazier v. Cupp, 394 U.S. 731, 739 (1969)",
+    "source": "https://www.courtlistener.com/opinion/107913/frazier-v-cupp/"
+  },
+  {
+    "id": "due-process-voluntariness-frazier-deception-26",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Under Frazier v. Cupp, is police deception during interrogation automatically coercive?",
+    "back": "No. Deception is weighed as one factor in the totality; it is not a per se rule rendering a confession involuntary.",
+    "tags": ["due-process-voluntariness", "frazier-v-cupp", "deception", "doctrine"],
+    "cite": "Frazier v. Cupp, 394 U.S. 731, 739 (1969)",
+    "source": "https://www.courtlistener.com/opinion/107913/frazier-v-cupp/"
+  },
+  {
+    "id": "due-process-voluntariness-pitfall-deception-27",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Common pitfall: do lawful interrogation tactics like a false claim that a codefendant confessed count as automatic coercion?",
+    "back": "No. Per Frazier, such deception is not per se coercive; it is weighed in the totality, though exaggerated fears of suppression can needlessly chill legitimate technique.",
+    "tags": ["due-process-voluntariness", "frazier-v-cupp", "common-pitfall", "deception"]
+  },
+  {
+    "id": "due-process-voluntariness-fulminante-holding-28",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Under Arizona v. Fulminante (1991), how is the erroneous admission of a coerced confession reviewed?",
+    "back": "It is \"trial error\" subject to harmless-error analysis under Chapman, not automatic reversal.",
+    "tags": ["due-process-voluntariness", "arizona-v-fulminante", "case-holding", "harmless-error"],
+    "cite": "Arizona v. Fulminante, 499 U.S. 279 (1991)",
+    "source": "https://www.courtlistener.com/opinion/112566/arizona-v-fulminante/"
+  },
+  {
+    "id": "due-process-voluntariness-fulminante-result-29",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "Although Fulminante made admission of a coerced confession harmless-error reviewable, what was the result on its own facts?",
+    "back": "The error was not harmless, and the conviction was reversed; the harmless-error rule affects remedy, not the underlying due-process violation.",
+    "tags": ["due-process-voluntariness", "arizona-v-fulminante", "harmless-error", "significance"],
+    "cite": "Arizona v. Fulminante, 499 U.S. 279 (1991)",
+    "source": "https://www.courtlistener.com/opinion/112566/arizona-v-fulminante/"
+  },
+  {
+    "id": "due-process-voluntariness-analytical-sequence-30",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "qa",
+    "front": "What is the two-step analytical sequence for a due-process voluntariness challenge?",
+    "back": "First, was there coercive police activity (Connelly)? If no, the confession is voluntary. If yes, did the totality of the circumstances overbear the suspect's will? If yes, it is involuntary and inadmissible.",
+    "tags": ["due-process-voluntariness", "analytical-sequence", "doctrine", "colorado-v-connelly"]
+  },
+  {
+    "id": "due-process-voluntariness-predicate-cloze-31",
+    "page": "due-process-voluntariness",
+    "topic": "Due-Process Voluntariness of Confessions",
+    "type": "cloze",
+    "front": "The coercion in a due-process voluntariness challenge must come from {{c1::police conduct}}; absent coercive state activity, a confession is not \"involuntary.\"",
+    "back": "police conduct",
+    "tags": ["due-process-voluntariness", "police-coercion", "rule"]
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "sixth-amendment-right-to-counsel-attachment-rule-01",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Under the Sixth Amendment, when does the right to counsel attach (per Kirby v. Illinois)?",
+    "back": "Only at or after the initiation of adversary judicial criminal proceedings — a formal charge, preliminary hearing, indictment, information, or arraignment. Not at arrest.",
+    "tags": ["sixth-amendment-right-to-counsel", "kirby", "attachment"],
+    "cite": "Kirby v. Illinois, 406 U.S. 682, 688-90 (1972) (plurality opinion)",
+    "source": "https://www.courtlistener.com/opinion/108554/kirby-v-illinois/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-kirby-lineup-02",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "In Kirby v. Illinois, is a pre-charge identification a critical stage requiring counsel?",
+    "back": "No. Because the Sixth Amendment right had not yet attached, a pre-charge (pre-indictment) identification is not a critical stage requiring counsel.",
+    "tags": ["sixth-amendment-right-to-counsel", "kirby", "critical-stage", "lineup"],
+    "cite": "Kirby v. Illinois, 406 U.S. 682, 688-90 (1972) (plurality opinion)",
+    "source": "https://www.courtlistener.com/opinion/108554/kirby-v-illinois/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-rothgery-initial-appearance-03",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "What event triggers attachment of the Sixth Amendment right to counsel per Rothgery v. Gillespie County?",
+    "back": "The accused's initial appearance before a magistrate — where he learns the charge and his liberty is restricted — marks attachment, even if no prosecutor is aware of or involved in it.",
+    "tags": ["sixth-amendment-right-to-counsel", "rothgery", "attachment", "initial-appearance"],
+    "cite": "Rothgery v. Gillespie County, 554 U.S. 191, 198, 213 (2008)",
+    "source": "https://www.courtlistener.com/opinion/145785/rothgery-v-gillespie-county/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-rothgery-no-prosecutor-04",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Does prosecutor involvement matter for attachment at the initial appearance (Rothgery v. Gillespie County)?",
+    "back": "No. The right attaches at the initial appearance before a magistrate even if no prosecutor is aware of or involved in that appearance.",
+    "tags": ["sixth-amendment-right-to-counsel", "rothgery", "attachment"],
+    "cite": "Rothgery v. Gillespie County, 554 U.S. 191, 198, 213 (2008)",
+    "source": "https://www.courtlistener.com/opinion/145785/rothgery-v-gillespie-county/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-massiah-rule-05",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "What is the Massiah deliberate-elicitation rule?",
+    "back": "After the Sixth Amendment right has attached, the government may not deliberately elicit incriminating statements from the accused in the absence of counsel — even surreptitiously and outside any custodial setting.",
+    "tags": ["sixth-amendment-right-to-counsel", "massiah", "deliberate-elicitation"],
+    "cite": "Massiah v. United States, 377 U.S. 201, 206 (1964)",
+    "source": "https://www.courtlistener.com/opinion/106822/massiah-v-united-states/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-massiah-quote-06",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Quote the operative holding language from Massiah v. United States.",
+    "back": "The petitioner \"was denied the basic protections of that guarantee when there was used against him at his trial evidence of his own incriminating words, which federal agents had deliberately elicited from him after he had been indicted and in the absence of his counsel.\"",
+    "tags": ["sixth-amendment-right-to-counsel", "massiah", "quote", "deliberate-elicitation"],
+    "cite": "Massiah v. United States, 377 U.S. at 206",
+    "source": "https://www.courtlistener.com/opinion/106822/massiah-v-united-states/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-massiah-noncustodial-07",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Must the suspect be in custody for a Massiah violation to occur?",
+    "back": "No. Massiah reaches surreptitious, non-custodial efforts to deliberately elicit statements after attachment — it does not require a custodial setting.",
+    "tags": ["sixth-amendment-right-to-counsel", "massiah", "deliberate-elicitation", "custody"],
+    "cite": "Massiah v. United States, 377 U.S. 201, 206 (1964)",
+    "source": "https://www.courtlistener.com/opinion/106822/massiah-v-united-states/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-elicitation-vs-interrogation-08",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "How does the Sixth Amendment Massiah trigger ('deliberate elicitation') differ from the Fifth Amendment Miranda trigger ('interrogation')?",
+    "back": "Massiah is broader: it reaches surreptitious, non-custodial efforts to draw out statements (e.g., covert informants), whereas Miranda's interrogation trigger requires custody and questioning or its functional equivalent.",
+    "tags": ["sixth-amendment-right-to-counsel", "massiah", "miranda", "distinction"],
+    "cite": "Massiah v. United States, 377 U.S. 201, 206 (1964)",
+    "source": "https://www.courtlistener.com/opinion/106822/massiah-v-united-states/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-brewer-facts-09",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "A detective's 'Christian burial speech' draws out incriminating statements from an arraigned defendant with no valid waiver — which case, and what doctrine does it apply?",
+    "back": "Brewer v. Williams — the speech deliberately elicited statements after the Sixth Amendment right had attached (post-arraignment) with no valid waiver, a Massiah violation.",
+    "tags": ["sixth-amendment-right-to-counsel", "brewer", "facts-to-case", "deliberate-elicitation"],
+    "cite": "Brewer v. Williams, 430 U.S. 387, 392-93, 399-400 (1977)",
+    "source": "https://www.courtlistener.com/opinion/109624/brewer-v-williams/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-brewer-holding-10",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "What did Brewer v. Williams hold about openly (non-covertly) eliciting statements after attachment?",
+    "back": "The 'Christian burial speech' was the functional equivalent of interrogation that deliberately elicited statements after attachment with no valid waiver — a Sixth Amendment (Massiah) violation, even though done openly rather than through an informant.",
+    "tags": ["sixth-amendment-right-to-counsel", "brewer", "deliberate-elicitation"],
+    "cite": "Brewer v. Williams, 430 U.S. 387, 392-93, 399-400 (1977)",
+    "source": "https://www.courtlistener.com/opinion/109624/brewer-v-williams/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-henry-holding-11",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "What did United States v. Henry hold about a paid jailhouse informant?",
+    "back": "By intentionally creating a situation likely to induce the indicted defendant to make incriminating statements, the government (through a paid informant posing as a fellow inmate) 'deliberately elicited' them in violation of the Sixth Amendment.",
+    "tags": ["sixth-amendment-right-to-counsel", "henry", "informant", "deliberate-elicitation"],
+    "cite": "United States v. Henry, 447 U.S. 264, 270-74 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110300/united-states-v-henry/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-moulton-holding-12",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "What did Maine v. Moulton hold about exploiting a meeting the defendant himself arranged?",
+    "back": "The Sixth Amendment is violated when the State knowingly exploits an opportunity to confront the charged accused without counsel — it makes no difference that the defendant, not the police, set up the meeting once the right has attached.",
+    "tags": ["sixth-amendment-right-to-counsel", "moulton", "informant", "deliberate-elicitation"],
+    "cite": "Maine v. Moulton, 474 U.S. 159 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111546/maine-v-moulton/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-kuhlmann-holding-13",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "What must an accused show to make out a Sixth Amendment violation by a jailhouse informant (Kuhlmann v. Wilson)?",
+    "back": "He must show the informant took some action, beyond merely listening, designed deliberately to elicit the statements. Merely showing the informant reported his statements is not enough.",
+    "tags": ["sixth-amendment-right-to-counsel", "kuhlmann", "informant", "listening-post"],
+    "cite": "Kuhlmann v. Wilson, 477 U.S. 436, 459 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111726/kuhlmann-v-wilson/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-kuhlmann-listening-post-14",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Is a purely passive 'listening post' informant a Sixth Amendment violation (Kuhlmann v. Wilson)?",
+    "back": "No. An informant who only listens and reports does not deliberately elicit statements, so a pure listening post is permissible.",
+    "tags": ["sixth-amendment-right-to-counsel", "kuhlmann", "informant", "listening-post"],
+    "cite": "Kuhlmann v. Wilson, 477 U.S. 436, 459 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111726/kuhlmann-v-wilson/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-informant-distinction-15",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Distinguish the active-informant cases (Henry/Moulton) from the passive-informant rule (Kuhlmann).",
+    "back": "Active inducement of statements violates the Sixth Amendment (Henry; Moulton — even when the defendant arranged the meeting). A purely passive informant who only listens and reports does not (Kuhlmann); the accused must show action beyond merely listening designed to elicit statements.",
+    "tags": ["sixth-amendment-right-to-counsel", "henry", "moulton", "kuhlmann", "distinction"],
+    "cite": "Kuhlmann v. Wilson, 477 U.S. 436, 459 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111726/kuhlmann-v-wilson/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-cobb-offense-specific-16",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "What did Texas v. Cobb hold about the scope of the Sixth Amendment right?",
+    "back": "The right is offense-specific: it attaches only to the charged offense and does not extend to other, uncharged offenses — even factually related ones.",
+    "tags": ["sixth-amendment-right-to-counsel", "cobb", "offense-specific"],
+    "cite": "Texas v. Cobb, 532 U.S. 162, 167-68, 173 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118417/texas-v-cobb/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-cobb-blockburger-17",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "How does Texas v. Cobb define what counts as the same 'offense' for offense-specificity?",
+    "back": "By the Blockburger same-elements test — two crimes are the same offense only if each does not require proof of a fact the other does not.",
+    "tags": ["sixth-amendment-right-to-counsel", "cobb", "offense-specific", "blockburger"],
+    "cite": "Texas v. Cobb, 532 U.S. 162, 167-68, 173 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118417/texas-v-cobb/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-cobb-application-18",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Under Texas v. Cobb, may officers question a charged defendant about a separate, uncharged crime?",
+    "back": "Yes. Attachment as to the charged offense does not bar questioning about other uncharged offenses, even closely related ones.",
+    "tags": ["sixth-amendment-right-to-counsel", "cobb", "offense-specific"],
+    "cite": "Texas v. Cobb, 532 U.S. 162, 167-68, 173 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118417/texas-v-cobb/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-patterson-waiver-19",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Can Miranda warnings supply a valid waiver of the Sixth Amendment counsel right (Patterson v. Illinois)?",
+    "back": "Yes. An accused may knowingly and intelligently waive the Sixth Amendment right to counsel for post-indictment questioning through the administration of Miranda warnings.",
+    "tags": ["sixth-amendment-right-to-counsel", "patterson", "waiver", "miranda"],
+    "cite": "Patterson v. Illinois, 487 U.S. 285 (1988)",
+    "source": "https://www.courtlistener.com/opinion/112127/patterson-v-illinois/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-patterson-quote-20",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Quote Patterson v. Illinois on when a Miranda-based waiver of the 6A right is knowing and intelligent.",
+    "back": "\"So long as the accused is made aware of the 'dangers and disadvantages of self-representation' during postindictment questioning, by use of the Miranda warnings, his waiver of his Sixth Amendment right to counsel at such questioning is 'knowing and intelligent.'\"",
+    "tags": ["sixth-amendment-right-to-counsel", "patterson", "waiver", "quote"],
+    "cite": "Patterson v. Illinois, 487 U.S. at 300",
+    "source": "https://www.courtlistener.com/opinion/112127/patterson-v-illinois/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-montejo-holding-21",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "What did Montejo v. Louisiana hold about waiving the 6A right after counsel has been appointed?",
+    "back": "A defendant may validly waive his Sixth Amendment right to counsel during police-initiated interrogation even after counsel has been appointed.",
+    "tags": ["sixth-amendment-right-to-counsel", "montejo", "waiver"],
+    "cite": "Montejo v. Louisiana, 556 U.S. 778, 797 (2009)",
+    "source": "https://www.courtlistener.com/opinion/145873/montejo-v-louisiana/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-montejo-overrules-jackson-22",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Which prior precedent did Montejo v. Louisiana overrule, and what was that defunct rule?",
+    "back": "Montejo overruled Michigan v. Jackson, whose rule — that a post-appointment, police-initiated waiver is presumptively invalid — is no longer law and should be presented only as history.",
+    "tags": ["sixth-amendment-right-to-counsel", "montejo", "michigan-v-jackson", "overruled", "history"],
+    "cite": "Montejo v. Louisiana, 556 U.S. 778, 797 (2009)",
+    "source": "https://www.courtlistener.com/opinion/145873/montejo-v-louisiana/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-jackson-history-23",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Is the Michigan v. Jackson presumption that a post-appointment, police-initiated waiver is invalid still good law?",
+    "back": "No. It is defunct — Montejo v. Louisiana expressly overruled it. Present it only as history, never as current doctrine.",
+    "tags": ["sixth-amendment-right-to-counsel", "michigan-v-jackson", "montejo", "overruled", "history"],
+    "cite": "Montejo v. Louisiana, 556 U.S. 778, 797 (2009)",
+    "source": "https://www.courtlistener.com/opinion/145873/montejo-v-louisiana/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-5a-vs-6a-distinction-24",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Distinguish the Fifth Amendment Miranda-counsel right from the Sixth Amendment right to counsel on their triggers.",
+    "back": "The 5A Miranda-counsel right is triggered by custodial interrogation; the 6A right is triggered by the initiation of adversary judicial proceedings (charging/initial appearance). They are distinct guarantees with different triggers and scope.",
+    "tags": ["sixth-amendment-right-to-counsel", "miranda", "distinction", "fifth-amendment"]
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-invocation-distinction-25",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Is a Fifth Amendment Miranda invocation the same as invoking the Sixth Amendment right to counsel?",
+    "back": "No. A Miranda invocation is not a 6A invocation, and vice versa — they are separate rights with different triggers and scope.",
+    "tags": ["sixth-amendment-right-to-counsel", "miranda", "invocation", "distinction"]
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-pitfall-arrest-26",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Common pitfall: does the Sixth Amendment right to counsel attach at arrest?",
+    "back": "No. It attaches at charging/initial appearance (Kirby, Rothgery), not at arrest. Pre-charge investigation is governed by Miranda and due-process voluntariness, not the 6A.",
+    "tags": ["sixth-amendment-right-to-counsel", "pitfall", "attachment", "kirby", "rothgery"]
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-pitfall-offense-specific-27",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Common pitfall: once a suspect is charged with one crime, can officers question him about anything?",
+    "back": "No — but they can question him about uncharged offenses. The 6A right is offense-specific (Cobb): it bars deliberate elicitation only as to the charged offense, not other uncharged crimes.",
+    "tags": ["sixth-amendment-right-to-counsel", "pitfall", "cobb", "offense-specific"]
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-pitfall-passive-informant-28",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Common pitfall: is a passive jailhouse informant automatically a Sixth Amendment violation?",
+    "back": "No. Mere listening is not deliberate elicitation (Kuhlmann); the violation lies in inducing the statements (Henry/Moulton).",
+    "tags": ["sixth-amendment-right-to-counsel", "pitfall", "kuhlmann", "informant", "listening-post"]
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-cloze-attachment-29",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "cloze",
+    "front": "The Sixth Amendment right to counsel attaches at the initiation of {{c1::adversary judicial criminal proceedings}}, not at {{c2::arrest}}.",
+    "back": "Attaches at the initiation of adversary judicial criminal proceedings; not at arrest. (Kirby; Rothgery)",
+    "tags": ["sixth-amendment-right-to-counsel", "cloze", "attachment", "kirby", "rothgery"]
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-cloze-elicitation-30",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "cloze",
+    "front": "After attachment, the government may not {{c1::deliberately elicit}} incriminating statements from the accused without counsel (Massiah).",
+    "back": "deliberately elicit — the Massiah trigger, broader than Miranda's 'interrogation.'",
+    "tags": ["sixth-amendment-right-to-counsel", "cloze", "massiah", "deliberate-elicitation"],
+    "cite": "Massiah v. United States, 377 U.S. 201, 206 (1964)",
+    "source": "https://www.courtlistener.com/opinion/106822/massiah-v-united-states/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-def-deliberate-elicitation-31",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "definition",
+    "front": "Define 'deliberate elicitation' as the Sixth Amendment Massiah trigger.",
+    "back": "The government's intentional efforts to draw out incriminating statements from a charged accused without counsel — whether openly (Brewer) or covertly through informants (Massiah, Henry, Moulton). It is broader than Miranda interrogation and does not require custody.",
+    "tags": ["sixth-amendment-right-to-counsel", "definition", "massiah", "deliberate-elicitation"]
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-def-offense-specific-32",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "definition",
+    "front": "Define the 'offense-specific' nature of the Sixth Amendment right to counsel (Cobb).",
+    "back": "The right covers only the charged offense — defined by the Blockburger same-elements test — and does not extend to other uncharged offenses, even factually related ones.",
+    "tags": ["sixth-amendment-right-to-counsel", "definition", "cobb", "offense-specific", "blockburger"],
+    "cite": "Texas v. Cobb, 532 U.S. 162, 167-68, 173 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118417/texas-v-cobb/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-massiah-significance-33",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Why does Massiah v. United States matter — what doctrine does it anchor?",
+    "back": "It anchors the Sixth Amendment deliberate-elicitation rule: after attachment, the government cannot draw out incriminating statements without counsel, even covertly and outside custody — a broader protection than Miranda.",
+    "tags": ["sixth-amendment-right-to-counsel", "massiah", "significance", "deliberate-elicitation"],
+    "cite": "Massiah v. United States, 377 U.S. 201, 206 (1964)",
+    "source": "https://www.courtlistener.com/opinion/106822/massiah-v-united-states/"
+  },
+  {
+    "id": "sixth-amendment-right-to-counsel-lineup-distinction-34",
+    "page": "sixth-amendment-right-to-counsel",
+    "topic": "Sixth Amendment Right to Counsel",
+    "type": "qa",
+    "front": "Distinguish a post-charge lineup from a pre-charge lineup for Sixth Amendment counsel purposes (Kirby).",
+    "back": "A post-charge lineup is a critical stage requiring counsel; a pre-charge lineup is not, because the 6A right has not yet attached (Kirby).",
+    "tags": ["sixth-amendment-right-to-counsel", "kirby", "distinction", "critical-stage", "lineup"],
+    "cite": "Kirby v. Illinois, 406 U.S. 682, 688-90 (1972) (plurality opinion)",
+    "source": "https://www.courtlistener.com/opinion/108554/kirby-v-illinois/"
+  }
+]

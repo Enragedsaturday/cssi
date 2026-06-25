@@ -1,0 +1,318 @@
+[
+  {
+    "id": "exigent-circumstances-core-rule-01",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "What is the core exigent-circumstances exception to the warrant requirement?",
+    "back": "Police may enter and search without a warrant when the exigencies of the situation make obtaining one impracticable.",
+    "tags": ["exigent-circumstances", "warden-v-hayden", "warrant-exception", "doctrine"],
+    "cite": "Warden v. Hayden, 387 U.S. 294, 298-99 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107465/warden-maryland-penitentiary-v-hayden/"
+  },
+  {
+    "id": "exigent-circumstances-three-exigencies-02",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "What are the three recognized categories of exigent circumstances?",
+    "back": "(1) Hot pursuit of a fleeing suspect; (2) the imminent destruction of evidence; (3) a risk to life or safety (the last shading into emergency aid).",
+    "tags": ["exigent-circumstances", "doctrine", "categories"]
+  },
+  {
+    "id": "exigent-circumstances-totality-03",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "How is the existence of an exigency judged, and what overarching limits apply?",
+    "back": "The exigency must be genuine and is judged on the totality of the circumstances; the gravity of the underlying offense matters; and police may not manufacture the exigency by threatening to violate the Fourth Amendment.",
+    "tags": ["exigent-circumstances", "doctrine", "totality"]
+  },
+  {
+    "id": "exigent-circumstances-hayden-holding-04",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "What did Warden v. Hayden (1967) hold about hot pursuit of a fleeing armed robber into a house?",
+    "back": "A warrantless entry and search of the house is valid where the exigencies of the situation made that course imperative.",
+    "tags": ["exigent-circumstances", "warden-v-hayden", "hot-pursuit", "holding"],
+    "cite": "Warden v. Hayden, 387 U.S. 294, 298-99 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107465/warden-maryland-penitentiary-v-hayden/"
+  },
+  {
+    "id": "exigent-circumstances-hayden-facts-05",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "Which case recognized hot pursuit as an exigency when officers chased a fleeing armed robber into a house minutes after the crime?",
+    "back": "Warden v. Hayden (1967).",
+    "tags": ["exigent-circumstances", "warden-v-hayden", "hot-pursuit", "facts-to-case"],
+    "cite": "Warden v. Hayden, 387 U.S. 294, 298-99 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107465/warden-maryland-penitentiary-v-hayden/"
+  },
+  {
+    "id": "exigent-circumstances-santana-holding-06",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "Under United States v. Santana (1976), can a suspect standing in her own doorway defeat a public arrest by retreating inside?",
+    "back": "No — a suspect in her doorway is in a public place and cannot defeat a public arrest by retreating inside; hot pursuit justifies the warrantless entry that follows.",
+    "tags": ["exigent-circumstances", "united-states-v-santana", "hot-pursuit", "holding"],
+    "cite": "United States v. Santana, 427 U.S. 38 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109504/united-states-v-santana/"
+  },
+  {
+    "id": "exigent-circumstances-santana-quote-07",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "cloze",
+    "front": "Santana (1976): \"a suspect may not defeat an arrest which has been set in motion in a {{c1::public place}} ... by the expedient of {{c2::escaping to a private place}}.\"",
+    "back": "public place / escaping to a private place.",
+    "tags": ["exigent-circumstances", "united-states-v-santana", "hot-pursuit", "quote"],
+    "cite": "United States v. Santana, 427 U.S. at 43",
+    "source": "https://www.courtlistener.com/opinion/109504/united-states-v-santana/"
+  },
+  {
+    "id": "exigent-circumstances-santana-duration-08",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "In Santana (1976), did the brevity of the chase defeat the hot-pursuit justification?",
+    "back": "No — \"[t]he fact that the pursuit here ended almost as soon as it began did not render it any the less a 'hot pursuit'\" sufficient to justify the warrantless entry.",
+    "tags": ["exigent-circumstances", "united-states-v-santana", "hot-pursuit", "nuance"],
+    "cite": "United States v. Santana, 427 U.S. at 43",
+    "source": "https://www.courtlistener.com/opinion/109504/united-states-v-santana/"
+  },
+  {
+    "id": "exigent-circumstances-welsh-holding-09",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "What did Welsh v. Wisconsin (1984) hold about the gravity of the offense in the exigency analysis?",
+    "back": "The gravity of the underlying offense is a key factor; warrantless home entry for a minor, nonjailable offense should rarely be sanctioned.",
+    "tags": ["exigent-circumstances", "welsh-v-wisconsin", "gravity-of-offense", "holding"],
+    "cite": "Welsh v. Wisconsin, 466 U.S. 740 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111173/welsh-v-wisconsin/"
+  },
+  {
+    "id": "exigent-circumstances-welsh-gravity-quote-10",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "How does Welsh v. Wisconsin (1984) describe the role of the offense's gravity in deciding whether an exigency exists?",
+    "back": "\"[A]n important factor to be considered when determining whether any exigency exists is the gravity of the underlying offense for which the arrest is being made.\"",
+    "tags": ["exigent-circumstances", "welsh-v-wisconsin", "gravity-of-offense", "quote"],
+    "cite": "Welsh v. Wisconsin, 466 U.S. at 753",
+    "source": "https://www.courtlistener.com/opinion/111173/welsh-v-wisconsin/"
+  },
+  {
+    "id": "exigent-circumstances-welsh-rarely-quote-11",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "cloze",
+    "front": "Welsh (1984): application of the exigent-circumstances exception to a home entry \"should {{c1::rarely be sanctioned}} when there is probable cause to believe that only a {{c2::minor offense}} ... has been committed.\"",
+    "back": "rarely be sanctioned / minor offense.",
+    "tags": ["exigent-circumstances", "welsh-v-wisconsin", "gravity-of-offense", "quote"],
+    "cite": "Welsh v. Wisconsin, 466 U.S. at 753",
+    "source": "https://www.courtlistener.com/opinion/111173/welsh-v-wisconsin/"
+  },
+  {
+    "id": "exigent-circumstances-lange-holding-12",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "What is the controlling rule on misdemeanor flight after Lange v. California (2021)?",
+    "back": "Pursuit of a fleeing misdemeanor suspect does not categorically justify warrantless home entry; courts make a case-by-case exigency assessment.",
+    "tags": ["exigent-circumstances", "lange-v-california", "misdemeanor-flight", "holding"],
+    "cite": "Lange v. California, 594 U.S. 295 (2021)",
+    "source": "https://www.courtlistener.com/opinion/4894407/lange-v-california/"
+  },
+  {
+    "id": "exigent-circumstances-lange-quote-13",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "cloze",
+    "front": "Lange (2021): \"pursuit of a fleeing misdemeanor suspect does not always—that is, {{c1::categorically}}—justify a {{c2::warrantless entry into a home}}.\"",
+    "back": "categorically / warrantless entry into a home.",
+    "tags": ["exigent-circumstances", "lange-v-california", "misdemeanor-flight", "quote"],
+    "cite": "Lange v. California, 594 U.S. at 297-98",
+    "source": "https://www.courtlistener.com/opinion/4894407/lange-v-california/"
+  },
+  {
+    "id": "exigent-circumstances-lange-assessment-14",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "Under Lange v. California (2021), what must officers do before treating a misdemeanant's flight as justifying a warrantless home entry?",
+    "back": "Make a \"case-by-case assessment of exigency\" — flight alone is not enough; an actual exigency (escape, evidence loss, harm) must be present.",
+    "tags": ["exigent-circumstances", "lange-v-california", "misdemeanor-flight", "rule"],
+    "cite": "Lange v. California, 594 U.S. at 298",
+    "source": "https://www.courtlistener.com/opinion/4894407/lange-v-california/"
+  },
+  {
+    "id": "exigent-circumstances-welsh-lange-distinction-15",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "How do Welsh and Lange together limit warrantless home entry for minor-offense flight?",
+    "back": "Welsh makes the gravity of the offense a key factor (rarely sanctioned for minor offenses); Lange adds that misdemeanor flight is never categorically exigent — officers must articulate a specific, case-by-case exigency.",
+    "tags": ["exigent-circumstances", "welsh-v-wisconsin", "lange-v-california", "distinction"]
+  },
+  {
+    "id": "exigent-circumstances-king-holding-16",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "What is the Kentucky v. King (2011) limit on police-created exigency?",
+    "back": "Police may rely on an exigency they created unless they created it by engaging or threatening to engage in conduct that itself violates the Fourth Amendment.",
+    "tags": ["exigent-circumstances", "kentucky-v-king", "police-created-exigency", "holding"],
+    "cite": "Kentucky v. King, 563 U.S. 452 (2011)",
+    "source": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/"
+  },
+  {
+    "id": "exigent-circumstances-king-quote-17",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "cloze",
+    "front": "King (2011): \"The exigent circumstances rule applies when the police do not create the exigency by engaging or threatening to engage in conduct that {{c1::violates the Fourth Amendment}}.\"",
+    "back": "violates the Fourth Amendment.",
+    "tags": ["exigent-circumstances", "kentucky-v-king", "police-created-exigency", "quote"],
+    "cite": "Kentucky v. King, 563 U.S. at 462",
+    "source": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/"
+  },
+  {
+    "id": "exigent-circumstances-king-knock-18",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "Under Kentucky v. King (2011), does lawfully knocking and announcing at a door count as police creating the exigency?",
+    "back": "No — lawful knock-and-announce is permissible; only conduct that itself violates the Fourth Amendment (e.g., threatening an imminent unlawful entry) bars reliance on the resulting exigency.",
+    "tags": ["exigent-circumstances", "kentucky-v-king", "knock-and-talk", "nuance"],
+    "cite": "Kentucky v. King, 563 U.S. at 462",
+    "source": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/"
+  },
+  {
+    "id": "exigent-circumstances-mcneely-holding-19",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "Does Missouri v. McNeely (2013) make BAC dissipation a per se exigency for a warrantless DUI blood draw?",
+    "back": "No — the natural metabolization of alcohol is not a per se exigency; warrantless DUI blood draws are decided case-by-case on the totality of the circumstances.",
+    "tags": ["exigent-circumstances", "missouri-v-mcneely", "evidence-destruction", "holding"],
+    "cite": "Missouri v. McNeely, 569 U.S. 141, 145, 156 (2013)",
+    "source": "https://www.courtlistener.com/opinion/858288/missouri-v-mcneely/"
+  },
+  {
+    "id": "exigent-circumstances-mcneely-facts-20",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "Which case rejected a per se rule that the natural metabolization of alcohol always creates an exigency for a warrantless DUI blood draw?",
+    "back": "Missouri v. McNeely (2013).",
+    "tags": ["exigent-circumstances", "missouri-v-mcneely", "evidence-destruction", "facts-to-case"],
+    "cite": "Missouri v. McNeely, 569 U.S. 141, 145, 156 (2013)",
+    "source": "https://www.courtlistener.com/opinion/858288/missouri-v-mcneely/"
+  },
+  {
+    "id": "exigent-circumstances-mitchell-holding-21",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "What did the Mitchell v. Wisconsin (2019) plurality hold about an unconscious DUI driver?",
+    "back": "Where a DUI driver's unconsciousness forces hospitalization before a breath test can be given, police may almost always order a warrantless blood draw under the exigency exception.",
+    "tags": ["exigent-circumstances", "mitchell-v-wisconsin", "evidence-destruction", "holding"],
+    "cite": "Mitchell v. Wisconsin, 588 U.S. 840 (2019) (plurality op.)",
+    "source": "https://www.courtlistener.com/opinion/9231242/mitchell-v-wisconsin/"
+  },
+  {
+    "id": "exigent-circumstances-mitchell-rebuttal-22",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "Is the Mitchell v. Wisconsin (2019) unconscious-driver rule absolute?",
+    "back": "No — the plurality allows the defendant to rebut by showing that a blood draw was not necessary to address the case's exigency.",
+    "tags": ["exigent-circumstances", "mitchell-v-wisconsin", "evidence-destruction", "nuance"],
+    "cite": "Mitchell v. Wisconsin, 588 U.S. 840 (2019) (plurality op.)",
+    "source": "https://www.courtlistener.com/opinion/9231242/mitchell-v-wisconsin/"
+  },
+  {
+    "id": "exigent-circumstances-mcneely-mitchell-distinction-23",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "How do McNeely and Mitchell differ on warrantless DUI blood draws?",
+    "back": "McNeely forecloses a per se exigency from alcohol dissipation and requires a totality analysis; Mitchell carves out the unconscious-driver scenario, where a warrantless blood draw is almost always permissible.",
+    "tags": ["exigent-circumstances", "missouri-v-mcneely", "mitchell-v-wisconsin", "distinction"]
+  },
+  {
+    "id": "exigent-circumstances-brigham-holding-24",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "What did Brigham City v. Stuart (2006) hold about the emergency-aid entry into a home?",
+    "back": "Police may enter a home without a warrant on an objectively reasonable basis to believe an occupant is seriously injured or imminently threatened.",
+    "tags": ["exigent-circumstances", "brigham-city-v-stuart", "emergency-aid", "holding"],
+    "cite": "Brigham City v. Stuart, 547 U.S. 398 (2006)",
+    "source": "https://www.courtlistener.com/opinion/145654/brigham-city-v-stuart/"
+  },
+  {
+    "id": "exigent-circumstances-brigham-quote-25",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "cloze",
+    "front": "Brigham City (2006): police may enter a home without a warrant when they have an \"{{c1::objectively reasonable basis}}\" for believing an occupant is \"seriously injured or {{c2::imminently threatened}} with such injury.\"",
+    "back": "objectively reasonable basis / imminently threatened.",
+    "tags": ["exigent-circumstances", "brigham-city-v-stuart", "emergency-aid", "quote"],
+    "cite": "Brigham City v. Stuart, 547 U.S. at 400",
+    "source": "https://www.courtlistener.com/opinion/145654/brigham-city-v-stuart/"
+  },
+  {
+    "id": "exigent-circumstances-brigham-subjective-26",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "Under Brigham City v. Stuart (2006), does the officer's subjective motive matter to the emergency-aid entry?",
+    "back": "No — \"[t]he officer's subjective motivation is irrelevant\"; the test is the objectively reasonable basis to believe an occupant is seriously injured or imminently threatened.",
+    "tags": ["exigent-circumstances", "brigham-city-v-stuart", "emergency-aid", "nuance"],
+    "cite": "Brigham City v. Stuart, 547 U.S. at 404",
+    "source": "https://www.courtlistener.com/opinion/145654/brigham-city-v-stuart/"
+  },
+  {
+    "id": "exigent-circumstances-pitfall-flight-27",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "Common pitfall: why is treating any fleeing suspect as automatic grounds for warrantless entry wrong?",
+    "back": "After Lange and Welsh, flight — especially for a minor or misdemeanor offense — does not by itself open the door; the officer must articulate the specific exigency.",
+    "tags": ["exigent-circumstances", "lange-v-california", "welsh-v-wisconsin", "pitfall"]
+  },
+  {
+    "id": "exigent-circumstances-pitfall-manufacture-28",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "Common pitfall: how can officers improperly manufacture an exigency under Kentucky v. King?",
+    "back": "By threatening to breach the Fourth Amendment — e.g., announcing an imminent unlawful entry to provoke evidence destruction; such a self-created exigency cannot justify the entry (lawful knock-and-announce is fine).",
+    "tags": ["exigent-circumstances", "kentucky-v-king", "police-created-exigency", "pitfall"],
+    "cite": "Kentucky v. King, 563 U.S. 452 (2011)",
+    "source": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/"
+  },
+  {
+    "id": "exigent-circumstances-pitfall-dissipation-29",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "Common pitfall: why is a reflexive \"the alcohol is leaving the blood\" justification insufficient for a warrantless DUI blood draw?",
+    "back": "McNeely forecloses dissipation alone as exigent — officers must build the totality; the near-automatic rule is confined to Mitchell's unconscious-driver facts.",
+    "tags": ["exigent-circumstances", "missouri-v-mcneely", "mitchell-v-wisconsin", "pitfall"]
+  },
+  {
+    "id": "exigent-circumstances-king-threshold-step-30",
+    "page": "exigent-circumstances",
+    "topic": "Exigent Circumstances and Hot Pursuit",
+    "type": "qa",
+    "front": "In the exigency analysis, what threshold question must be cleared before reaching the type of exigency (hot pursuit, evidence destruction, life/safety)?",
+    "back": "Whether the exigency is genuine and not police-created in violation of the Fourth Amendment — if it is barred under King, the entry fails before any category is reached.",
+    "tags": ["exigent-circumstances", "kentucky-v-king", "doctrine", "analytical-sequence"]
+  }
+]

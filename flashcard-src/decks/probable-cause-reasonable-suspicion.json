@@ -1,0 +1,329 @@
+[
+  {
+    "id": "probable-cause-reasonable-suspicion-ladder-01",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What are the three rungs of the Fourth Amendment \"ladder\" of proof, from lowest to highest?",
+    "back": "A bare hunch (authorizes nothing); reasonable, articulable suspicion (authorizes a brief stop and frisk); probable cause (authorizes an arrest, full search, or warrant). The quantum required climbs with the intrusion.",
+    "tags": ["probable-cause-reasonable-suspicion", "ladder", "doctrine", "quantum-of-proof"]
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-pc-definition-02",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "definition",
+    "front": "Define probable cause (the quantum required for an arrest, full search, or warrant).",
+    "back": "Probable cause exists when the known facts give a fair probability that a crime has occurred or that evidence will be found in a particular place — measured by the totality of the circumstances through the eyes of a reasonable, experienced officer.",
+    "tags": ["probable-cause-reasonable-suspicion", "probable-cause", "definition", "fair-probability"]
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-rs-definition-03",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "definition",
+    "front": "Define reasonable, articulable suspicion and state what it authorizes.",
+    "back": "Specific facts and rational inferences pointing to criminal activity — more than a hunch but well short of probable cause. It authorizes only a brief investigative stop and protective frisk, not an arrest or full search.",
+    "tags": ["probable-cause-reasonable-suspicion", "reasonable-suspicion", "definition"]
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-totality-04",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "By what overall measure are both probable cause and reasonable suspicion judged?",
+    "back": "The totality of the circumstances, viewed through the eyes of a reasonable, experienced officer. Neither standard reduces to a fixed number.",
+    "tags": ["probable-cause-reasonable-suspicion", "totality", "doctrine"]
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-brinegar-holding-05",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "How does Brinegar v. United States (1949) frame probable cause?",
+    "back": "As practical, non-technical probabilities on which reasonable and prudent people act — not technical certainty.",
+    "tags": ["probable-cause-reasonable-suspicion", "brinegar", "probable-cause", "case-holding"],
+    "cite": "Brinegar v. United States, 338 U.S. 160, 175 (1949)",
+    "source": "https://www.courtlistener.com/opinion/104716/brinegar-v-united-states/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-terry-holding-06",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What did Terry v. Ohio (1968) hold is the minimum required for a brief investigative stop and protective frisk?",
+    "back": "Reasonable, articulable suspicion grounded in specific facts and rational inferences — not an officer's inchoate, unparticularized suspicion or hunch.",
+    "tags": ["probable-cause-reasonable-suspicion", "terry", "reasonable-suspicion", "case-holding"],
+    "cite": "Terry v. Ohio, 392 U.S. 1 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-terry-quote-07",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "cloze",
+    "front": "Fill in Terry v. Ohio: due weight must be given, not to the officer's {{inchoate and unparticularized suspicion or \"hunch\"}}, but to the specific reasonable inferences he is entitled to draw from the facts in light of his experience.",
+    "back": "inchoate and unparticularized suspicion or \"hunch\"",
+    "tags": ["probable-cause-reasonable-suspicion", "terry", "reasonable-suspicion", "quote"],
+    "cite": "Terry v. Ohio, 392 U.S. 1, 27 (1968)",
+    "source": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-gates-holding-08",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What standard for probable cause from an informant's tip did Illinois v. Gates (1983) adopt?",
+    "back": "The totality of the circumstances — a practical, common-sense \"fair probability\" inquiry. An informant's veracity, reliability, and basis of knowledge are relevant factors, but not independent, dispositive hurdles.",
+    "tags": ["probable-cause-reasonable-suspicion", "gates", "probable-cause", "totality", "case-holding"],
+    "cite": "Illinois v. Gates, 462 U.S. 213 (1983)",
+    "source": "https://www.courtlistener.com/opinion/110959/illinois-v-gates/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-gates-quote-09",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Per Illinois v. Gates, what is the task of the issuing magistrate (quote the standard)?",
+    "back": "\"To make a practical, common-sense decision whether, given all the circumstances set forth in the affidavit before him, including the 'veracity' and 'basis of knowledge' of persons supplying hearsay information, there is a fair probability that contraband or evidence of a crime will be found in a particular place.\"",
+    "tags": ["probable-cause-reasonable-suspicion", "gates", "probable-cause", "quote", "test"],
+    "cite": "Illinois v. Gates, 462 U.S. 213, 238 (1983)",
+    "source": "https://www.courtlistener.com/opinion/110959/illinois-v-gates/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-aguilar-history-10",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What was the Aguilar-Spinelli two-prong test, and is it still good law?",
+    "back": "HISTORY — superseded. It required an informant's affidavit to show (1) the informant's basis of knowledge and (2) his veracity/reliability as independent hurdles. Illinois v. Gates (1983) abandoned this rigid two-prong test in favor of totality of the circumstances.",
+    "tags": ["probable-cause-reasonable-suspicion", "aguilar-spinelli", "history", "abrogated", "probable-cause"],
+    "cite": "Aguilar v. Texas, 378 U.S. 108 (1964)",
+    "source": "https://www.courtlistener.com/opinion/106865/aguilar-v-texas/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-gates-vs-aguilar-11",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Distinction: How did the informant-tip analysis change from Aguilar-Spinelli to Illinois v. Gates?",
+    "back": "Under Aguilar-Spinelli, veracity and basis of knowledge were two independent prongs that each had to be satisfied. Under Gates, they survive only as relevant factors within a single totality-of-the-circumstances \"fair probability\" inquiry — a deficiency in one can be offset by a strong showing on the other.",
+    "tags": ["probable-cause-reasonable-suspicion", "gates", "aguilar-spinelli", "distinction", "probable-cause"],
+    "cite": "Illinois v. Gates, 462 U.S. 213, 238 (1983)",
+    "source": "https://www.courtlistener.com/opinion/110959/illinois-v-gates/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-white-holding-12",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What did Alabama v. White (1990) hold about anonymous tips and reasonable suspicion?",
+    "back": "An anonymous tip can supply reasonable suspicion when police corroborate it — especially by verifying the tipster's accurate prediction of future conduct, which shows inside knowledge.",
+    "tags": ["probable-cause-reasonable-suspicion", "alabama-white", "reasonable-suspicion", "anonymous-tip", "case-holding"],
+    "cite": "Alabama v. White, 496 U.S. 325, 332 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112454/alabama-v-white/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-jl-holding-13",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What did Florida v. J.L. (2000) hold about a bare anonymous tip that a person is carrying a gun?",
+    "back": "Without more, it is NOT reasonable suspicion for a stop and frisk. An accurate description of a person's readily observable location and appearance does not show knowledge of concealed criminal activity.",
+    "tags": ["probable-cause-reasonable-suspicion", "florida-jl", "reasonable-suspicion", "anonymous-tip", "case-holding"],
+    "cite": "Florida v. J.L., 529 U.S. 266, 272 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118352/florida-v-jl/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-white-vs-jl-14",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Distinction: Why does an anonymous tip support reasonable suspicion in Alabama v. White but not in Florida v. J.L.?",
+    "back": "In White the tip was corroborated by an accurate prediction of future conduct, showing inside knowledge. In J.L. the tip described only readily observable facts (location and appearance) and predicted nothing, so it did not show knowledge of concealed criminal activity.",
+    "tags": ["probable-cause-reasonable-suspicion", "alabama-white", "florida-jl", "distinction", "anonymous-tip"],
+    "cite": "Florida v. J.L., 529 U.S. 266, 272 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118352/florida-v-jl/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-navarette-holding-15",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What did Navarette v. California (2014) hold about a 911 call reporting dangerous driving?",
+    "back": "It can supply reasonable suspicion for a stop when it bears adequate indicia of reliability — an eyewitness, contemporaneous report made on a recorded/traceable 911 system.",
+    "tags": ["probable-cause-reasonable-suspicion", "navarette", "reasonable-suspicion", "anonymous-tip", "case-holding"],
+    "cite": "Navarette v. California, 572 U.S. 393, 398-99 (2014)",
+    "source": "https://www.courtlistener.com/opinion/2670795/prado-navarette-v-california/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-navarette-indicia-16",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "In Navarette v. California, what features made the 911 tip reliable enough to support reasonable suspicion?",
+    "back": "The caller claimed eyewitness knowledge, made the report contemporaneously with the dangerous driving, and used the recorded, traceable 911 system (which deters false reports).",
+    "tags": ["probable-cause-reasonable-suspicion", "navarette", "reasonable-suspicion", "anonymous-tip"],
+    "cite": "Navarette v. California, 572 U.S. 393, 398-99 (2014)",
+    "source": "https://www.courtlistener.com/opinion/2670795/prado-navarette-v-california/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-wardlow-holding-17",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What did Illinois v. Wardlow (2000) hold can furnish reasonable suspicion for a Terry stop?",
+    "back": "Unprovoked, headlong flight upon noticing police, combined with presence in a high-crime area, can furnish reasonable suspicion.",
+    "tags": ["probable-cause-reasonable-suspicion", "wardlow", "reasonable-suspicion", "case-holding"],
+    "cite": "Illinois v. Wardlow, 528 U.S. 119, 124 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118326/illinois-v-wardlow/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-wardlow-facts-18",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Facts-to-case: A suspect in a high-crime area takes unprovoked, headlong flight the moment he notices police. Which case holds this can furnish reasonable suspicion for a Terry stop?",
+    "back": "Illinois v. Wardlow (2000).",
+    "tags": ["probable-cause-reasonable-suspicion", "wardlow", "reasonable-suspicion", "facts-to-case"],
+    "cite": "Illinois v. Wardlow, 528 U.S. 119, 124 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118326/illinois-v-wardlow/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-arvizu-holding-19",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What did United States v. Arvizu (2002) hold about how reasonable suspicion is evaluated?",
+    "back": "It is judged on the totality of the circumstances — the \"whole picture.\" Reviewing courts may NOT use a \"divide-and-conquer\" analysis that evaluates and discards each factor in isolation.",
+    "tags": ["probable-cause-reasonable-suspicion", "arvizu", "reasonable-suspicion", "totality", "divide-and-conquer", "case-holding"],
+    "cite": "United States v. Arvizu, 534 U.S. 266, 274 (2002)",
+    "source": "https://www.courtlistener.com/opinion/118474/united-states-v-arvizu/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-divideconquer-20",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Which two cases forbid the \"divide-and-conquer\" approach of evaluating and discarding each fact in isolation?",
+    "back": "United States v. Arvizu (2002) for reasonable suspicion and District of Columbia v. Wesby (2018) for probable cause — the magistrate and the court must weigh the whole picture, not pick off facts one by one.",
+    "tags": ["probable-cause-reasonable-suspicion", "arvizu", "wesby", "divide-and-conquer", "totality"],
+    "cite": "District of Columbia v. Wesby, 583 U.S. 48, 63 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4238107/district-of-columbia-v-wesby/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-wesby-holding-21",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What did District of Columbia v. Wesby (2018) hold about evaluating probable cause?",
+    "back": "Probable cause is a totality-of-the-circumstances inquiry; courts must not divide-and-conquer the facts by viewing each in isolation and discarding it.",
+    "tags": ["probable-cause-reasonable-suspicion", "wesby", "probable-cause", "totality", "case-holding"],
+    "cite": "District of Columbia v. Wesby, 583 U.S. 48, 63 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4238107/district-of-columbia-v-wesby/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-pringle-holding-22",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What did Maryland v. Pringle (2003) hold when drugs and cash are found in a car and no occupant claims them?",
+    "back": "An officer has probable cause to arrest all the occupants on a reasonable inference of common enterprise.",
+    "tags": ["probable-cause-reasonable-suspicion", "pringle", "probable-cause", "particularity", "case-holding"],
+    "cite": "Maryland v. Pringle, 540 U.S. 366, 371-74 (2003)",
+    "source": "https://www.courtlistener.com/opinion/131150/maryland-v-pringle/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-pringle-particularity-23",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Probable cause must be particularized to a place or person — so how does Maryland v. Pringle reach every occupant of a car?",
+    "back": "Pringle allows a reasonable inference of common enterprise: where contraband is found in a car and no one claims it, that inference particularizes probable cause to each occupant. Particularity does not require individual-by-individual proof.",
+    "tags": ["probable-cause-reasonable-suspicion", "pringle", "probable-cause", "particularity"],
+    "cite": "Maryland v. Pringle, 540 U.S. 366, 371-74 (2003)",
+    "source": "https://www.courtlistener.com/opinion/131150/maryland-v-pringle/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-devenpeck-holding-24",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What did Devenpeck v. Alford (2004) hold about the offense that must support an arrest?",
+    "back": "Probable cause is judged on the objective facts known to the officer; an arrest stands if those facts give probable cause for SOME offense — it need not be the offense the officer named, nor even closely related to it.",
+    "tags": ["probable-cause-reasonable-suspicion", "devenpeck", "probable-cause", "objective-test", "case-holding"],
+    "cite": "Devenpeck v. Alford, 543 U.S. 146, 153-55 (2004)",
+    "source": "https://www.courtlistener.com/opinion/137733/devenpeck-v-alford/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-objective-25",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Significance: Why does Devenpeck v. Alford matter for how probable cause is assessed?",
+    "back": "It confirms probable cause is an objective test — the officer's subjective stated reason or the label of the charge is irrelevant; what matters is whether the known objective facts support some criminal offense.",
+    "tags": ["probable-cause-reasonable-suspicion", "devenpeck", "probable-cause", "objective-test", "significance"],
+    "cite": "Devenpeck v. Alford, 543 U.S. 146, 153-55 (2004)",
+    "source": "https://www.courtlistener.com/opinion/137733/devenpeck-v-alford/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-harris-holding-26",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What did Florida v. Harris (2013) hold about a trained drug dog's alert and probable cause?",
+    "back": "Whether the alert furnishes probable cause is a totality-of-the-circumstances question; a dog's satisfactory performance in a certification or training program can itself supply reason to trust the alert — no rigid checklist of field-record evidence is required.",
+    "tags": ["probable-cause-reasonable-suspicion", "florida-harris", "probable-cause", "dog-sniff", "totality", "case-holding"],
+    "cite": "Florida v. Harris, 568 U.S. 237, 244-48 (2013)",
+    "source": "https://www.courtlistener.com/opinion/820744/florida-v-harris/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-ornelas-holding-27",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "What appellate standard of review did Ornelas v. United States (1996) set for reasonable suspicion and probable cause?",
+    "back": "De novo — the ultimate RS/PC questions are reviewed fresh on appeal, while the underlying historical facts are reviewed only for clear error (with due weight to an officer's inferences).",
+    "tags": ["probable-cause-reasonable-suspicion", "ornelas", "standard-of-review", "case-holding"],
+    "cite": "Ornelas v. United States, 517 U.S. 690 (1996)",
+    "source": "https://www.courtlistener.com/opinion/118030/ornelas-v-united-states/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-ornelas-quote-28",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "cloze",
+    "front": "Fill in Ornelas v. United States: \"We hold that the ultimate questions of reasonable suspicion and probable cause to make a warrantless search should be reviewed {{de novo}}.\"",
+    "back": "de novo",
+    "tags": ["probable-cause-reasonable-suspicion", "ornelas", "standard-of-review", "quote"],
+    "cite": "Ornelas v. United States, 517 U.S. 690, 691 (1996)",
+    "source": "https://www.courtlistener.com/opinion/118030/ornelas-v-united-states/"
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-pitfall-conflate-29",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Common pitfall: What is the error in treating reasonable suspicion and probable cause as the same thing?",
+    "back": "They are different rungs. Reasonable suspicion buys only a brief stop and frisk; it does NOT buy an arrest or a full search. The officer must articulate which standard the facts actually support.",
+    "tags": ["probable-cause-reasonable-suspicion", "pitfall", "ladder", "reasonable-suspicion", "probable-cause"]
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-pitfall-percentage-30",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Common pitfall: Why is it wrong for an instructor to say \"probable cause is 51%\"?",
+    "back": "Neither standard reduces to a fixed percentage. Brinegar and Gates speak of practical, common-sense probabilities; quantifying probable cause as a number invents a rule the Supreme Court has never adopted.",
+    "tags": ["probable-cause-reasonable-suspicion", "pitfall", "probable-cause", "fair-probability"]
+  },
+  {
+    "id": "probable-cause-reasonable-suspicion-pitfall-possibilities-31",
+    "page": "probable-cause-reasonable-suspicion",
+    "topic": "Probable Cause and Reasonable Suspicion",
+    "type": "qa",
+    "front": "Common pitfall: \"Possibilities, not probabilities.\" What does this CREW maxim warn against?",
+    "back": "Both standards turn on probabilities, not bare possibility. A fact that merely makes crime possible is not enough — Terry requires specific reasonable inferences, not an inchoate, unparticularized hunch. (Instructor maxim, not a case cite.)",
+    "tags": ["probable-cause-reasonable-suspicion", "pitfall", "crew", "maxim"]
+  }
+]

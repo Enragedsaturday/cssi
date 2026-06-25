@@ -1,0 +1,309 @@
+[
+  {
+    "id": "eyewitness-identification-two-doctrines-01",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Eyewitness ID: what two distinct federal doctrines govern challenges to an eyewitness identification?",
+    "back": "(1) The Sixth Amendment right to counsel at a post-charge corporeal lineup/showup (Wade/Gilbert); and (2) the Due Process Clause bar on identifications produced by unnecessarily suggestive, police-arranged procedures creating a substantial likelihood of irreparable misidentification (Stovall/Biggers/Manson). They are independent inquiries.",
+    "tags": ["eyewitness-identification", "sixth-amendment", "due-process", "overview"]
+  },
+  {
+    "id": "eyewitness-identification-due-process-linchpin-02",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Eyewitness ID (due-process branch): even when a procedure is unnecessarily suggestive, what single consideration controls admissibility?",
+    "back": "Reliability is the linchpin. A suggestive ID is still admissible if it is reliable under the totality of the circumstances; suppression is the exception, not the rule.",
+    "tags": ["eyewitness-identification", "due-process", "reliability", "doctrine"]
+  },
+  {
+    "id": "eyewitness-identification-wade-holding-03",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "In United States v. Wade (1967), what did the Court hold about a post-indictment lineup?",
+    "back": "A post-indictment lineup is a critical stage of the prosecution at which the accused has a Sixth Amendment right to counsel; counsel's absence may taint a later in-court identification unless that in-court ID has an independent source.",
+    "tags": ["eyewitness-identification", "wade", "sixth-amendment", "critical-stage", "case-to-holding"],
+    "cite": "United States v. Wade, 388 U.S. 218, 236-37, 240-42 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107486/united-states-v-wade/"
+  },
+  {
+    "id": "eyewitness-identification-wade-independent-source-04",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Under United States v. Wade, after an uncounseled post-charge lineup, what allows an in-court identification still to be admitted?",
+    "back": "An independent source for the in-court ID — i.e., the witness's identification rests on observation untainted by the uncounseled lineup, not on the lineup itself.",
+    "tags": ["eyewitness-identification", "wade", "independent-source", "sixth-amendment"],
+    "cite": "United States v. Wade, 388 U.S. 218, 240-42 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107486/united-states-v-wade/"
+  },
+  {
+    "id": "eyewitness-identification-gilbert-perse-05",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "In Gilbert v. California (1967), what rule governs testimony that the witness identified the accused at an uncounseled post-charge lineup?",
+    "back": "It is excluded per se — a strict rule with no harmless-error and no reliability cure — to deter Sixth Amendment violations at lineups.",
+    "tags": ["eyewitness-identification", "gilbert", "per-se-exclusion", "sixth-amendment", "case-to-holding"],
+    "cite": "Gilbert v. California, 388 U.S. 263, 272-74 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107487/gilbert-v-california/"
+  },
+  {
+    "id": "eyewitness-identification-gilbert-vs-due-process-06",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Eyewitness ID distinction: how does Gilbert's per se exclusion differ from the due-process suggestiveness branch on the question of reliability?",
+    "back": "Gilbert's uncounseled-lineup defect cannot be cured by reliability — the lineup-ID testimony is excluded outright. By contrast, in the due-process branch (Biggers/Manson) reliability can rescue even a suggestive ID.",
+    "tags": ["eyewitness-identification", "gilbert", "due-process", "distinction"],
+    "cite": "Gilbert v. California, 388 U.S. 263, 272-74 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107487/gilbert-v-california/"
+  },
+  {
+    "id": "eyewitness-identification-kirby-attachment-07",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Under Kirby v. Illinois (1972) (plurality), when does the Sixth Amendment right to counsel at an identification attach?",
+    "back": "Only at or after the initiation of adversary judicial criminal proceedings (formal charge, preliminary hearing, indictment, information, or arraignment). A pre-charge identification is not a critical stage.",
+    "tags": ["eyewitness-identification", "kirby", "attachment", "sixth-amendment", "case-to-holding"],
+    "cite": "Kirby v. Illinois, 406 U.S. 682, 688-90 (1972) (plurality opinion)",
+    "source": "https://www.courtlistener.com/opinion/108554/kirby-v-illinois/"
+  },
+  {
+    "id": "eyewitness-identification-kirby-quote-08",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "cloze",
+    "front": "Kirby v. Illinois (the attachment language): the right attaches at \"the initiation of {{c1::adversary judicial criminal proceedings}}—whether by way of formal charge, preliminary hearing, indictment, information, or arraignment.\"",
+    "back": "adversary judicial criminal proceedings",
+    "tags": ["eyewitness-identification", "kirby", "attachment", "quote", "sixth-amendment"],
+    "cite": "Kirby v. Illinois, 406 U.S. at 689",
+    "source": "https://www.courtlistener.com/opinion/108554/kirby-v-illinois/"
+  },
+  {
+    "id": "eyewitness-identification-ash-holding-09",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "In United States v. Ash (1973), is there a Sixth Amendment right to counsel at a post-indictment photographic display?",
+    "back": "No. A photographic display is not a trial-like confrontation because the accused is not present, so it is not a critical stage.",
+    "tags": ["eyewitness-identification", "ash", "photo-array", "sixth-amendment", "case-to-holding"],
+    "cite": "United States v. Ash, 413 U.S. 300 (1973)",
+    "source": "https://www.courtlistener.com/opinion/108846/united-states-v-ash/"
+  },
+  {
+    "id": "eyewitness-identification-ash-quote-10",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "cloze",
+    "front": "United States v. Ash held: \"the Sixth Amendment does not grant the right to counsel at {{c1::photographic displays}} conducted by the Government for the purpose of allowing a witness to attempt an identification of the offender.\"",
+    "back": "photographic displays",
+    "tags": ["eyewitness-identification", "ash", "photo-array", "quote", "sixth-amendment"],
+    "cite": "United States v. Ash, 413 U.S. at 321",
+    "source": "https://www.courtlistener.com/opinion/108846/united-states-v-ash/"
+  },
+  {
+    "id": "eyewitness-identification-corporeal-vs-photo-11",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Eyewitness ID distinction (Wade/Gilbert vs. Ash): why does the Sixth Amendment right to counsel reach corporeal lineups but not photo arrays?",
+    "back": "A corporeal lineup is a trial-like confrontation where the accused is present and may be prejudiced without counsel (Wade/Gilbert). A photo array involves no trial-like confrontation because the accused is not present, so no counsel right attaches (Ash).",
+    "tags": ["eyewitness-identification", "wade", "ash", "distinction", "sixth-amendment"],
+    "cite": "United States v. Ash, 413 U.S. 300 (1973)",
+    "source": "https://www.courtlistener.com/opinion/108846/united-states-v-ash/"
+  },
+  {
+    "id": "eyewitness-identification-stovall-holding-12",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "In Stovall v. Denno (1967), what did the Court hold about an unnecessarily suggestive confrontation?",
+    "back": "A confrontation that is unnecessarily suggestive and conducive to irreparable mistaken identification can violate due process; admissibility turns on the totality of the circumstances.",
+    "tags": ["eyewitness-identification", "stovall", "due-process", "suggestiveness", "case-to-holding"],
+    "cite": "Stovall v. Denno, 388 U.S. 293, 301-02 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107488/stovall-v-denno/"
+  },
+  {
+    "id": "eyewitness-identification-stovall-facts-13",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Eyewitness ID (facts→case): A single-suspect hospital bedside showup was conducted because the only witness was in critical condition and might not survive; the Court held the showup did not violate due process. Which case?",
+    "back": "Stovall v. Denno (1967) — the bedside showup, though suggestive, was justified by the witness's critical condition under the totality of the circumstances.",
+    "tags": ["eyewitness-identification", "stovall", "showup", "facts-to-case", "due-process"],
+    "cite": "Stovall v. Denno, 388 U.S. 293, 301-02 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107488/stovall-v-denno/"
+  },
+  {
+    "id": "eyewitness-identification-biggers-holding-14",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "In Neil v. Biggers (1972), what did the Court hold about an unnecessarily suggestive identification?",
+    "back": "Even an unnecessarily suggestive identification is admissible if, under the totality of the circumstances, it is nonetheless reliable; reliability is judged by five factors.",
+    "tags": ["eyewitness-identification", "biggers", "due-process", "reliability", "case-to-holding"],
+    "cite": "Neil v. Biggers, 409 U.S. 188, 199-200 (1972)",
+    "source": "https://www.courtlistener.com/opinion/108639/neil-v-biggers/"
+  },
+  {
+    "id": "eyewitness-identification-biggers-five-factors-15",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "What are the five Neil v. Biggers reliability factors for an eyewitness identification (the recognized 5-factor test)?",
+    "back": "(1) the witness's opportunity to view the criminal at the time of the crime; (2) the witness's degree of attention; (3) the accuracy of the witness's prior description; (4) the level of certainty demonstrated at the confrontation; and (5) the length of time between the crime and the confrontation.",
+    "tags": ["eyewitness-identification", "biggers", "five-factors", "reliability", "test"],
+    "cite": "Neil v. Biggers, 409 U.S. at 199-200",
+    "source": "https://www.courtlistener.com/opinion/108639/neil-v-biggers/"
+  },
+  {
+    "id": "eyewitness-identification-biggers-factor-opportunity-16",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Name the first Neil v. Biggers reliability factor.",
+    "back": "The opportunity of the witness to view the criminal at the time of the crime.",
+    "tags": ["eyewitness-identification", "biggers", "five-factors", "reliability"],
+    "cite": "Neil v. Biggers, 409 U.S. at 199-200",
+    "source": "https://www.courtlistener.com/opinion/108639/neil-v-biggers/"
+  },
+  {
+    "id": "eyewitness-identification-biggers-factor-attention-17",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Name the second Neil v. Biggers reliability factor.",
+    "back": "The witness's degree of attention.",
+    "tags": ["eyewitness-identification", "biggers", "five-factors", "reliability"],
+    "cite": "Neil v. Biggers, 409 U.S. at 199-200",
+    "source": "https://www.courtlistener.com/opinion/108639/neil-v-biggers/"
+  },
+  {
+    "id": "eyewitness-identification-biggers-factor-description-18",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Name the third Neil v. Biggers reliability factor.",
+    "back": "The accuracy of the witness's prior description of the criminal.",
+    "tags": ["eyewitness-identification", "biggers", "five-factors", "reliability"],
+    "cite": "Neil v. Biggers, 409 U.S. at 199-200",
+    "source": "https://www.courtlistener.com/opinion/108639/neil-v-biggers/"
+  },
+  {
+    "id": "eyewitness-identification-biggers-factor-certainty-19",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Name the fourth Neil v. Biggers reliability factor.",
+    "back": "The level of certainty demonstrated by the witness at the confrontation.",
+    "tags": ["eyewitness-identification", "biggers", "five-factors", "reliability"],
+    "cite": "Neil v. Biggers, 409 U.S. at 199-200",
+    "source": "https://www.courtlistener.com/opinion/108639/neil-v-biggers/"
+  },
+  {
+    "id": "eyewitness-identification-biggers-factor-time-20",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Name the fifth Neil v. Biggers reliability factor.",
+    "back": "The length of time between the crime and the confrontation.",
+    "tags": ["eyewitness-identification", "biggers", "five-factors", "reliability"],
+    "cite": "Neil v. Biggers, 409 U.S. at 199-200",
+    "source": "https://www.courtlistener.com/opinion/108639/neil-v-biggers/"
+  },
+  {
+    "id": "eyewitness-identification-manson-holding-21",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "In Manson v. Brathwaite (1977), what did the Court hold about identifications from unnecessarily suggestive procedures?",
+    "back": "There is no per se rule of exclusion; reliability is the linchpin, assessed under the Biggers five-factor totality and weighed against the corrupting effect of the suggestive procedure.",
+    "tags": ["eyewitness-identification", "manson", "due-process", "reliability", "case-to-holding"],
+    "cite": "Manson v. Brathwaite, 432 U.S. 98, 113-14 (1977)",
+    "source": "https://www.courtlistener.com/opinion/109693/manson-v-brathwaite/"
+  },
+  {
+    "id": "eyewitness-identification-manson-quote-22",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "cloze",
+    "front": "Manson v. Brathwaite: \"reliability is the {{c1::linchpin}} in determining the admissibility of identification testimony for both pre- and post-Stovall confrontations. The factors to be considered are set out in Biggers.\"",
+    "back": "linchpin",
+    "tags": ["eyewitness-identification", "manson", "reliability", "quote", "due-process"],
+    "cite": "Manson v. Brathwaite, 432 U.S. at 114",
+    "source": "https://www.courtlistener.com/opinion/109693/manson-v-brathwaite/"
+  },
+  {
+    "id": "eyewitness-identification-manson-balancing-23",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Under Manson v. Brathwaite, against what is an eyewitness ID's reliability weighed once a procedure is found suggestive?",
+    "back": "Against the corrupting effect of the suggestive procedure itself — the reliability factors are balanced against the degree of suggestion.",
+    "tags": ["eyewitness-identification", "manson", "balancing", "reliability", "due-process"],
+    "cite": "Manson v. Brathwaite, 432 U.S. 98, 113-14 (1977)",
+    "source": "https://www.courtlistener.com/opinion/109693/manson-v-brathwaite/"
+  },
+  {
+    "id": "eyewitness-identification-perry-holding-24",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "In Perry v. New Hampshire (2012), when does the Due Process Clause require preliminary judicial screening of an eyewitness ID's reliability?",
+    "back": "Only when the suggestive circumstances were arranged by law enforcement. Absent improper police conduct, reliability is left to the ordinary trial safeguards — cross-examination, jury instructions, and the jury.",
+    "tags": ["eyewitness-identification", "perry", "due-process", "police-arrangement", "case-to-holding"],
+    "cite": "Perry v. New Hampshire, 565 U.S. 228, 232-33, 248 (2012)",
+    "source": "https://www.courtlistener.com/opinion/620671/perry-v-new-hampshire/"
+  },
+  {
+    "id": "eyewitness-identification-perry-chance-suggestion-25",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Under Perry v. New Hampshire, what is the remedy when suggestiveness arises by chance rather than police arrangement (e.g., a witness's own spontaneous viewing)?",
+    "back": "Not suppression. The remedy is the ordinary trial safeguards — cross-examination and jury instructions; the due-process screen is not triggered.",
+    "tags": ["eyewitness-identification", "perry", "chance-suggestion", "due-process", "common-pitfall"],
+    "cite": "Perry v. New Hampshire, 565 U.S. 228, 248 (2012)",
+    "source": "https://www.courtlistener.com/opinion/620671/perry-v-new-hampshire/"
+  },
+  {
+    "id": "eyewitness-identification-pitfall-every-lineup-26",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Common pitfall: instructors assume the Sixth Amendment right to counsel attaches at every lineup. Why is that wrong?",
+    "back": "The right is limited to post-charge corporeal confrontations. It does not attach at pre-charge showups (Kirby) or at photo arrays (Ash); pre-charge field showups need no defense counsel.",
+    "tags": ["eyewitness-identification", "kirby", "ash", "common-pitfall", "sixth-amendment"]
+  },
+  {
+    "id": "eyewitness-identification-pitfall-suggestive-fatal-27",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Common pitfall: treating any suggestive identification procedure as automatically fatal. Why is that wrong?",
+    "back": "Under Biggers/Manson, a suggestive ID is still admissible if reliable under the five-factor totality. Suppression is the exception, not the rule — reliability can save it.",
+    "tags": ["eyewitness-identification", "biggers", "manson", "common-pitfall", "reliability"]
+  },
+  {
+    "id": "eyewitness-identification-pitfall-non-police-28",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Common pitfall: applying due-process suppression screening to suggestion that police did not arrange. Why is that wrong?",
+    "back": "Per Perry, suggestion police did not arrange does not trigger the due-process screen. The remedy is cross-examination and jury instruction, not exclusion — do not invoke the exclusionary rule for chance suggestiveness.",
+    "tags": ["eyewitness-identification", "perry", "common-pitfall", "due-process"]
+  },
+  {
+    "id": "eyewitness-identification-independence-of-inquiries-29",
+    "page": "eyewitness-identification",
+    "topic": "Eyewitness Identification",
+    "type": "qa",
+    "front": "Eyewitness ID doctrine: can an identification pass the Sixth Amendment counsel inquiry yet fail the due-process suggestiveness inquiry (or vice versa)?",
+    "back": "Yes. The two inquiries are independent — the Wade/Gilbert counsel question and the Stovall/Biggers/Manson suggestiveness question are analyzed separately, and an ID can satisfy one while violating the other.",
+    "tags": ["eyewitness-identification", "doctrine", "distinction", "sixth-amendment", "due-process"]
+  }
+]

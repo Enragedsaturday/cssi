@@ -1,0 +1,296 @@
+[
+  {
+    "id": "knock-and-talk-doctrine-implied-license-01",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "What does the \"knock and talk\" doctrine actually rest on — and is it a standalone warrant exception?",
+    "back": "It is NOT a standalone warrant exception. It rests on the same implied license that lets any visitor approach a home's front door, knock, wait briefly, and (absent a refusal) leave.",
+    "tags": ["knock-and-talk", "implied-license", "doctrine"]
+  },
+  {
+    "id": "knock-and-talk-doctrine-not-a-search-02",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "In knock-and-talk doctrine, what is a lawful approach vs. a lawful search — and what does a knock and talk authorize by itself?",
+    "back": "A knock and talk is a lawful approach, not a lawful search. By itself it authorizes no search; any entry or search still needs valid consent or an independent warrant exception.",
+    "tags": ["knock-and-talk", "consent", "doctrine"]
+  },
+  {
+    "id": "knock-and-talk-doctrine-consent-governs-03",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "When officers use the knock-and-talk to ask for consent to search, what body of law governs what they obtain?",
+    "back": "Ordinary consent-search law governs. The knock and talk just gets officers lawfully to the door; voluntariness of any consent is judged under standard consent doctrine.",
+    "tags": ["knock-and-talk", "consent", "doctrine"]
+  },
+  {
+    "id": "knock-and-talk-doctrine-three-ways-to-exceed-04",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "cloze",
+    "front": "The knock-and-talk approach becomes a Fourth Amendment search the moment officers exceed the implied license in {{c1::scope}}, {{c2::time}}, or {{c3::manner}}.",
+    "back": "Scope, time, or manner. Examples: straying off the normal route, lingering after being told to go, or bringing investigative tools onto the curtilage.",
+    "tags": ["knock-and-talk", "implied-license", "scope"]
+  },
+  {
+    "id": "knock-and-talk-implied-license-two-limits-05",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Under Florida v. Jardines, what two dimensions limit the implied license to approach a home?",
+    "back": "Physical area (the customary path to the front door) and purpose (a brief, ordinary visitor's errand).",
+    "tags": ["knock-and-talk", "jardines", "implied-license", "curtilage"],
+    "cite": "Florida v. Jardines, 569 U.S. 1, 6-8 (2013)",
+    "source": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/"
+  },
+  {
+    "id": "knock-and-talk-jardines-holding-06",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "What did the Supreme Court hold in Florida v. Jardines (2013)?",
+    "back": "Walking a drug dog onto the home's front porch to investigate exceeded the implied license to approach and knock — a trespassory search of the curtilage.",
+    "tags": ["knock-and-talk", "jardines", "curtilage", "holding"],
+    "cite": "Florida v. Jardines, 569 U.S. 1, 6-8 (2013)",
+    "source": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/"
+  },
+  {
+    "id": "knock-and-talk-jardines-facts-to-case-07",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Which case held that bringing a drug-detection dog onto a home's front porch to investigate was a trespassory search exceeding the implied license?",
+    "back": "Florida v. Jardines, 569 U.S. 1 (2013).",
+    "tags": ["knock-and-talk", "jardines", "facts-to-case", "curtilage"],
+    "cite": "Florida v. Jardines, 569 U.S. 1, 6-8 (2013)",
+    "source": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/"
+  },
+  {
+    "id": "knock-and-talk-jardines-property-theory-08",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "On what Fourth Amendment theory did Jardines find a search — privacy or property?",
+    "back": "The Jones property-trespass theory: officers physically intruded on the curtilage beyond what the implied license authorized, so it was a search without needing a privacy analysis.",
+    "tags": ["knock-and-talk", "jardines", "trespass", "curtilage"],
+    "cite": "Florida v. Jardines, 569 U.S. 1, 6-8 (2013)",
+    "source": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/"
+  },
+  {
+    "id": "knock-and-talk-king-holding-09",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Under Kentucky v. King (2011), may police lawfully knock and announce their presence at a door?",
+    "back": "Yes. Police may lawfully knock and announce their presence; doing so does not create an unusable (manufactured) exigency.",
+    "tags": ["knock-and-talk", "king", "exigency", "holding"],
+    "cite": "Kentucky v. King, 563 U.S. 452 (2011)",
+    "source": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/"
+  },
+  {
+    "id": "knock-and-talk-king-manufactured-exigency-rule-10",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Under Kentucky v. King, when is a police-created exigency unusable to justify a warrantless entry?",
+    "back": "Only when police create the exigency by engaging or threatening to engage in conduct that itself violates the Fourth Amendment.",
+    "tags": ["knock-and-talk", "king", "exigency", "rule"],
+    "cite": "Kentucky v. King, 563 U.S. 452, 462 (2011)",
+    "source": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/"
+  },
+  {
+    "id": "knock-and-talk-king-quote-11",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Quote the Kentucky v. King formulation of when the exigent-circumstances rule applies despite police involvement.",
+    "back": "\"The exigent circumstances rule applies when the police do not create the exigency by engaging or threatening to engage in conduct that violates the Fourth Amendment.\"",
+    "tags": ["knock-and-talk", "king", "exigency", "quote"],
+    "cite": "Kentucky v. King, 563 U.S. 452, 462 (2011)",
+    "source": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/"
+  },
+  {
+    "id": "knock-and-talk-king-facts-to-case-12",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Which case establishes that merely knocking and announcing is fine, and that a police-created exigency is unusable only when the police's conduct itself violates the Fourth Amendment?",
+    "back": "Kentucky v. King, 563 U.S. 452 (2011).",
+    "tags": ["knock-and-talk", "king", "exigency", "facts-to-case"],
+    "cite": "Kentucky v. King, 563 U.S. 452 (2011)",
+    "source": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/"
+  },
+  {
+    "id": "knock-and-talk-bostick-test-13",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Under Florida v. Bostick, what is the test for whether an encounter stays consensual?",
+    "back": "Whether a reasonable person would feel free to decline the officers' requests or otherwise terminate the encounter.",
+    "tags": ["knock-and-talk", "bostick", "consensual-encounter", "test"],
+    "cite": "Florida v. Bostick, 501 U.S. 429, 435-36 (1991)",
+    "source": "https://www.courtlistener.com/opinion/112631/florida-v-bostick/"
+  },
+  {
+    "id": "knock-and-talk-bostick-holding-to-case-14",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Which case supplies the \"free to decline the requests or terminate the encounter\" standard for consensual encounters?",
+    "back": "Florida v. Bostick, 501 U.S. 429 (1991).",
+    "tags": ["knock-and-talk", "bostick", "consensual-encounter", "holding-to-case"],
+    "cite": "Florida v. Bostick, 501 U.S. 429, 435-36 (1991)",
+    "source": "https://www.courtlistener.com/opinion/112631/florida-v-bostick/"
+  },
+  {
+    "id": "knock-and-talk-drayton-holding-15",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "What did United States v. Drayton (2002) hold about advising a person of the right to refuse consent?",
+    "back": "Consent can be voluntary even though officers never advised the person of the right to refuse; there is no per se warning requirement.",
+    "tags": ["knock-and-talk", "drayton", "consent", "holding"],
+    "cite": "United States v. Drayton, 536 U.S. 194, 203-07 (2002)",
+    "source": "https://www.courtlistener.com/opinion/121153/united-states-v-drayton/"
+  },
+  {
+    "id": "knock-and-talk-drayton-facts-to-case-16",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Which case holds there is no per se requirement to warn a person of the right to refuse before consent can be voluntary?",
+    "back": "United States v. Drayton, 536 U.S. 194 (2002).",
+    "tags": ["knock-and-talk", "drayton", "consent", "facts-to-case"],
+    "cite": "United States v. Drayton, 536 U.S. 194, 203-07 (2002)",
+    "source": "https://www.courtlistener.com/opinion/121153/united-states-v-drayton/"
+  },
+  {
+    "id": "knock-and-talk-bostick-drayton-pairing-17",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "What is the combined Bostick/Drayton rule for keeping a knock-and-talk consensual?",
+    "back": "The encounter stays consensual if a reasonable person would feel free to decline the requests or terminate the encounter (Bostick), and officers need not advise the resident of the right to refuse (Drayton).",
+    "tags": ["knock-and-talk", "bostick", "drayton", "consensual-encounter"]
+  },
+  {
+    "id": "knock-and-talk-french-weight-18",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "What is the precedential weight of French v. Merrill (1st Cir. 2021) on knock-and-talk limits, and how should it be labeled?",
+    "back": "Persuasive only — a First Circuit marker, not a nationwide rule. Lower courts vary on repeated knocks, back-door approaches, and pre-dawn visits.",
+    "tags": ["knock-and-talk", "french-v-merrill", "persuasive", "circuit"],
+    "cite": "French v. Merrill, 15 F.4th 116 (1st Cir. 2021)",
+    "source": "https://www.courtlistener.com/opinion/5273192/french-v-merrill/"
+  },
+  {
+    "id": "knock-and-talk-french-facts-19",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "In French v. Merrill (1st Cir. 2021), what officer conduct exceeded the implied license to enter the curtilage?",
+    "back": "Repeated pre-dawn visits, knocking on a bedroom window, and peering in through a window covering with a flashlight — intrusive, contentious conduct no reasonable visitor would understand as authorized.",
+    "tags": ["knock-and-talk", "french-v-merrill", "curtilage", "facts"],
+    "cite": "French v. Merrill, 15 F.4th 116 (1st Cir. 2021)",
+    "source": "https://www.courtlistener.com/opinion/5273192/french-v-merrill/"
+  },
+  {
+    "id": "knock-and-talk-french-quote-20",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "How did the First Circuit in French v. Merrill describe the officers' conduct relative to the curtilage license?",
+    "back": "Their conduct \"plainly exceeded the scope of the implied license to enter the curtilage of French's home.\"",
+    "tags": ["knock-and-talk", "french-v-merrill", "curtilage", "quote"],
+    "cite": "French v. Merrill, 15 F.4th 116 (1st Cir. 2021) (slip op. at 43)",
+    "source": "https://www.courtlistener.com/opinion/5273192/french-v-merrill/"
+  },
+  {
+    "id": "knock-and-talk-french-jardines-link-21",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "How did French v. Merrill tie the officers' conduct to Jardines for qualified-immunity purposes?",
+    "back": "The court held the officers, like those in Jardines, physically intruded on the property without license in a way no reasonable visitor could understand as authorized — making the violation clearly established and defeating qualified immunity.",
+    "tags": ["knock-and-talk", "french-v-merrill", "jardines", "qualified-immunity"],
+    "cite": "French v. Merrill, 15 F.4th 116 (1st Cir. 2021) (slip op. at 40)",
+    "source": "https://www.courtlistener.com/opinion/5273192/french-v-merrill/"
+  },
+  {
+    "id": "knock-and-talk-distinction-approach-vs-search-22",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Distinguish: what is within the implied license at the front door vs. what breaks it (per Jardines)?",
+    "back": "Within: walking the customary front-door path, knocking, and waiting briefly for an ordinary errand. Breaks it: deploying a drug dog on the porch, cutting to a back door or yard, or lingering for an investigative purpose.",
+    "tags": ["knock-and-talk", "jardines", "implied-license", "distinction"],
+    "cite": "Florida v. Jardines, 569 U.S. 1, 6-8 (2013)",
+    "source": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/"
+  },
+  {
+    "id": "knock-and-talk-distinction-knock-vs-manufacture-23",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Distinguish lawful knocking from manufacturing exigency under Kentucky v. King.",
+    "back": "Lawfully knocking and announcing is permitted and does not taint a resulting emergency. Banging while threatening to break in — i.e., threatening conduct that itself violates the Fourth Amendment — manufactures an exigency that cannot justify a warrantless entry.",
+    "tags": ["knock-and-talk", "king", "exigency", "distinction"],
+    "cite": "Kentucky v. King, 563 U.S. 452, 462 (2011)",
+    "source": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/"
+  },
+  {
+    "id": "knock-and-talk-pitfall-standalone-exception-24",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Common pitfall: officers treat the knock and talk as its own warrant exception. Why is that wrong?",
+    "back": "It is not an exception. Without consent or another independent exception, nothing inside the home becomes fair game; the doctrine only authorizes a lawful approach.",
+    "tags": ["knock-and-talk", "pitfall", "consent"]
+  },
+  {
+    "id": "knock-and-talk-pitfall-curtilage-limits-25",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Common pitfall: ignoring curtilage / implied-license limits during a knock and talk. What breaks the license?",
+    "back": "Cutting to a back door, lingering in the yard, or bringing a dog onto the porch — anything beyond the front-door path for a brief errand (Jardines).",
+    "tags": ["knock-and-talk", "pitfall", "curtilage", "jardines"],
+    "cite": "Florida v. Jardines, 569 U.S. 1, 6-8 (2013)",
+    "source": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/"
+  },
+  {
+    "id": "knock-and-talk-pitfall-overstaying-refusal-26",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Common pitfall: what happens when officers overstay a resident's refusal during a knock and talk?",
+    "back": "Once a resident declines or asks officers to leave, continued or repeated intrusion converts the encounter into a search — as the First Circuit illustrated in French v. Merrill.",
+    "tags": ["knock-and-talk", "pitfall", "french-v-merrill", "refusal"],
+    "cite": "French v. Merrill, 15 F.4th 116 (1st Cir. 2021)",
+    "source": "https://www.courtlistener.com/opinion/5273192/french-v-merrill/"
+  },
+  {
+    "id": "knock-and-talk-pitfall-manufacture-exigency-27",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Common pitfall: using the knock to manufacture exigency. What conduct taints any resulting \"emergency\"?",
+    "back": "Banging while shouting threats to break in, or otherwise threatening a Fourth Amendment violation, taints the emergency and cannot justify a warrantless entry (King).",
+    "tags": ["knock-and-talk", "pitfall", "king", "exigency"],
+    "cite": "Kentucky v. King, 563 U.S. 452, 462 (2011)",
+    "source": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/"
+  },
+  {
+    "id": "knock-and-talk-why-doctrine-exists-28",
+    "page": "knock-and-talk",
+    "topic": "Knock and Talk",
+    "type": "qa",
+    "front": "Why does the knock-and-talk doctrine exist — what legal fact makes the approach lawful without a warrant?",
+    "back": "Because any visitor has an implied license to approach the front door, knock, wait briefly, and leave; officers may use that same customary license to seek a consensual conversation or ask for consent.",
+    "tags": ["knock-and-talk", "implied-license", "why"]
+  }
+]

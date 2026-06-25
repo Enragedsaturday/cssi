@@ -1,0 +1,351 @@
+[
+  {
+    "id": "miranda-custodial-interrogation-two-cs-01",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "What two elements must BOTH be present to trigger the requirement of Miranda warnings (the instructor's 'two C's')?",
+    "back": "Custody AND interrogation. Custody = objective, arrest-equivalent restraint of freedom of action; interrogation = express questioning or its functional equivalent. Warnings are not required unless both coincide.",
+    "tags": ["miranda-custodial-interrogation", "two-cs", "custody", "interrogation", "trigger"]
+  },
+  {
+    "id": "miranda-custodial-interrogation-rule-cloze-02",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "cloze",
+    "front": "Statements obtained during custodial interrogation without warnings or a valid waiver are inadmissible in the {{c1::prosecution's case-in-chief}}.",
+    "back": "the prosecution's case-in-chief — the Miranda exclusionary remedy bars unwarned custodial-interrogation statements from the government's case-in-chief.",
+    "tags": ["miranda-custodial-interrogation", "case-in-chief", "remedy", "rule"]
+  },
+  {
+    "id": "miranda-custodial-interrogation-miranda-holding-03",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "What did Miranda v. Arizona hold regarding statements from custodial interrogation?",
+    "back": "Such statements are inadmissible unless police first gave the warnings and the suspect knowingly and voluntarily waived them.",
+    "tags": ["miranda-custodial-interrogation", "miranda-v-arizona", "holding", "warnings", "waiver"],
+    "cite": "Miranda v. Arizona, 384 U.S. 436, 444 (1966)",
+    "source": "https://www.courtlistener.com/opinion/107252/miranda-v-arizona/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-miranda-custody-def-04",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "definition",
+    "front": "How did Miranda v. Arizona originally describe 'custody'?",
+    "back": "A suspect 'taken into custody or otherwise deprived of his freedom of action in any significant way.'",
+    "tags": ["miranda-custodial-interrogation", "miranda-v-arizona", "custody", "definition"],
+    "cite": "Miranda v. Arizona, 384 U.S. 436, 444 (1966)",
+    "source": "https://www.courtlistener.com/opinion/107252/miranda-v-arizona/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-custody-objective-test-05",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "What is the benchmark for Miranda 'custody' under the objective test?",
+    "back": "Whether a reasonable person's freedom of action is restrained to the degree associated with formal arrest, judged by the objective circumstances — not the officer's private view.",
+    "tags": ["miranda-custodial-interrogation", "custody", "objective-test", "formal-arrest"]
+  },
+  {
+    "id": "miranda-custodial-interrogation-innis-rule-06",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "How did Rhode Island v. Innis define 'interrogation' under Miranda?",
+    "back": "Interrogation is not limited to express questioning; it also includes the 'functional equivalent' — any words or actions by police (other than those normally attendant to arrest and custody) that police should know are reasonably likely to elicit an incriminating response from the suspect.",
+    "tags": ["miranda-custodial-interrogation", "rhode-island-v-innis", "interrogation", "functional-equivalent", "rule"],
+    "cite": "Rhode Island v. Innis, 446 U.S. 291, 300-01 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110254/rhode-island-v-innis/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-innis-quote-07",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "cloze",
+    "front": "Innis: the functional-equivalent test reaches words or actions by police that they {{c1::should know are reasonably likely to elicit an incriminating response}} from the suspect.",
+    "back": "should know are reasonably likely to elicit an incriminating response — Innis, 446 U.S. at 300-01.",
+    "tags": ["miranda-custodial-interrogation", "rhode-island-v-innis", "functional-equivalent", "quote"],
+    "cite": "Rhode Island v. Innis, 446 U.S. 291, 300-01 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110254/rhode-island-v-innis/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-innis-perspective-08",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Under Innis, whose perceptions does the 'functional equivalent of interrogation' test focus on?",
+    "back": "The perceptions of the suspect — the question is whether police should know their words or actions are reasonably likely to elicit an incriminating response, not their actual intent.",
+    "tags": ["miranda-custodial-interrogation", "rhode-island-v-innis", "interrogation", "suspect-perception"],
+    "cite": "Rhode Island v. Innis, 446 U.S. 291 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110254/rhode-island-v-innis/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-innis-facts-09",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Which case held that officers' in-car conversation about a missing shotgun and nearby handicapped children was NOT the functional equivalent of interrogation?",
+    "back": "Rhode Island v. Innis — the officers should not have known the exchange was reasonably likely to elicit an incriminating response, so it was not interrogation.",
+    "tags": ["miranda-custodial-interrogation", "rhode-island-v-innis", "facts-to-case", "functional-equivalent"],
+    "cite": "Rhode Island v. Innis, 446 U.S. 291 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110254/rhode-island-v-innis/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-dickerson-holding-10",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "What did Dickerson v. United States hold about Miranda and 18 U.S.C. § 3501?",
+    "back": "Miranda is a constitutional rule that Congress cannot override by statute, so § 3501 cannot supersede it; Miranda governs the admissibility of confessions in federal court. This remains current law.",
+    "tags": ["miranda-custodial-interrogation", "dickerson-v-united-states", "holding", "constitutional-rule", "section-3501"],
+    "cite": "Dickerson v. United States, 530 U.S. 428, 432, 444 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118380/dickerson-v-united-states/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-dickerson-significance-11",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Why does Dickerson v. United States matter to the status of Miranda?",
+    "back": "It settled that Miranda is a constitutional decision (not a mere judicially created prophylactic rule), so Congress's attempt to replace it with a voluntariness statute (§ 3501) was unconstitutional.",
+    "tags": ["miranda-custodial-interrogation", "dickerson-v-united-states", "significance", "constitutional-rule"],
+    "cite": "Dickerson v. United States, 530 U.S. 428, 432, 444 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118380/dickerson-v-united-states/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-berkemer-two-holdings-12",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "What two distinct things did Berkemer v. McCarty hold?",
+    "back": "(1) Miranda applies to ALL custodial interrogation regardless of offense severity, misdemeanors included; and (2) the temporary, public detention of an ordinary traffic stop is NOT Miranda custody.",
+    "tags": ["miranda-custodial-interrogation", "berkemer-v-mccarty", "holding", "traffic-stop", "offense-severity"],
+    "cite": "Berkemer v. McCarty, 468 U.S. 420 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111249/berkemer-v-mccarty/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-berkemer-traffic-13",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Is an ordinary traffic stop Miranda custody?",
+    "back": "No. Under Berkemer v. McCarty a temporary, public roadside detention is not custody, so on-scene questioning needs no warnings — even though Miranda otherwise reaches all offenses.",
+    "tags": ["miranda-custodial-interrogation", "berkemer-v-mccarty", "traffic-stop", "custody"],
+    "cite": "Berkemer v. McCarty, 468 U.S. 420 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111249/berkemer-v-mccarty/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-berkemer-severity-14",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Does the severity of the offense (misdemeanor vs. felony) affect whether Miranda applies?",
+    "back": "No. Berkemer v. McCarty holds Miranda reaches all custodial interrogation regardless of whether the charge is a misdemeanor or a felony.",
+    "tags": ["miranda-custodial-interrogation", "berkemer-v-mccarty", "offense-severity"],
+    "cite": "Berkemer v. McCarty, 468 U.S. 420 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111249/berkemer-v-mccarty/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-mathiason-holding-15",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "In Oregon v. Mathiason, was a suspect who voluntarily came to the station and was told he was free to leave 'in custody' for Miranda?",
+    "back": "No. A voluntary station-house interview where the suspect is told he is not under arrest and free to leave is not custody — even inside a police building and even when confronted with a false claim of evidence.",
+    "tags": ["miranda-custodial-interrogation", "oregon-v-mathiason", "holding", "custody", "stationhouse"],
+    "cite": "Oregon v. Mathiason, 429 U.S. 492 (1977) (per curiam)",
+    "source": "https://www.courtlistener.com/opinion/109587/oregon-v-mathiason/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-orozco-holding-16",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "What did Orozco v. Texas establish about the location of Miranda custody?",
+    "back": "Custody is not limited to the stationhouse — four officers questioning an arrested suspect in his own bedroom in the early morning was custody requiring warnings.",
+    "tags": ["miranda-custodial-interrogation", "orozco-v-texas", "holding", "custody", "location"],
+    "cite": "Orozco v. Texas, 394 U.S. 324, 326-327 (1969)",
+    "source": "https://www.courtlistener.com/opinion/107883/orozco-v-texas/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-orozco-quote-17",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "In Orozco v. Texas, what fact made the bedroom questioning custodial?",
+    "back": "By the officer's own testimony the suspect 'was under arrest and not free to leave when he was questioned in his bedroom in the early hours of the morning.'",
+    "tags": ["miranda-custodial-interrogation", "orozco-v-texas", "quote", "custody"],
+    "cite": "Orozco v. Texas, 394 U.S. 324, 326-327 (1969)",
+    "source": "https://www.courtlistener.com/opinion/107883/orozco-v-texas/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-mathiason-vs-orozco-18",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Contrast Mathiason and Orozco: why was the station visit non-custodial but the bedroom questioning custodial?",
+    "back": "Setting is not dispositive — restraint is. In Mathiason the suspect came voluntarily and was told he was free to leave (no custody); in Orozco he was under arrest, surrounded by four officers, and not free to leave (custody), even though it was his own home.",
+    "tags": ["miranda-custodial-interrogation", "oregon-v-mathiason", "orozco-v-texas", "distinction", "custody"]
+  },
+  {
+    "id": "miranda-custodial-interrogation-jdb-holding-19",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "What did J.D.B. v. North Carolina add to the Miranda custody analysis?",
+    "back": "A child's age is a relevant factor in the objective custody analysis when it was known to or objectively apparent to the officer, because a reasonable child may feel restrained where an adult would not.",
+    "tags": ["miranda-custodial-interrogation", "jdb-v-north-carolina", "holding", "custody", "juvenile-age"],
+    "cite": "J.D.B. v. North Carolina, 564 U.S. 261 (2011)",
+    "source": "https://www.courtlistener.com/opinion/218925/j-d-b-v-north-carolina/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-jdb-objective-20",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Did J.D.B. v. North Carolina turn the custody test into a subjective inquiry?",
+    "back": "No. Custody stays objective; a child's age is folded into that objective calculus only when known or apparent to the officer — it does not become a subjective test about the particular suspect's actual state of mind.",
+    "tags": ["miranda-custodial-interrogation", "jdb-v-north-carolina", "objective-test", "juvenile-age"],
+    "cite": "J.D.B. v. North Carolina, 564 U.S. 261 (2011)",
+    "source": "https://www.courtlistener.com/opinion/218925/j-d-b-v-north-carolina/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-howes-holding-21",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Does imprisonment by itself put an inmate 'in custody' for Miranda when questioned about an outside offense?",
+    "back": "No. Howes v. Fields holds imprisonment alone is not Miranda custody; whether an inmate is in custody depends on the totality — here, told he could leave and return to his cell, he was not in custody.",
+    "tags": ["miranda-custodial-interrogation", "howes-v-fields", "holding", "custody", "inmate", "totality"],
+    "cite": "Howes v. Fields, 565 U.S. 499 (2012)",
+    "source": "https://www.courtlistener.com/opinion/623144/howes-v-fields/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-stansbury-holding-22",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "What did Stansbury v. California hold about how custody is determined?",
+    "back": "Custody is determined by the objective circumstances of the interrogation, not by the subjective, undisclosed views of the officer or suspect; an officer's uncommunicated suspicion is irrelevant.",
+    "tags": ["miranda-custodial-interrogation", "stansbury-v-california", "holding", "objective-test", "undisclosed-suspicion"],
+    "cite": "Stansbury v. California, 511 U.S. 318 (1994) (per curiam)",
+    "source": "https://www.courtlistener.com/opinion/117843/stansbury-v-california/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-stansbury-facts-23",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Which case holds that an officer's hidden belief that a person is a suspect is irrelevant to whether that person is in Miranda custody?",
+    "back": "Stansbury v. California — custody turns on objective circumstances, not the officer's uncommunicated suspicion.",
+    "tags": ["miranda-custodial-interrogation", "stansbury-v-california", "holding-to-case", "objective-test"],
+    "cite": "Stansbury v. California, 511 U.S. 318 (1994) (per curiam)",
+    "source": "https://www.courtlistener.com/opinion/117843/stansbury-v-california/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-quarles-holding-24",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "What is the public-safety exception recognized in New York v. Quarles?",
+    "back": "When officers ask questions reasonably prompted by an immediate threat to public safety (e.g., the location of a hidden loaded gun), the unwarned answers and the resulting evidence (the gun) are admissible.",
+    "tags": ["miranda-custodial-interrogation", "new-york-v-quarles", "holding", "public-safety-exception"],
+    "cite": "New York v. Quarles, 467 U.S. 649 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111214/new-york-v-quarles/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-quarles-narrow-25",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "How narrow is the Quarles public-safety exception?",
+    "back": "Narrow — it is limited to questions reasonably prompted by an immediate danger; it is not a license for routine investigative questioning or general fact-gathering.",
+    "tags": ["miranda-custodial-interrogation", "new-york-v-quarles", "public-safety-exception", "scope"],
+    "cite": "New York v. Quarles, 467 U.S. 649 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111214/new-york-v-quarles/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-perkins-holding-26",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Why did Illinois v. Perkins hold that no Miranda warnings are required for undercover or jailhouse-informant questioning?",
+    "back": "Because there is no police-dominated 'coercive atmosphere' — a suspect who does not know he is speaking to law enforcement faces no compelling pressure, so the Miranda predicate is absent.",
+    "tags": ["miranda-custodial-interrogation", "illinois-v-perkins", "holding", "undercover", "coercive-atmosphere"],
+    "cite": "Illinois v. Perkins, 496 U.S. 292 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112452/illinois-v-perkins/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-perkins-facts-27",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Which case removes undercover agents posing as fellow inmates from Miranda's reach entirely?",
+    "back": "Illinois v. Perkins — incarceration plus questioning by an undisclosed government agent does not create the coercive atmosphere Miranda guards against.",
+    "tags": ["miranda-custodial-interrogation", "illinois-v-perkins", "facts-to-case", "undercover"],
+    "cite": "Illinois v. Perkins, 496 U.S. 292 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112452/illinois-v-perkins/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-volunteered-28",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Do volunteered, spontaneous statements require Miranda warnings?",
+    "back": "No. Volunteered statements are not the product of interrogation, so they need no warnings — even after arrest, words 'normally attendant to arrest and custody' do not count as interrogation (Innis).",
+    "tags": ["miranda-custodial-interrogation", "rhode-island-v-innis", "volunteered-statements", "interrogation"],
+    "cite": "Rhode Island v. Innis, 446 U.S. 291 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110254/rhode-island-v-innis/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-pitfall-all-contact-29",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Common pitfall: officers treat Miranda as covering all police contact. When do warnings actually attach?",
+    "back": "Only when custody AND interrogation coincide. On-scene, consensual, or otherwise non-custodial questioning requires no warnings.",
+    "tags": ["miranda-custodial-interrogation", "pitfall", "trigger", "two-cs"]
+  },
+  {
+    "id": "miranda-custodial-interrogation-pitfall-terry-vs-custody-30",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Distinction pitfall: is a Terry stop or traffic stop a Fourth Amendment seizure the same as Miranda custody?",
+    "back": "No. A brief, public investigative detention is a Fourth Amendment seizure of the person, but it is NOT Miranda custody (Berkemer). Miranda custody requires arrest-equivalent restraint.",
+    "tags": ["miranda-custodial-interrogation", "berkemer-v-mccarty", "pitfall", "distinction", "terry-stop", "seizure-vs-custody"],
+    "cite": "Berkemer v. McCarty, 468 U.S. 420 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111249/berkemer-v-mccarty/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-pitfall-quarles-broad-31",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Common pitfall: reading the Quarles public-safety exception too broadly. What is the limit?",
+    "back": "It is confined to questions neutralizing an immediate danger; it does not authorize general investigative fact-gathering.",
+    "tags": ["miranda-custodial-interrogation", "new-york-v-quarles", "pitfall", "public-safety-exception"],
+    "cite": "New York v. Quarles, 467 U.S. 649 (1984)",
+    "source": "https://www.courtlistener.com/opinion/111214/new-york-v-quarles/"
+  },
+  {
+    "id": "miranda-custodial-interrogation-analytical-sequence-32",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "What is the analytical sequence for deciding whether Miranda warnings were required for a statement?",
+    "back": "(1) Was the suspect in custody (objective, arrest-equivalent restraint)? If no, no warnings. (2) Was there interrogation (express or functional equivalent under Innis)? If no, no warnings. (3) Did a public-safety danger justify unwarned questions (Quarles)? If yes, no warnings; otherwise warnings were required.",
+    "tags": ["miranda-custodial-interrogation", "analytical-sequence", "custody", "interrogation", "public-safety-exception"]
+  },
+  {
+    "id": "miranda-custodial-interrogation-perkins-vs-orozco-33",
+    "page": "miranda-custodial-interrogation",
+    "topic": "Miranda and Custodial Interrogation",
+    "type": "qa",
+    "front": "Contrast Perkins and Orozco: both involve a suspect already in police hands, so why does Orozco require warnings but Perkins does not?",
+    "back": "Miranda guards against police-dominated coercion. In Orozco the suspect knew he was under arrest and facing officers (coercive custody → warnings). In Perkins the suspect did not know he was talking to law enforcement, so there was no coercive atmosphere and Miranda did not apply.",
+    "tags": ["miranda-custodial-interrogation", "illinois-v-perkins", "orozco-v-texas", "distinction", "coercive-atmosphere"]
+  }
+]

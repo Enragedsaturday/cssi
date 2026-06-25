@@ -1,0 +1,222 @@
+[
+  {
+    "id": "collective-knowledge-doctrine-rule-01",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Under the collective-knowledge (fellow-officer) doctrine, what may be imputed from one officer to another?",
+    "back": "The probable cause or reasonable suspicion held by one officer can be imputed to another who acts at his direction; the acting officer need not personally possess all the underlying facts.",
+    "tags": ["collective-knowledge", "fellow-officer-rule", "doctrine", "imputation"]
+  },
+  {
+    "id": "collective-knowledge-doctrine-presumption-02",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Collective-knowledge doctrine: what is presumed about an officer who acts in objective reliance on a bulletin, flyer, or radio dispatch?",
+    "back": "He is presumed to be acting on the requisite quantum of probable cause or reasonable suspicion, and need not personally know all the facts underlying the directive.",
+    "tags": ["collective-knowledge", "fellow-officer-rule", "bolo", "reliance"]
+  },
+  {
+    "id": "collective-knowledge-doctrine-pools-not-create-03",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Does the collective-knowledge doctrine ever create probable cause or reasonable suspicion?",
+    "back": "No. It pools or imputes knowledge that already exists; it can never manufacture PC or RS that was never present at the source. If the issuing officer or department lacked the necessary basis, the seizure is invalid despite the acting officer's good-faith reliance.",
+    "tags": ["collective-knowledge", "fellow-officer-rule", "doctrine", "why"]
+  },
+  {
+    "id": "collective-knowledge-doctrine-cloze-04",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "cloze",
+    "front": "The collective-knowledge doctrine {{c1::pools}} knowledge — it never {{c2::manufactures}} it.",
+    "back": "The collective-knowledge doctrine pools knowledge — it never manufactures it.",
+    "tags": ["collective-knowledge", "fellow-officer-rule", "cloze", "doctrine"]
+  },
+  {
+    "id": "collective-knowledge-whiteley-holding-05",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "What did Whiteley v. Warden (1971) hold about reliance on a police radio bulletin?",
+    "back": "Officers may rely on a radio bulletin and assume the issuer had probable cause; but if the issuing officer in fact lacked PC, reliance on fellow officers cannot insulate the arrest from challenge or cure the missing basis.",
+    "tags": ["collective-knowledge", "whiteley", "scotus", "case-holding", "probable-cause"],
+    "cite": "Whiteley v. Warden, 401 U.S. 560 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108297/whiteley-v-warden-wyoming-state-penitentiary/"
+  },
+  {
+    "id": "collective-knowledge-whiteley-quote-06",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Quote the Whiteley v. Warden limit on insulating an illegal arrest through fellow-officer reliance.",
+    "back": "\"[A]n otherwise illegal arrest cannot be insulated from challenge by the decision of the instigating officer to rely on fellow officers to make the arrest.\"",
+    "tags": ["collective-knowledge", "whiteley", "scotus", "quote", "whiteley-limit"],
+    "cite": "Whiteley v. Warden, 401 U.S. 560, 568 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108297/whiteley-v-warden-wyoming-state-penitentiary/"
+  },
+  {
+    "id": "collective-knowledge-whiteley-assume-magistrate-07",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Under Whiteley v. Warden, what are officers aiding others in executing an arrest warrant entitled to assume?",
+    "back": "They are entitled to assume that the officers requesting aid offered the magistrate the information requisite to support an independent judicial assessment of probable cause.",
+    "tags": ["collective-knowledge", "whiteley", "scotus", "warrant", "magistrate"],
+    "cite": "Whiteley v. Warden, 401 U.S. 560, 568 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108297/whiteley-v-warden-wyoming-state-penitentiary/"
+  },
+  {
+    "id": "collective-knowledge-whiteley-significance-08",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "What is the significance of Whiteley v. Warden for the fellow-officer rule?",
+    "back": "It is the binding SCOTUS source for vertical imputation: the acting officer may rely on a directive, but the doctrine cannot cure a missing factual basis at the source — no basis at the source means no valid seizure downstream.",
+    "tags": ["collective-knowledge", "whiteley", "scotus", "significance", "vertical"],
+    "cite": "Whiteley v. Warden, 401 U.S. 560 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108297/whiteley-v-warden-wyoming-state-penitentiary/"
+  },
+  {
+    "id": "collective-knowledge-hensley-holding-09",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "What did United States v. Hensley (1985) hold about Terry stops made in reliance on a wanted flyer?",
+    "back": "Police may conduct a Terry investigatory stop in objective reliance on a wanted flyer or bulletin from another department only if the issuing department had reasonable suspicion grounded in specific and articulable facts; if it lacked RS, the stop violates the Fourth Amendment.",
+    "tags": ["collective-knowledge", "hensley", "scotus", "case-holding", "terry-stop", "reasonable-suspicion"],
+    "cite": "United States v. Hensley, 469 U.S. 221 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111294/united-states-v-hensley/"
+  },
+  {
+    "id": "collective-knowledge-hensley-extends-whiteley-10",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "How does United States v. Hensley extend Whiteley v. Warden?",
+    "back": "It extends the collective-knowledge / fellow-officer rule from probable-cause arrests to reasonable-suspicion Terry investigatory stops based on a wanted flyer.",
+    "tags": ["collective-knowledge", "hensley", "whiteley", "scotus", "terry-stop", "significance"],
+    "cite": "United States v. Hensley, 469 U.S. 221 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111294/united-states-v-hensley/"
+  },
+  {
+    "id": "collective-knowledge-hensley-quote-rule-11",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Quote the Hensley rule on when reliance on a flyer or bulletin justifies a stop.",
+    "back": "\"[I]f a flyer or bulletin has been issued on the basis of articulable facts supporting a reasonable suspicion that the wanted person has committed an offense, then reliance on that flyer or bulletin justifies a stop ... If the flyer has been issued in the absence of a reasonable suspicion, then a stop in the objective reliance upon it violates the Fourth Amendment.\"",
+    "tags": ["collective-knowledge", "hensley", "scotus", "quote", "rule"],
+    "cite": "United States v. Hensley, 469 U.S. 221, 232-33 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111294/united-states-v-hensley/"
+  },
+  {
+    "id": "collective-knowledge-hensley-intrusiveness-quote-12",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Under Hensley, beyond requiring RS at the issuing department, what additional condition governs admissibility of evidence from the stop?",
+    "back": "The stop that in fact occurred must have been \"not significantly more intrusive than would have been permitted the issuing department.\"",
+    "tags": ["collective-knowledge", "hensley", "scotus", "quote", "intrusiveness-cap"],
+    "cite": "United States v. Hensley, 469 U.S. 221, 233 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111294/united-states-v-hensley/"
+  },
+  {
+    "id": "collective-knowledge-hensley-scope-inherit-13",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Hensley intrusiveness ceiling: what scope does the acting officer inherit from the source?",
+    "back": "The acting officer inherits only the scope the source's quantum would justify; escalating beyond an RS stop on the strength of a flyer issued only on RS is unsupported.",
+    "tags": ["collective-knowledge", "hensley", "scotus", "intrusiveness-cap", "scope"],
+    "cite": "United States v. Hensley, 469 U.S. 221, 233 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111294/united-states-v-hensley/"
+  },
+  {
+    "id": "collective-knowledge-facts-to-case-flyer-14",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Which SCOTUS case governs whether a Terry stop made in objective reliance on another department's wanted flyer is lawful?",
+    "back": "United States v. Hensley, 469 U.S. 221 (1985) — the stop is lawful only if the issuing department had reasonable suspicion grounded in articulable facts.",
+    "tags": ["collective-knowledge", "hensley", "scotus", "facts-to-case", "flyer"],
+    "cite": "United States v. Hensley, 469 U.S. 221 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111294/united-states-v-hensley/"
+  },
+  {
+    "id": "collective-knowledge-holding-to-case-radio-bulletin-15",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Which case holds that an officer may act on a police radio bulletin and assume the issuer had PC, but that fellow-officer reliance cannot insulate an arrest if the issuer in fact lacked PC?",
+    "back": "Whiteley v. Warden, 401 U.S. 560 (1971).",
+    "tags": ["collective-knowledge", "whiteley", "scotus", "holding-to-case", "radio-bulletin"],
+    "cite": "Whiteley v. Warden, 401 U.S. 560 (1971)",
+    "source": "https://www.courtlistener.com/opinion/108297/whiteley-v-warden-wyoming-state-penitentiary/"
+  },
+  {
+    "id": "collective-knowledge-vertical-definition-16",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "definition",
+    "front": "Define VERTICAL imputation under the collective-knowledge doctrine.",
+    "back": "Imputation that runs along a chain of command or communication: an officer with PC/RS issues a directive (BOLO, flyer, dispatch), and the acting officer may execute it without independently knowing the facts. Anchored in binding SCOTUS authority (Whiteley/Hensley).",
+    "tags": ["collective-knowledge", "vertical", "definition", "whiteley", "hensley"]
+  },
+  {
+    "id": "collective-knowledge-horizontal-definition-17",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "definition",
+    "front": "Define HORIZONTAL pooling under the collective-knowledge doctrine.",
+    "back": "The aggregation of facts known across cooperating officers working a common investigation to satisfy the PC/RS threshold collectively. It is largely circuit-developed and should be labeled persuasive, not a settled nationwide SCOTUS rule.",
+    "tags": ["collective-knowledge", "horizontal", "definition", "persuasive", "circuit"]
+  },
+  {
+    "id": "collective-knowledge-vertical-vs-horizontal-18",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Distinguish vertical imputation from horizontal pooling in their authority footing.",
+    "back": "Vertical (acting on a directive from an officer who has PC/RS) rests on binding SCOTUS authority (Whiteley/Hensley). Horizontal (aggregating scattered facts among cooperating officers) rests on persuasive, circuit-developed law — no single SCOTUS holding adopts a pure horizontal-pooling rule.",
+    "tags": ["collective-knowledge", "vertical", "horizontal", "distinction", "persuasive"]
+  },
+  {
+    "id": "collective-knowledge-scope-of-doctrine-19",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "To what categories of police action does the collective-knowledge doctrine apply (beyond seizures of persons)?",
+    "back": "It supplies the who-knew-what layer beneath PC/RS and imputes the quantum across officers, applying to searches, warrants, and arrests — not only to seizures of persons.",
+    "tags": ["collective-knowledge", "scope", "searches", "warrants", "arrests"]
+  },
+  {
+    "id": "collective-knowledge-pitfall-bolo-cure-20",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Common pitfall: does a BOLO, flyer, dispatch, or warrant request create probable cause or reasonable suspicion?",
+    "back": "No. It merely transmits whatever the issuer actually had. If suppression litigation traces the bulletin back to an empty factual basis, the seizure falls (Whiteley; Hensley).",
+    "tags": ["collective-knowledge", "pitfall", "bolo", "whiteley", "hensley"]
+  },
+  {
+    "id": "collective-knowledge-pitfall-traffic-stop-21",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Common pitfall in dispatch-driven traffic stops: how good is the acting officer's stop?",
+    "back": "The acting officer's stop is only as good as the issuer's underlying basis; if the dispatch traces back to no factual basis, the stop is invalid.",
+    "tags": ["collective-knowledge", "pitfall", "traffic-stops", "dispatch"]
+  },
+  {
+    "id": "collective-knowledge-pitfall-conflate-prongs-22",
+    "page": "collective-knowledge",
+    "topic": "Collective Knowledge and the Fellow-Officer Rule",
+    "type": "qa",
+    "front": "Common pitfall: why should instructors not present pooled-knowledge (horizontal) theories as SCOTUS-blessed?",
+    "back": "Vertical reliance on a directive is anchored in binding SCOTUS authority, but horizontal aggregation of scattered facts among on-scene officers rests on persuasive circuit law; the two prongs must be kept separate.",
+    "tags": ["collective-knowledge", "pitfall", "vertical", "horizontal", "persuasive"]
+  }
+]

@@ -1,0 +1,438 @@
+[
+  {
+    "id": "special-needs-administrative-searches-doctrine-rule-01",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What is the core analytical method of the special-needs doctrine (as distinct from a warrant exception)?",
+    "back": "It is a free-standing reasonableness balance: the government's special interest (beyond ordinary law enforcement) weighed against the individual's privacy intrusion — not a warrant-and-probable-cause inquiry.",
+    "tags": ["special-needs-administrative-searches", "doctrine", "reasonableness-balancing"]
+  },
+  {
+    "id": "special-needs-administrative-searches-doctrine-trigger-02",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "cloze",
+    "front": "Special-needs analysis is triggered when a search or seizure serves a {{c1::special need beyond the normal need for ordinary law enforcement}}.",
+    "back": "a special need beyond the normal need for ordinary law enforcement",
+    "tags": ["special-needs-administrative-searches", "doctrine", "trigger"]
+  },
+  {
+    "id": "special-needs-administrative-searches-edmond-gate-03",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Under City of Indianapolis v. Edmond, what is the threshold 'gate' for any suspicionless checkpoint or program?",
+    "back": "Purpose. If the program's primary purpose is ordinary crime control, it fails — no matter how favorably the reasonableness balance comes out.",
+    "tags": ["special-needs-administrative-searches", "edmond", "purpose-gate", "checkpoint"],
+    "cite": "City of Indianapolis v. Edmond, 531 U.S. 32 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118391/city-of-indianapolis-v-edmond/"
+  },
+  {
+    "id": "special-needs-administrative-searches-edmond-holding-04",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did the Court hold in City of Indianapolis v. Edmond about a drug-interdiction checkpoint?",
+    "back": "A checkpoint program whose primary purpose is ordinary crime control (here, drug interdiction) is unconstitutional; suspicionless checkpoints require a purpose beyond the general interest in crime control.",
+    "tags": ["special-needs-administrative-searches", "edmond", "checkpoint"],
+    "cite": "City of Indianapolis v. Edmond, 531 U.S. 32 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118391/city-of-indianapolis-v-edmond/"
+  },
+  {
+    "id": "special-needs-administrative-searches-edmond-quote-05",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "In City of Indianapolis v. Edmond, how did the Court phrase why the narcotics checkpoint failed?",
+    "back": "\"Because the primary purpose of the Indianapolis narcotics checkpoint program is to uncover evidence of ordinary criminal wrongdoing, the program contravenes the Fourth Amendment.\"",
+    "tags": ["special-needs-administrative-searches", "edmond", "quote", "purpose-gate"],
+    "cite": "City of Indianapolis v. Edmond, 531 U.S. 32, 41-42 (2000)",
+    "source": "https://www.courtlistener.com/opinion/118391/city-of-indianapolis-v-edmond/"
+  },
+  {
+    "id": "special-needs-administrative-searches-sitz-holding-06",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did Michigan Dept. of State Police v. Sitz hold about DUI sobriety checkpoints?",
+    "back": "Suspicionless sobriety (DUI) checkpoints are constitutional; the state's interest in combating drunk driving outweighs the brief, minimal intrusion on motorists.",
+    "tags": ["special-needs-administrative-searches", "sitz", "checkpoint", "dui"],
+    "cite": "Michigan Dept. of State Police v. Sitz, 496 U.S. 444 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112459/michigan-department-of-state-police-v-sitz/"
+  },
+  {
+    "id": "special-needs-administrative-searches-sitz-vs-edmond-07",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Distinguish the checkpoint upheld in Sitz from the one struck down in Edmond.",
+    "back": "Sitz upheld a sobriety checkpoint (special purpose: highway safety / drunk-driving). Edmond struck down a drug-interdiction checkpoint because its primary purpose was ordinary crime control — even if it operated exactly like a lawful Sitz checkpoint.",
+    "tags": ["special-needs-administrative-searches", "sitz", "edmond", "distinction", "checkpoint"]
+  },
+  {
+    "id": "special-needs-administrative-searches-lidster-holding-08",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did Illinois v. Lidster hold about an information-seeking checkpoint?",
+    "back": "An information-seeking checkpoint — stopping motorists to ask whether they witnessed an earlier crime committed by someone else — is constitutional; it is not aimed at determining the stopped drivers' own wrongdoing.",
+    "tags": ["special-needs-administrative-searches", "lidster", "checkpoint", "information-seeking"],
+    "cite": "Illinois v. Lidster, 540 U.S. 419 (2004)",
+    "source": "https://www.courtlistener.com/opinion/131154/illinois-v-lidster/"
+  },
+  {
+    "id": "special-needs-administrative-searches-lidster-vs-edmond-09",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Why does the Lidster information-seeking checkpoint survive the Edmond purpose gate, even though it concerns a crime?",
+    "back": "Lidster's purpose was to gather information about a crime committed by someone else (the stopped drivers as potential witnesses), not to detect the stopped drivers' own ordinary criminal wrongdoing — so it is not 'ordinary crime control' in the Edmond sense.",
+    "tags": ["special-needs-administrative-searches", "lidster", "edmond", "distinction", "checkpoint"],
+    "cite": "Illinois v. Lidster, 540 U.S. 419 (2004)",
+    "source": "https://www.courtlistener.com/opinion/131154/illinois-v-lidster/"
+  },
+  {
+    "id": "special-needs-administrative-searches-tlo-holding-10",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What standard governs a public-school official's search of a student under New Jersey v. T.L.O.?",
+    "back": "Reasonableness under all the circumstances — justified at its inception and reasonably related in scope — not a warrant or probable cause.",
+    "tags": ["special-needs-administrative-searches", "tlo", "schools", "reasonableness"],
+    "cite": "New Jersey v. T.L.O., 469 U.S. 325 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111301/new-jersey-v-t-l-o/"
+  },
+  {
+    "id": "special-needs-administrative-searches-tlo-test-11",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "State the two-part T.L.O. test for the reasonableness of a school search (verbatim).",
+    "back": "\"Determining the reasonableness of any search involves a twofold inquiry: first, one must consider 'whether the . . . action was justified at its inception,' . . . second, one must determine whether the search as actually conducted 'was reasonably related in scope to the circumstances which justified the interference in the first place'.\"",
+    "tags": ["special-needs-administrative-searches", "tlo", "schools", "test", "quote"],
+    "cite": "New Jersey v. T.L.O., 469 U.S. 325, 341 (1985)",
+    "source": "https://www.courtlistener.com/opinion/111301/new-jersey-v-t-l-o/"
+  },
+  {
+    "id": "special-needs-administrative-searches-tlo-prong1-12",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "cloze",
+    "front": "T.L.O. prong one asks whether the search was {{c1::justified at its inception}}.",
+    "back": "justified at its inception",
+    "tags": ["special-needs-administrative-searches", "tlo", "schools", "test"]
+  },
+  {
+    "id": "special-needs-administrative-searches-tlo-prong2-13",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "cloze",
+    "front": "T.L.O. prong two asks whether the search as conducted was {{c1::reasonably related in scope to the circumstances which justified the interference in the first place}}.",
+    "back": "reasonably related in scope to the circumstances which justified the interference in the first place",
+    "tags": ["special-needs-administrative-searches", "tlo", "schools", "test"]
+  },
+  {
+    "id": "special-needs-administrative-searches-vernonia-holding-14",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did Vernonia School District 47J v. Acton hold about drug testing student athletes?",
+    "back": "Suspicionless random drug testing of public-school student athletes is reasonable under the special-needs doctrine, given athletes' reduced privacy expectations and the school's interest in deterring drug use.",
+    "tags": ["special-needs-administrative-searches", "vernonia", "schools", "drug-testing"],
+    "cite": "Vernonia School District 47J v. Acton, 515 U.S. 646 (1995)",
+    "source": "https://www.courtlistener.com/opinion/117964/vernonia-school-district-47j-v-acton/"
+  },
+  {
+    "id": "special-needs-administrative-searches-earls-holding-15",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "How did Board of Education v. Earls extend Vernonia?",
+    "back": "Earls upheld suspicionless drug testing of all students participating in competitive extracurricular activities (not just athletes) as a reasonable special-needs search.",
+    "tags": ["special-needs-administrative-searches", "earls", "vernonia", "schools", "drug-testing"],
+    "cite": "Board of Education v. Earls, 536 U.S. 822 (2002)",
+    "source": "https://www.courtlistener.com/opinion/121171/board-of-education-of-independent-school-district-no-92-of-pottawatomie/"
+  },
+  {
+    "id": "special-needs-administrative-searches-griffin-holding-16",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did Griffin v. Wisconsin hold about searching a probationer's home?",
+    "back": "A warrantless search of a probationer's home pursuant to a valid regulation is reasonable on 'reasonable grounds'; probation is a special need permitting departure from the warrant/PC requirement.",
+    "tags": ["special-needs-administrative-searches", "griffin", "probation"],
+    "cite": "Griffin v. Wisconsin, 483 U.S. 868 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111959/griffin-v-wisconsin/"
+  },
+  {
+    "id": "special-needs-administrative-searches-knights-holding-17",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did United States v. Knights hold about searching a probationer subject to a search condition?",
+    "back": "A warrantless search of a probationer subject to a search condition, supported by reasonable suspicion, is reasonable under the Fourth Amendment — even where the purpose is investigatory/law enforcement.",
+    "tags": ["special-needs-administrative-searches", "knights", "probation", "reasonable-suspicion"],
+    "cite": "United States v. Knights, 534 U.S. 112 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118468/united-states-v-knights/"
+  },
+  {
+    "id": "special-needs-administrative-searches-knights-quote-18",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What was the precise holding language in United States v. Knights?",
+    "back": "\"We therefore hold that the warrantless search of Knights, supported by reasonable suspicion and authorized by a condition of probation, was reasonable within the meaning of the Fourth Amendment.\"",
+    "tags": ["special-needs-administrative-searches", "knights", "probation", "quote"],
+    "cite": "United States v. Knights, 534 U.S. 112, 122 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118468/united-states-v-knights/"
+  },
+  {
+    "id": "special-needs-administrative-searches-samson-holding-19",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did Samson v. California hold about searching a parolee?",
+    "back": "A suspicionless search of a parolee subject to a search condition is reasonable; a parolee has severely diminished privacy expectations, so officers need no individualized suspicion.",
+    "tags": ["special-needs-administrative-searches", "samson", "parole", "suspicionless"],
+    "cite": "Samson v. California, 547 U.S. 843 (2006)",
+    "source": "https://www.courtlistener.com/opinion/145640/samson-v-california/"
+  },
+  {
+    "id": "special-needs-administrative-searches-knights-vs-samson-20",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Distinguish United States v. Knights from Samson v. California on the suspicion required.",
+    "back": "Knights upholds a probation search on reasonable suspicion (even for a law-enforcement purpose); Samson goes further and upholds a suspicionless search of a parolee, who has especially diminished privacy. Do not assume parole rules govern probationers, or vice versa.",
+    "tags": ["special-needs-administrative-searches", "knights", "samson", "distinction", "probation", "parole"]
+  },
+  {
+    "id": "special-needs-administrative-searches-camara-holding-21",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did Camara v. Municipal Court hold about administrative code inspections?",
+    "back": "Administrative inspections of private property generally require a warrant, but it may be an 'area warrant' issued on reasonable legislative/administrative standards rather than individualized probable cause.",
+    "tags": ["special-needs-administrative-searches", "camara", "administrative-inspection", "area-warrant"],
+    "cite": "Camara v. Municipal Court, 387 U.S. 523 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107473/camara-v-municipal-court-of-city-and-county-of-san-francisco/"
+  },
+  {
+    "id": "special-needs-administrative-searches-burger-test-22",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "State the three-part New York v. Burger test for a warrantless inspection of a closely regulated business.",
+    "back": "(1) a substantial government interest underlying the regulatory scheme; (2) the warrantless inspection is necessary to further that scheme; and (3) the statute provides a constitutionally adequate substitute for a warrant.",
+    "tags": ["special-needs-administrative-searches", "burger", "closely-regulated-industry", "test"],
+    "cite": "New York v. Burger, 482 U.S. 691 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111927/new-york-v-burger/"
+  },
+  {
+    "id": "special-needs-administrative-searches-burger-facts-23",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Which case upheld a warrantless administrative inspection of an automobile junkyard as a closely (pervasively) regulated business?",
+    "back": "New York v. Burger (1987).",
+    "tags": ["special-needs-administrative-searches", "burger", "closely-regulated-industry", "facts-to-case"],
+    "cite": "New York v. Burger, 482 U.S. 691 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111927/new-york-v-burger/"
+  },
+  {
+    "id": "special-needs-administrative-searches-patel-holding-24",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did City of Los Angeles v. Patel hold about a hotel guest-registry inspection ordinance?",
+    "back": "The ordinance is facially unconstitutional because it gives operators no opportunity for pre-compliance review before an impartial decisionmaker; hotels are not a closely regulated industry.",
+    "tags": ["special-needs-administrative-searches", "patel", "administrative-inspection", "pre-compliance-review"],
+    "cite": "City of Los Angeles v. Patel, 576 U.S. 409 (2015)",
+    "source": "https://www.courtlistener.com/opinion/2810524/los-angeles-v-patel/"
+  },
+  {
+    "id": "special-needs-administrative-searches-patel-precompliance-25",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "cloze",
+    "front": "Under City of Los Angeles v. Patel, an administrative-inspection regime is facially invalid absent an opportunity for {{c1::pre-compliance review}} before an impartial decisionmaker.",
+    "back": "pre-compliance review",
+    "tags": ["special-needs-administrative-searches", "patel", "administrative-inspection"],
+    "cite": "City of Los Angeles v. Patel, 576 U.S. 409 (2015)",
+    "source": "https://www.courtlistener.com/opinion/2810524/los-angeles-v-patel/"
+  },
+  {
+    "id": "special-needs-administrative-searches-skinner-holding-26",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did Skinner v. Railway Labor Executives' Ass'n hold about drug/alcohol testing of railway employees?",
+    "back": "Suspicionless drug/alcohol testing of railway employees after accidents is reasonable under the special-needs doctrine.",
+    "tags": ["special-needs-administrative-searches", "skinner", "drug-testing", "employment"],
+    "cite": "Skinner v. Railway Labor Executives' Ass'n, 489 U.S. 602, 614 (1989)",
+    "source": "https://www.courtlistener.com/opinion/112219/skinner-v-railway-labor-executives-assn/"
+  },
+  {
+    "id": "special-needs-administrative-searches-vonraab-holding-27",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did National Treasury Employees Union v. Von Raab hold about drug testing Customs employees?",
+    "back": "Suspicionless drug testing of Customs employees seeking drug-interdiction or firearm-carrying positions is reasonable under the special-needs doctrine.",
+    "tags": ["special-needs-administrative-searches", "von-raab", "drug-testing", "employment"],
+    "cite": "National Treasury Employees Union v. Von Raab, 489 U.S. 656 (1989)",
+    "source": "https://www.courtlistener.com/opinion/112220/national-treasury-employees-union-v-von-raab/"
+  },
+  {
+    "id": "special-needs-administrative-searches-chandler-holding-28",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Why did the suspicionless drug-testing program fail in Chandler v. Miller?",
+    "back": "Georgia's drug-testing requirement for candidates for state office was unconstitutional — there was no concrete, special need beyond a symbolic show of commitment to the war on drugs.",
+    "tags": ["special-needs-administrative-searches", "chandler", "drug-testing", "no-special-need"],
+    "cite": "Chandler v. Miller, 520 U.S. 305 (1997)",
+    "source": "https://www.courtlistener.com/opinion/118100/chandler-v-miller/"
+  },
+  {
+    "id": "special-needs-administrative-searches-ferguson-holding-29",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Why did the drug-testing program fail in Ferguson v. City of Charleston?",
+    "back": "Covertly testing pregnant patients and reporting results to police is an unreasonable search; the special-needs exception does NOT apply when the program's immediate objective is to generate evidence for law enforcement.",
+    "tags": ["special-needs-administrative-searches", "ferguson", "drug-testing", "no-special-need", "purpose-gate"],
+    "cite": "Ferguson v. City of Charleston, 532 U.S. 67 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118414/ferguson-v-city-of-charleston/"
+  },
+  {
+    "id": "special-needs-administrative-searches-chandler-vs-ferguson-30",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Distinguish why drug testing failed in Ferguson v. City of Charleston versus Chandler v. Miller.",
+    "back": "Ferguson failed because the immediate objective was generating evidence for police (an ordinary law-enforcement purpose). Chandler failed because the asserted need was only symbolic, not a real, concrete special need.",
+    "tags": ["special-needs-administrative-searches", "ferguson", "chandler", "distinction", "drug-testing"]
+  },
+  {
+    "id": "special-needs-administrative-searches-king-holding-31",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did Maryland v. King hold about taking a DNA cheek swab from an arrestee?",
+    "back": "Taking a buccal (cheek) DNA swab from a person arrested for a serious offense and held in custody is a reasonable booking procedure under the Fourth Amendment.",
+    "tags": ["special-needs-administrative-searches", "king", "dna", "booking"],
+    "cite": "Maryland v. King, 569 U.S. 435, 465-66 (2013)",
+    "source": "https://www.courtlistener.com/opinion/873669/maryland-v-king/"
+  },
+  {
+    "id": "special-needs-administrative-searches-opperman-holding-33",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did South Dakota v. Opperman hold about a vehicle inventory search?",
+    "back": "An inventory search of a lawfully impounded vehicle conducted under standard police procedures, and not as a pretext concealing an investigatory motive, is reasonable under the Fourth Amendment.",
+    "tags": ["special-needs-administrative-searches", "opperman", "inventory", "caretaking"],
+    "cite": "South Dakota v. Opperman, 428 U.S. 364 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109537/south-dakota-v-opperman/"
+  },
+  {
+    "id": "special-needs-administrative-searches-bertine-holding-34",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What did Colorado v. Bertine hold about opening closed containers during an inventory?",
+    "back": "Inventory searches (including opening closed containers) are permissible where police discretion is exercised according to standardized criteria and on the basis of something other than suspicion of evidence of criminal activity.",
+    "tags": ["special-needs-administrative-searches", "bertine", "inventory", "closed-containers"],
+    "cite": "Colorado v. Bertine, 479 U.S. 367 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111788/colorado-v-bertine/"
+  },
+  {
+    "id": "special-needs-administrative-searches-bertine-quote-35",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "In Colorado v. Bertine, what condition must constrain an officer's discretion during an inventory?",
+    "back": "Discretion is permissible \"so long as that discretion is exercised according to standard criteria and on the basis of something other than suspicion of evidence of criminal activity.\"",
+    "tags": ["special-needs-administrative-searches", "bertine", "inventory", "quote", "standardized-criteria"],
+    "cite": "Colorado v. Bertine, 479 U.S. 367, 375-76 (1987)",
+    "source": "https://www.courtlistener.com/opinion/111788/colorado-v-bertine/"
+  },
+  {
+    "id": "special-needs-administrative-searches-wells-holding-36",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What invalidates an inventory search under Florida v. Wells?",
+    "back": "Departing from standardized procedures, or using the inventory as a 'ruse for a general rummaging' to discover incriminating evidence. Standardized criteria or established routine must govern the opening of containers.",
+    "tags": ["special-needs-administrative-searches", "wells", "inventory", "standardized-criteria"],
+    "cite": "Florida v. Wells, 495 U.S. 1 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112412/florida-v-wells/"
+  },
+  {
+    "id": "special-needs-administrative-searches-wells-quote-37",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What is the Florida v. Wells 'ruse for rummaging' rule (verbatim)?",
+    "back": "\"[A]n inventory search must not be a ruse for a general rummaging in order to discover incriminating evidence. The policy or practice governing inventory searches should be designed to produce an inventory.\"",
+    "tags": ["special-needs-administrative-searches", "wells", "inventory", "quote"],
+    "cite": "Florida v. Wells, 495 U.S. 1, 4 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112412/florida-v-wells/"
+  },
+  {
+    "id": "special-needs-administrative-searches-inventory-nature-38",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "What is the essential nature of an inventory search (Opperman / Bertine / Wells), and what does it turn on?",
+    "back": "It is a caretaking, not investigatory, function. Its validity turns on standardized procedures rather than officer discretion or suspicion of evidence.",
+    "tags": ["special-needs-administrative-searches", "inventory", "doctrine", "caretaking"]
+  },
+  {
+    "id": "special-needs-administrative-searches-camara-vs-burger-39",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Distinguish the administrative-inspection rule of Camara from the closely-regulated-industry rule of Burger.",
+    "back": "Camara still requires a warrant for routine code inspections (but on area-based standards, not individualized PC). Burger recognizes a no-warrant exception for closely regulated businesses (substantial interest + necessity to the scheme + adequate warrant substitute).",
+    "tags": ["special-needs-administrative-searches", "camara", "burger", "distinction", "administrative-inspection"]
+  },
+  {
+    "id": "special-needs-administrative-searches-pitfall-checkpoint-40",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Common pitfall: why is it wrong to treat any orderly, brief checkpoint as automatically valid?",
+    "back": "Edmond makes the program's primary purpose dispositive. A 'drug checkpoint' or general crime-control roadblock is unconstitutional even if conducted exactly like a lawful Sitz sobriety checkpoint — you must articulate the special purpose first.",
+    "tags": ["special-needs-administrative-searches", "pitfall", "edmond", "checkpoint", "purpose-gate"]
+  },
+  {
+    "id": "special-needs-administrative-searches-pitfall-pc-41",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Common pitfall: what is wrong with importing a probable-cause requirement into special-needs analysis?",
+    "back": "Special needs is a reasonableness balance, not a probable-cause inquiry — importing a PC requirement misstates the standard. But 'reasonableness' is not a blank check: Chandler and Ferguson require a real, concrete need that is not ordinary law enforcement.",
+    "tags": ["special-needs-administrative-searches", "pitfall", "reasonableness-balancing", "probable-cause"]
+  },
+  {
+    "id": "special-needs-administrative-searches-pitfall-warrant-42",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Common pitfall: why is it inaccurate to call special needs a 'warrant exception' in the usual sense?",
+    "back": "It is a free-standing balancing test. Some sub-areas (administrative inspections under Camara) still require a special kind of warrant; others (testing, parole searches) require none. You must match the rule to the specific sub-area.",
+    "tags": ["special-needs-administrative-searches", "pitfall", "doctrine", "warrant-exception"]
+  },
+  {
+    "id": "special-needs-administrative-searches-pitfall-inventory-43",
+    "page": "special-needs-administrative-searches",
+    "topic": "Special Needs and Administrative Searches",
+    "type": "qa",
+    "front": "Common pitfall: what voids an inventory search when officers treat it as an investigative tool?",
+    "back": "Deviating from the written, standardized inventory policy — or using the inventory as a pretext to hunt for evidence — voids the inventory under Wells and Bertine.",
+    "tags": ["special-needs-administrative-searches", "pitfall", "inventory", "wells", "bertine"]
+  }
+]

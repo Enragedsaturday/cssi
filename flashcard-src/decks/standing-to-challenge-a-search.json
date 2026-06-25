@@ -1,0 +1,292 @@
+[
+  {
+    "id": "standing-to-challenge-a-search-rule-personal-01",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Core rule of Fourth Amendment \"standing\": whose rights can a defendant assert when moving to suppress?",
+    "back": "Only his own. Fourth Amendment rights are personal; a defendant may move to suppress only if his own legitimate expectation of privacy (or possessory interest) was invaded — he cannot ride on someone else's invaded rights.",
+    "tags": ["standing-to-challenge-a-search", "personal-rights", "doctrine"]
+  },
+  {
+    "id": "standing-to-challenge-a-search-rakas-holding-02",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "What did Rakas v. Illinois hold about Fourth Amendment \"standing\"?",
+    "back": "4A rights are personal; the question is whether the defendant's own legitimate expectation of privacy was infringed, not bare \"standing.\" Car passengers with no possessory interest cannot challenge a search of the car.",
+    "tags": ["standing-to-challenge-a-search", "rakas", "personal-rights"],
+    "cite": "Rakas v. Illinois, 439 U.S. 128 (1978)",
+    "source": "https://www.courtlistener.com/opinion/109953/rakas-v-illinois/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-rakas-quote-vicarious-03",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "cloze",
+    "front": "Rakas v. Illinois: \"Fourth Amendment rights are personal rights which, like some other constitutional rights, may not be {{c1::vicariously asserted}}.\"",
+    "back": "vicariously asserted",
+    "tags": ["standing-to-challenge-a-search", "rakas", "personal-rights", "quote"],
+    "cite": "Rakas v. Illinois, 439 U.S. at 133-134",
+    "source": "https://www.courtlistener.com/opinion/109953/rakas-v-illinois/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-rakas-reframe-04",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "How did Rakas reframe the \"standing\" inquiry — is it a threshold standing question or part of the merits?",
+    "back": "It folded \"standing\" into the merits: the protection depends not on a property right in the invaded place but on whether the person claiming protection has a legitimate expectation of privacy in the invaded place. The Katz reasonable-expectation test defines whose rights were invaded.",
+    "tags": ["standing-to-challenge-a-search", "rakas", "katz", "merits"],
+    "cite": "Rakas v. Illinois, 439 U.S. at 143",
+    "source": "https://www.courtlistener.com/opinion/109953/rakas-v-illinois/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-rakas-quote-invaded-place-05",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "cloze",
+    "front": "Rakas (quoting Katz): capacity to claim 4A protection depends not upon a property right in the invaded place but upon whether the person has a {{c1::legitimate expectation of privacy}} in the invaded place.",
+    "back": "legitimate expectation of privacy",
+    "tags": ["standing-to-challenge-a-search", "rakas", "katz", "quote"],
+    "cite": "Rakas v. Illinois, 439 U.S. at 143",
+    "source": "https://www.courtlistener.com/opinion/109953/rakas-v-illinois/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-katz-test-06",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "What test from Katz v. United States supplies the measure for whether a defendant has standing to challenge a search?",
+    "back": "The reasonable-expectation-of-privacy test: electronic eavesdropping that invades a justified expectation of privacy is a search even without a physical trespass. Katz's reasonable-expectation test defines whose privacy rights were invaded.",
+    "tags": ["standing-to-challenge-a-search", "katz", "reasonable-expectation"],
+    "cite": "Katz v. United States, 389 U.S. 347, 351, 361 (1967) (Harlan, J., concurring)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-salvucci-holding-07",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "What did United States v. Salvucci do to \"automatic standing\"?",
+    "back": "It abolished automatic standing. A defendant charged with a possessory crime must show his own 4A rights were violated — possession of the seized goods is not enough.",
+    "tags": ["standing-to-challenge-a-search", "salvucci", "automatic-standing"],
+    "cite": "United States v. Salvucci, 448 U.S. 83 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110325/united-states-v-salvucci/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-salvucci-quote-08",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "cloze",
+    "front": "Salvucci: \"defendants charged with crimes of possession may only claim the benefits of the exclusionary rule if their own Fourth Amendment rights have in fact been violated. The automatic standing rule of Jones v. United States ... is therefore {{c1::overruled}}.\"",
+    "back": "overruled",
+    "tags": ["standing-to-challenge-a-search", "salvucci", "jones", "quote", "overruled"],
+    "cite": "United States v. Salvucci, 448 U.S. at 85",
+    "source": "https://www.courtlistener.com/opinion/110325/united-states-v-salvucci/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-salvucci-facts-09",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Which SCOTUS case held that a defendant charged with a possessory crime can no longer suppress merely by virtue of being charged with possession of the seized item?",
+    "back": "United States v. Salvucci (1980) — it overruled Jones's automatic-standing rule; the defendant must show his own legitimate expectation of privacy in the area searched was violated.",
+    "tags": ["standing-to-challenge-a-search", "salvucci", "facts-to-case"],
+    "cite": "United States v. Salvucci, 448 U.S. 83 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110325/united-states-v-salvucci/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-rawlings-holding-10",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Why did the defendant in Rawlings v. Kentucky lack standing despite owning the drugs?",
+    "back": "Owning the seized item is not enough; he had no reasonable expectation of privacy in the place searched — a companion's purse — so he could not challenge its search.",
+    "tags": ["standing-to-challenge-a-search", "rawlings", "place-vs-item"],
+    "cite": "Rawlings v. Kentucky, 448 U.S. 98 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110326/rawlings-v-kentucky/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-rawlings-facts-11",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "A defendant owns the drugs that police find inside a companion's purse. Which case held he has no standing to challenge the purse's search?",
+    "back": "Rawlings v. Kentucky (1980) — ownership of the contraband did not create a reasonable expectation of privacy in the purse (the place searched).",
+    "tags": ["standing-to-challenge-a-search", "rawlings", "facts-to-case", "place-vs-item"],
+    "cite": "Rawlings v. Kentucky, 448 U.S. 98 (1980)",
+    "source": "https://www.courtlistener.com/opinion/110326/rawlings-v-kentucky/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-place-vs-item-12",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Place searched vs. item seized: which one establishes standing, per Rawlings and Salvucci?",
+    "back": "The place searched. A defendant must establish a privacy or possessory interest in the place searched, not the loot. Owning the contraband neither defeats nor establishes standing.",
+    "tags": ["standing-to-challenge-a-search", "rawlings", "salvucci", "place-vs-item", "distinction"]
+  },
+  {
+    "id": "standing-to-challenge-a-search-olson-holding-13",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "What did Minnesota v. Olson hold about an overnight guest's standing?",
+    "back": "An overnight guest has a reasonable expectation of privacy in his host's home and therefore standing to challenge a warrantless entry to arrest him.",
+    "tags": ["standing-to-challenge-a-search", "olson", "overnight-guest"],
+    "cite": "Minnesota v. Olson, 495 U.S. 91 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112416/minnesota-v-olson/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-olson-facts-14",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Which case established that an overnight guest in someone else's home may challenge a warrantless police entry?",
+    "back": "Minnesota v. Olson (1990) — overnight-guest status confers a reasonable expectation of privacy in the host's home.",
+    "tags": ["standing-to-challenge-a-search", "olson", "facts-to-case", "overnight-guest"],
+    "cite": "Minnesota v. Olson, 495 U.S. 91 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112416/minnesota-v-olson/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-carter-holding-15",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "What did Minnesota v. Carter hold about a short-term visitor present to bag drugs?",
+    "back": "A short-term visitor present in another's home for a purely commercial purpose (bagging drugs), with no prior relationship and no overnight stay, has no legitimate expectation of privacy there and cannot challenge the police observation.",
+    "tags": ["standing-to-challenge-a-search", "carter", "transient-visitor"],
+    "cite": "Minnesota v. Carter, 525 U.S. 83 (1998)",
+    "source": "https://www.courtlistener.com/opinion/118249/minnesota-v-carter/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-carter-facts-16",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Which case held that visitors present in an apartment only briefly for a commercial drug-bagging errand have no reasonable expectation of privacy there?",
+    "back": "Minnesota v. Carter (1998) — no prior relationship, no overnight stay, purely commercial purpose = no standing.",
+    "tags": ["standing-to-challenge-a-search", "carter", "facts-to-case", "transient-visitor"],
+    "cite": "Minnesota v. Carter, 525 U.S. 83 (1998)",
+    "source": "https://www.courtlistener.com/opinion/118249/minnesota-v-carter/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-olson-vs-carter-17",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "How do Minnesota v. Olson and Minnesota v. Carter differ on standing in another's home?",
+    "back": "Olson — an overnight guest HAS a reasonable expectation of privacy in the host's home; Carter — a short-term commercial visitor bagging drugs does NOT. The contrast turns on duration, relationship to the householder, and purpose.",
+    "tags": ["standing-to-challenge-a-search", "olson", "carter", "distinction", "overnight-guest", "transient-visitor"]
+  },
+  {
+    "id": "standing-to-challenge-a-search-byrd-holding-18",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "What did Byrd v. United States hold about a driver not listed on a rental agreement?",
+    "back": "A driver in lawful possession and control of a rental car generally has a reasonable expectation of privacy in it, even though he is not listed as an authorized driver on the rental agreement.",
+    "tags": ["standing-to-challenge-a-search", "byrd", "rental-car"],
+    "cite": "Byrd v. United States, 584 U.S. 395 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4497658/byrd-v-united-states/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-byrd-rental-contract-19",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Under Byrd, is not being listed on the rental contract dispositive of whether the driver has standing to challenge a search of the rental car?",
+    "back": "No. Not being on the rental contract is not dispositive; an unauthorized-but-lawful driver can still hold a reasonable expectation of privacy in the car. Standing is the threshold before any automobile-exception question about the lawfulness of the search.",
+    "tags": ["standing-to-challenge-a-search", "byrd", "rental-car", "automobile-exception"],
+    "cite": "Byrd v. United States, 584 U.S. 395 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4497658/byrd-v-united-states/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-brendlin-holding-20",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Under Brendlin v. California, what can a vehicle passenger challenge when a car is stopped?",
+    "back": "When a car is stopped, a passenger is seized just as the driver is, and so may challenge the constitutionality of the stop itself.",
+    "tags": ["standing-to-challenge-a-search", "brendlin", "passenger", "stop"],
+    "cite": "Brendlin v. California, 551 U.S. 249, 251, 263 (2007)",
+    "source": "https://www.courtlistener.com/opinion/145712/brendlin-v-california/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-brendlin-vs-rakas-21",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Distinguish what a car passenger may challenge under Brendlin from what Rakas denies a passenger.",
+    "back": "Brendlin: a passenger is seized by the stop and may attack the STOP itself. Rakas: standing to challenge a SEARCH of the car still turns on the passenger's own privacy/possessory interest — being a mere passenger does not confer it. Keep the stop and the search distinct.",
+    "tags": ["standing-to-challenge-a-search", "brendlin", "rakas", "distinction", "passenger"]
+  },
+  {
+    "id": "standing-to-challenge-a-search-threshold-remedy-22",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Why does standing matter as a threshold to the exclusionary remedy?",
+    "back": "Without standing, even an unlawful search yields no suppression for this defendant — he cannot invoke the exclusionary rule because his own 4A rights were not violated.",
+    "tags": ["standing-to-challenge-a-search", "exclusionary-rule", "doctrine", "why"]
+  },
+  {
+    "id": "standing-to-challenge-a-search-pitfall-ownership-23",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Common pitfall: officers and prosecutors say \"it's his dope, so he can't complain it was found.\" Why is that backwards?",
+    "back": "Per Salvucci and Rawlings, owning the seized item neither defeats nor establishes standing. The question is the expectation of privacy in the place searched, not who owns the item.",
+    "tags": ["standing-to-challenge-a-search", "salvucci", "rawlings", "pitfall", "place-vs-item"]
+  },
+  {
+    "id": "standing-to-challenge-a-search-pitfall-constructive-possession-24",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Common pitfall: is constructive possession (or willful blindness) the same as Fourth Amendment standing?",
+    "back": "No. Constructive possession and willful blindness are substantive criminal-law / mens-rea concepts going to guilt — not standing rules. A defendant can constructively possess contraband for conviction yet lack any expectation of privacy in the place it was found, and vice versa.",
+    "tags": ["standing-to-challenge-a-search", "pitfall", "constructive-possession"]
+  },
+  {
+    "id": "standing-to-challenge-a-search-jones-history-25",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "HISTORY: what two standing doctrines did Jones v. United States (1960) create, and are they still good law?",
+    "back": "Jones created (1) \"automatic standing\" for those charged with possessory offenses and (2) the broader \"legitimately on the premises\" standing. Neither is good law: automatic standing was overruled by Salvucci (1980), and the \"legitimately on premises\" rule was rejected by Rakas (1978). Cite Jones only as history.",
+    "tags": ["standing-to-challenge-a-search", "jones", "history", "overruled", "automatic-standing"],
+    "cite": "Jones v. United States, 362 U.S. 257 (1960)",
+    "source": "https://www.courtlistener.com/opinion/106022/jones-v-united-states/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-jones-quote-history-26",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "HISTORY (no longer good law): what was the now-rejected Jones rule that \"anyone legitimately on premises ... may challenge\" a search?",
+    "back": "Jones said \"anyone legitimately on premises where a search occurs may challenge its legality by way of a motion to suppress, when its fruits are proposed to be used against him.\" Rakas rejected this rule; record it only as superseded history.",
+    "tags": ["standing-to-challenge-a-search", "jones", "history", "overruled", "quote"],
+    "cite": "Jones v. United States, 362 U.S. at 267",
+    "source": "https://www.courtlistener.com/opinion/106022/jones-v-united-states/"
+  },
+  {
+    "id": "standing-to-challenge-a-search-overruled-by-27",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Which modern cases superseded Jones's two standing doctrines, and which superseded which?",
+    "back": "Salvucci (1980) overruled Jones's \"automatic standing\"; Rakas (1978) rejected Jones's \"legitimately on the premises\" standing.",
+    "tags": ["standing-to-challenge-a-search", "jones", "salvucci", "rakas", "overruled", "history"]
+  },
+  {
+    "id": "standing-to-challenge-a-search-byrd-vs-rakas-vehicle-28",
+    "page": "standing-to-challenge-a-search",
+    "topic": "Standing to Challenge a Search",
+    "type": "qa",
+    "front": "Contrast vehicle standing: Rakas passenger vs. Byrd driver — who has a reasonable expectation of privacy to challenge a car search?",
+    "back": "Rakas: a passenger with no possessory interest cannot challenge the search of a car. Byrd: a driver in lawful possession and control of a rental car generally can, even if not on the rental agreement. Lawful control of the vehicle is the key.",
+    "tags": ["standing-to-challenge-a-search", "rakas", "byrd", "distinction", "rental-car", "passenger"]
+  }
+]
