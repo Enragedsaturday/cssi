@@ -49,13 +49,6 @@ flowchart LR
   E --> F["1789–91<br/>4th Amendment<br/>Madison / ratified"]
 ```
 
-## Flashcards
-- What is a writ of assistance?::A general customs search warrant — transferable to any officer and non-expiring — letting revenue officers search any suspected place for smuggled goods at their discretion. Challenged in Paxton's Case (Mass. 1761).
-- Why does Paxton's Case (1761) matter?::James Otis argued against the writs of assistance ("a man's house is his castle"); John Adams was present and later wrote "then and there the child Independence was born." It is the colonial spark for the Fourth Amendment.
-- What did Entick v. Carrington (1765) hold, and why does it matter to the 4A?::Lord Camden held a general warrant to ransack a home and seize papers illegal and void — government may not search or seize without specific legal authority. SCOTUS (*Boyd*) calls it "one of the landmarks of English liberty" and the chief antecedent of the Fourth Amendment.
-- Where does the phrase "unreasonable searches and seizures" come from?::The Massachusetts Constitution of 1780, art. XIV, drafted by John Adams; it supplied the formulation the Fourth Amendment adopted.
-- Are Paxton, Wilkes, and Entick binding U.S. precedent?::No — they are English/colonial legal history (not in U.S. case-law databases). Their authority in U.S. courts flows through SCOTUS cases that adopt them, e.g., *Boyd v. United States* (1886) and *Riley v. California* (2014).
-
 ## Sources
 - *Boyd v. United States*, 116 U.S. 616, 624–30 (1886) — https://www.courtlistener.com/opinion/91573/boyd-v-united-states/ *(founding history; quotes Otis, Adams, Wilkes verdicts, and Lord Camden's Entick judgment)*
 - *Riley v. California*, 573 U.S. 373, 403 (2014) — https://www.courtlistener.com/opinion/2680439/riley-v-california/ *(modern reaffirmation of the writs-of-assistance / general-warrant history)*

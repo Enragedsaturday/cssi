@@ -27,8 +27,3 @@ An effective CSSI instructor pairs genuine command of the material with a servic
 - **#5 and #6 protect the learning.** A class that fears being insulted or that catches an instructor bluffing stops engaging; candor and respect keep the room asking the questions that make the training stick.
 - **#1–#4 are table stakes.** Mastery, energy, commitment, and clarity are what earn the room's trust in the first place — without them, the doctrine never lands.
 - **#10 is mastery turned outward.** Predicting questions and confusions is what separates a presenter from a teacher: you cannot pre-empt a confusion you have not anticipated, so this principle is really #1 (subject mastery) applied to the *students'* likely misunderstandings.
-
-## Flashcards
-- What is the analytical habit that anchors every doctrine in CSSI?::"Facts matter — change the facts, change the outcome." Nothing is decided in the abstract; the facts drive the result.
-- What does "make good case law" mean for an instructor?::Teach officers to act so their conduct produces good, defensible precedent — not the bad cases that hurt the field.
-- What should you do when a student asks something you don't know?::Admit it, then find out — "let me get back to you." Bluffing destroys credibility.

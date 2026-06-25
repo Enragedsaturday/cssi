@@ -32,6 +32,20 @@ Exigent circumstances are an exception to [[The Warrant Requirement]]: police ma
 | *Mitchell v. Wisconsin*, 588 U.S. 840 (2019) (plurality op.) | Where a DUI driver's unconsciousness forces hospitalization, police may almost always order a warrantless blood draw under exigency. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/9231242/mitchell-v-wisconsin/) |
 | *Brigham City v. Stuart*, 547 U.S. 398 (2006) | Emergency aid: police may enter a home without a warrant on an objectively reasonable basis to believe an occupant is seriously injured or imminently threatened. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/145654/brigham-city-v-stuart/) |
 
+## Related cases across doctrines
+
+These cases are treated in full elsewhere but bear on this doctrine, framed here for the exigent-circumstances and hot-pursuit analysis.
+
+| Case | Relevance to exigent circumstances / hot pursuit | Primary treatment | CourtListener |
+| --- | --- | --- | --- |
+| *Payton v. New York*, 445 U.S. 573 (1980) | Warrantless, nonconsensual entry into a suspect's own home to make a routine felony arrest is presumptively unreasonable — this is the baseline the exigency exception must overcome; absent a warrant, only a genuine exigency (or consent) justifies the entry. | [[Arrest in the Home]] | [opinion](https://www.courtlistener.com/opinion/110235/payton-v-new-york/) |
+| *Steagald v. United States*, 451 U.S. 204 (1981) | To enter a third party's home to seize the subject of an arrest warrant, police need a search warrant "absent exigent circumstances or consent" — the case that expressly carves out exigency as the alternative to the warrant. | [[Arrest in the Home]] | [opinion](https://www.courtlistener.com/opinion/110464/steagald-v-united-states/) |
+| *Mincey v. Arizona*, 437 U.S. 385 (1978) | There is no "murder scene" exigency exception: the seriousness of the offense does not by itself create exigency; warrantless entry must rest on a genuine emergency, and any further search needs a warrant. | [[Community Caretaking and Emergency Aid]] | [opinion](https://www.courtlistener.com/opinion/109905/mincey-v-arizona/) |
+| *Caniglia v. Strom*, 593 U.S. 194 (2021) | There is no freestanding "community caretaking" exception for the home; warrantless home entries on safety/welfare grounds must be justified, if at all, under the exigent-circumstances/emergency-aid doctrine — channeling these entries into this analysis. | [[Community Caretaking and Emergency Aid]] | [opinion](https://www.courtlistener.com/opinion/4883694/caniglia-v-strom/) |
+| *Michigan v. Fisher*, 558 U.S. 45 (2009) (per curiam) | Applies the life-and-safety branch of exigency: a warrantless home entry is reasonable where it is objectively reasonable to believe an occupant is injured or imminently threatened. | [[Community Caretaking and Emergency Aid]] | [opinion](https://www.courtlistener.com/opinion/1755/michigan-v-fisher/) |
+| *Illinois v. McArthur*, 531 U.S. 326 (2001) | Exigency short of full entry: with PC that a home contains contraband and a genuine risk of imminent destruction, police may temporarily restrain a resident from re-entering while they obtain a warrant — a measured response to the evidence-destruction exigency. | [[Securing the Scene]] | [opinion](https://www.courtlistener.com/opinion/118405/illinois-v-mcarthur/) |
+| *Segura v. United States*, 468 U.S. 796 (1984) | Officers may secure premises from within pending a warrant where there is a risk that evidence will be destroyed or removed; illustrates exigency justifying a temporary occupation/freeze rather than an immediate full search. | [[Securing the Scene]] | [opinion](https://www.courtlistener.com/opinion/111259/segura-v-united-states/) |
+
 ## Nuances & limits
 
 - **Hot pursuit begun in public continues inside.** *Santana* holds that "a suspect may not defeat an arrest which has been set in motion in a public place ... by the expedient of escaping to a private place" (427 U.S. at 43), and that "the pursuit here ended almost as soon as it began did not render it any the less a 'hot pursuit'" (427 U.S. at 43). See [[Arrest in the Home]] for the doorway/threshold line.
@@ -63,13 +77,12 @@ flowchart TD
   G -- No --> I[Entry reasonable]
 ```
 
-## Flashcards
+## Recent developments & subsequent treatment
 
-What exigency did *Warden v. Hayden* (1967) recognize?:: Hot pursuit — a warrantless entry and search of a house for a fleeing armed robber is valid where the exigencies of the situation made that course imperative.
-Under *United States v. Santana* (1976), can a suspect defeat a public arrest by retreating into the home?:: No — a suspect may not defeat an arrest set in motion in a public place by escaping to a private one; hot pursuit justifies the warrantless entry that follows.
-What is the controlling rule on misdemeanor flight after *Lange v. California* (2021)?:: Pursuit of a fleeing misdemeanor suspect does not categorically justify warrantless home entry; courts make a case-by-case exigency assessment.
-What is the *Kentucky v. King* (2011) limit on police-created exigency?:: Police may rely on an exigency they created unless they created it by engaging or threatening to engage in conduct that itself violates the Fourth Amendment.
-Does *Missouri v. McNeely* (2013) make BAC dissipation a per se exigency?:: No — the natural metabolization of alcohol is not a per se exigency; warrantless DUI blood draws are judged case-by-case on the totality.
+Recent circuit law continues to apply *Hayden*/*Santana* hot-pursuit continuity and *King*'s no-manufactured-exigency rule on a fact-specific basis; the cases below are **persuasive, not binding**, and none states nationwide law — only SCOTUS does that.
+
+- **Newman v. Underhill (9th Cir. 2025)** — A nine-minute delay/loss of sight did not break the continuity of officers' "immediate and continuous" hot pursuit of a felony evader; warrantless entry into the home where the suspect was reasonably believed to be (a "fair probability") was a valid exigent hot-pursuit entry, and summary judgment for the deputies was affirmed. Applies the Ninth Circuit's immediate-and-continuous-pursuit standard — **persuasive, not binding**. [opinion](https://www.courtlistener.com/opinion/10382777/newman-v-underhill/)
+- **United States v. Meyer (8th Cir. 2021)** — Applies *Kentucky v. King* in the knock-and-talk setting: when a suspect's evasive conduct during a consensual knock-and-talk (excuses, "need to clean up," "check my email") created a risk of evidence destruction, officers did not impermissibly manufacture the exigency — "asking tough questions and closely scrutinizing the answers" does not create the exigency. Warrantless entry/seizure of devices upheld. Eighth Circuit — **persuasive, not binding**. "Just because asking tough questions and closely scrutinizing the answers could lead a suspect to destroy evidence does not mean that someone else created the exigency." [opinion](https://www.courtlistener.com/opinion/5302394/united-states-v-william-meyer/)
 
 ## Sources
 

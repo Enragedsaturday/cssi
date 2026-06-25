@@ -31,6 +31,21 @@ A traffic stop is a Fourth Amendment **seizure** of the vehicle's occupants, jus
 | *New York v. Belton*, 453 U.S. 454 (1981) | *(cross-ref — SITA)* Scope of vehicle search incident to arrest = passenger compartment + containers. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/110559/new-york-v-belton/) |
 | *Arizona v. Gant*, 556 U.S. 332 (2009) | *(cross-ref — SITA)* When vehicle SITA is allowed (two prongs). | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/145887/arizona-v-gant/) |
 
+## Related cases across doctrines
+These cases are treated in full elsewhere but bear on the law of traffic stops; each holding is framed below for this doctrine.
+
+| Case | Relevance to traffic stops | Primary treatment | CourtListener |
+|---|---|---|---|
+| *Navarette v. California*, 572 U.S. 393 (2014) | A 911 call reporting a specific dangerous-driving incident, with adequate indicia of reliability, can itself supply the reasonable suspicion to initiate the traffic stop. | [[Probable Cause and Reasonable Suspicion]] | [opinion](https://www.courtlistener.com/opinion/2670795/prado-navarette-v-california/) |
+| *Florida v. Harris*, 568 U.S. 237 (2013) | A trained/certified dog's alert during the stop furnishes probable cause to search the vehicle — the back end of the *Caballes*/*Rodriguez* dog-sniff sequence (sniff is not a search; a positive alert is PC). | [[Probable Cause and Reasonable Suspicion]] | [opinion](https://www.courtlistener.com/opinion/820744/florida-v-harris/) |
+| *Maryland v. Pringle*, 540 U.S. 366 (2003) | When drugs/cash are found in a stopped car and no occupant claims them, the officer has probable cause to arrest every occupant — the arrest authority that can follow a lawful stop. | [[Probable Cause and Reasonable Suspicion]] | [opinion](https://www.courtlistener.com/opinion/131150/maryland-v-pringle/) |
+| *Devenpeck v. Alford*, 543 U.S. 146 (2004) | Reinforces *Whren*'s objective rule: an arrest (or stop) is valid so long as the known facts give probable cause for SOME offense — the officer's stated or subjective reason is irrelevant. | [[Probable Cause and Reasonable Suspicion]] | [opinion](https://www.courtlistener.com/opinion/137733/devenpeck-v-alford/) |
+| *Illinois v. Wardlow*, 528 U.S. 119 (2000) | Unprovoked headlong flight in a high-crime area can supply the reasonable suspicion that justifies a *Terry*-type detention — the RAS predicate a stop turns on. | [[Probable Cause and Reasonable Suspicion]] | [opinion](https://www.courtlistener.com/opinion/118326/illinois-v-wardlow/) |
+| *United States v. Hensley*, 469 U.S. 221 (1985) | An officer may make a *Terry*/traffic-type investigatory stop in objective reliance on a wanted flyer or bulletin from another department, if the issuing agency had reasonable suspicion — supplies the RAS basis for a stop via collective knowledge. | [[Collective Knowledge and the Fellow-Officer Rule]] | [opinion](https://www.courtlistener.com/opinion/111294/united-states-v-hensley/) |
+| *Whiteley v. Warden*, 401 U.S. 560 (1971) | An officer may stop/arrest on the strength of a radio bulletin assuming the issuer had cause — but if the originating agency lacked it, the stop is invalid; the limit on bulletin-based stops. | [[Collective Knowledge and the Fellow-Officer Rule]] | [opinion](https://www.courtlistener.com/opinion/108297/whiteley-v-warden-wyoming-state-penitentiary/) |
+| *Riley v. California*, 573 U.S. 373 (2014) | If a stop ripens into an arrest and a phone is seized, its digital contents may NOT be searched incident to that arrest — a warrant is required; the digital limit on what the stop-then-arrest authorizes. | [[Search Incident to Arrest]] | [opinion](https://www.courtlistener.com/opinion/2680439/riley-v-cal-united-states/) |
+| *Utah v. Strieff*, 579 U.S. 232 (2016) | Discovery of a valid pre-existing arrest warrant during an UNLAWFUL stop is an intervening circumstance that can attenuate the taint — the suppression backstop when a stop is bad. | [[The Exclusionary Rule]] | [opinion](https://www.courtlistener.com/opinion/8137990/utah-v-strieff/) |
+
 ## Nuances & limits
 - **Pretext doesn't matter — the test is objective (*Whren*).** The officer's real reason for the stop is constitutionally beside the point:
   > "We think these cases foreclose any argument that the constitutional reasonableness of traffic stops depends on the actual motivations of the individual officers involved. … Subjective intentions play no role in ordinary, probable-cause Fourth Amendment analysis." — *Whren*, 517 U.S. at 813.
@@ -78,6 +93,13 @@ A traffic stop is a Fourth Amendment **seizure** of the vehicle's occupants, jus
 - **Assuming handcuffs end the weapon threat.** For a *Terry* protective search (*Vinton*) they don't — the detainee may be released back to the car. Contrast SITA, where *Gant*'s secured-arrestee limit **does** apply.
 - **Mistake-of-law overreach.** *Heien* is narrow: only **objectively reasonable** legal mistakes count. An officer's ignorance of clear, settled law does not validate the stop.
 
+## Recent developments & subsequent treatment
+The *Rodriguez* "mission" framework continues to drive the modern caselaw, with the live battleground being how strictly the lower courts police "mission creep" — when unrelated questioning or checks add time to a stop. The Supreme Court has also recently sharpened the reasonableness inquiry that governs force used to effect a seizure. Persuasive circuit law below illustrates the divide but does not bind nationally.
+
+- **Barnes v. Felix (SCOTUS 2025)** — Rejects the Fifth Circuit's "moment of threat" rule: the reasonableness of force used to effect a seizure is judged on the totality of the circumstances, an inquiry that "has no time limit" and may consider the events leading up to the use of force, not just the isolated instant of danger. Unanimously vacated the Fifth Circuit's moment-of-threat doctrine, so courts may consider earlier facts bearing on how a reasonable officer would respond. ⚖ Circuit split (resolved). "Most notable here, the 'totality of the circumstances' inquiry into a use of force has no time limit." 605 U.S. at 80. [opinion](https://www.courtlistener.com/opinion/10584846/barnes-v-felix/).
+- **United States v. Cole (7th Cir. 2021) (en banc)** — En banc Seventh Circuit holds that travel-plan questions ordinarily fall WITHIN the "mission" of a traffic stop under *Rodriguez*, so asking them does not by itself unlawfully prolong the stop; affirmed denial of suppression. The decision both resolves an intra-circuit conflict and confirms a genuine post-*Rodriguez* split over how strictly to police "mission creep": circuits divide on whether brief travel-plan/itinerary questioning is within the stop's mission (permissive: 7th/3d/5th/9th/11th, per the *Cole* majority's survey) vs. a stricter reading requiring that the questioning not add any time absent independent RAS (the *Cole* dissent and some state high courts). *Rodriguez*, 575 U.S. 348 (2015), remains the controlling anchor and good law. **Persuasive Seventh Circuit only, not binding.** ⚖ Circuit split. [opinion](https://www.courtlistener.com/opinion/5307612/united-states-v-janhoi-cole/).
+- **United States v. Mayville (10th Cir. 2020)** — A Triple-I criminal-history check during a speeding stop is a "negligibly burdensome" officer-safety inquiry within the stop's mission under *Rodriguez*, so it did not unlawfully prolong the stop; denial of suppression AFFIRMED. Reasonableness, not efficiency, is the touchstone. **Persuasive Tenth Circuit only, not binding.** [opinion](https://www.courtlistener.com/opinion/4742862/united-states-v-mayville/).
+
 ## Visual
 ```mermaid
 flowchart TD
@@ -88,18 +110,6 @@ flowchart TD
   P -->|"Adds time, no independent RAS"| U["UNLAWFUL — mission exceeded<br/><i>Rodriguez</i>"]
   P -->|"No added time / independent RAS"| OK["Permissible"]
 ```
-
-## Flashcards
-- Does an officer's pretextual motive invalidate a traffic stop?::No — *Whren*: subjective intentions play no role; an objective traffic violation / PC makes the stop reasonable. Race-based enforcement is challenged under Equal Protection, not the 4A.
-- What limits how long a traffic stop may last?::Its **mission** — *Rodriguez*: the stop becomes unlawful if prolonged beyond the time reasonably required to complete the mission; the measure is whether police diligently pursued it. Unrelated tasks are fine only if they add no time.
-- Can a traffic stop rest on an officer's mistake of law?::Yes, if the mistake is **objectively reasonable** — *Heien*, 574 U.S. at 61. Ignorance of clear law does not qualify.
-- Who may an officer order out of a lawfully stopped car?::Both the driver (*Mimms*) and the passengers (*Wilson*), pending completion of the stop — a control measure, not a search, needing no separate suspicion.
-- When may police search a stopped car's passenger compartment for weapons?::On reasonable, articulable suspicion the suspect is dangerous and may reach a weapon — *Long*, 463 U.S. at 1049; scope is tied to where a weapon could be. Not abated by handcuffing the detainee (*Vinton*, persuasive). This is a *Terry* frisk, not a SITA.
-- Is a passenger seized by a traffic stop?::Yes — *Brendlin*, 551 U.S. at 251: a passenger is seized as well as the driver and so may challenge the stop's constitutionality / suppress its fruits.
-- When may an officer frisk a passenger during a stop?::Only on reasonable suspicion the passenger is **armed and dangerous** — *Johnson*, 555 U.S. at 327. Ordering a passenger out (*Wilson*) needs no suspicion; patting one down does.
-- Is a dog sniff during a lawful traffic stop a search?::No — *Caballes*, 543 U.S. at 409: it reveals only the location of contraband. The only defect is if it **prolongs** the stop (*Rodriguez*); a positive alert gives PC to search under the automobile exception.
-- Is there a fixed time limit on an investigative stop?::No — *Sharpe*, 470 U.S. at 686: the test is whether police **diligently** pursued a means of investigation likely to confirm or dispel suspicion quickly — diligence, not a stopwatch.
-- Can reasonable suspicion rest on an inference rather than direct observation?::Yes — *Glover*, 589 U.S. at 376–77: when nothing negates the inference, an officer may reasonably infer a registered owner with a revoked license is the driver and stop the car.
 
 ## Sources
 - *Terry v. Ohio*, 392 U.S. 1 (1968) — https://www.courtlistener.com/opinion/107729/terry-v-ohio/

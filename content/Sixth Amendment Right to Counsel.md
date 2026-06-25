@@ -30,6 +30,17 @@ The Sixth Amendment right to counsel attaches only at or after the initiation of
 | *Texas v. Cobb*, 532 U.S. 162, 167-68, 173 (2001) | The 6A right is offense-specific; it does not extend to uncharged offenses, even factually related ones (Blockburger same-elements test). | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/118417/texas-v-cobb/) |
 | *Kuhlmann v. Wilson*, 477 U.S. 436, 459 (1986) | A passive "listening post" informant who merely reports statements does not violate the 6A; the accused must show deliberate elicitation. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/111726/kuhlmann-v-wilson/) |
 
+## Related cases across doctrines
+These cases are treated in full on other doctrine pages, but they bear directly on the Sixth Amendment right to counsel and are framed for it here.
+
+| Case | Relevance to the Sixth Amendment right to counsel | Primary treatment | CourtListener |
+| --- | --- | --- | --- |
+| *United States v. Wade*, 388 U.S. 218, 236-37, 240-42 (1967) | A post-indictment lineup is a "critical stage" of the prosecution at which the 6A right to counsel attaches; conducting it without counsel violates the right — the lineup application of the same attachment/critical-stage rule that governs Massiah questioning. | [[Eyewitness Identification]] | [opinion](https://www.courtlistener.com/opinion/107486/united-states-v-wade/) |
+| *Gilbert v. California*, 388 U.S. 263, 272-74 (1967) | The remedy for an uncounseled post-attachment confrontation: testimony that a witness identified the accused at an uncounseled post-indictment lineup is excluded per se — a strict exclusionary rule for the 6A counsel violation (no independent-source reliability escape for the in-court reference to the tainted lineup). | [[Eyewitness Identification]] | [opinion](https://www.courtlistener.com/opinion/107487/gilbert-v-california/) |
+| *United States v. Ash*, 413 U.S. 300 (1973) | Limit on the 6A counsel right post-attachment: there is NO right to counsel at a post-indictment photographic display, because it is not a trial-like adversary confrontation of the accused — counsel attaches only at "critical stages" where the accused is personally confronted by the State. | [[Eyewitness Identification]] | [opinion](https://www.courtlistener.com/opinion/108846/united-states-v-ash/) |
+| *Illinois v. Perkins*, 496 U.S. 292 (1990) | The undercover-informant counterpart: an undercover agent posing as an inmate may elicit statements without warnings because there is no Miranda "police-dominated" coercion — but the 6A is NOT at issue because Perkins had not been charged. Frames the indispensable line: the Massiah/Henry deliberate-elicitation bar applies ONLY after the 6A attaches; before charging, a planted-informant questioning is governed by Miranda (and survives), not the 6A. | [[Miranda and Custodial Interrogation]] | [opinion](https://www.courtlistener.com/opinion/112452/illinois-v-perkins/) |
+| *Arizona v. Roberson*, 486 U.S. 675 (1988) | Contrast case for offense-specificity: the 5A Edwards bar is NOT offense-specific — once a suspect invokes counsel, police may not interrogate about ANY offense. Pair with Cobb to show the sharp divide: the 6A right is offense-specific (Cobb), while the 5A Miranda-counsel right is not (Roberson). | [[Miranda Waiver and Invocation]] | [opinion](https://www.courtlistener.com/opinion/112100/arizona-v-roberson/) |
+
 ## Nuances & limits
 - **Attachment is at charging, not arrest.** The right turns on the initiation of adversary judicial proceedings — indictment, information, arraignment, preliminary hearing — and the Court in Rothgery held the initial appearance before a magistrate triggers it, even with no prosecutor aware or involved. Mere arrest or investigative detention does not attach the 6A right.
 - **Offense-specificity (Cobb).** Attachment as to a charged offense does not bar questioning about *other* uncharged offenses, even closely related ones; the "offense" is defined by the *Blockburger* same-elements test. Officers may lawfully question a charged defendant about a separate, uncharged crime.
@@ -58,13 +69,6 @@ flowchart TD
     G -->|Yes| H[Statements admissible]
     G -->|No| I[6A violation<br/>suppress]
 ```
-
-## Flashcards
-When does the Sixth Amendment right to counsel attach?:: At or after the initiation of adversary judicial criminal proceedings — charge, preliminary hearing, indictment, information, or arraignment (Kirby); in practice at the initial appearance before a magistrate (Rothgery). Not at arrest.
-What did Texas v. Cobb hold about the scope of the 6A right?:: The right is offense-specific — it attaches only to the charged offense (defined by the Blockburger same-elements test) and not to other uncharged offenses, even factually related ones.
-What is the Massiah deliberate-elicitation rule?:: After attachment, the government may not deliberately elicit incriminating statements from the accused without counsel, even covertly and outside custody (Massiah, 377 U.S. at 206).
-How does Kuhlmann v. Wilson limit the informant rule of Henry?:: A purely passive "listening post" informant who only reports statements does not violate the 6A; the accused must show the informant took action beyond merely listening, designed to elicit the statements.
-Can Miranda warnings waive the 6A right, and what did Montejo add?:: Yes — Miranda warnings can supply a knowing and intelligent waiver for post-indictment questioning (Patterson, 487 U.S. at 300); Montejo held such a waiver is valid even after counsel is appointed, overruling Michigan v. Jackson.
 
 ## Sources
 - [Massiah v. United States, 377 U.S. 201 (1964)](https://www.courtlistener.com/opinion/106822/massiah-v-united-states/)

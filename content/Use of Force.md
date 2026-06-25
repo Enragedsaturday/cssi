@@ -19,6 +19,13 @@ Using force to make an arrest, an investigatory stop, or any other **seizure of 
 | *Tennessee v. Garner*, 471 U.S. 1 (1985) | Deadly force against an apparently unarmed, non-dangerous fleeing suspect is an **unreasonable seizure**; deadly force needs probable cause to believe the suspect poses a significant threat of death or serious physical injury. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/111397/tennessee-v-garner/) |
 | *Scott v. Harris*, 550 U.S. 372 (2007) | *Garner* is not a rigid separate test but "simply an application" of *Graham* reasonableness — there is no "magical on/off switch"; ramming a fleeing motorist who endangered the public was reasonable. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/145738/scott-v-harris/) |
 
+## Related cases across doctrines
+These cases are treated in full on other pages but bear directly on the use-of-force / objective-reasonableness inquiry, framed here for that doctrine.
+
+| Case | Relevance to use of force (objective reasonableness) | Primary treatment | CourtListener |
+|---|---|---|---|
+| *Wright v. City of Euclid*, 962 F.3d 852 (6th Cir. 2020) | Applies *Graham* objective-reasonableness to deny qualified immunity: tasing, macing, and dragging a cooperative, seated suspect during a stop was excessive on the totality — a worked circuit example of the *Graham* factors (low offense severity, no immediate threat, no active resistance) cutting against the force used. | [[Section 1983 Liability and Qualified Immunity]] | [opinion](https://www.courtlistener.com/opinion/4762133/lamar-wright-v-city-of-euclid/) |
+
 ## Nuances & limits
 - **The three named factors — "plus everything else."** Reasonableness "requires careful attention to the facts and circumstances of each particular case, including the severity of the crime at issue, whether the suspect poses an immediate threat to the safety of the officers or others, and whether he is actively resisting arrest or attempting to evade arrest by flight." *Graham*, 490 U.S. at 396. These three are **non-exclusive** — the word is "including." Force is judged on the **totality of the circumstances**, so the named factors are the starting point, not a closed checklist. This is exactly where the articulation habit pays off: name every fact that made the force reasonable, the way [[Three Golden Rules]] (Strive for Five) trains you to.
 - **On-scene perspective, not hindsight.** "The 'reasonableness' of a particular use of force must be judged from the perspective of a reasonable officer on the scene, rather than with the 20/20 vision of hindsight." *Graham*, 490 U.S. at 396.
@@ -34,6 +41,10 @@ Using force to make an arrest, an investigatory stop, or any other **seizure of 
 - **Reading *Garner* as a rigid two-part precondition for any deadly force.** *Scott* corrects this: there is no on/off switch. *Garner* is *Graham* reasonableness applied to a fleeing, non-dangerous suspect; a dangerous fleeing suspect (e.g., a reckless high-speed driver) is a different totality.
 - **Confusing the standard with liability.** *Graham* fixes the constitutional force standard; qualified immunity and § 1983 damages are separate civil questions and do not change what the Fourth Amendment requires.
 
+## Recent developments & subsequent treatment
+The Supreme Court has recently sharpened how the *Graham* reasonableness inquiry is framed, rejecting attempts to compress it into a single instant and reaffirming that force is judged on the full totality of the circumstances over time.
+- **Barnes v. Felix (SCOTUS 2025)** — Unanimously rejects the Fifth Circuit's "moment of threat" rule: the reasonableness of force used to effect a seizure is judged on the totality of the circumstances, an inquiry that "has no time limit" and may consider the events leading up to the use of force, not just the isolated instant of danger. ⚖ Circuit split (resolved: 5th Cir.'s moment-of-threat approach vs. other circuits' totality view). "Most notable here, the 'totality of the circumstances' inquiry into a use of force has no time limit." 605 U.S. at 80. [opinion](https://www.courtlistener.com/opinion/10584846/barnes-v-felix/).
+
 ## Visual
 ```mermaid
 flowchart TD
@@ -42,13 +53,6 @@ flowchart TD
   B --> D["TOTALITY —<br/>+ all other facts"]
   B --> E["Deadly force (Garner):<br/>only on PC of significant threat of<br/>death / serious injury — and it's<br/>Graham applied, no on/off switch (Scott)"]
 ```
-
-## Flashcards
-- Under what standard is force during an arrest or stop judged?::The Fourth Amendment's **objective reasonableness** standard — not substantive due process. *Graham v. Connor*, 490 U.S. 386, 395 (1989).
-- From whose perspective, and at what moment, is the force judged?::A reasonable officer on the scene at the moment force is used — "not with the 20/20 vision of hindsight." *Graham*, 490 U.S. at 396.
-- Name *Graham*'s three factors — and the catch.::Severity of the crime, immediate threat to officers/others, and active resistance or flight (490 U.S. at 396) — but they are **non-exclusive** ("including"); force is judged on the totality.
-- Does the officer's intent matter?::No — the inquiry is objective; neither evil nor good intentions change whether the force was reasonable. *Graham*, 490 U.S. at 397.
-- When is deadly force on a fleeing suspect reasonable?::Only on probable cause that the suspect poses a significant threat of death or serious physical injury. *Garner*, 471 U.S. at 3, 11 — and that is *Graham* reasonableness applied, not a rigid on/off switch. *Scott v. Harris*, 550 U.S. at 382.
 
 ## Sources
 - *Graham v. Connor*, 490 U.S. 386 (1989) — https://www.courtlistener.com/opinion/112257/graham-v-connor/

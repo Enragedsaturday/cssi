@@ -27,6 +27,17 @@ The Due Process Clause bars the use of an involuntary confession — one produce
 | *Colorado v. Connelly*, 479 U.S. 157 (1986) | Coercive police activity is a necessary predicate to involuntariness; a mentally ill suspect's internal compulsion ("voices") does not make a confession involuntary. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/111779/colorado-v-connelly/) |
 | *Frazier v. Cupp*, 394 U.S. 731, 739 (1969) | Police misrepresentation (a false claim that a codefendant had confessed) did not, by itself, render the confession involuntary. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/107913/frazier-v-cupp/) |
 
+## Related cases across doctrines
+These cases are treated in full on other doctrine pages but bear directly on due-process voluntariness, framed here for that inquiry.
+
+| Case | Relevance to due-process voluntariness | Primary treatment | CourtListener |
+|------|----------------------------------------|-------------------|---------------|
+| *Oregon v. Elstad*, 470 U.S. 298 (1985) | Voluntariness is a freestanding inquiry separate from Miranda: an initial un-warned statement that was actually voluntary does not coerce or taint a later warned confession — only genuine coercion (not a mere Miranda omission) triggers the due-process bar. | [[Miranda Waiver and Invocation]] | [opinion](https://www.courtlistener.com/opinion/111364/oregon-v-elstad/) |
+| *United States v. Patane*, 542 U.S. 630 (2004) | Reinforces that an un-warned but voluntary statement involves no due-process coercion; physical fruit of such a statement is admissible because there was no compelled/involuntary statement, only a prophylactic Miranda lapse. | [[Miranda Waiver and Invocation]] | [opinion](https://www.courtlistener.com/opinion/137003/united-states-v-patane/) |
+| *Missouri v. Seibert*, 542 U.S. 600 (2004) | The deliberate question-first/warn-later interrogation tactic targets Miranda's safeguards, but the plurality's concern with intentionally undermining a suspect's free choice sits alongside the due-process voluntariness inquiry into whether sustained interrogation overbore the will. | [[Miranda Waiver and Invocation]] | [opinion](https://www.courtlistener.com/opinion/137002/missouri-v-seibert/) |
+| *Schneckloth v. Bustamonte*, 412 U.S. 218 (1973) | Imports the confession-voluntariness framework wholesale: consent voluntariness is judged by the same totality-of-the-circumstances test the Court built from the due-process confession cases (*Brown*, *Chambers*, *Ashcraft*, *Spano*) — the canonical statement of the totality standard this doctrine uses. | [[Consent Searches]] | [opinion](https://www.courtlistener.com/opinion/108800/schneckloth-v-bustamonte/) |
+| *Brewer v. Williams*, 430 U.S. 387 (1977) | The detective's "Christian burial speech" is the classic example of psychological pressure short of force; though decided on Sixth Amendment grounds, it illustrates the same overbearing-the-will concern (cf. *Spano*) that animates due-process voluntariness review of subtle interrogation tactics. | [[Sixth Amendment Right to Counsel]] | [opinion](https://www.courtlistener.com/opinion/109624/brewer-v-williams/) |
+
 ## Nuances & limits
 - **Totality, not any single factor.** No one element is dispositive; courts weigh interrogation duration, physical deprivation, threats/promises, and the suspect's age, intelligence, and mental state together. *Ashcraft* (36 hours, deemed inherently coercive) and *Spano* (overnight psychological pressure) show that duration and sustained pressure can overbear the will even without physical force; *Brown* and *Chambers* mark the extreme end (torture, incommunicado compulsion).
 - **Police coercion is the required predicate.** *Connelly* holds: "coercive police activity is a necessary predicate to the finding that a confession is not 'voluntary' within the meaning of the Due Process Clause of the Fourteenth Amendment" (479 U.S. at 167). A suspect's mental illness, intoxication, or internal compulsion — absent police overreaching — does not make a statement involuntary, however unreliable it may be.
@@ -40,6 +51,11 @@ The Due Process Clause bars the use of an involuntary confession — one produce
 - **Ignoring the police-coercion requirement.** Officers and instructors sometimes assume any "unreliable" or "compelled-feeling" statement is involuntary. After *Connelly*, there is no due-process voluntariness problem without coercive police activity — the suspect's internal state alone is not enough.
 - **Treating any deception as automatically coercive.** Per *Frazier*, lawful interrogation tactics (e.g., a false claim that a codefendant confessed) are not per se coercive; deception is weighed in the totality, but exaggerated or unfounded fears of suppression can chill legitimate technique.
 
+## Recent developments & subsequent treatment
+The *Connelly* police-coercion predicate and the *Frazier* "deception is not per se coercion" rule remain the SCOTUS baseline, but lower federal courts continue to police where lawful technique tips over into overbearing the will — particularly distinguishing tolerated deception about facts from intolerable misrepresentations of law and false promises of leniency. The following circuit application is **persuasive, not binding** outside its circuit, and illustrates how the totality test is being run today.
+
+- **United States v. Young (10th Cir. 2020)** — Applying the *Connelly*/totality framework, the **Tenth Circuit (persuasive, not binding)** found a confession involuntary where an FBI agent falsely claimed to have spoken with the federal judge about the case and falsely promised the suspect could "buy down" / shorten his sentence with each truthful answer. The court held that while deception about facts is tolerated, misrepresentations of law and false promises of sentencing leniency are far less tolerable and here critically impaired the suspect's capacity for self-determination, overbearing his will; conviction reversed, judgment vacated, and remanded. [opinion](https://www.courtlistener.com/opinion/4766220/united-states-v-young/).
+
 ## Visual
 ```mermaid
 flowchart TD
@@ -49,13 +65,6 @@ flowchart TD
   C -- No --> V
   C -- Yes --> D[Involuntary - inadmissible]
 ```
-
-## Flashcards
-What is the federal test for whether a confession is voluntary under the Due Process Clause?::Totality of the circumstances — interrogation length, deprivation, threats/promises, and the suspect's characteristics — asking whether the suspect's will was overborne.
-What did Brown v. Mississippi (1936) establish?::That a confession extracted by physical torture is involuntary and its use to convict violates due process — the founding coerced-confession case.
-What is the Connelly (1986) requirement for an involuntary confession?::Coercive police activity is a necessary predicate; a suspect's mental illness or internal compulsion, without police overreaching, does not make a confession involuntary.
-Does Frazier v. Cupp make police deception automatically coercive?::No — falsely telling a suspect that a codefendant confessed did not, by itself, render the confession involuntary; deception is one factor in the totality.
-Under Arizona v. Fulminante, what happens when a coerced confession is wrongly admitted?::It is trial error subject to harmless-error analysis under Chapman, not automatic reversal (though on those facts the error was not harmless).
 
 ## Sources
 - [Brown v. Mississippi, 297 U.S. 278 (1936)](https://www.courtlistener.com/opinion/102604/brown-v-mississippi/)

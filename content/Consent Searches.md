@@ -23,6 +23,15 @@ Consent is a **recognized, warrant-free justification** for a search — the "C"
 | *Georgia v. Randolph*, 547 U.S. 103 (2006) | A **physically present, expressly objecting** co-occupant's refusal prevails over another tenant's consent — invalid as to the objector. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/145669/georgia-v-randolph/) |
 | *Fernandez v. California*, 571 U.S. 292 (2014) | *Randolph* applies only while the objector is **present**; once **objectively-reasonably removed** (e.g., arrested), the remaining occupant may validly consent. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/2654534/fernandez-v-california/) |
 
+## Related cases across doctrines
+These cases are treated in full on other doctrine pages, but they bear directly on consent searches and are framed for that doctrine here.
+
+| Case | Relevance to consent searches | Primary treatment | CourtListener |
+|---|---|---|---|
+| *Frazier v. Cupp*, 394 U.S. 731 (1969) | A joint user of an effect may consent to its search against the absent co-user: defendant who let cousin Rawls use and store the duffel bag "assumed the risk" Rawls would let police look inside — the assumption-of-risk root of common-authority consent that predates *Matlock*. | [[Due-Process Voluntariness of Confessions]] | [opinion](https://www.courtlistener.com/opinion/107913/frazier-v-cupp/) |
+| *United States v. Conner*, 127 F.3d 663 (8th Cir. 1997) | Voluntariness floor / *Bumper* applied: where police under color of authority demand that occupants open a motel-room door and an occupant opens it in submission rather than as a free choice, that is mere acquiescence to claimed authority, not valid consent. | [[Securing the Scene]] | [opinion](https://www.courtlistener.com/opinion/747208/united-states-v-larry-duane-conner-united-states-of-america-v-john/) |
+| *Florida v. Bostick*, 501 U.S. 429 (1991) | Consent-encounter boundary: bus-sweep consent can be voluntary even where the passenger is not free to leave; voluntariness turns on whether a reasonable person would feel free to decline the officers' requests and terminate the encounter — the totality test that no "free to refuse" advisory is required (cf. *Drayton*). | [[Knock and Talk]] | [opinion](https://www.courtlistener.com/opinion/112631/florida-v-bostick/) |
+
 ## Nuances & limits
 - **Voluntariness is the whole prong-one ballgame — and no warning is required.** Whether consent was "voluntary" or "the product of duress or coercion, express or implied, is a question of fact to be determined from the totality of all the circumstances." *Schneckloth*, 412 U.S. at 227. Knowledge of the right to refuse is merely a factor: "While knowledge of the right to refuse consent is one factor to be taken into account, the government need not establish such knowledge as the *sine qua non* of an effective consent." *Id.* Unlike *Miranda*, there is **no consent-search warning**.
 - **No "free to refuse / free to go" advisory is required either.** *Schneckloth*'s no-warning rule is concrete in the encounter context: officers "need not establish [knowledge of the right to refuse] as the *sine qua non* of an effective consent." *Drayton*, 536 U.S. at 206–07 (quoting *Schneckloth*, 412 U.S. at 227). In *Drayton*, "[a]lthough Officer Lang did not inform respondents of their right to refuse the search, he did request permission to search, and the totality of the circumstances indicates that their consent was voluntary." *Id.* at 207. Same for a traffic stop: the Fourth Amendment does not require that "a lawfully seized defendant must be advised that he is 'free to go' before his consent to search will be recognized as voluntary. We hold that it does not." *Robinette*, 519 U.S. at 35; "[I]t would be unrealistic to require police officers to always inform detainees that they are free to go before a consent to search may be deemed voluntary." *Id.* at 39–40. (*Robinette* arises in the stop context — see [[Traffic Stops]]; for the consent↔seizure boundary and when an encounter is consensual vs. a seizure, see [[Seizure of the Person]] and [[Terry Stops and Reasonable Suspicion]].)
@@ -45,6 +54,12 @@ Consent is a **recognized, warrant-free justification** for a search — the "C"
 - **Relying on "apparent authority" when a reasonable officer would doubt it.** *Rodriguez* requires the belief to be objectively reasonable; ambiguity triggers a duty to inquire.
 - **Searching over a present co-tenant's objection — or manufacturing his removal.** *Randolph*: the present objector's "no" controls. *Fernandez*: removal must be objectively reasonable, not staged to get the other tenant's "yes."
 
+## Recent developments & subsequent treatment
+The federal courts of appeals have recently applied the SCOTUS consent framework — especially *Jimeno*'s objective-scope rule — to new factual settings, including digital devices and prolonged vehicle searches. These circuit decisions are **persuasive, not binding** nationwide; only the issuing circuit is bound, and no SCOTUS consent-search case is currently pending. Newest first:
+
+- **United States v. Lewis (6th Cir. 2023)** — Applies *Jimeno*'s objective-scope rule to digital devices: a suspect's in-home consent to an officer's on-the-spot "preview" search of his laptop and phone did NOT extend to the later off-site seizure and comprehensive forensic (lab) examination of those devices — the forensic exam exceeded the scope of consent and needed an independent Fourth Amendment justification (and the court rejected a plain-view rationale for opening the seized "containers"). **Sixth Circuit — persuasive, not binding.** [opinion](https://www.courtlistener.com/opinion/9424185/united-states-v-edward-leonidas-lewis/).
+- **United States v. Carlton Williams (3d Cir. 2018)** — This is a consent-search scope case (plus a career-offender sentencing issue). The Third Circuit held that Williams's voluntary consent to search his car authorized the ~71-minute search and a canine sniff; his statements did not unambiguously withdraw or limit consent under the *Jimeno* reasonable-person standard. Denial of suppression and the Guidelines career-offender enhancement affirmed. **Third Circuit — persuasive, not binding.** [opinion](https://www.courtlistener.com/opinion/4522771/united-states-v-carlton-williams/).
+
 ## Visual
 ```mermaid
 flowchart TD
@@ -58,16 +73,6 @@ flowchart TD
   C -->|"Yes, objecting"| BLK["Blocked as to objector<br/><i>Randolph</i>"]
   C -->|"No — lawfully removed"| OK2["Remaining tenant may consent<br/><i>Fernandez</i>"]
 ```
-
-## Flashcards
-- What are the three prongs of a valid consent search?::(1) Voluntariness (totality of circumstances, no warning needed — *Schneckloth*); (2) Authority (actual common authority *Matlock* or apparent authority *Rodriguez*); (3) Scope (objective reasonableness, suspect may delimit — *Jimeno*).
-- Must police warn a person of the right to refuse before a consent search?::No — *Schneckloth*, 412 U.S. at 227: voluntariness is judged on the totality; knowledge of the right to refuse is one factor, not a prerequisite.
-- Can a handcuffed or arrested person give valid consent?::Yes — *Watson*, 423 U.S. at 424: custody alone never demonstrates coercion; it is one factor in the voluntariness totality (heavier burden in a station-house setting).
-- What is "common authority," and can it bind an absent co-occupant?::Mutual use / joint access or control (not property title); a co-occupant with it may consent against an **absent** co-occupant who assumed the risk (*Matlock*, 415 U.S. at 171 n.7).
-- How does the law treat a present, objecting co-tenant versus one who is removed?::A physically present objector's refusal defeats the other tenant's consent (*Randolph*); once the objector is objectively-reasonably removed (e.g., arrested), the remaining occupant may consent (*Fernandez*).
-- Is consent valid if a person only "agrees" after an officer says he has a warrant?::No — *Bumper*, 391 U.S. at 548–50: the government cannot meet its burden by showing mere acquiescence to a claim of lawful authority; a claimed warrant is "instinct with coercion," and "[w]here there is coercion there cannot be consent."
-- Must officers tell someone they are "free to refuse" or "free to go" before consent counts?::No — *Drayton*, 536 U.S. at 206–07 (no advisory of the right to refuse a search) and *Robinette*, 519 U.S. at 35, 39–40 (no "free to go" advisory to a stopped motorist); voluntariness is still totality-tested.
-- What does Frazier v. Cupp add to common authority?::Assumption of risk — by letting Rawls use the shared bag, the defendant "assumed the risk that Rawls would allow someone else to look inside" (*Frazier v. Cupp*, 394 U.S. at 740); a joint user can consent.
 
 ## Sources
 - *Schneckloth v. Bustamonte*, 412 U.S. 218 (1973) — https://www.courtlistener.com/opinion/108800/schneckloth-v-bustamonte/

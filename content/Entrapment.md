@@ -26,6 +26,14 @@ Entrapment is a substantive **defense to criminal liability** — not a Fourth A
 | *Mathews v. United States*, 485 U.S. 58 (1988) | A defendant may raise entrapment even while denying one or more elements of the charged offense, whenever the evidence would let a reasonable jury find entrapment. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/112012/mathews-v-united-states/) |
 | *Hampton v. United States*, 425 U.S. 484 (1976) | Neither the entrapment defense nor the Due Process Clause bars conviction of a predisposed defendant who sold government-supplied contraband; conceded predisposition defeats the defense. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/109437/hampton-v-united-states/) |
 
+## Related cases across doctrines
+These cases are treated in full elsewhere but bear on this doctrine, framed here for entrapment.
+
+| Case | Relevance to entrapment | Primary treatment | CourtListener |
+|------|-------------------------|-------------------|---------------|
+| *Illinois v. Perkins*, 496 U.S. 292 (1990) | Undercover-sting backbone: *Miranda* warnings are NOT required when an undercover agent posing as an inmate elicits statements, because the coercive atmosphere *Miranda* guards against is absent in a sting. The flip side an instructor must teach with entrapment: lawful undercover/sting tactics that furnish an opportunity are constitutional; what converts a sting into entrapment is implanting criminal design in an unpredisposed target, not the deception itself. | [[Miranda and Custodial Interrogation]] | [opinion](https://www.courtlistener.com/opinion/112452/illinois-v-perkins/) |
+| *United States v. Henry*, 447 U.S. 264 (1980) | Sixth Amendment analog to entrapment's "government engineered it" theory: by intentionally creating a situation likely to INDUCE an indicted defendant to make incriminating statements through a paid informant, the government "deliberately elicited" them in violation of the right to counsel. Distinguish from entrapment: *Henry* is a post-charge suppression rule about eliciting statements, not a predisposition defense to liability — useful for showing instructors that "the informant set him up" can implicate different doctrines depending on whether charges have attached and whether the issue is a statement or the crime itself. | [[Sixth Amendment Right to Counsel]] | [opinion](https://www.courtlistener.com/opinion/110300/united-states-v-henry/) |
+
 ## Nuances & limits
 - **Predisposition is the controlling fact.** Inducement alone is never entrapment. The dispositive question is whether the defendant was *ready and willing* before the government appeared (*Russell*, *Hampton*).
 - **The Jacobson timing rule.** Predisposition must exist *before* the government's contact. In *Jacobson*, the Court treated this as settled, noting that "the proposition that the accused must be predisposed prior to contact with law enforcement officers is so firmly established that the Government conceded the point at oral argument" (503 U.S. at 549). Government conduct cannot manufacture the very predisposition it then points to.
@@ -38,6 +46,12 @@ Entrapment is a substantive **defense to criminal liability** — not a Fourth A
 - **Applying the objective test in federal court.** Officers and instructors sometimes ask "would this tactic induce an average person?" — that is the state/objective framing. Federal law asks about *this defendant's* predisposition.
 - **Confusing entrapment with a Fourth Amendment / suppression remedy.** Entrapment does not suppress evidence; it is a **defense to liability** decided by the jury (or, when clear, as a matter of law).
 
+## Recent developments & subsequent treatment
+The *Jacobson* predisposition framework has been steadily applied in the online-sting era, where outcomes turn on the facts of the inducement rather than on any disagreement about the legal standard. The following are recent circuit applications — **persuasive, not binding** — illustrating how the two-element test (government inducement + lack of predisposition) is being worked out in attempted-enticement prosecutions. There is no pending SCOTUS case unsettling the test.
+
+- **United States v. Hanapel (8th Cir. 2024)** — Applying the two-element entrapment test (government inducement + lack of predisposition), the Eighth Circuit (**persuasive, not binding**) affirmed the conviction for attempting to entice a minor: no inducement as a matter of law where the defendant readily responded to an undercover officer posing as a 14-year-old, so a reasonable jury could reject entrapment. A contrasting fact-driven outcome under the same framework, showing the doctrine produces divergence on the facts, not a split on the legal standard. [opinion](https://www.courtlistener.com/opinion/10038262/united-states-v-james-hanapel/).
+- **United States v. Perez-Rodriguez (1st Cir. 2021)** — The First Circuit (**persuasive, not binding**) vacated the conviction and remanded for a new trial: the district court committed plain error in refusing an entrapment instruction in an online attempted-enticement sting. The agent's "bundling of licit and illicit sex into a package deal" (offering a sexual encounter combining legal sex with an adult and illegal sex with a fictitious 11-year-old) is a recognized "plus factor" that, on the evidence, could establish improper inducement (Hinkel/Gamache line), and the burden of production on both inducement and lack-of-predisposition prongs was met. *Jacobson* framework applied in the digital-sting context. [opinion](https://www.courtlistener.com/opinion/5067201/united-states-v-perez-rodriguez/).
+
 ## Visual
 ```mermaid
 flowchart TD
@@ -46,13 +60,6 @@ flowchart TD
     B -->|Yes| C[No defense — convict, even if induced]
     B -->|No| D[Entrapment — otherwise-unwilling person]
 ```
-
-## Flashcards
-- Is entrapment a suppression remedy or a substantive defense?::A substantive defense to criminal liability — it bars conviction; it does not suppress evidence.
-- What test does federal law use for entrapment?::The subjective test — it focuses on the defendant's predisposition, not merely on government inducement.
-- What is the Jacobson v. United States timing rule?::When the government induces the crime, it must prove the defendant was predisposed independent of, and prior to, the government's contact (503 U.S. at 549).
-- Under Mathews v. United States, may a defendant deny the offense and still get an entrapment instruction?::Yes — even while denying one or more elements, the defendant is entitled to the instruction if sufficient evidence could let a reasonable jury find entrapment (485 U.S. at 62).
-- Does supplying contraband to a predisposed defendant create entrapment (Hampton v. United States)?::No — neither entrapment nor due process bars convicting a predisposed defendant who sells government-supplied contraband.
 
 ## Sources
 - [Sorrells v. United States, 287 U.S. 435 (1932)](https://www.courtlistener.com/opinion/101997/sorrells-v-united-states/)

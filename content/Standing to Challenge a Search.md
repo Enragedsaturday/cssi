@@ -32,6 +32,16 @@ Fourth Amendment rights are personal. Only a defendant whose **own** legitimate 
 | *Katz v. United States*, 389 U.S. 347 (1967) | Electronic eavesdropping that invades a justified expectation of privacy is a search even without a physical trespass; supplies the reasonable-expectation test. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/107564/katz-v-united-states/) |
 | *Jones v. United States*, 362 U.S. 257 (1960) | HISTORY — created "automatic standing" and "legitimately on premises" standing; both later rejected (see Nuances). | SCOTUS — binding (historical — overruled) | [opinion](https://www.courtlistener.com/opinion/106022/jones-v-united-states/) |
 
+## Related cases across doctrines
+
+These cases are treated in full on other doctrine pages but bear directly on standing here, framed for this doctrine.
+
+| Case | Relevance to standing | Primary treatment | CourtListener |
+| --- | --- | --- | --- |
+| *Samson v. California*, 547 U.S. 843 (2006) | A parolee subject to a search condition has a severely diminished (near-zero) reasonable expectation of privacy — the REP that defines standing can be reduced to almost nothing by status. | [[Special Needs and Administrative Searches]] | [opinion](https://www.courtlistener.com/opinion/145640/samson-v-california/) |
+| *United States v. Knights*, 534 U.S. 112 (2001) | A probationer's expectation of privacy is significantly diminished by a valid search condition; status on supervision shrinks the REP that grounds any standing to object. | [[Special Needs and Administrative Searches]] | [opinion](https://www.courtlistener.com/opinion/118468/united-states-v-knights/) |
+| *Collins v. Virginia*, 584 U.S. 586 (2018) | A resident retains a full reasonable expectation of privacy in the curtilage where his vehicle is parked — the home/curtilage REP that confers standing is not dissolved by the automobile exception. | [[Automobile Exception]] | [opinion](https://www.courtlistener.com/opinion/4501697/collins-v-virginia/) |
+
 ## Nuances & limits
 
 - **It's really a merits question.** *Rakas* reframed "standing" by tying it to [[Two Definitions of Search]]: the protection of the Amendment "depends not upon a property right in the invaded place but upon whether the person who claims the protection of the Amendment has a legitimate expectation of privacy in the invaded place." (439 U.S. at 143.) The *Katz* reasonable-expectation test thus defines *whose* rights are invaded.
@@ -47,6 +57,15 @@ Fourth Amendment rights are personal. Only a defendant whose **own** legitimate 
 - **Reaching for "automatic standing."** It is gone. *Salvucci* held that "defendants charged with crimes of possession may only claim the benefits of the exclusionary rule if their own Fourth Amendment rights have in fact been violated. The automatic standing rule of *Jones v. United States* ... is therefore overruled." (448 U.S. at 85.) *Jones*'s "anyone legitimately on premises ... may challenge" rule (362 U.S. at 267) was likewise rejected by *Rakas*. Cite *Jones* only as history.
 - **Confusing constructive possession with 4A standing.** Constructive possession (and willful blindness) are *substantive criminal-law / mens-rea* concepts going to guilt — they are **not** standing rules. A defendant can constructively possess contraband for conviction purposes yet lack any expectation of privacy in the place it was found, and vice versa. See [[Abandonment]] for the related point that disclaiming an interest can forfeit standing.
 
+## Recent developments & subsequent treatment
+
+The standing inquiry — *whose* reasonable expectation of privacy was invaded — continues to be worked out at the circuit level, both for traditional places (hotels, rental cars) and for the digital data that *Carpenter* opened up. The newest front is the search-threshold question for bulk location data, where the circuits have fractured and the Supreme Court has now stepped in. The following are circuit decisions and are **persuasive, not binding**; none states nationwide law.
+
+- **United States v. Mendoza (3d Cir. 2026)** — In a precedential opinion, the Third Circuit (**persuasive, not binding**) held a hotel guest has no objectively reasonable expectation of privacy in the room roughly five hours after the posted noon checkout, absent any late-checkout arrangement or other ambiguous circumstances; lawful occupancy (and thus standing) ends when the right to occupy ends, properly extending the *Olson*/*Carter* "status on the premises" line into the hotel-checkout context. The panel did **not** adopt checkout time as a bright-line marker for all cases — it noted circuits disagree on whether a "grace period" exists for stragglers and declined to weigh in, holding only that this unambiguous five-hour case "does not raise a close question." [opinion](https://www.courtlistener.com/opinion/10771114/united-states-v-ryan-mendoza/).
+- **United States v. Chatrie (4th Cir. 2024)** — The Fourth Circuit (**persuasive, not binding**) panel (Richardson, J., joined by Wilkinson, J.; Wynn, J., dissenting) held that obtaining a short (~2 hour) window of Google Location History was **not** a Fourth Amendment search — the data is voluntarily shared (Location History is off by default/opt-in; third-party doctrine) and *Carpenter* does not extend. On rehearing en banc the court affirmed on other grounds while fracturing (equally divided) on whether a search occurred, teeing up the question now before the Supreme Court (*Chatrie*, No. 25-112, argued Apr. 27, 2026). ⚖ Circuit split. [opinion](https://www.courtlistener.com/opinion/10265776/united-states-v-okello-chatrie/).
+- **United States v. Smith (5th Cir. 2024)** — The Fifth Circuit (**persuasive, not binding**) held that obtaining Google Location History via a geofence invades a reasonable expectation of privacy and **is** a Fourth Amendment search, and that geofence warrants are "modern-day general warrants" and categorically unconstitutional regardless of probable cause — though the evidence was not suppressed under the *Leon* good-faith exception given the novelty of the technology. This squarely conflicts with the Fourth Circuit's en banc *Chatrie*. ⚖ Circuit split. "We hold that geofence warrants are modern-day general warrants and are unconstitutional under the Fourth Amendment. However, considering law enforcement's reasonable conduct in this case in light of the novelty of this type of warrant, we uphold the district court's determination that suppression was unwarranted under the good-faith exception." (110 F.4th at 838.) [opinion](https://www.courtlistener.com/opinion/10036119/united-states-v-smith/).
+- **United States v. Lyle (2d Cir. 2019)** — The Second Circuit (**persuasive, not binding**) applied *Byrd*'s "lawful possession" limit: an unlicensed driver operating a rental car without the rental company's permission is, like a car thief, unlawfully in possession and has **no** reasonable expectation of privacy — so no standing — even though the authorized renter (his girlfriend) gave him permission to drive. Reads *Byrd*'s lawful-possession requirement narrowly. The court expressly declined to decide whether an unauthorized-but-licensed driver alone would have standing. [opinion](https://www.courtlistener.com/opinion/8443943/united-states-v-lyle/).
+
 ## Visual
 
 ```mermaid
@@ -58,18 +77,6 @@ flowchart TD
   B -->|Transient visitor — Carter| N
   B -->|Lawful driver — Byrd| Y
 ```
-
-## Flashcards
-
-What does *Rakas v. Illinois* hold about Fourth Amendment "standing"?::4A rights are personal and may not be vicariously asserted; the question is whether the defendant's *own* legitimate expectation of privacy was invaded, not bare standing.
-
-After *United States v. Salvucci*, can a defendant charged with a possessory crime suppress evidence just by showing he owned the seized goods?::No — *Salvucci* abolished "automatic standing"; he must show his *own* 4A rights (an expectation of privacy in the place searched) were violated.
-
-Why did the defendant in *Rawlings v. Kentucky* lack standing despite owning the drugs?::Owning the seized item is not enough; he had no reasonable expectation of privacy in the *place* searched (a companion's purse).
-
-How do *Minnesota v. Olson* and *Minnesota v. Carter* differ on standing?::*Olson* — an overnight guest has a reasonable expectation of privacy in the host's home; *Carter* — a short-term commercial visitor bagging drugs does not.
-
-Under *Brendlin v. California*, what can a vehicle passenger challenge?::The passenger is seized by the stop and may challenge the *stop's* constitutionality, distinct from standing to challenge a *search* of the car.
 
 ## Sources
 

@@ -35,6 +35,17 @@ This page picks up *after* the warnings are given — whether warnings were requ
 | *Missouri v. Seibert*, 542 U.S. 600 (2004) | A deliberate "question-first, warn-later" two-step interrogation is invalid. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/137002/missouri-v-seibert/) |
 | *Moran v. Burbine*, 475 U.S. 412 (1986) | Waiver is valid even though police did not tell the suspect an attorney was trying to reach him; events outside his knowledge do not bear on his waiver. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/111614/moran-v-burbine/) |
 
+## Related cases across doctrines
+
+These cases are treated in full elsewhere but bear on the law of Miranda waiver and invocation, framed here for that doctrine.
+
+| Case | Relevance to Miranda waiver and invocation | Primary treatment | CourtListener |
+|------|--------------------------------------------|-------------------|---------------|
+| *Montejo v. Louisiana*, 556 U.S. 778 (2009) | A suspect may validly waive his rights and submit to police-initiated interrogation even after counsel has been appointed; the rigid *Edwards*/Miranda bar runs off the suspect's own invocation, not the mere existence of a lawyer (contrast with the Fifth Amendment *Edwards* line). | [[Sixth Amendment Right to Counsel]] | [opinion](https://www.courtlistener.com/opinion/145873/montejo-v-louisiana/) |
+| *Patterson v. Illinois*, 487 U.S. 285 (1988) | The standard Miranda warnings themselves convey enough for a knowing and intelligent waiver — the same warnings that waive the Fifth Amendment rights also suffice to waive the post-charge Sixth Amendment right to counsel for questioning. | [[Sixth Amendment Right to Counsel]] | [opinion](https://www.courtlistener.com/opinion/112127/patterson-v-illinois/) |
+| *Texas v. Cobb*, 532 U.S. 162 (2001) | The Sixth Amendment right to counsel is offense-specific — a sharp contrast to the offense-blind *Edwards*/*Roberson* bar that follows a Miranda invocation of counsel; officers must keep the two invocation regimes distinct. | [[Sixth Amendment Right to Counsel]] | [opinion](https://www.courtlistener.com/opinion/118417/texas-v-cobb/) |
+| *Colorado v. Connelly*, 479 U.S. 157 (1986) | A Miranda waiver is involuntary only where there is coercive police activity (a mentally ill suspect's "voices" do not undercut waiver), and the government's burden to prove waiver is only a preponderance of the evidence. | [[Due-Process Voluntariness of Confessions]] | [opinion](https://www.courtlistener.com/opinion/111779/colorado-v-connelly/) |
+
 ## Nuances & limits
 
 - **Waiver can be implied.** *Butler* holds an express written or oral waiver is not required — it may be inferred from the suspect's words and conduct — but **silence alone is never a waiver**, and the burden of proving waiver stays on the government. *Thompkins* applies this in practice: a suspect who stays largely silent and then answers a question after a long interrogation has impliedly waived.
@@ -50,6 +61,12 @@ This page picks up *after* the warnings are given — whether warnings were requ
 - **Treating an ambiguous lawyer reference as an invocation.** *Davis* is clear: officers may keep questioning after an equivocal statement: "But if a suspect makes a reference to an attorney that is ambiguous or equivocal in that a reasonable officer in light of the circumstances would have understood only that the suspect might be invoking the right to counsel, our precedents do not require the cessation of questioning." (512 U.S. at 459.) Officers are not even *required* to ask clarifying questions, though doing so is good practice.
 - **Confusing the two tracks.** Invoking *silence* (scrupulously-honor, re-questioning on a different crime can be permissible under *Mosley*) is not the same as invoking *counsel* (the rigid, offense-blind *Edwards* bar). Officers who treat them identically either over- or under-protect the suspect.
 
+## Recent developments & subsequent treatment
+
+The SCOTUS framework above remains the controlling law; the live federal action is in how the circuits apply *Seibert*'s fractured opinion to the deliberate "question-first, warn-later" two-step. Because *Seibert* produced no majority rationale, lower courts run it through *Marks v. United States* to find the narrowest controlling holding — and they have not agreed, leaving a persisting circuit split. No SCOTUS case is currently pending to resolve it.
+
+- **United States v. Capers (2d Cir. 2010) / United States v. Williams (9th Cir. 2006)** — Applying *Marks* to the fractured *Seibert* decision, courts must identify the narrowest controlling rationale for the deliberate "question-first, warn-later" two-step. *Williams* (9th Cir.) holds the plurality opinion "as narrowed by Justice Kennedy" controls: a postwarning confession is suppressed where police DELIBERATELY used the two-step strategy and curative measures were absent or ineffective. *Capers* (2d Cir.) is in accord, treating Kennedy's intent-based concurrence as controlling. Lower courts remain split over which *Seibert* opinion controls — the plurality's objective "effectiveness of the midstream warnings" test versus Justice Kennedy's narrower "calculated intent to undermine Miranda" test — though the clear majority of circuits (2d, 9th, and others) treat Kennedy's intent-based concurrence as the narrowest, controlling holding under *Marks*, meaning suppression turns on proof of deliberate officer intent plus the absence of curative measures. These are **circuit decisions — persuasive, not binding** nationwide. ⚖ Circuit split. "Applying the *Marks* rule to *Seibert*, we hold that a trial court must suppress postwarning confessions obtained during a deliberate two-step interrogation where the midstream Miranda warning — in light of the objective facts and circumstances — did not effectively apprise the suspect of his rights." (*Williams*, 435 F.3d at 1157-58.) [opinion](https://www.courtlistener.com/opinion/180156/united-states-v-capers/) · [opinion](https://www.courtlistener.com/opinion/793121/united-states-v-tashiri-wayne-williams/)
+
 ## Visual
 
 ```mermaid
@@ -61,14 +78,6 @@ flowchart TD
   E --> F[May seek fresh waiver]
   B -->|Invoke silence| G[Scrupulously honor / Mosley]
 ```
-
-## Flashcards
-
-- Under *North Carolina v. Butler*, can a Miranda waiver be implied?::Yes — waiver need not be express and may be inferred from words and conduct, but silence alone is never a waiver and the government bears the burden.
-- What does invoking the right to *counsel* trigger under *Edwards v. Arizona*?::A bright-line bar: police may not re-initiate interrogation until counsel is made available, unless the accused himself initiates further communication.
-- Per *Davis v. United States*, must police stop questioning after an ambiguous reference to a lawyer?::No — invocation of counsel must be unambiguous; an equivocal reference ("maybe I should talk to a lawyer") does not require cessation, and officers need not even ask clarifying questions.
-- How does *Arizona v. Roberson* differ from the Sixth Amendment right to counsel?::The Edwards/Fifth Amendment bar is NOT offense-specific — it blocks questioning on any offense; the Sixth Amendment right is offense-specific.
-- What ends Edwards protection under *Maryland v. Shatzer*?::A 14-day break in Miranda custody; release back into the general prison population counts as a break, after which police may seek a fresh waiver.
 
 ## Sources
 

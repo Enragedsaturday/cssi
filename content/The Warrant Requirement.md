@@ -35,6 +35,19 @@ A valid Fourth Amendment warrant has four parts: **probable cause**, supported b
 | *Hudson v. Michigan*, 547 U.S. 586 (2006) | A knock-and-announce violation does **not** trigger suppression of the evidence found inside. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/145646/hudson-v-michigan/) |
 | *United States v. Leon*, 468 U.S. 897 (1984) | A facially-deficient warrant may still be saved by objectively reasonable good-faith reliance — see [[The Exclusionary Rule]]. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/111262/united-states-v-leon/) |
 
+## Related cases across doctrines
+
+These cases are treated in full elsewhere but bear directly on the warrant requirement, framed here for it.
+
+| Case | Relevance to the warrant requirement | Primary treatment | CourtListener |
+| --- | --- | --- | --- |
+| *Massachusetts v. Sheppard*, 468 U.S. 981 (1984) | A warrant defective on its face (wrong pre-printed form, failing to describe the things to be seized) was nonetheless executed in objectively reasonable good faith — the *Leon* companion showing a particularity defect that good faith rescues. | [[The Exclusionary Rule]] | [opinion](https://www.courtlistener.com/opinion/111263/massachusetts-v-sheppard/) |
+| *United States v. Leary*, 846 F.2d 592 (10th Cir. 1988) | A warrant authorizing seizure of records "relating to" export-law violations, with no limiting standard, is a facially overbroad general warrant that fails the Particularity Clause — and is so plainly deficient that no good-faith reliance was reasonable. | [[The Exclusionary Rule]] | [opinion](https://www.courtlistener.com/opinion/505922/united-states-v-richard-j-leary-and-fl-kleinberg-co/) |
+| *Aguilar v. Texas*, 378 U.S. 108 (1964) | The original two-pronged test for what a warrant affidavit must show the magistrate (informant's basis of knowledge + veracity) before probable cause may issue — abrogated by *Gates*' totality approach but the historical backbone of the affidavit/probable-cause element. | [[Probable Cause and Reasonable Suspicion]] | [opinion](https://www.courtlistener.com/opinion/106865/aguilar-v-texas/) |
+| *Steagald v. United States*, 451 U.S. 204 (1981) | An arrest warrant does not authorize entry into a third party's home to seize the subject; absent exigency or consent, officers need a separate search warrant particularly describing that residence. | [[Arrest in the Home]] | [opinion](https://www.courtlistener.com/opinion/110464/steagald-v-united-states/) |
+| *Payton v. New York*, 445 U.S. 573 (1980) | A warrant requirement attaches to home entry to arrest: an arrest warrant founded on probable cause implicitly carries the limited authority to enter the suspect's own dwelling to execute it, but warrantless nonconsensual entry is presumptively unreasonable. | [[Arrest in the Home]] | [opinion](https://www.courtlistener.com/opinion/110235/payton-v-new-york/) |
+| *Riley v. California*, 573 U.S. 373 (2014) | For the digital contents of a phone the categorical answer is "get a warrant" — the decision that funnels modern cell-phone and device searches into the warrant process and drives the particularity demands now litigated for digital warrants. | [[Search Incident to Arrest]] | [opinion](https://www.courtlistener.com/opinion/2680439/riley-v-cal-united-states/) |
+
 ## Nuances & limits
 
 - **Neutral and detached magistrate.** This is the heart of the requirement. *Johnson* puts the inference in judicial hands, not the officer's. The magistrate loses that status by becoming part of the operation — in *Lo-Ji*, the issuing judge "allowed himself to become a member, if not the leader, of the search party ... he was not acting as a judicial officer but as an adjunct law enforcement officer" (442 U.S. at 327) — or by being the prosecutor himself, as the State Attorney General was in *Coolidge*. See [[Probable Cause and Reasonable Suspicion]] for what the magistrate must find.
@@ -51,6 +64,15 @@ A valid Fourth Amendment warrant has four parts: **probable cause**, supported b
 - **Acting as your own magistrate.** Drawing the probable-cause inference yourself, or having the issuing judge ride along on the search, destroys neutrality (*Johnson*; *Lo-Ji*). The reviewing official must be detached from the investigation (*Coolidge*).
 - **General or overbroad descriptions.** "All evidence of crime" or a warrant blank as to the things to be seized is facially invalid no matter how detailed the affidavit (*Groh*; *Lo-Ji*). Particularity lives on the face of the warrant.
 - **Assuming a knock-and-announce violation suppresses evidence.** It does not (*Hudson*). Officers and instructors routinely overstate the remedy — the entry may be unlawful for civil purposes while the seized evidence stays in.
+
+## Recent developments & subsequent treatment
+
+The warrant requirement's particularity and search-threshold rules are being tested hardest right now in the digital arena — geofence ("reverse-location") warrants and computer searches. The Supreme Court has taken up whether executing a geofence warrant is even a "search," and the circuits have already split on that question and on whether such warrants are categorical general warrants. The federal appellate decisions below are **persuasive, not binding** outside their own circuits.
+
+- **Chatrie v. United States** — *pending before the Supreme Court* (question: whether executing a geofence warrant for Google Location History data is a Fourth Amendment "search"). Cert granted; argued Apr. 27, 2026 (docket 25-112); not yet decided. ⚖ Circuit split. [oral argument](https://www.courtlistener.com/audio/104529/okello-t-chatrie-petitioner-v-united-states/).
+- **United States v. Holcomb (9th Cir. 2025)** — a computer-search warrant's "dominion and control" provision was both overbroad and insufficiently particular — and thus invalid — because, unlike the warrant's other clauses, it carried no temporal limitation and authorized opening any file from any time period; the good-faith exception did not save the examiner's search, and plain view did not independently justify seizure of the videos. Conviction vacated; remanded. As a Ninth Circuit decision this is **persuasive, not binding** elsewhere. [opinion](https://www.courtlistener.com/opinion/10365516/united-states-v-holcomb/).
+- **United States v. Chatrie (4th Cir. 2024, panel + en banc)** — the panel (Richardson, J., joined by Wilkinson, J.; Wynn, J. dissenting) held that obtaining a short window (~2 hours) of Google Location History was NOT a Fourth Amendment search — the data is voluntarily shared (Location History is off by default/opt-in; third-party doctrine) and *Carpenter* does not extend. On rehearing en banc, the court affirmed on other grounds while fracturing on whether a search occurred (equally divided), teeing up the SCOTUS question. As a Fourth Circuit decision this is **persuasive, not binding** elsewhere. ⚖ Circuit split. [opinion](https://www.courtlistener.com/opinion/10265776/united-states-v-okello-chatrie/).
+- **United States v. Smith (5th Cir. 2024)** — obtaining Google Location History via a geofence invades a reasonable expectation of privacy and is a Fourth Amendment search; geofence warrants are "modern-day general warrants" and categorically unconstitutional under the Fourth Amendment regardless of probable cause — though the evidence was not suppressed here under the *Leon* good-faith exception given the novelty of the technology. As a Fifth Circuit decision this is **persuasive, not binding** elsewhere. ⚖ Circuit split. "We hold that geofence warrants are modern-day general warrants and are unconstitutional under the Fourth Amendment. However, considering law enforcement's reasonable conduct in this case in light of the novelty of this type of warrant, we uphold the district court's determination that suppression was unwarranted under the good-faith exception." 110 F.4th at 838. [opinion](https://www.courtlistener.com/opinion/10036119/united-states-v-smith/).
 
 ## Visual
 
@@ -69,14 +91,6 @@ flowchart TD
   X -.Magistrate not neutral.-> G[Lo-Ji / Coolidge]
   X -.No particularity.-> H[Groh]
 ```
-
-## Flashcards
-
-What four elements does a valid Fourth Amendment warrant require?::Probable cause, oath or affirmation, a neutral and detached magistrate (the *Johnson* principle: inferences drawn by the magistrate, not the officer ferreting out crime), and particularity describing the place and the persons/things to be seized.
-*Franks v. Delaware* (1978) — when is a warrant voided?::When a knowing/intentional or reckless material falsehood, necessary to probable cause, is proven by a preponderance and the remaining affidavit is insufficient; the fruits are then excluded.
-*Groh v. Ramirez* (2004) — can a particular affidavit save a blank warrant?::No — a warrant that fails to describe the things to be seized is facially invalid even if the affidavit is particular.
-*Hudson v. Michigan* (2006) — does a knock-and-announce violation suppress evidence?::No — the exclusionary rule does not apply to knock-and-announce violations.
-*United States v. Grubbs* (2006) — what must a magistrate find for an anticipatory warrant?::That it is now probable the triggering condition will occur and that, once it does, contraband will be at the place to be searched.
 
 ## Sources
 

@@ -20,6 +20,16 @@ related: ["[[Two Definitions of Search]]", "[[Fourth Amendment Framework]]", "[[
 | *Florida v. Jardines*, 569 U.S. 1 (2013) | A front porch is curtilage; bringing a drug-dog there exceeds the **implied license** to approach and knock, so it is a trespassory search. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/856347/florida-v-jardines/) |
 | *Collins v. Virginia*, 584 U.S. 586 (2018) | The **automobile exception does not reach into curtilage** — no warrantless entry of a home or its curtilage to search a vehicle parked there. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/4501697/collins-v-virginia/) |
 
+## Related cases across doctrines
+These cases are treated in full elsewhere but bear on the curtilage doctrine, framed for it here.
+
+| Case | Relevance to curtilage | Primary treatment | CourtListener |
+|---|---|---|---|
+| *Kentucky v. King*, 563 U.S. 452 (2011) | Officers may approach a home and knock where any private citizen could — the implied-license entry onto curtilage (porch/path) is lawful, and police do not "create" an exigency merely by knocking within that license. | [[Arrest in the Home]] · [[Exigent Circumstances and Hot Pursuit]] · [[Knock and Talk]] | [opinion](https://www.courtlistener.com/opinion/216733/kentucky-v-king/) |
+| *French v. Merrill*, 15 F.4th 116 (1st Cir. 2021) | The scope of the knock-and-talk license onto curtilage is fixed by the implied social license to approach the front door; officers who exceeded it (here, a nighttime intrusion) committed a *Jardines* trespassory search of the curtilage. | [[Knock and Talk]] | [opinion](https://www.courtlistener.com/opinion/5273192/french-v-merrill/) |
+| *United States v. Santana*, 427 U.S. 38 (1976) | A suspect standing in her own open doorway/threshold is in a "public" place for Fourth Amendment purposes — marking the line where the home's curtilage protection gives way; she cannot retreat indoors to defeat a public-place arrest. | [[Arrest in the Home]] · [[Exigent Circumstances and Hot Pursuit]] | [opinion](https://www.courtlistener.com/opinion/109504/united-states-v-santana/) |
+| *United States v. Tuggle*, 4 F.4th 505 (7th Cir. 2021) | Long-term warrantless pole-camera surveillance of a home's exterior and curtilage was not a search under existing doctrine because it captured only what was publicly visible — the *Ciraolo* "lawful vantage" principle applied to fixed cameras (court flagged the looming *Carpenter* aggregation problem). | [[Plain View Doctrine]] | [opinion](https://www.courtlistener.com/opinion/4899735/united-states-v-travis-tuggle/) |
+
 ## Nuances & limits
 - **Curtilage is protected; open fields are not.** "[O]pen fields do not provide the setting for those intimate activities that the Amendment is intended to shelter from government interference or surveillance." *Oliver*, 466 U.S. at 179. Same officer, same field of marijuana — the line that decides suppression is which side of it the ground falls on.
 - **The *Dunn* four-factor test.** Curtilage questions are "resolved with particular reference to four factors: the proximity of the area claimed to be curtilage to the home, whether the area is included within an enclosure surrounding the home, the nature of the uses to which the area is put, and the steps taken by the resident to protect the area from observation by people passing by." *Dunn*, 480 U.S. at 301. Not a mechanical checklist — each bears on the central question: is the area so intimately tied to the home that it should be treated as part of it?
@@ -37,6 +47,14 @@ related: ["[[Two Definitions of Search]]", "[[Fourth Amendment Framework]]", "[[
 - Assuming a **fence or "No Trespassing" sign** converts open fields into protected space — *Oliver* says it does not.
 - Forgetting that the implied "knock-and-talk" license is **scope-limited** — overstaying or bringing investigative tools onto the porch converts a lawful approach into a search. (*Jardines*.)
 
+## Recent developments & subsequent treatment
+The curtilage and lawful-vantage rules have been tested most heavily in the lower courts over **prolonged warrantless pole-camera surveillance** of a home's exterior and curtilage. The circuits have split over whether *Carpenter*'s mosaic/aggregation theory converts months of fixed-camera watching into a Fourth Amendment "search," or whether the *Ciraolo*/*Kyllo* "publicly visible / lawful vantage" rule still controls; the Supreme Court has not resolved it (cert. denied in both *Tuggle* and *Moore-Bush*). A separate line applies *Jardines* to police out of step with the implied knock-and-talk license. All of the cases below are **circuit decisions — persuasive, not binding**, and none states nationwide law.
+
+- **United States v. Moore-Bush (1st Cir. 2022)** — En banc First Circuit divided 3-3 on whether eight months of warrantless pole-camera surveillance of a home's curtilage is a Fourth Amendment search; the tie affirmed suppression below, but the court splintered over whether *Carpenter*'s mosaic/aggregation theory expands the reasonable-expectation-of-privacy definition of "search" to long-term targeted surveillance (resolved on *Leon* good faith). **First Circuit — persuasive, not binding.** ⚖ Circuit split. [opinion](https://www.courtlistener.com/opinion/6476395/united-states-v-moore-bush/).
+- **United States v. Tuggle (7th Cir. 2021)** — Held ~18 months of warrantless pole-camera surveillance of a home's exterior/curtilage was not a search because the cameras saw only what was publicly visible; aligns the 7th (with the 5th and 6th, e.g., *May-Shaw*) on the "no search" side. Cert denied 2022, leaving the split unresolved. **Seventh Circuit — persuasive, not binding.** ⚖ Circuit split. "we hold that the extensive pole camera surveillance in this case did not constitute a search under the current understanding of the Fourth Amendment," 4 F.4th at 512. [opinion](https://www.courtlistener.com/opinion/4899735/united-states-v-travis-tuggle/).
+- **United States v. May-Shaw (6th Cir. 2020)** — Upheld 23-day warrantless pole-camera surveillance covering a carport/parking area near an apartment, reasoning there is no reasonable expectation of privacy in leaving the protected curtilage for an unprotected area visible to the public. **Sixth Circuit — persuasive, not binding.** ⚖ Circuit split. [opinion](https://www.courtlistener.com/opinion/4743325/united-states-v-christopher-may-shaw/).
+- **United States v. Lundin (9th Cir. 2016)** — Applied *Jardines* to hold a 4 a.m. knock-and-talk exceeded the implied license to approach the curtilage — both because of the unusual hour and because the officers' purpose was to arrest, not to ask questions; suppressed the resulting statements/evidence. **Ninth Circuit — persuasive, not binding.** ⚖ Circuit split. "the officers knocked on Lundin's door around 4:00 a.m. without evidence that Lundin generally accepted visitors at that hour, and without a reason for knocking that a resident would ordinarily accept as sufficiently weighty to justify the disturbance," 817 F.3d at 1159. [opinion](https://www.courtlistener.com/opinion/3187682/united-states-v-eric-lundin/).
+
 ## Visual
 ```mermaid
 flowchart TD
@@ -49,13 +67,6 @@ flowchart TD
   E -->|"exceeds license / no warrant"| S["Search<br/>needs warrant or exception"]
   O -->|"yes, e.g. from the air"| N2["Not a search · Ciraolo"]
 ```
-
-## Flashcards
-- What is curtilage?::The area immediately surrounding and associated with the home, to which home life extends; treated as part of the home for 4A purposes (*Jardines*).
-- Name *Dunn*'s four curtilage factors.::Proximity to the home; whether within an enclosure; the nature of the uses; the steps taken by the resident to protect the area from observation (480 U.S. at 301).
-- Do open fields get Fourth Amendment protection?::No — *Hester*/*Oliver*: not even fenced, posted land. Only curtilage carries the home's protection.
-- Why was the search in *Jardines* unlawful?::Bringing a drug dog onto the porch exceeded the implied license to approach, knock, wait, and leave — a trespass to gather evidence.
-- Can the automobile exception justify entering curtilage?::No — *Collins*: no warrantless entry of a home or its curtilage to search a vehicle parked there.
 
 ## Sources
 - *Hester v. United States*, 265 U.S. 57 (1924) — https://www.courtlistener.com/opinion/100413/hester-v-united-states/

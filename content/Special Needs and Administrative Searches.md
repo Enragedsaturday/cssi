@@ -41,6 +41,17 @@ When a search or seizure serves a "special need" beyond the normal need for ordi
 | *Florida v. Wells*, 495 U.S. 1 (1990) | An inventory must follow standardized procedures; unbridled discretion to rummage for evidence is invalid. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/112412/florida-v-wells/) |
 | *City of Los Angeles v. Patel*, 576 U.S. 409 (2015) | An admin-inspection regime is facially invalid absent an opportunity for pre-compliance review; hotels are not closely regulated. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/2810524/los-angeles-v-patel/) |
 
+## Related cases across doctrines
+
+These cases are treated in full elsewhere but bear directly on the special-needs and administrative-search doctrine, framed here for it.
+
+| Case | Relevance to special needs & administrative searches | Primary treatment | CourtListener |
+| --- | --- | --- | --- |
+| *Delaware v. Prouse*, 440 U.S. 648 (1979) | Random, suspicionless stops to check license/registration are unreasonable — but the Court signals that a neutral, systematic checkpoint (no officer discretion) could pass; this is the floor the special-needs checkpoint cases (*Sitz*, *Edmond*) must clear. | [[Traffic Stops]] | [opinion](https://www.courtlistener.com/opinion/110045/delaware-v-prouse/) |
+| *United States v. Martinez-Fuerte*, 428 U.S. 543 (1976) | Brief, suspicionless stops at fixed interior immigration checkpoints are reasonable on a programmatic balancing of public interest vs. minimal intrusion — the direct doctrinal ancestor of *Sitz* and the model for the no-individualized-suspicion checkpoint. | [[Border Searches]] | [opinion](https://www.courtlistener.com/opinion/109541/united-states-v-martinez-fuerte/) |
+| *Illinois v. Lafayette*, 462 U.S. 640 (1983) | Stationhouse booking inventory of an arrestee's effects (including containers) is a reasonable administrative/caretaking process — companion to the *Opperman*/*Bertine*/*Wells* inventory cluster, extending it from vehicles to the booking process. | [[Search Incident to Arrest]] | [opinion](https://www.courtlistener.com/opinion/110976/illinois-v-lafayette/) |
+| *United States v. Evans*, 937 F.2d 1534 (10th Cir. 1991) | Circuit application of the inventory rule: a bus-station inventory of a carry-on bag is valid because the officer followed standardized procedure — illustrates the standardized-criteria requirement of *Bertine*/*Wells* (persuasive). | [[Search Incident to Arrest]] | [opinion](https://www.courtlistener.com/opinion/564407/united-states-v-daryl-lee-evans/) |
+
 ## Nuances & limits
 - **The Edmond gate is purpose-based, and it comes first.** "Because the primary purpose of the Indianapolis narcotics checkpoint program is to uncover evidence of ordinary criminal wrongdoing, the program contravenes the Fourth Amendment." (531 U.S. at 41-42). A checkpoint is not valid because it is brief or orderly — it is valid only if its primary purpose is something *beyond* the general interest in crime control (DUI safety in *Sitz*; witness information in *Lidster*). *Ferguson* applies the same purpose test to drug testing: where the immediate objective is to generate evidence for law enforcement, the special-needs label fails.
 - **Schools — the T.L.O. two-part test.** "Determining the reasonableness of any search involves a twofold inquiry: first, one must consider 'whether the . . . action was justified at its inception,' . . . second, one must determine whether the search as actually conducted 'was reasonably related in scope to the circumstances which justified the interference in the first place'." (469 U.S. at 341). Suspicionless student *drug testing* is a narrower line tied to reduced privacy — athletes (*Vernonia*) and extracurricular participants (*Earls*).
@@ -55,6 +66,13 @@ When a search or seizure serves a "special need" beyond the normal need for ordi
 - **Calling it a warrant exception in the usual sense.** It is a free-standing balancing test. Some special-needs contexts (administrative inspections under *Camara*) still require a warrant of a special kind; others (testing, parole searches) require none. Match the rule to the sub-area.
 - **Using inventory authority as an investigative tool.** Deviating from the written, standardized inventory policy — or using it as a pretext to hunt for evidence — voids the inventory under *Wells* and *Bertine*.
 
+## Recent developments & subsequent treatment
+
+The special-needs and supervision-search rules continue to be applied and extended in the courts of appeals, especially as the *Knights*/*Samson* line meets digital devices and as circuits police how much record support a suspicionless supervised-release condition needs. The decisions below are circuit applications — **persuasive, not binding** — and none has been resolved by the Supreme Court.
+
+- **United States v. Payne (9th Cir. 2024)** — Extends the *Samson*/*Knights* parole-search line to digital devices: a California parolee's cell phone may be searched without individualized cause under his suspicionless parole search condition (analyzed under a *Samson*/*Knights* totality of the circumstances), and officers may compel use of his thumbprint to unlock it because the compelled biometric unlock is non-testimonial under the Fifth Amendment, akin to a fingerprint or blood draw. Ninth Circuit law — **persuasive, not binding**. [opinion](https://www.courtlistener.com/opinion/9494371/united-states-v-jeremy-payne/).
+- **United States v. Oliveras (2d Cir. 2024)** — The special-needs doctrine can support a suspicionless search condition of supervised release (supervisee's diminished expectation of privacy + effective administration of supervision as a special need), but only when supported by the record; the court vacated the condition here and remanded for an individualized assessment with on-the-record reasons under 18 U.S.C. § 3553(a). Second Circuit law — **persuasive, not binding**. [opinion](https://www.courtlistener.com/opinion/9484364/united-states-v-oliveras/).
+
 ## Visual
 ```mermaid
 flowchart TD
@@ -65,13 +83,6 @@ flowchart TD
     D -- Yes --> E[Valid: Sitz / Vernonia / Knights / Burger]
     D -- No --> F[Invalid: Chandler / Ferguson / Patel]
 ```
-
-## Flashcards
-What is the threshold "gate" for any suspicionless checkpoint under City of Indianapolis v. Edmond?::If the program's primary purpose is ordinary crime control, it is unconstitutional — regardless of how the reasonableness balance comes out.
-What standard governs a public-school official's search of a student under New Jersey v. T.L.O.?::Reasonableness — justified at its inception and reasonably related in scope — not a warrant or probable cause.
-How does United States v. Knights differ from Samson v. California on suspicion?::Knights upholds a probation search on reasonable suspicion (even for a law-enforcement purpose); Samson upholds a suspicionless search of a parolee.
-What invalidates an inventory search under Florida v. Wells?::Departing from standardized procedures or using the inventory as a "ruse for a general rummaging" to discover incriminating evidence.
-Why did drug testing fail in Ferguson v. City of Charleston and Chandler v. Miller?::Ferguson — the immediate objective was generating evidence for police (not a special need); Chandler — only a symbolic, not concrete, need existed.
 
 ## Sources
 - [Michigan Dept. of State Police v. Sitz](https://www.courtlistener.com/opinion/112459/michigan-department-of-state-police-v-sitz/)

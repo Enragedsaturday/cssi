@@ -89,20 +89,6 @@ flowchart TD
     S -.-> note
 ```
 
-## Flashcards
-
-- What are the three tiers of the federal court system, bottom to top?::U.S. District Courts (trial) → U.S. Courts of Appeals (circuits) → U.S. Supreme Court.
-- How many U.S. courts of appeals are there, and what makes up the count?::13 — the 11 numbered circuits + the D.C. Circuit (the 12 regional circuits) + the Federal Circuit (subject-matter jurisdiction).
-- Vertical vs. horizontal stare decisis?::Vertical = a court is bound by the courts above it in its line (districts bound by their circuit and SCOTUS; everyone bound by SCOTUS). Horizontal = a court follows its own prior published decisions (a circuit panel is bound by earlier panels until overruled en banc or by SCOTUS).
-- Is a U.S. District Court decision binding precedent?::No — district-court decisions are persuasive only, never binding.
-- Does a circuit's precedent bind another circuit?::No — circuit precedent binds only within that circuit; in another circuit it is merely persuasive. Disagreement between circuits is a circuit split.
-- Must a state court follow the federal court of appeals for its region on a federal question?::No — state courts are bound by SCOTUS on federal law, but not by their regional circuit. Only SCOTUS binds them federally.
-- What is the "rule of four"?::Four of the nine Justices must vote to grant certiorari for the Supreme Court to hear a case.
-- Roughly how selective is certiorari?::The Court receives several thousand petitions a term (commonly ~5,000–7,000) and grants plenary review in only about 60–80 — roughly 1%. Review is discretionary.
-- Does "cert denied" mean the Supreme Court agreed with the lower court?::No — denial of certiorari decides nothing on the merits and sets no precedent; it just leaves the lower court's decision standing.
-- Who sets the number of Justices, and what does the Constitution fix?::Congress sets the number of Associate Justices by statute (ranged 6–10; fixed at 9 since 1869). The Constitution mentions only the Chief Justice and does not fix the Court's size.
-- What did *Marbury v. Madison* (1803) establish?::Judicial review — it is "the province and duty of the judicial department to say what the law is," and a law repugnant to the Constitution is void. SCOTUS has the final word on the meaning of federal law and the Constitution.
-
 ## Sources
 
 Case authority (verified on CourtListener):

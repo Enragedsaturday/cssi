@@ -42,6 +42,14 @@ The exclusionary rule bars the government from using, in its case-in-chief, evid
 | *United States v. Leary*, 846 F.2d 592 (10th Cir. 1988) | Good faith **fails** — a **facially overbroad / general warrant** is too deficient for objectively reasonable reliance (*Leon* limit 4). | Circuit (10th) — persuasive | [link](https://www.courtlistener.com/opinion/505922/united-states-v-richard-j-leary-and-fl-kleinberg-co/) |
 | *INS v. Lopez-Mendoza*, 468 U.S. 1032 (1984) | The rule generally does **not** apply in **civil removal/deportation** proceedings (cost-benefit). | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/111265/immigration-naturalization-service-v-lopez-mendoza/) |
 
+## Related cases across doctrines
+These cases are treated in full on other doctrine pages but bear directly on the exclusionary rule; each is framed below for its bearing on suppression.
+
+| Case | Relevance to the exclusionary rule | Primary treatment | CourtListener |
+|---|---|---|---|
+| *Hudson v. Michigan*, 547 U.S. 586 (2006) | A knock-and-announce violation does **not** trigger suppression — the interests protected by knock-and-announce are not served by exclusion, and the deterrence benefits do not outweigh the costs (causation / cost-benefit limit on the rule). | [[The Warrant Requirement]] | [opinion](https://www.courtlistener.com/opinion/145646/hudson-v-michigan/) |
+| *Segura v. United States*, 468 U.S. 796 (1984) | Independent source applied: evidence seized under a valid warrant is admissible despite an earlier illegal entry, where the warrant was supported wholly by information known to police before the entry — the foundational companion to *Murray*. | [[Securing the Scene]] | [opinion](https://www.courtlistener.com/opinion/111259/segura-v-united-states/) |
+
 ## Nuances & limits
 Each exception below carries its own rule and its controlling (or illustrative) authority. Together they are the reason a Fourth Amendment violation does **not** automatically suppress.
 
@@ -81,6 +89,13 @@ Each exception below carries its own rule and its controlling (or illustrative) 
 - **Confusing inevitable discovery with independent source.** *Nix* (inevitable discovery) is about what **would** have happened lawfully; *Murray* (independent source) is about a lawful source that **actually** produced the evidence, untainted.
 - **Presenting a state case as the federal rule.** *Mitcham* is an Arizona illustration of independent source — pair it with *Murray*; never cite it as the controlling federal standard.
 
+## Recent developments & subsequent treatment
+The modern fight over the rule has migrated to digital-location evidence, where the good-faith exception keeps doing the heavy lifting: even when a court finds a Fourth Amendment violation, officers' reasonable reliance on then-valid warrants, statutes, or court orders (the *Leon*/*Krull* line) often defeats suppression. The circuits have split on the antecedent search question for geofence and Google Location History data, and that split is now before the Supreme Court. The decisions below are **circuit law — persuasive, not binding** — and none states nationwide law.
+
+- **United States v. Chatrie (4th Cir. 2024)** — The panel (Richardson, J., joined by Wilkinson, J.; Wynn, J., dissenting) held that obtaining a short (~2-hour) window of Google Location History was **not** a Fourth Amendment search — the data is voluntarily shared (Location History is off by default / opt-in; third-party doctrine) and *Carpenter* does not extend. On rehearing en banc the court affirmed on other grounds while fracturing (equally divided) on whether a search occurred, teeing up the Supreme Court question. This is **Fourth Circuit law only — persuasive, not binding** (the panel is superseded by the en banc decision, and the en banc affirmance is now under Supreme Court review in *Chatrie*, No. 25-112). ⚖ Circuit split. [opinion](https://www.courtlistener.com/opinion/10265776/united-states-v-okello-chatrie/).
+- **United States v. Smith (5th Cir. 2024)** — Obtaining Google Location History via a geofence invades a reasonable expectation of privacy and **is** a Fourth Amendment search; geofence warrants are "modern-day general warrants" and categorically unconstitutional regardless of probable cause — though the evidence was not suppressed here under the *Leon* good-faith exception given the novelty of the technology. This is **Fifth Circuit law only — persuasive, not binding**, and it creates a split with the Fourth Circuit (en banc *Chatrie*) squarely teed up before the Supreme Court in *Chatrie*, No. 25-112. ⚖ Circuit split. "We hold that geofence warrants are modern-day general warrants and are unconstitutional under the Fourth Amendment. However, considering law enforcement's reasonable conduct in this case in light of the novelty of this type of warrant, we uphold the district court's determination that suppression was unwarranted under the good-faith exception." 110 F.4th at 838. [opinion](https://www.courtlistener.com/opinion/10036119/united-states-v-smith/).
+- **United States v. Carpenter (6th Cir. 2019)** — On remand from the Supreme Court's *Carpenter* decision, the Sixth Circuit held that although acquiring CSLI without a warrant violated the Fourth Amendment, the FBI relied in good faith on a Stored Communications Act § 2703(d) order; under *Leon* as extended by *Illinois v. Krull* (reliance on a statute later held insufficient), the exclusionary rule does not apply — suppression properly denied, affirmed. The deterrence rationale fails where officers followed then-valid statutory process. This is **Sixth Circuit law — persuasive, not binding**. [opinion](https://www.courtlistener.com/opinion/4628336/united-states-v-timothy-carpenter/).
+
 ## Visual
 ```mermaid
 flowchart TD
@@ -93,18 +108,6 @@ flowchart TD
   EX -->|"Attenuation · <i>Strieff</i>/<i>Brown</i>"| ADM
   EX -->|"None"| SUP["SUPPRESS<br/>evidence + fruits<br/><i>Wong Sun</i>"]
 ```
-
-## Flashcards
-- Is the exclusionary rule a constitutional right? What is its purpose?::No — it is a **judicially-created deterrent remedy**, not a personal right; its purpose is to **deter police misconduct** (and preserve judicial integrity). *Calandra*, 414 U.S. at 348.
-- What is the modern test for whether to suppress?::A **cost-benefit** test: suppress only where deterrence benefits outweigh the substantial social costs. *Herring*, 555 U.S. at 144.
-- What does the fruit-of-the-poisonous-tree doctrine reach, and what is its limit?::Derivative evidence is suppressed if "come at by exploitation of [the] illegality" — but **not** on mere but-for causation; attenuated means purge the taint. *Wong Sun*, 371 U.S. at 487–88.
-- State the standing rule.::4A rights are **personal**; a defendant must show **his own** legitimate expectation of privacy and cannot vicariously assert others'. No standing = no suppression. *Rakas*, 439 U.S. at 133–34, 143.
-- Distinguish inevitable discovery from independent source.::Inevitable discovery (*Nix*) — evidence **would** have been found lawfully (preponderance). Independent source (*Murray*) — evidence **was** in fact later acquired through a genuinely independent lawful source.
-- What are the attenuation factors and where do they come from?::Temporal proximity · intervening circumstances · **purpose and flagrancy** of the misconduct — *Brown v. Illinois*, 422 U.S. at 603–04 (applied in *Strieff*).
-- State the good-faith exception.::Evidence obtained in **objectively reasonable reliance on a warrant** later found to lack PC is admissible — suppression would not deter. *Leon*, 468 U.S. at 922.
-- When does good faith FAIL?::*Leon*'s four limits (468 U.S. at 923): (1) knowing/reckless **false affidavit** (*Franks*); (2) magistrate **abandoned the neutral role** (*Lo-Ji Sales*); (3) **bare-bones affidavit**; (4) **facially overbroad** warrant (*Leary*).
-- Does the exclusionary rule apply in non-criminal proceedings?::Generally no — not to **grand-jury** questioning (*Calandra*) and not to **civil removal/deportation** hearings (*Lopez-Mendoza*).
-- Does a state-law violation trigger federal suppression?::No — a violation of **state law** is not itself a Fourth Amendment violation (see *Virginia v. Moore* under [[Search Incident to Arrest]]).
 
 ## Sources
 - *Weeks v. United States*, 232 U.S. 383 (1914) — https://www.courtlistener.com/opinion/98094/weeks-v-united-states/

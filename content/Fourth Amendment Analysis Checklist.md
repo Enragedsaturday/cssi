@@ -37,11 +37,5 @@ Steps 1–4 are the **threshold and standing** questions; step 5 is the **merits
 - **Asserting someone else's rights.** Standing requires the claimant's own interest. → [[Fourth Amendment Framework]]
 - **Forgetting the private-search/state-action gate.** Evidence handed over by a genuinely private party is not a Fourth Amendment problem — until the government's involvement makes the private party its agent.
 
-## Flashcards
-- What are the steps of a Fourth Amendment analysis, in order?::(1) government action? (2) protected area/interest? (3) did a search or seizure occur? (4) standing — was it the claimant's own right? (5) reasonable — C.R.E.W.?
-- Where in the analysis does C.R.E.W. come in?::Last — the reasonableness step, only after a search/seizure is established and the claimant has standing. → [[CREW]]
-- What happens if no search or seizure occurred?::The analysis ends — there is no government conduct to justify and no suppression remedy.
-- Why ask "who acted" first?::Because the Fourth Amendment only restrains the government; a purely private search is outside it unless the actor was a government agent.
-
 ## Sources
 - This is a checklist/quick-reference page. The controlling authority for each step is on the linked doctrine pages — chiefly [[Fourth Amendment Framework]], [[Two Definitions of Search]], [[Seizure of the Person]], [[Curtilage]], [[Abandonment]], and [[CREW]].

@@ -138,19 +138,6 @@ Record each case the way **this wiki itself** does, so it can be re-found and re
 
 That triple — **cite + CourtListener link + pin** — is the unit of trustworthy legal research, and it's exactly what every page in this wiki carries in its Key cases table and Sources.
 
-## Flashcards
-
-- In *Terry v. Ohio*, 392 U.S. 1, 30 (1968), what is the `30`?::The pinpoint (pin cite) — the specific page the relied-on language is on; `1` is where the opinion starts.
-- What does the reporter abbreviation `U.S.` tell you?::The case is a U.S. Supreme Court opinion in the official United States Reports.
-- Which reporters signal a U.S. Court of Appeals vs. a U.S. District Court case?::Courts of Appeals → `F.4th`/`F.3d`/`F.2d`/`F.` (with the circuit in the parenthetical); District Courts → `F. Supp. 3d`/`F. Supp. 2d`/`F. Supp.`
-- What is a parallel citation?::The same opinion reported in more than one reporter at once — e.g., a SCOTUS case in `U.S.`, `S. Ct.`, and `L. Ed. 2d`. Same case, different books.
-- What do the signals *see*, *cf.*, and *e.g.* mean?::*See* = supports by clear inference; *cf.* = supports an analogous point; *e.g.* = one of many sources stating the same thing.
-- What does `id.` refer to?::The immediately preceding authority; `id. at 30` = same source, new page.
-- Published vs. unpublished opinion — what's the practical difference?::Published opinions are precedential (binding within the jurisdiction); unpublished/per curiam dispositions may be non-precedential, persuasive-only — confirm the weight before relying on one.
-- Name three free tools for federal case-law research.::CourtListener (+ RECAP), Google Scholar (case law mode), and Justia — plus official court/SCOTUS sites, Caselaw Access Project, govinfo, and OpenJurist.
-- Why read the opinion instead of a headnote?::Headnotes are editorial summaries, not the court's words; they can mislead. Cite the court's actual language and pin to its page.
-- How does this wiki save a verified case?::As a consistent Bluebook cite + a CourtListener permalink + a pinpoint (and a one-line holding/weight note) — so it can be re-found and re-verified.
-
 ## Sources
 
 Free legal-research resources (general practice references, not case-law authority):

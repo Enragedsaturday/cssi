@@ -28,6 +28,15 @@ Two distinct federal doctrines govern challenges to eyewitness identifications. 
 | *United States v. Ash*, 413 U.S. 300 (1973) | No 6A right to counsel at a post-indictment photographic display — there is no trial-like confrontation because the accused is not present. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/108846/united-states-v-ash/) |
 | *Perry v. New Hampshire*, 565 U.S. 228, 232-33, 248 (2012) | Due-process screening of ID reliability is required only when police arranged the suggestive circumstances; absent improper police conduct, the jury and cross-examination are the safeguards. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/620671/perry-v-new-hampshire/) |
 
+## Related cases across doctrines
+
+These cases are treated in full elsewhere but bear on this doctrine; each holding is framed below for the eyewitness-identification context.
+
+| Case | Relevance to eyewitness identification | Primary treatment | CourtListener |
+| --- | --- | --- | --- |
+| *Rothgery v. Gillespie County*, 554 U.S. 191, 198, 213 (2008) | Fixes WHEN the Wade/Kirby right to counsel attaches at a lineup: the 6A attaches at the initial appearance before a magistrate where the accused learns the charge and his liberty is restricted — so a corporeal lineup conducted after that point is a critical stage requiring counsel, one before it is not. | [[Sixth Amendment Right to Counsel]] | [opinion](https://www.courtlistener.com/opinion/145785/rothgery-v-gillespie-county/) |
+| *Texas v. Cobb*, 532 U.S. 162, 167-68, 173 (2001) | The Wade right to counsel at a post-charge lineup is offense-specific: counsel is required only for a lineup concerning the charged offense; a post-charge lineup investigating a different, uncharged offense is not a critical stage and triggers no Wade/Gilbert counsel right. | [[Sixth Amendment Right to Counsel]] | [opinion](https://www.courtlistener.com/opinion/118417/texas-v-cobb/) |
+
 ## Nuances & limits
 
 - **The two doctrines are separate.** The Sixth Amendment counsel inquiry (Wade/Gilbert) and the due-process suggestiveness inquiry (Stovall/Biggers/Manson) are independent — an ID can pass one and fail the other. Tie counsel-at-lineup to attachment of the [[Sixth Amendment Right to Counsel]]. The due-process suggestiveness inquiry is a sibling of the due-process attack on confessions, the [[Due-Process Voluntariness of Confessions]] — both ask whether police conduct produced unreliable evidence.
@@ -60,18 +69,6 @@ flowchart TD
     L -->|Yes| K
     L -->|No| M[Suppress]
 ```
-
-## Flashcards
-
-- Under *Kirby v. Illinois*, when does the Sixth Amendment right to counsel at a lineup attach?::Only at or after the initiation of adversary judicial criminal proceedings (formal charge, preliminary hearing, indictment, information, or arraignment) — not pre-charge.
-
-- Why is there no Sixth Amendment right to counsel at a photographic array under *United States v. Ash*?::Because a photo display is not a trial-like confrontation — the accused is not present, so it is not a critical stage.
-
-- What are the five *Neil v. Biggers* reliability factors?::Opportunity to view, degree of attention, accuracy of prior description, level of certainty at confrontation, and time between crime and confrontation.
-
-- What is the "linchpin" of admissibility for a suggestive identification under *Manson v. Brathwaite*?::Reliability — assessed under the Biggers five-factor totality and weighed against the corrupting effect of the suggestive procedure (no per se exclusion).
-
-- When does due process require judicial screening of an eyewitness ID under *Perry v. New Hampshire*?::Only when the suggestive circumstances were arranged by law enforcement; absent improper police conduct, reliability is left to the jury and cross-examination.
 
 ## Sources
 

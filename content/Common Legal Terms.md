@@ -108,29 +108,3 @@ A working glossary of the Latin and legal terms an instructor will hit when read
 
 **Inter alia** — "among other things"; signals that a list is *not exhaustive*.
 *Example:* The motion challenges the stop on Fourth Amendment grounds, inter alia — meaning other grounds are raised too.
-
-## Flashcards
-
-Habeas corpus::A petition challenging the legality of a person's detention, demanding the custodian justify holding them.
-
-Mens rea vs. actus reus::Mens rea is the guilty mind (intent/mental state); actus reus is the guilty act (the physical conduct). Most crimes require both.
-
-Corpus delicti::The "body of the crime" — proof that a crime actually occurred, independent of who did it; a confession alone usually isn't enough.
-
-Fruit of the poisonous tree::Derivative evidence found because of an earlier illegal search or seizure; generally suppressed along with the original taint.
-
-Ex parte::A proceeding or order made with only one party present, without notice to the other (e.g., applying for a search warrant).
-
-Holding vs. dicta::The holding is the court's binding ruling on the issue presented; dicta are non-binding remarks not necessary to the decision.
-
-Prima facie::A showing strong enough to establish a fact or claim unless it's rebutted ("at first sight").
-
-Pro se vs. pro bono::Pro se = representing yourself without a lawyer; pro bono = a lawyer working for free.
-
-De facto vs. de jure::De facto = how things actually are in practice; de jure = how things are by formal legal right.
-
-Subpoena duces tecum vs. ad testificandum::Duces tecum commands producing documents or things; ad testificandum commands appearing to testify.
-
-In forma pauperis::Permission to proceed in court without paying the usual fees because the party can't afford them.
-
-Stare decisis::"To stand by things decided" — the doctrine of following precedent, which makes the court hierarchy binding.

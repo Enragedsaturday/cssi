@@ -39,11 +39,5 @@ flowchart TD
   R -->|none| SUP["Presumptively unreasonable →<br/>suppress"]
 ```
 
-## Flashcards
-- What does C.R.E.W. stand for?::Consent, Recognized Exception, or Warrant — the three justifications that make a search or seizure reasonable.
-- Where does C.R.E.W. fit in the analysis?::It is the final **reasonableness** step, after a search/seizure has been shown to occur and the claimant has standing. See [[4A Analysis]].
-- What makes a warrant valid?::Issued by a neutral magistrate, on probable cause, particularly describing the place to be searched and the things to be seized.
-- Is "Recognized Exception" a single rule?::No — it is a broad bucket of established warrant exceptions (exigency, search incident to arrest, automobile, plain view, inventory, *Terry*, etc.), each with its own elements; the full catalog is covered later.
-
 ## Sources
 - C.R.E.W. is an instructor mnemonic, not a case. Its legal backbone — the warrant requirement and its recognized exceptions — is developed in [[Fourth Amendment Framework]] and the linked doctrine pages.

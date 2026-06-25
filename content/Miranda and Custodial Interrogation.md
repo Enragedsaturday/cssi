@@ -35,6 +35,14 @@ Before *custodial interrogation*, police must warn a suspect of the Fifth Amendm
 | *New York v. Quarles*, 467 U.S. 649 (1984) | Public-safety exception: unwarned questions to neutralize an immediate danger are allowed. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/111214/new-york-v-quarles/) |
 | *Illinois v. Perkins*, 496 U.S. 292 (1990) | No warnings for an undercover/jailhouse agent — no police-dominated coercive atmosphere. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/112452/illinois-v-perkins/) |
 
+## Related cases across doctrines
+
+These cases are treated in full on other pages but bear directly on custodial interrogation, framed here for that doctrine.
+
+| Case | Relevance to Miranda and custodial interrogation | Primary treatment | CourtListener |
+| --- | --- | --- | --- |
+| *Brewer v. Williams*, 430 U.S. 387, 392-93, 399-400 (1977) | The detective's "Christian burial speech" is the textbook illustration of the functional equivalent of interrogation — words an officer should know are reasonably likely to elicit an incriminating response — even though the Court decided it on Sixth Amendment grounds (the *Innis* "functional equivalent" standard later codified the same idea for *Miranda*). | [[Sixth Amendment Right to Counsel]] | [opinion](https://www.courtlistener.com/opinion/109624/brewer-v-williams/) |
+
 ## Nuances & limits
 
 - **"Interrogation" is broader than questions.** Under *Innis*, the *Miranda* safeguards apply to "either express questioning or its functional equivalent" — defined as "any words or actions on the part of the police (other than those normally attendant to arrest and custody) that the police should know are reasonably likely to elicit an incriminating response from the suspect" (446 U.S. at 300-01). The test looks to the suspect's perceptions; on the facts, the officers' exchange about a missing shotgun near a school for handicapped children was *not* the functional equivalent of interrogation.
@@ -66,13 +74,11 @@ flowchart TD
     D -- No --> W[Miranda warnings required]
 ```
 
-## Flashcards
+## Recent developments & subsequent treatment
 
-- What two elements together trigger Miranda warnings?::Custody (objective, arrest-equivalent restraint) AND interrogation (express questioning or its functional equivalent).
-- How did Rhode Island v. Innis define "interrogation"?::Express questioning plus its functional equivalent — words/actions police should know are reasonably likely to elicit an incriminating response (other than those normally attendant to arrest and custody).
-- Is an ordinary traffic stop Miranda custody?::No. Berkemer v. McCarty holds a temporary, public traffic stop is not custody, though Miranda otherwise applies to all offenses.
-- What is the Quarles exception?::A narrow public-safety exception allowing un-Mirandized questions reasonably prompted by an immediate danger; the answers and resulting evidence are admissible.
-- Why does Dickerson v. United States matter?::It holds Miranda is a constitutional rule, so 18 U.S.C. § 3501 cannot supersede it.
+The core *Miranda* trigger (custody + interrogation) and the *Quarles* public-safety exception remain settled SCOTUS law, but the circuits continue to diverge on how far the public-safety exception reaches once an arrestee is secured. The clearest live disagreement is over whether the exception requires a true immediate exigency or extends to the generalized danger that officers might mishandle an undiscovered weapon during a search. There is no pending SCOTUS case resolving this; the lower-court authority below is persuasive only.
+
+- **United States v. Liddell (8th Cir. 2008)** — On the broad side: the Eighth Circuit held the public-safety exception to *Miranda* extends to the generalized risk that officers might unexpectedly encounter or mishandle an undiscovered weapon when searching a secured arrestee's car or apartment — even absent a true immediate exigency; questions about weapons or contraband are admissible. The opinion expressly acknowledges a circuit split (Judge Gruender concurred to criticize the broad reading as untethered from *Quarles*'s exigency requirement). Circuits remain divided on how broadly to read *New York v. Quarles*: a broad line (the Eighth Circuit prominently) extends the exception beyond a true immediate exigency, while a narrower line confines it to questions addressing an actual, immediate threat. This is **persuasive, not binding** — Eighth Circuit law only, not nationwide. ⚖ Circuit split. "Our prior cases recognized that the risk of police officers being injured by the mishandling of unknown firearms or drug paraphernalia provides a sufficient public safety basis to ask a suspect who has been arrested and secured whether there are weapons or contraband in a car or apartment that the police are about to search." (517 F.3d at 1009-10). [opinion](https://www.courtlistener.com/opinion/1461978/united-states-v-liddell/).
 
 ## Sources
 

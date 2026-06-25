@@ -59,14 +59,6 @@ flowchart TD
   CC --> BRD["Beyond reasonable doubt<br/>conviction"]
 ```
 
-## Flashcards
-
-- What does Golden Rule #1 say, and what is "Strive for Five"?::The more you articulate *why*, the more likely the action is upheld; reasonableness turns on articulable facts (*Terry*, 392 U.S. at 21–22). "Strive for Five" = a habit of naming ≥5 factors — a training device, not a legal requirement.
-- How does crime seriousness affect reasonableness (Rule #2)?::It is an express factor in the objective balance — "the severity of the crime at issue" (*Graham*, 490 U.S. at 396). Greater seriousness/urgency widens what's reasonable (e.g., emergency-aid entry), but never removes the need for articulable facts.
-- Probabilities vs. possibilities — what's the rule and the authority?::The Fourth Amendment deals in **probabilities**, not possibilities. *Brinegar* (338 U.S. at 175) and *Gates* (462 U.S. at 232: probable cause is "a fluid concept — turning on the assessment of probabilities").
-- Name the burden-of-proof ladder.::Mere suspicion → reasonable suspicion → probable cause → preponderance → clear and convincing → beyond a reasonable doubt.
-- What does a protective sweep require under *Buie*?::Articulable facts warranting a reasonable belief the area harbors a person dangerous to those on scene (*Buie*, 494 U.S. at 334); it is **not automatic** and routine sweeps are unlawful (494 U.S. at 336).
-
 ## Sources
 
 - *Graham v. Connor*, 490 U.S. 386 (1989) — https://www.courtlistener.com/opinion/112257/graham-v-connor/

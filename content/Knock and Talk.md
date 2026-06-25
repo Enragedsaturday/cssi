@@ -28,6 +28,22 @@ The "knock and talk" is not a standalone warrant exception — it rests on the s
 | *United States v. Drayton*, 536 U.S. 194, 203-07 (2002) | Consent can be voluntary even though officers never advised the person of the right to refuse; there is no per se warning requirement. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/121153/united-states-v-drayton/) |
 | *French v. Merrill*, 15 F.4th 116 (1st Cir. 2021) | The knock-and-talk is bounded by the implied license's physical-area and purpose limits; intrusive, repeated pre-dawn conduct exceeded it and violated the Fourth Amendment. | Circuit (1st) — persuasive | [opinion](https://www.courtlistener.com/opinion/5273192/french-v-merrill/) |
 
+## Related cases across doctrines
+
+These cases are treated in full elsewhere but bear on the knock-and-talk doctrine, framed here for it.
+
+| Case | Relevance to knock and talk | Primary treatment | CourtListener |
+| --- | --- | --- | --- |
+| *United States v. Santana*, 427 U.S. 38 (1976) | A resident standing in her own doorway/threshold is in a "public" place — marking where the implied license to approach ends and a doorway encounter (and arrest) becomes lawful without entering the home. | [[Arrest in the Home]] · [[Exigent Circumstances and Hot Pursuit]] | [opinion](https://www.courtlistener.com/opinion/109504/united-states-v-santana/) |
+| *Payton v. New York*, 445 U.S. 573 (1980) | The knock-and-talk's hard backstop: officers may approach and knock, but warrantless, nonconsensual crossing of the threshold to arrest inside the home is presumptively unreasonable — the line a lawful approach must not cross. | [[Arrest in the Home]] · [[Securing the Scene]] | [opinion](https://www.courtlistener.com/opinion/110235/payton-v-new-york/) |
+| *Schneckloth v. Bustamonte*, 412 U.S. 218 (1973) | Whatever consent the officers obtain at the door is judged by the totality of the circumstances; the knock-and-talk authorizes no search by itself, so doorstep consent must be voluntary to validate any entry or search. | [[Consent Searches]] | [opinion](https://www.courtlistener.com/opinion/108800/schneckloth-v-bustamonte/) |
+| *Georgia v. Randolph*, 547 U.S. 103 (2006) | If a knock-and-talk produces a physically present co-occupant who expressly refuses, that refusal defeats another occupant's consent — the encounter cannot be converted into a consent search over the objector. | [[Consent Searches]] | [opinion](https://www.courtlistener.com/opinion/145669/georgia-v-randolph/) |
+| *Illinois v. Rodriguez*, 497 U.S. 177 (1990) | Consent obtained at the door from a third party validates entry if officers reasonably (even if mistakenly) believed that person had authority — the apparent-authority overlay on knock-and-talk consent. | [[Consent Searches]] | [opinion](https://www.courtlistener.com/opinion/112475/illinois-v-rodriguez/) |
+| *United States v. Conner*, 127 F.3d 663 (8th Cir. 1997) | The knock-and-talk gone coercive: where officers under color of authority demand that occupants open the door, the resulting "consent" is invalid — the encounter became a seizure, not a consensual approach. | [[Securing the Scene]] | [opinion](https://www.courtlistener.com/opinion/747208/united-states-v-larry-duane-conner-united-states-of-america-v-john/) |
+| *Caniglia v. Strom*, 593 U.S. 194 (2021) | There is no freestanding community-caretaking exception for the home — officers who knock cannot bootstrap a warrantless entry on caretaking grounds; they need consent or a recognized exception. | [[Community Caretaking and Emergency Aid]] | [opinion](https://www.courtlistener.com/opinion/4883694/caniglia-v-strom/) |
+| *Florida v. Harris*, 568 U.S. 237, 244-48 (2013) | The dog-alert counterpart to *Jardines*: a reliable dog's alert can furnish probable cause, but *Jardines* bars deploying that dog on the porch during a knock-and-talk to generate it in the first place. | [[Probable Cause and Reasonable Suspicion]] | [opinion](https://www.courtlistener.com/opinion/820744/florida-v-harris/) |
+| *Collins v. Virginia*, 584 U.S. 586 (2018) | Reinforces the curtilage limit underlying the knock-and-talk: officers may walk the customary front path, but may not stray into curtilage (here, to search a vehicle) without a warrant or exception. | [[Automobile Exception]] | [opinion](https://www.courtlistener.com/opinion/4501697/collins-v-virginia/) |
+
 ## Nuances & limits
 
 - **It is consent, not an exception.** A knock and talk authorizes no search by itself. Any entry or search still needs valid consent ([[Consent Searches]]) or an independent exception; treat the doctrine as a lawful *approach*, not a lawful *search*.
@@ -43,6 +59,15 @@ The "knock and talk" is not a standalone warrant exception — it rests on the s
 - **Using the knock to manufacture exigency.** Banging while shouting threats to break in, or otherwise threatening a Fourth Amendment violation, taints any "emergency" that follows (*King*).
 - **Overstaying a refusal.** Once a resident declines or asks officers to leave, continued or repeated intrusion converts the encounter into a search, as the First Circuit illustrated in *French*.
 
+## Recent developments & subsequent treatment
+
+Since *Jardines* and *King*, the circuits have done most of the work of mapping the implied license — when an approach stays consensual, when it becomes a trespassory search, and when a knock-and-talk may (or may not) feed an exigency. These applications are persuasive only; the circuits divide on how far the approach reaches, and no Supreme Court case is currently pending on the question. Treat each as the law of its circuit, not nationwide.
+
+- **United States v. Banks (7th Cir. 2023)** — Applies *Jardines* to bar an investigatory/arrest-purpose porch entry: officers who saw a Snapchat of a felon (Banks) with a gun on his porch had probable cause but skipped the warrant, walked onto the porch, and arrested him inside. Held the front porch is curtilage receiving full home-level protection, and a knock-and-talk cannot launder a warrantless curtilage arrest; suppression reversal. **Seventh Circuit — persuasive, not binding.** "Consent is a well-accepted exception to the warrant requirement, but reasonable suspicion is not." (61 F.4th at 526 (No. 22-1312, slip op. at 6-7)). [opinion](https://www.courtlistener.com/opinion/9378369/united-states-v-jeremy-banks/).
+- **United States v. Meyer (8th Cir. 2021)** — Applies *Kentucky v. King* in the knock-and-talk setting: when a suspect's evasive conduct during a consensual knock-and-talk (excuses, "need to clean up," "check my email") created a risk of evidence destruction, officers did not impermissibly manufacture the exigency — "asking tough questions and closely scrutinizing the answers" does not create the exigency. Warrantless entry/seizure of devices upheld. **Eighth Circuit — persuasive, not binding.** [opinion](https://www.courtlistener.com/opinion/5302394/united-states-v-william-meyer/).
+- **United States v. Carloss (10th Cir. 2016)** — The permissive side of the split: multiple "No Trespassing" signs (including one on the front door) did not revoke the implied license for officers to approach and knock seeking a consensual conversation. Treats *Jardines* as leaving ordinary knock-and-talks undisturbed and resists letting signage or arrest-purpose curtail the approach. **Tenth Circuit — persuasive, not binding.** ⚖ Circuit split. "under the circumstances presented here, those 'No Trespassing' signs would not have conveyed to an objective officer that he could not approach the house and knock on the front door seeking to have a consensual conversation with the occupants." (818 F.3d at 991). [opinion](https://www.courtlistener.com/opinion/3184928/united-states-v-carloss/).
+- **United States v. Lundin (9th Cir. 2016)** — Applied *Jardines* to hold a 4 a.m. knock-and-talk exceeded the implied license to approach the curtilage — both because of the unusual hour and because the officers' purpose was to arrest, not to ask questions; suppressed the resulting statements/evidence. **Ninth Circuit — persuasive, not binding.** ⚖ Circuit split. "the officers knocked on Lundin's door around 4:00 a.m. without evidence that Lundin generally accepted visitors at that hour, and without a reason for knocking that a resident would ordinarily accept as sufficiently weighty to justify the disturbance." (817 F.3d at 1159). [opinion](https://www.courtlistener.com/opinion/3187682/united-states-v-eric-lundin/).
+
 ## Visual
 
 ```mermaid
@@ -53,14 +78,6 @@ flowchart TD
     C -->|No: dog, back door,<br/>refuse-to-leave, exceed time| E[Search]
     E --> F[Need warrant<br/>or exception]
 ```
-
-## Flashcards
-
-- Is the "knock and talk" an independent exception to the warrant requirement?::No. It rests on the implied license any visitor has to approach and knock; any search still requires consent or another exception.
-- In *Florida v. Jardines*, why did bringing a drug dog onto the front porch violate the Fourth Amendment?::It exceeded the implied license to approach and knock — a trespassory search of the curtilage.
-- Under *Kentucky v. King*, when is a police-created exigency unusable?::Only when police create it by engaging or threatening to engage in conduct that itself violates the Fourth Amendment; merely knocking and announcing is fine.
-- What test (from *Bostick/Drayton*) decides whether a knock-and-talk stays consensual?::Whether a reasonable person would feel free to decline the officers' requests or terminate the encounter — with no requirement to advise of the right to refuse.
-- What is the persuasive First Circuit marker on exceeding the knock-and-talk license?::*French v. Merrill* (1st Cir. 2021) — repeated pre-dawn visits, window-knocking, and flashlight-peering exceeded the implied license to enter the curtilage.
 
 ## Sources
 

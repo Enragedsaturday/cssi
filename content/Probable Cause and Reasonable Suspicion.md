@@ -35,6 +35,20 @@ The Fourth Amendment runs on two standards of proof, neither of which is a fixed
 | *District of Columbia v. Wesby*, 583 U.S. 48, 63 (2018) | Probable cause is a totality inquiry; courts must not divide-and-conquer the facts. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/4238107/district-of-columbia-v-wesby/) |
 | *Aguilar v. Texas*, 378 U.S. 108 (1964) | HISTORY — the rigid two-prong (basis of knowledge + veracity) test abandoned by Gates. | SCOTUS — binding (abrogated) | [opinion](https://www.courtlistener.com/opinion/106865/aguilar-v-texas/) |
 
+## Related cases across doctrines
+These cases are treated in full on other doctrine pages but bear directly on the probable-cause / reasonable-suspicion standards, framed here for that quantum-of-proof inquiry.
+
+| Case | Relevance to probable cause / reasonable suspicion | Primary treatment | CourtListener |
+| --- | --- | --- | --- |
+| *Whiteley v. Warden*, 401 U.S. 560 (1971) | An officer may make a stop/arrest on the strength of a bulletin and assume the issuing officer had probable cause — but if the issuer in fact lacked PC, the stop is invalid: the quantum of suspicion is measured at the source. | [[Collective Knowledge and the Fellow-Officer Rule]] | [opinion](https://www.courtlistener.com/opinion/108297/whiteley-v-warden-wyoming-state-penitentiary/) |
+| *United States v. Hensley*, 469 U.S. 221 (1985) | Reasonable suspicion may be supplied by a wanted flyer/bulletin from another department: the stopping officer need not personally possess the articulable facts so long as the issuing agency had them — RS is assessed on the collective knowledge. | [[Collective Knowledge and the Fellow-Officer Rule]] | [opinion](https://www.courtlistener.com/opinion/111294/united-states-v-hensley/) |
+| *Heien v. North Carolina*, 574 U.S. 54 (2014) | The facts supporting reasonable suspicion (or probable cause) may rest on an officer's objectively reasonable mistake of law as well as fact — reasonableness, not perfect legal accuracy, is the touchstone of the quantum inquiry. | [[Traffic Stops]] | [opinion](https://www.courtlistener.com/opinion/2760668/heien-v-north-carolina/) |
+| *Delaware v. Prouse*, 440 U.S. 648 (1979) | A discretionary stop requires at least reasonable, articulable suspicion of wrongdoing; random suspicionless stops fail the standard — the floor for any investigative seizure is articulable suspicion, not an officer's unparticularized discretion. | [[Traffic Stops]] | [opinion](https://www.courtlistener.com/opinion/110045/delaware-v-prouse/) |
+| *Michigan v. Long*, 463 U.S. 1032 (1983) | A protective vehicle frisk requires reasonable suspicion — specific and articulable facts giving the officer a reasonable belief the suspect is dangerous and may gain access to weapons; same RS quantum as a Terry frisk, extended to the passenger compartment. | [[Traffic Stops]] | [opinion](https://www.courtlistener.com/opinion/111020/michigan-v-long/) |
+| *United States v. Brignoni-Ponce*, 422 U.S. 873 (1975) | A roving border-area stop requires reasonable suspicion built on specific articulable facts; the Court catalogs RS factors and warns that apparent ancestry alone cannot supply it — an early gloss on the content of the RS standard. | [[Border Searches]] | [opinion](https://www.courtlistener.com/opinion/109311/united-states-v-brignoni-ponce/) |
+| *Franks v. Delaware*, 438 U.S. 154 (1978) | A defendant may attack the probable-cause showing itself: on a substantial preliminary showing that the affidavit contained a knowing/reckless material falsehood, the false statement is set aside and PC re-evaluated on what remains. | [[The Exclusionary Rule]] / [[The Warrant Requirement]] | [opinion](https://www.courtlistener.com/opinion/109925/franks-v-delaware/) |
+| *Maryland v. Buie*, 494 U.S. 325 (1990) | A protective sweep beyond the spaces immediately adjoining the arrest requires reasonable, articulable suspicion that the area harbors a dangerous person — importing the Terry RS quantum into the in-home arrest setting. | [[Securing the Scene]] | [opinion](https://www.courtlistener.com/opinion/112384/maryland-v-buie/) |
+
 ## Nuances & limits
 - **The ladder.** Three rungs: a bare *hunch* authorizes nothing; *reasonable suspicion* authorizes a brief stop and frisk ([[Terry Stops and Reasonable Suspicion]]); *probable cause* authorizes an arrest, a full search, or a warrant ([[The Warrant Requirement]]). The quantum climbs with the intrusion.
 - **Probable cause defined.** *Brinegar* frames probable cause as practical probabilities, not technical certainty; *Gates* operationalizes it as a "fair probability" assessed on the totality. *Wesby* (2018) and *Arvizu* (2002) forbid the divide-and-conquer move of evaluating and discarding each fact in isolation — the magistrate and the court weigh the whole picture.
@@ -49,6 +63,12 @@ The Fourth Amendment runs on two standards of proof, neither of which is a fixed
 - **"Possibilities, not probabilities."** Both standards turn on *probabilities*, not bare possibility (one of the [[CREW]] three-golden-rules maxims). A fact that merely makes crime *possible* is not enough; *Terry* requires "specific reasonable inferences," not an "inchoate and unparticularized suspicion or 'hunch'" (392 U.S. at 27).
 - **Quantifying the standard as a fixed percentage.** Neither standard reduces to a number. *Brinegar* and *Gates* speak of practical, common-sense probabilities; an instructor who says "probable cause is 51%" is inventing a rule the Court has never adopted.
 
+## Recent developments & subsequent treatment
+The core probable-cause and reasonable-suspicion standards remain stable, but recent decisions sharpen their boundaries: the Supreme Court has reaffirmed that *probable cause* is the criminal-investigative quantum and is not transplanted into non-investigative Fourth Amendment contexts, and the circuits continue to police the reasonable-suspicion floor against vague, uncorroborated tips. Circuit decisions below are **persuasive, not binding** outside their own circuits.
+
+- **Case v. Montana (SCOTUS 2026)** — Warrantless home entry to render emergency aid requires only *Brigham City*'s "objectively reasonable basis" to believe an occupant needs emergency assistance, not probable cause; probable cause is rooted in the criminal-investigative context and is not transplanted to the emergency-aid context. Resolves a circuit split (CA2/CA11/CADC had required probable cause; CA1/CA8 had not), holding *Brigham City*'s reasonableness standard applies "with no further gloss" — a clean recent gloss confirming PC is the investigative quantum while non-investigative (caretaking/emergency-aid) contexts use their own reasonableness measure. ⚖ Circuit split. "The probable-cause requirement is rooted in, and derives its meaning from, the criminal context, and we decline to transplant it to this different one. *Brigham City*'s reasonableness standard means just what it says, with no further gloss." (slip op., at 1). [opinion](https://www.courtlistener.com/opinion/10774335/case-v-montana/).
+- **United States v. Daniels (10th Cir. 2024)** — *Persuasive, not binding* (Tenth Circuit). Affirms suppression: a near-anonymous 911 tip (three Black men in dark hoodies near an idling SUV, reporting no actual illegality at issue) plus the suspect's presence did not amount to reasonable suspicion on de novo totality-of-the-circumstances review; overly generic tips give police excessive discretion and fall below the reasonable-suspicion floor. Tightens the *Florida v. J.L.* / *Navarette* line by stressing that vague, uncorroborated tips reporting lawful-sounding conduct fall below the RS floor. [opinion](https://www.courtlistener.com/opinion/9500360/united-states-v-daniels/).
+
 ## Visual
 ```mermaid
 flowchart TD
@@ -57,13 +77,6 @@ flowchart TD
     B -. totality, no divide-and-conquer .-> B
     C -. fair probability, not a fixed % .-> C
 ```
-
-## Flashcards
-What standard of proof does *Illinois v. Gates* (1983) set for probable cause?::Totality of the circumstances — a practical, common-sense "fair probability" inquiry that abandoned the rigid *Aguilar-Spinelli* two-prong test.
-How does *Terry v. Ohio* describe the minimum required for an investigative stop?::Reasonable, articulable suspicion — "specific reasonable inferences," not an "inchoate and unparticularized suspicion or 'hunch'" (392 U.S. at 27).
-Per *Ornelas v. United States*, what is the appellate standard of review for RS and PC?::De novo — historical facts reviewed for clear error, but the ultimate RS/PC question reviewed fresh (517 U.S. at 691).
-Why are anonymous tips treated differently in *Florida v. J.L.* versus *Alabama v. White*?::A bare tip that someone is armed is insufficient (*J.L.*); a tip corroborated by an accurate prediction of future conduct shows inside knowledge and can supply RS (*White*).
-What does *Wesby* / *Arvizu* forbid courts from doing with the facts?::Divide-and-conquer — evaluating and discarding each factor in isolation instead of weighing the whole picture.
 
 ## Sources
 - [Brinegar v. United States — opinion](https://www.courtlistener.com/opinion/104716/brinegar-v-united-states/)
