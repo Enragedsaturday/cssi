@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "enragedsaturday.github.io",
+    baseUrl: "cssi-search-and-seizure.vercel.app",
     ignorePatterns: [
       "private",
       "templates",
