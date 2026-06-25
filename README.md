@@ -1,18 +1,30 @@
-# Quartz v4
+# CSSI — Search & Seizure (study wiki + flashcards)
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A federal, **criminal-suppression Fourth Amendment** study wiki for the Certified Search & Seizure
+Instructor (CSSI) course, built with [Quartz](https://quartz.jzhao.xyz/). Every case is verified
+against CourtListener. Ships with a spaced-repetition flashcard deck (FSRS, 1,176 cards) and a
+downloadable Anki deck.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+- **Live site:** https://cssi-search-and-seizure.vercel.app
+- **Flashcards:** https://cssi-search-and-seizure.vercel.app/flashcards
+- **Anki deck (.apkg):** https://cssi-search-and-seizure.vercel.app/static/flashcards/cssi-search-and-seizure.apkg
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## How it's built
+- Wiki pages live in `content/` (synced from an Obsidian vault).
+- Flashcard sources in `flashcard-src/decks/*.json` → `flashcard-src/merge.py` builds
+  `quartz/static/flashcards/flashcards.json`; `make_apkg.py` (via `flashcard-src/.venv`) builds the `.apkg`.
+- Hosted on **Vercel** — `vercel.json` runs `npx quartz build` → `public/`. **Pushing to `main` auto-deploys.**
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Updating
+After editing content or decks (an ingest does this for you):
 
-## Sponsors
+```sh
+cd ~/Projects/cssi-quartz
+git add -A && git commit -m "update" && git push
+```
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Vercel rebuilds and republishes automatically in ~2–3 minutes.
+
+---
+
+Built on [jackyzha0/quartz](https://github.com/jackyzha0/quartz) (`upstream` remote) — pull from there for framework updates.
