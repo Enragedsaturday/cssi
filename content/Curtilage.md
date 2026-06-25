@@ -4,7 +4,7 @@ topic: Curtilage
 type: doctrine
 jurisdiction: Federal (U.S. Const. amend. IV); SCOTUS baseline
 status: verified
-related: ["[[Two Definitions of Search]]", "[[Fourth Amendment Framework]]", "[[Abandonment]]"]
+related: ["[[Two Definitions of Search]]", "[[Fourth Amendment Framework]]", "[[Abandonment]]", "[[Tents]]"]
 ---
 
 ## Rule
@@ -40,6 +40,7 @@ These cases are treated in full elsewhere but bear on the curtilage doctrine, fr
   Exceed that scope — deploy a drug dog, or linger to snoop — and the lawful approach becomes a trespassory search. The license defines the **scope**, not merely the place.
 - **Lawful vantage ≠ lawful entry.** Officers may look at curtilage from a place they are lawfully entitled to be — including the air (*Ciraolo*) or a public road — without it being a search. But the right to *observe* curtilage is not the right to *enter* it to search. *Collins*, 584 U.S. at 599.
 - **Curtilage carries the home's protection against warrant exceptions.** *Collins* holds the automobile exception cannot be used to justify entering curtilage; the strong protection of the home extends out to its curtilage.
+- **A tent has no curtilage.** The curtilage concept belongs to a fixed home. A tent's home-like protection covers its **interior**, but not the open ground around it: on a dispersed public-land campsite, "the area outside of the tent … is not curtilage." *United States v. Basher*, 629 F.3d 1161, 1169 (9th Cir. 2011). See [[Tents]].
 
 ## Common pitfalls
 - Treating a **driveway, porch, or attached carport** as fair game. *Collins* held a partially enclosed driveway top abutting the house was curtilage; *Jardines* held the front porch was. Proximity + the home-life connection, not the absence of a fence, controls.

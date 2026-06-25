@@ -29,6 +29,7 @@ updated: 2026-06-25
 
 ## Protected areas
 - [[Curtilage]] — the home's protected **curtilage** vs. the unprotected **open fields**; the *Dunn* four-factor test; *Jardines*' implied license.
+- [[Tents]] — a tent is a **temporary dwelling**, not a car: a reasonable expectation of privacy attaches to its **interior** — even on public land and without a camping permit (*Gooch*, *Sandoval*) — and a closed tent is a "non-public" place needing an arrest warrant (*Gooch*); but the area **outside** it is not curtilage (*Basher*). 9th/10th Cir. — persuasive.
 - [[Abandonment]] — voluntary **abandonment** defeats standing (*Greenwood*); distinguish a **bailment** and **common authority** (*Bond*, *Matlock*).
 
 ## Seizures of persons & use of force
@@ -76,4 +77,4 @@ updated: 2026-06-25
 - [[CREW]] — the C.R.E.W. mnemonic (also a framework page, above).
 
 ## Study
-- [[flashcards|Flashcards]] — a 1643-card spaced-repetition deck (FSRS) covering every case and doctrine on these pages: holdings, verbatim tests, key facts, distinctions, and pitfalls. Flip with **Space**, grade **1–4**; progress saves on your device.
+- [[flashcards|Flashcards]] — a 1660-card spaced-repetition deck (FSRS) covering every case and doctrine on these pages: holdings, verbatim tests, key facts, distinctions, and pitfalls. Flip with **Space**, grade **1–4**; progress saves on your device.

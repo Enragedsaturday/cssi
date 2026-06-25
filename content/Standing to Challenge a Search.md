@@ -10,6 +10,7 @@ related:
   - "[[Abandonment]]"
   - "[[Automobile Exception]]"
   - "[[Traffic Stops]]"
+  - "[[Tents]]"
 ---
 
 # Standing to Challenge a Search
@@ -47,6 +48,7 @@ These cases are treated in full on other doctrine pages but bear directly on sta
 - **It's really a merits question.** *Rakas* reframed "standing" by tying it to [[Two Definitions of Search]]: the protection of the Amendment "depends not upon a property right in the invaded place but upon whether the person who claims the protection of the Amendment has a legitimate expectation of privacy in the invaded place." (439 U.S. at 143.) The *Katz* reasonable-expectation test thus defines *whose* rights are invaded.
 - **Place searched ≠ item seized.** *Rawlings* and *Salvucci* draw the line: a defendant may own the contraband and still have no expectation of privacy in the container or area searched. Establish a privacy or possessory interest in the **place**, not the loot.
 - **Status on the premises matters.** Overnight guest → expectation of privacy in the host's home (*Olson*); transient visitor present only for a commercial drug-bagging errand → none (*Carter*). The contrast is one of duration, relationship to the householder, and purpose.
+- **A tent is a "place" too.** The reasonable-expectation-of-privacy inquiry that defines standing reaches a tent used as a temporary dwelling: its occupant — and an overnight guest sleeping in another's tent under *Olson* — can have standing to challenge a search of the tent's interior, even on public land. *United States v. Sandoval*, 200 F.3d 659, 660–61 (9th Cir. 2000). See [[Tents]].
 - **Lawful control of a vehicle can suffice.** Under *Byrd*, an unauthorized-but-lawful driver of a rental car can hold a reasonable expectation of privacy in it; not being on the rental contract is not dispositive. (Treatment current; no negative history.) Standing in a car is the threshold before any [[Automobile Exception]] question about the lawfulness of the search itself.
 - **Passenger: challenge the stop, not necessarily the search.** *Brendlin* holds a passenger is *seized* during a traffic stop and may attack the [[Traffic Stops|stop]] itself; that is distinct from standing to challenge a *search* of the car, which still turns on the passenger's own privacy/possessory interest under *Rakas*. Keep the two crisp.
 - **Standing is a threshold to the [[The Exclusionary Rule|exclusionary remedy]].** Without it, even an unlawful search yields no suppression for *this* defendant. See the [[Fourth Amendment Framework]] for where standing sits in the analysis.

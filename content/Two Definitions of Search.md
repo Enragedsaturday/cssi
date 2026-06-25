@@ -7,7 +7,7 @@ topic: Two Searches — Trespass & Privacy
 type: doctrine
 jurisdiction: Federal (U.S. Const. amend. IV); SCOTUS baseline
 status: verified
-related: ["[[Fourth Amendment Framework]]", "[[Fourth Amendment Analysis Checklist]]", "[[Curtilage]]", "[[Abandonment]]"]
+related: ["[[Fourth Amendment Framework]]", "[[Fourth Amendment Analysis Checklist]]", "[[Curtilage]]", "[[Abandonment]]", "[[Tents]]"]
 ---
 
 ## Rule
@@ -39,6 +39,7 @@ These cases are treated in full elsewhere but bear on the two-definitions-of-sea
 - **Trespass need not track local property law.** A physical intrusion into a constitutionally protected area is a search even if it is not a "trespass" under state property rules. In *Silverman*, the Court refused to decide "whether or not there was a technical trespass under the local property law relating to party walls," explaining that "[i]nherent Fourth Amendment rights are not inevitably measurable in terms of ancient niceties of tort or real property law." *Silverman*, 365 U.S. at 511. The unauthorized physical penetration into the home was enough.
 - **Old wiretap law is gone.** *Olmstead* treated electronic eavesdropping without physical entry as no search — "There was no searching. There was no seizure. … There was no entry of the houses or offices of the defendants." 277 U.S. at 464. *Katz* overruled that. Many pre-*Katz* surveillance holdings are no longer good law — analyze modern surveillance under *Katz* privacy and, where there is a physical intrusion, under *Jones* trespass.
 - **Privacy theory recalibrates for new technology.** *Carpenter* holds that "individuals have a reasonable expectation of privacy in the whole of their physical movements," so the government's acquisition of long-term CSLI is a search — declining to mechanically extend the **third-party doctrine** (the rule that information voluntarily shared with a third party generally loses Fourth Amendment protection) to pervasive digital location data. *Carpenter*, 585 U.S. at 310–16. *Katz* and *Carpenter* are the privacy theory adjusting to emerging technology; as *Carpenter* put it, "what [one] seeks to preserve as private, even in an area accessible to the public, may be constitutionally protected." *Carpenter*, 585 U.S. at 310 (quoting *Katz*, 389 U.S. at 351–52).
+- **The privacy theory reaches non-traditional dwellings.** *Katz* protects people, not building types, so a **tent** used as a temporary home can carry a reasonable expectation of privacy — "a tent is more like a house than a car," and its warrantless search is a Fourth Amendment search even on public land. *United States v. Gooch*, 6 F.3d 673, 677 (9th Cir. 1993). See [[Tents]].
 
 ## Common pitfalls
 - **Assuming "no trespass" means "no search."** That was *Olmstead*, and *Katz* overruled it. A bug on a phone booth, a thermal scan, or long-term CSLI can be a search with zero physical entry.

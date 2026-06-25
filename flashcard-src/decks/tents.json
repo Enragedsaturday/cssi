@@ -1,0 +1,183 @@
+[
+  {
+    "id": "tents-definition-dwelling-01",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "definition",
+    "front": "How does Fourth Amendment law classify a tent used as a place to sleep or camp?",
+    "back": "As a temporary dwelling — treated like a home, not a vehicle — in which the occupant can hold a reasonable expectation of privacy in the interior.",
+    "tags": ["tents", "gooch", "definition", "dwelling"],
+    "cite": "United States v. Gooch, 6 F.3d 673, 677 (9th Cir. 1993)",
+    "source": "https://www.courtlistener.com/opinion/654273/united-states-v-kenneth-d-gooch/"
+  },
+  {
+    "id": "tents-house-not-car-02",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "For Fourth Amendment purposes, is a tent analyzed more like a house or more like a car?",
+    "back": "Like a house. A tent used as a dwelling is a temporary home, so the automobile exception's reduced-privacy rationale does not apply — \"a tent is more like a house than a car.\"",
+    "tags": ["tents", "gooch", "house", "automobile-exception"],
+    "cite": "United States v. Gooch, 6 F.3d 673, 677 (9th Cir. 1993)",
+    "source": "https://www.courtlistener.com/opinion/654273/united-states-v-kenneth-d-gooch/"
+  },
+  {
+    "id": "tents-katz-test-03",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "What test decides whether someone has a protected privacy interest in a tent?",
+    "back": "The two-part Katz test: a subjective expectation of privacy that society is prepared to accept as objectively reasonable.",
+    "tags": ["tents", "katz", "reasonable-expectation", "test"],
+    "cite": "Katz v. United States, 389 U.S. 347, 361 (1967) (Harlan, J., concurring)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "tents-gooch-holding-04",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "What did United States v. Gooch (9th Cir. 1993) hold about a tent pitched in a public campground?",
+    "back": "Its occupant had a reasonable expectation of privacy, so the warrantless search of the tent violated the Fourth Amendment.",
+    "tags": ["tents", "gooch", "campground", "holding"],
+    "cite": "United States v. Gooch, 6 F.3d 673, 677 (9th Cir. 1993)",
+    "source": "https://www.courtlistener.com/opinion/654273/united-states-v-kenneth-d-gooch/"
+  },
+  {
+    "id": "tents-sandoval-blm-05",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "In United States v. Sandoval (9th Cir. 2000), did a camper on public (BLM) land have a reasonable expectation of privacy in his tent?",
+    "back": "Yes. The court found both a subjective and an objectively reasonable expectation of privacy and reversed the denial of suppression.",
+    "tags": ["tents", "sandoval", "blm", "public-land"],
+    "cite": "United States v. Sandoval, 200 F.3d 659, 660–61 (9th Cir. 2000)",
+    "source": "https://www.courtlistener.com/opinion/767260/united-states-v-rodrigo-sandoval/"
+  },
+  {
+    "id": "tents-sandoval-permission-06",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "Under Sandoval, does lacking a camping permit (or camping illegally) on public land defeat the reasonable expectation of privacy in a tent?",
+    "back": "No. The reasonableness of the expectation does not turn on whether the camper had permission to be there, and illegal activity alone does not negate a subjective expectation of privacy.",
+    "tags": ["tents", "sandoval", "permission", "illegality"],
+    "cite": "United States v. Sandoval, 200 F.3d 659, 660–61 (9th Cir. 2000)",
+    "source": "https://www.courtlistener.com/opinion/767260/united-states-v-rodrigo-sandoval/"
+  },
+  {
+    "id": "tents-subjective-signals-07",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "What facts show a subjective expectation of privacy in a tent (per Sandoval)?",
+    "back": "The tent was closed on all sides, its contents could not be seen from outside, and the occupant left personal effects (a prescription bottle) inside.",
+    "tags": ["tents", "sandoval", "subjective", "facts"],
+    "cite": "United States v. Sandoval, 200 F.3d 659, 660–61 (9th Cir. 2000)",
+    "source": "https://www.courtlistener.com/opinion/767260/united-states-v-rodrigo-sandoval/"
+  },
+  {
+    "id": "tents-basher-interior-08",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "In United States v. Basher (9th Cir. 2011), what did the court say a tent is comparable to?",
+    "back": "A house, apartment, or hotel room — a private area where people sleep and change clothing; its interior carries a reasonable expectation of privacy.",
+    "tags": ["tents", "basher", "interior", "dwelling"],
+    "cite": "United States v. Basher, 629 F.3d 1161, 1169 (9th Cir. 2011)",
+    "source": "https://www.courtlistener.com/opinion/183144/united-states-v-basher/"
+  },
+  {
+    "id": "tents-basher-no-curtilage-09",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "Under Basher, is the open area outside a tent on a dispersed public-land campsite protected as 'curtilage'?",
+    "back": "No. \"The area outside of the tent ... is not curtilage,\" and there was no reasonable expectation of privacy in the campsite itself; protection attaches to the tent's interior.",
+    "tags": ["tents", "basher", "curtilage", "campsite"],
+    "cite": "United States v. Basher, 629 F.3d 1161, 1169 (9th Cir. 2011)",
+    "source": "https://www.courtlistener.com/opinion/183144/united-states-v-basher/"
+  },
+  {
+    "id": "tents-interior-vs-outside-distinction-10",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "Distinguish the Fourth Amendment treatment of a tent's interior from the open area around it.",
+    "back": "The interior is protected like a dwelling (a warrant or recognized exception is needed to search it); the open ground around a tent on public land is generally not curtilage and is not protected.",
+    "tags": ["tents", "basher", "distinction", "curtilage"]
+  },
+  {
+    "id": "tents-arrest-warrant-11",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "Under Gooch, what must officers have before entering a closed tent to arrest the occupant?",
+    "back": "An arrest warrant (absent exigent circumstances). A closed tent is a \"non-public\" place, so Payton's arrest-warrant rule applies to it.",
+    "tags": ["tents", "gooch", "arrest-warrant", "payton", "non-public"],
+    "cite": "United States v. Gooch, 6 F.3d 673, 678 (9th Cir. 1993)",
+    "source": "https://www.courtlistener.com/opinion/654273/united-states-v-kenneth-d-gooch/"
+  },
+  {
+    "id": "tents-ruckman-contrast-12",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "In United States v. Ruckman (10th Cir. 1986), why did a man living in a cave on federal land have NO reasonable expectation of privacy?",
+    "back": "He was a trespasser with no legal right to occupy the land, so the cave was treated as open land rather than a Fourth Amendment 'house.'",
+    "tags": ["tents", "ruckman", "contrast", "trespasser", "cave"],
+    "cite": "United States v. Ruckman, 806 F.2d 1471 (10th Cir. 1986)",
+    "source": "https://www.courtlistener.com/opinion/480405/united-states-v-frank-william-ruckman/"
+  },
+  {
+    "id": "tents-ruckman-recognize-13",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "Which case held that a long-term occupant of a cave on federal land — a trespasser with no right to be there — had no reasonable expectation of privacy?",
+    "back": "United States v. Ruckman (10th Cir. 1986).",
+    "tags": ["tents", "ruckman", "recognize", "cave"],
+    "cite": "United States v. Ruckman, 806 F.2d 1471 (10th Cir. 1986)",
+    "source": "https://www.courtlistener.com/opinion/480405/united-states-v-frank-william-ruckman/"
+  },
+  {
+    "id": "tents-sandoval-ruckman-tension-14",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "What is the tension between Sandoval (9th Cir.) and Ruckman (10th Cir.) on dwellings occupied on public land?",
+    "back": "Sandoval says a public-land camper's reasonable expectation of privacy does NOT turn on permission to be there; Ruckman tied the expectation to a legal right to occupy (a trespasser had none). The circuits are not aligned — flag it as a split.",
+    "tags": ["tents", "sandoval", "ruckman", "circuit-split", "distinction"]
+  },
+  {
+    "id": "tents-overnight-guest-15",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "Can a person sleeping overnight in someone else's tent challenge a search of it?",
+    "back": "Yes. Like an overnight houseguest under Minnesota v. Olson, a guest staying overnight in another's tent can have a reasonable expectation of privacy — and thus standing.",
+    "tags": ["tents", "olson", "overnight-guest", "standing"],
+    "cite": "Minnesota v. Olson, 495 U.S. 91 (1990)",
+    "source": "https://www.courtlistener.com/opinion/112416/minnesota-v-olson/"
+  },
+  {
+    "id": "tents-pitfall-car-16",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "Common pitfall: why is it wrong to search a tent without a warrant by treating it like a car?",
+    "back": "A tent is analyzed as a temporary home, not a vehicle; the automobile exception's ready-mobility / reduced-expectation rationale does not transfer to it.",
+    "tags": ["tents", "gooch", "pitfall", "automobile-exception"],
+    "cite": "United States v. Gooch, 6 F.3d 673, 677 (9th Cir. 1993)",
+    "source": "https://www.courtlistener.com/opinion/654273/united-states-v-kenneth-d-gooch/"
+  },
+  {
+    "id": "tents-pitfall-campsite-17",
+    "page": "tents",
+    "topic": "Tents",
+    "type": "qa",
+    "front": "Common pitfall: officers treat an entire public-land campsite as protected because the tent is protected. Why is that wrong?",
+    "back": "Protection attaches to the tent's interior, not the surrounding ground. The open area around a tent on dispersed public land is generally not curtilage, so observations and items left outside are a different question from a search of the interior (Basher).",
+    "tags": ["tents", "basher", "pitfall", "curtilage", "campsite"]
+  }
+]
