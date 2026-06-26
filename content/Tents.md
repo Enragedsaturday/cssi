@@ -1,10 +1,11 @@
 ---
 title: "Tents"
 topic: Tents — Reasonable Expectation of Privacy
+aliases: ["Tent", "Camping", "Campsite privacy"]
 type: doctrine
 jurisdiction: Federal (U.S. Const. amend. IV); SCOTUS baseline
 status: verified
-related: ["[[Standing to Challenge a Search]]", "[[Two Definitions of Search]]", "[[Curtilage]]", "[[The Warrant Requirement]]", "[[Fourth Amendment Framework]]"]
+related: ["[[Standing to Challenge a Search]]", "[[Two Definitions of Search]]", "[[Curtilage]]", "[[The Warrant Requirement]]", "[[Fourth Amendment Framework]]", "[[Arrest in the Home]]"]
 ---
 
 ## Rule
@@ -15,7 +16,7 @@ A tent used as a temporary dwelling is treated, for Fourth Amendment purposes, f
 |---|---|---|---|
 | *Katz v. United States*, 389 U.S. 347 (1967) | Supplies the controlling test: a search invades a **subjective** expectation of privacy that society recognizes as **objectively reasonable** — "the Fourth Amendment protects people, not places." | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/107564/katz-v-united-states/) |
 | *United States v. Gooch*, 6 F.3d 673 (9th Cir. 1993) | An occupant has a reasonable expectation of privacy in a tent in a **public campground**; "a tent is more like a house than a car," so its warrantless search violated the Fourth Amendment. | 9th Cir. — persuasive | [link](https://www.courtlistener.com/opinion/654273/united-states-v-kenneth-d-gooch/) |
-| *United States v. Sandoval*, 200 F.3d 659 (9th Cir. 2000) | Reasonable expectation of privacy in a tent on **public (BLM) land** does **not** turn on whether the camper had permission to be there; suppression reversed. | 9th Cir. — persuasive | [link](https://www.courtlistener.com/opinion/767260/united-states-v-rodrigo-sandoval/) |
+| *United States v. Sandoval*, 200 F.3d 659 (9th Cir. 2000) | Reasonable expectation of privacy in a tent on **public (BLM) land** does **not** turn on whether the camper had permission to be there; **denial of suppression reversed** (conviction reversed and remanded). | 9th Cir. — persuasive | [link](https://www.courtlistener.com/opinion/767260/united-states-v-rodrigo-sandoval/) |
 | *United States v. Basher*, 629 F.3d 1161 (9th Cir. 2011) | Reaffirms privacy **inside** a tent ("comparable to a house, apartment, or hotel room"), but the **area outside** the tent in a dispersed public-land campsite is **not curtilage** — no expectation of privacy there. | 9th Cir. — persuasive | [link](https://www.courtlistener.com/opinion/183144/united-states-v-basher/) |
 | *United States v. Ruckman*, 806 F.2d 1471 (10th Cir. 1986) | **Contrast:** a man living in a **cave** on federal land was a trespasser with no legal right to occupy, so no reasonable expectation of privacy arose — the structure was treated as open land, not a "house." | 10th Cir. — persuasive | [link](https://www.courtlistener.com/opinion/480405/united-states-v-frank-william-ruckman/) |
 

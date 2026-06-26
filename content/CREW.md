@@ -26,7 +26,7 @@ If none of the three applies, the search or seizure is presumptively **unreasona
 
 ## Common pitfalls
 - **Treating C.R.E.W. as the *whole* analysis.** It is only step 5 (reasonableness). A defective threshold or standing analysis is not cured by a good justification.
-- **Assuming consent is automatically valid.** It must be voluntary and within scope; a third party must have actual (or apparent) common authority — see [[Abandonment]] on common authority.
+- **Assuming consent is automatically valid.** It must be voluntary and within scope; a third party must have actual (or apparent) common authority — see [[Consent Searches]] on common authority.
 - **Reciting an exception as a magic word.** "Exigent circumstances" or "plain view" without the facts the exception actually requires will not carry the reasonableness burden.
 
 ## Visual

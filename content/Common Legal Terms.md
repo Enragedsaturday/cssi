@@ -60,7 +60,7 @@ A working glossary of the Latin and legal terms an instructor will hit when read
 ## Opinions & precedent
 
 **Holding** — the court's actual *ruling* on the legal question presented — the binding part of the decision that resolves the case.
-*Example:* The holding is that the warrantless search violated the Fourth Amendment, so the evidence is suppressed; everything supporting that conclusion is the holding.
+*Example:* The holding is that the warrantless search violated the Fourth Amendment, so the evidence is suppressed. That ruling on the legal question is the holding; supporting commentary not necessary to it is dicta.
 
 **Dicta (obiter dictum)** — remarks in an opinion *not necessary* to the holding; persuasive commentary, but not binding.
 *Example:* A court rules the stop lawful, then muses about how it *would* analyze a nighttime stop — that aside is dicta, not the holding.

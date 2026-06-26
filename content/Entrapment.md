@@ -7,13 +7,15 @@ related:
   - "[[Common Legal Terms]]"
   - "[[Sixth Amendment Right to Counsel]]"
   - "[[Due-Process Voluntariness of Confessions]]"
-  - "[[CREW]]"
+  - "[[Miranda and Custodial Interrogation]]"
 ---
 
 # Entrapment
 
 ## Rule
 Entrapment is a substantive **defense to criminal liability** — not a Fourth Amendment suppression remedy. In federal court the test is **subjective**: it turns on the defendant's **predisposition** to commit the crime, not on the mere fact of government inducement. The government may furnish an *opportunity* to break the law, but it may not implant the criminal design in the mind of an otherwise-unwilling person and then lure that person into committing the offense. Once the defense raises inducement, the government must prove beyond a reasonable doubt that the defendant was predisposed.
+
+**Rule (two-element test + burden split).** Entrapment has two elements: (1) **government inducement** of the crime, and (2) the defendant's **lack of predisposition** to commit it. The defendant bears the **burden of production** on inducement (he must point to some evidence of government inducement); once inducement is raised, the **government bears the burden of persuasion** to prove **beyond a reasonable doubt** that the defendant was predisposed — and predisposed *prior to* first being approached by government agents. *Jacobson v. United States*, 503 U.S. 540, 548-49 (1992); *Mathews v. United States*, 485 U.S. 58, 62-63 (1988).
 
 ## Key cases
 
@@ -24,7 +26,7 @@ Entrapment is a substantive **defense to criminal liability** — not a Fourth A
 | *United States v. Russell*, 411 U.S. 423 (1973) | No entrapment where the defendant was predisposed, even though an agent supplied a hard-to-obtain but legal ingredient; the Court reaffirmed the predisposition test and rejected the objective test. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/108768/united-states-v-russell/) |
 | *Jacobson v. United States*, 503 U.S. 540 (1992) | Where the government induces the crime it must prove predisposition existed independent of, and prior to, the inducement; 26 months of solicitation that itself created the predisposition defeats the prosecution as a matter of law. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/112720/jacobson-v-united-states/) |
 | *Mathews v. United States*, 485 U.S. 58 (1988) | A defendant may raise entrapment even while denying one or more elements of the charged offense, whenever the evidence would let a reasonable jury find entrapment. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/112012/mathews-v-united-states/) |
-| *Hampton v. United States*, 425 U.S. 484 (1976) | Neither the entrapment defense nor the Due Process Clause bars conviction of a predisposed defendant who sold government-supplied contraband; conceded predisposition defeats the defense. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/109437/hampton-v-united-states/) |
+| *Hampton v. United States*, 425 U.S. 484 (1976) | The entrapment defense does not bar conviction of a predisposed defendant who sold government-supplied contraband — conceded predisposition defeats the defense (majority result). A three-Justice plurality (Rehnquist, J.) would further hold that the Due Process Clause never bars such a conviction, but Justices Powell and Blackmun, concurring only in the judgment, expressly **reserved** the possibility of a due-process bar in cases of outrageous government conduct (*id.* at 491-95 (Powell, J., concurring in the judgment)), and the three dissenters would recognize such a defense — so the flat 'no due-process bar' proposition did not command a majority. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/109437/hampton-v-united-states/) |
 
 ## Related cases across doctrines
 These cases are treated in full elsewhere but bear on this doctrine, framed here for entrapment.
@@ -36,7 +38,7 @@ These cases are treated in full elsewhere but bear on this doctrine, framed here
 
 ## Nuances & limits
 - **Predisposition is the controlling fact.** Inducement alone is never entrapment. The dispositive question is whether the defendant was *ready and willing* before the government appeared (*Russell*, *Hampton*).
-- **The Jacobson timing rule.** Predisposition must exist *before* the government's contact. In *Jacobson*, the Court treated this as settled, noting that "the proposition that the accused must be predisposed prior to contact with law enforcement officers is so firmly established that the Government conceded the point at oral argument" (503 U.S. at 549). Government conduct cannot manufacture the very predisposition it then points to.
+- **The Jacobson timing rule.** Predisposition must exist *before* the government's contact. As the *Jacobson* Court held: "Where the Government has induced an individual to break the law and the defense of entrapment is at issue ... the prosecution must prove beyond reasonable doubt that the defendant was disposed to commit the criminal act prior to first being approached by Government agents." (503 U.S. at 548-49). Government conduct cannot manufacture the very predisposition it then points to.
 - **Furnishing means or contraband is not entrapment** of a predisposed person. Supplying a legal-but-scarce ingredient (*Russell*) or even the contraband itself (*Hampton*) does not establish the defense and, on these facts, raised no due-process bar.
 - **Denial plus entrapment.** A defendant need not admit the acts to claim entrapment. *Mathews* held: "even if the defendant denies one or more elements of the crime, he is entitled to an entrapment instruction whenever there is sufficient evidence from which a reasonable jury could find entrapment" (485 U.S. at 62).
 - **Subjective vs. objective test (federal–state split).** Federal courts apply the *subjective* (predisposition) test. A minority/state approach uses an *objective* test focused on whether police conduct would induce a hypothetical law-abiding person. The objective test is a **non-federal alternative, illustrative only** — it does **not** govern in federal court. See [[Common Legal Terms]].

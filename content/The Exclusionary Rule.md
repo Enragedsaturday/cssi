@@ -8,7 +8,7 @@ related: ["[[Standing to Challenge a Search]]", "[[Section 1983 Liability and Qu
 ---
 
 ## Rule
-The exclusionary rule bars the government from using, in its case-in-chief, evidence obtained in violation of the Fourth Amendment — **and the "fruits" of that violation** (derivative evidence). It is **not a personal constitutional right**; it is a **judicially-created remedy** whose primary modern justification is **deterring police misconduct** (with a secondary concern for **judicial integrity** — courts refusing to become accomplices in unlawfulness). *United States v. Calandra*, 414 U.S. 338, 348 (1974). It originated as a **federal** rule in *Weeks v. United States*, 232 U.S. 383 (1914), and was applied to the **states** through the Fourteenth Amendment in *Mapp v. Ohio*, 367 U.S. 643 (1961). The reach of suppression extends to **derivative** evidence under the **fruit-of-the-poisonous-tree** doctrine, but only where the evidence was "come at by exploitation of [the] illegality" rather than by means sufficiently attenuated to purge the taint. *Wong Sun v. United States*, 371 U.S. 471, 487–88 (1963). Because the rule is a deterrent remedy and not a right, the modern Court applies a **cost-benefit test**: suppression follows **only** where its deterrence benefits **outweigh** its substantial social costs. *Herring v. United States*, 555 U.S. 135, 144 (2009). The practical consequence: the rule is **riddled with exceptions** — standing, inevitable discovery, independent source, attenuation, and good faith — each of which can let unlawfully-encountered evidence in.
+The exclusionary rule bars the government from using, in its case-in-chief, evidence obtained in violation of the Fourth Amendment — **and the "fruits" of that violation** (derivative evidence). It is **not a personal constitutional right**; it is a **judicially-created remedy** whose primary modern justification is **deterring police misconduct**, with deterrence of police misconduct as the rule's sole/primary justification. *United States v. Calandra*, 414 U.S. 338, 348 (1974) (exclusionary rule is "a judicially created remedy designed to safeguard Fourth Amendment rights generally through its deterrent effect, rather than a personal constitutional right"). The older "judicial integrity" rationale (courts refusing to become accomplices in unlawfulness) traces to *Elkins v. United States*, 364 U.S. 206, 222 (1960), and *Mapp v. Ohio*; *Calandra* in fact downgraded that rationale. It originated as a **federal** rule in *Weeks v. United States*, 232 U.S. 383 (1914), and was applied to the **states** through the Fourteenth Amendment in *Mapp v. Ohio*, 367 U.S. 643 (1961). The reach of suppression extends to **derivative** evidence under the **fruit-of-the-poisonous-tree** doctrine, but only where the evidence was "come at by exploitation of [the] illegality" rather than by means sufficiently attenuated to purge the taint. *Wong Sun v. United States*, 371 U.S. 471, 487–88 (1963). Because the rule is a deterrent remedy and not a right, the modern Court applies a **cost-benefit test**: suppression follows **only** where its deterrence benefits **outweigh** its substantial social costs. *Herring v. United States*, 555 U.S. 135, 144 (2009). The practical consequence: the rule is **riddled with exceptions** — standing, inevitable discovery, independent source, attenuation, and good faith — each of which can let unlawfully-encountered evidence in.
 
 ## Key cases
 **Foundations & framing (binding)**
@@ -25,11 +25,11 @@ The exclusionary rule bars the government from using, in its case-in-chief, evid
 |---|---|---|---|
 | *Rakas v. Illinois*, 439 U.S. 128 (1978) | **Standing** — 4A rights are personal; defendant must show **his own** legitimate expectation of privacy and cannot vicariously assert others'. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/109953/rakas-v-illinois/) |
 | *Nix v. Williams*, 467 U.S. 431 (1984) | **Inevitable discovery** — evidence is admissible if the government proves by a **preponderance** it would inevitably have been found by lawful means. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/111204/nix-v-williams/) |
-| *United States v. Soto-Peguero*, 978 F.3d 13 (1st Cir. 2020) | Inevitable discovery **applied** (warrant would have issued regardless) → evidence admitted; denial of suppression affirmed. | Circuit (1st) — persuasive | [link](https://www.courtlistener.com/opinion/4578375/united-states-v-soto-peguero/) |
-| *United States v. Neugin*, 958 F.3d 924 (10th Cir. 2020) | Inevitable discovery **failed** — chain to discovery too speculative; suppression required (denial **reversed**). | Circuit (10th) — persuasive | [link](https://www.courtlistener.com/opinion/4530911/united-states-v-neugin/) |
+| *United States v. Soto-Peguero*, 978 F.3d 13 (1st Cir. 2020) | Inevitable discovery **applied** (warrant would have issued regardless) → evidence admitted; denial of suppression affirmed. | Circuit (1st) — persuasive | [link](https://www.courtlistener.com/opinion/4798028/united-states-v-soto-peguero/) |
+| *United States v. Neugin*, 958 F.3d 924 (10th Cir. 2020) | Inevitable discovery **failed** — chain to discovery too speculative; suppression required (denial **reversed**). | Circuit (10th) — persuasive | [link](https://www.courtlistener.com/opinion/4750564/united-states-v-neugin/) |
 | *Murray v. United States*, 487 U.S. 533 (1988) | **Independent source** — evidence first seen during an unlawful entry is admissible if later acquired through a **genuinely independent** lawful source. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/112136/murray-v-united-states/) |
-| *State v. Mitcham*, 258 Ariz. 435, 559 P.3d 1099 (2024) | State illustration of independent source — admissible if also obtained independently of the tainted activity. | State — illustrative, non-binding | [link](https://www.courtlistener.com/opinion/10760195/state-of-arizona-v-ian-mitcham/) |
-| *Utah v. Strieff*, 579 U.S. 232 (2016) | **Attenuation** — a valid pre-existing **arrest warrant** found during an unlawful stop is an intervening circumstance that purges the taint. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/8137990/utah-v-strieff/) |
+| *State v. Mitcham*, 559 P.3d 1099 (Ariz. 2024) | State illustration of independent source — admissible if also obtained independently of the tainted activity. | State — illustrative, non-binding | [link](https://www.courtlistener.com/opinion/10293607/state-of-arizona-v-ian-mitcham/) |
+| *Utah v. Strieff*, 579 U.S. 232 (2016) | **Attenuation** — a valid pre-existing **arrest warrant** found during an unlawful stop is an intervening circumstance that purges the taint. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/8176208/utah-v-strieff/) |
 | *Brown v. Illinois*, 422 U.S. 590 (1975) | Supplies the **attenuation factors**: temporal proximity · intervening circumstances · purpose & flagrancy of the misconduct. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/109304/brown-v-illinois/) |
 | *United States v. Leon*, 468 U.S. 897 (1984) | **Good-faith exception** — objectively reasonable reliance on a warrant later found to lack PC yields admissible evidence; lists **four** situations where good faith fails (at 923). | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/111262/united-states-v-leon/) |
 | *Massachusetts v. Sheppard*, 468 U.S. 981 (1984) | *Leon*'s companion — good faith applies where the warrant was defective **in form** but officers reasonably relied on the judge. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/111263/massachusetts-v-sheppard/) |
@@ -102,10 +102,8 @@ flowchart TD
   A["4A violation → evidence"] --> S{"Standing?<br/>own REP · <i>Rakas</i>"}
   S -->|No| ADM["Evidence ADMITTED<br/>(no suppression)"]
   S -->|Yes| EX{"Any exception apply?"}
-  EX -->|"Good faith · <i>Leon</i>"| ADM
-  EX -->|"Inevitable discovery · <i>Nix</i>"| ADM
-  EX -->|"Independent source · <i>Murray</i>"| ADM
-  EX -->|"Attenuation · <i>Strieff</i>/<i>Brown</i>"| ADM
+  EX -->|"An exception applies"| EXC["Good faith <i>Leon</i> · Inevitable discovery <i>Nix</i><br/>Independent source <i>Murray</i> · Attenuation <i>Strieff/Brown</i>"]
+  EXC --> ADM
   EX -->|"None"| SUP["SUPPRESS<br/>evidence + fruits<br/><i>Wong Sun</i>"]
 ```
 
@@ -117,11 +115,11 @@ flowchart TD
 - *Herring v. United States*, 555 U.S. 135 (2009) — https://www.courtlistener.com/opinion/145922/herring-v-united-states/
 - *Rakas v. Illinois*, 439 U.S. 128 (1978) — https://www.courtlistener.com/opinion/109953/rakas-v-illinois/
 - *Nix v. Williams*, 467 U.S. 431 (1984) — https://www.courtlistener.com/opinion/111204/nix-v-williams/
-- *United States v. Soto-Peguero*, 978 F.3d 13 (1st Cir. 2020) — https://www.courtlistener.com/opinion/4578375/united-states-v-soto-peguero/ *(persuasive; inevitable discovery applied — admitted)*
-- *United States v. Neugin*, 958 F.3d 924 (10th Cir. 2020) — https://www.courtlistener.com/opinion/4530911/united-states-v-neugin/ *(persuasive; inevitable discovery FAILED — suppression required)*
+- *United States v. Soto-Peguero*, 978 F.3d 13 (1st Cir. 2020) — https://www.courtlistener.com/opinion/4798028/united-states-v-soto-peguero/ *(persuasive; inevitable discovery applied — admitted)*
+- *United States v. Neugin*, 958 F.3d 924 (10th Cir. 2020) — https://www.courtlistener.com/opinion/4750564/united-states-v-neugin/ *(persuasive; inevitable discovery FAILED — suppression required)*
 - *Murray v. United States*, 487 U.S. 533 (1988) — https://www.courtlistener.com/opinion/112136/murray-v-united-states/
-- *State v. Mitcham*, 258 Ariz. 435, 559 P.3d 1099 (2024) — https://www.courtlistener.com/opinion/10760195/state-of-arizona-v-ian-mitcham/ *(state — illustrative, non-binding)*
-- *Utah v. Strieff*, 579 U.S. 232 (2016) — https://www.courtlistener.com/opinion/8137990/utah-v-strieff/
+- *State v. Mitcham*, 559 P.3d 1099 (Ariz. 2024) — https://www.courtlistener.com/opinion/10293607/state-of-arizona-v-ian-mitcham/ *(state — illustrative, non-binding)*
+- *Utah v. Strieff*, 579 U.S. 232 (2016) — https://www.courtlistener.com/opinion/8176208/utah-v-strieff/
 - *Brown v. Illinois*, 422 U.S. 590 (1975) — https://www.courtlistener.com/opinion/109304/brown-v-illinois/
 - *United States v. Leon*, 468 U.S. 897 (1984) — https://www.courtlistener.com/opinion/111262/united-states-v-leon/
 - *Massachusetts v. Sheppard*, 468 U.S. 981 (1984) — https://www.courtlistener.com/opinion/111263/massachusetts-v-sheppard/

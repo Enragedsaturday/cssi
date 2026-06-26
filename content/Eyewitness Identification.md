@@ -1,5 +1,12 @@
 ---
 topic: Eyewitness Identification
+aliases:
+  - lineup
+  - showup
+  - show-up
+  - photo array
+  - Wade hearing
+  - suggestive identification
 type: doctrine
 jurisdiction: Federal (U.S. Const. amends. VI & XIV); SCOTUS baseline
 status: verified
@@ -13,7 +20,7 @@ related:
 
 ## Rule
 
-Two distinct federal doctrines govern challenges to eyewitness identifications. First, under the **Sixth Amendment**, a defendant has a right to counsel at a **post-charge corporeal lineup or showup** (a "critical stage"), but not at a pre-charge confrontation and not at a photographic array. Second, under the **Due Process Clause**, an identification is suppressed only when an **unnecessarily suggestive** procedure arranged by police creates a substantial likelihood of irreparable misidentification — and even a suggestive ID survives if it is nonetheless **reliable** under the totality of the circumstances. Reliability is the linchpin.
+Two distinct federal doctrines govern challenges to eyewitness identifications. First, under the **Sixth Amendment**, a defendant has a right to counsel at a **post-charge corporeal lineup** (a "critical stage" under *Wade/Gilbert*), but not at a pre-charge confrontation and not at a photographic array. NOTE: a **showup** is not categorically a Sixth Amendment critical stage — the canonical showup case, *Stovall v. Denno*, 388 U.S. 293 (1967), was analyzed under **due process**, not the Sixth Amendment counsel right. List showups under the due-process (suggestiveness/reliability) branch, not as a categorical 6A critical stage. Second, under the **Due Process Clause**, an identification is suppressed only when an **unnecessarily suggestive** procedure arranged by police creates a substantial likelihood of irreparable misidentification — and even a suggestive ID survives if it is nonetheless **reliable** under the totality of the circumstances. Reliability is the linchpin.
 
 ## Key cases
 
@@ -34,7 +41,7 @@ These cases are treated in full elsewhere but bear on this doctrine; each holdin
 
 | Case | Relevance to eyewitness identification | Primary treatment | CourtListener |
 | --- | --- | --- | --- |
-| *Rothgery v. Gillespie County*, 554 U.S. 191, 198, 213 (2008) | Fixes WHEN the Wade/Kirby right to counsel attaches at a lineup: the 6A attaches at the initial appearance before a magistrate where the accused learns the charge and his liberty is restricted — so a corporeal lineup conducted after that point is a critical stage requiring counsel, one before it is not. | [[Sixth Amendment Right to Counsel]] | [opinion](https://www.courtlistener.com/opinion/145785/rothgery-v-gillespie-county/) |
+| *Rothgery v. Gillespie County*, 554 U.S. 191, 198, 213 (2008) | Fixes WHEN the Wade/Kirby right to counsel attaches at a lineup: the 6A **attaches** at the initial appearance/arraignment (*Rothgery v. Gillespie County*, 554 U.S. 191 (2008)) — but **attachment is distinct from the 'critical stage' question**. *Rothgery* expressly did NOT decide which post-attachment events are critical stages requiring counsel (554 U.S. at 211-13 & nn.15-16). It is **Wade/Gilbert** that supplies the holding that a **post-charge corporeal lineup** is a critical stage requiring counsel; a lineup conducted after attachment is thus a critical stage under *Wade*, while events before attachment are not. | [[Sixth Amendment Right to Counsel]] | [opinion](https://www.courtlistener.com/opinion/145785/rothgery-v-gillespie-county/) |
 | *Texas v. Cobb*, 532 U.S. 162, 167-68, 173 (2001) | The Wade right to counsel at a post-charge lineup is offense-specific: counsel is required only for a lineup concerning the charged offense; a post-charge lineup investigating a different, uncharged offense is not a critical stage and triggers no Wade/Gilbert counsel right. | [[Sixth Amendment Right to Counsel]] | [opinion](https://www.courtlistener.com/opinion/118417/texas-v-cobb/) |
 
 ## Nuances & limits
@@ -44,6 +51,7 @@ These cases are treated in full elsewhere but bear on this doctrine; each holdin
 - **Gilbert's per se rule is strict.** A *Gilbert* violation excludes the lineup-ID testimony outright; there is no reliability cure for the uncounseled-lineup defect (contrast the due-process branch, where reliability rescues). An in-court ID may still come in under *Wade* if it has an **independent source**.
 - **Reliability rescues a suggestive ID.** *Biggers* lists the five factors: "the opportunity of the witness to view the criminal at the time of the crime, the witness' degree of attention, the accuracy of the witness' prior description of the criminal, the level of certainty demonstrated by the witness at the confrontation, and the length of time between the crime and the confrontation" (409 U.S. at 199-200). *Manson* makes the point explicit: "reliability is the linchpin in determining the admissibility of identification testimony for both pre- and post-Stovall confrontations. The factors to be considered are set out in Biggers" (432 U.S. at 114).
 - **No police suggestion, no due-process screening.** *Perry* confines the due-process screen to suggestion **arranged by law enforcement**; suggestive circumstances arising by chance (e.g., a witness's own spontaneous viewing) are left to ordinary trial safeguards.
+- **Burden & standard.** Under the *Wade/Gilbert* (Sixth Amendment) branch, once the defendant shows a lineup conducted without counsel, the **prosecution must establish by clear and convincing evidence** that an in-court identification rests on an **independent source** (the witness's observations apart from the tainted lineup). *United States v. Wade*, 388 U.S. 218, 240 (1967). Under the **due-process** branch (*Manson v. Brathwaite*, *Stovall*), the **defendant** bears the initial burden of showing the identification procedure was **unnecessarily suggestive**; if met, reliability is assessed under the totality (*Biggers* factors).
 
 ## Common pitfalls
 
@@ -69,6 +77,11 @@ flowchart TD
     L -->|Yes| K
     L -->|No| M[Suppress]
 ```
+
+## Recent developments & subsequent treatment
+
+- The federal two-track framework is stable: the **Manson/Biggers** reliability test still governs the due-process branch (reliability is the linchpin, weighed against the corrupting effect of any suggestion), and **Wade/Gilbert/Kirby/Ash** still govern the Sixth Amendment counsel branch.
+- **Perry v. New Hampshire**, 565 U.S. 228 (2012), is the most recent SCOTUS word: it reaffirmed and cabined the due-process screen to suggestion **arranged by law enforcement**. Absent improper police conduct, the safeguards are cross-examination, the right to counsel at trial, and jury instructions — not pretrial exclusion.
 
 ## Sources
 

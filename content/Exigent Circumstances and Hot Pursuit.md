@@ -48,7 +48,8 @@ These cases are treated in full elsewhere but bear on this doctrine, framed here
 
 ## Nuances & limits
 
-- **Hot pursuit begun in public continues inside.** *Santana* holds that "a suspect may not defeat an arrest which has been set in motion in a public place ... by the expedient of escaping to a private place" (427 U.S. at 43), and that "the pursuit here ended almost as soon as it began did not render it any the less a 'hot pursuit'" (427 U.S. at 43). See [[Arrest in the Home]] for the doorway/threshold line.
+- **Burden of proof.** The **government** bears the burden of proving that a recognized exception to the warrant requirement — here, **exigent circumstances** — justified the warrantless entry/search, judged on the totality of the circumstances. *Welsh v. Wisconsin*, 466 U.S. 740, 749-50 (1984) ('the police bear a heavy burden when attempting to demonstrate an urgent need that might justify warrantless ... entries'); *Mincey v. Arizona*, 437 U.S. 385, 390-91 (1978).
+- **Hot pursuit begun in public continues inside.** *Santana* holds that "a suspect may not defeat an arrest which has been set in motion in a public place ... by the expedient of escaping to a private place" (427 U.S. at 43), and that "[t]he fact that the pursuit here ended almost as soon as it began did not render it any the less a 'hot pursuit' sufficient to justify the warrantless entry into Santana's house" (427 U.S. at 43). See [[Arrest in the Home]] for the doorway/threshold line.
 - **Gravity of the offense governs.** *Welsh* makes "the gravity of the underlying offense" "an important factor" in the exigency analysis (466 U.S. at 753), holding that the exception "should rarely be sanctioned when there is probable cause to believe that only a minor offense ... has been committed" (466 U.S. at 753).
 - **No categorical misdemeanor-flight rule.** *Lange* — which resolved a split and is the controlling rule — holds that "pursuit of a fleeing misdemeanor suspect does not always—that is, categorically—justify a warrantless entry into a home" (594 U.S. at 297-98); officers must make a "case-by-case assessment of exigency" (594 U.S. at 298). Flight alone is not enough; an actual exigency (escape, evidence loss, harm) must be present.
 - **No police-created exigency.** *King* permits reliance on a self-created exigency only "when the police do not create the exigency by engaging or threatening to engage in conduct that violates the Fourth Amendment" (563 U.S. at 462) — lawfully knocking and announcing is fine, and that lawful knock-and-announce at the door is the [[Knock and Talk]] approach.
@@ -74,7 +75,7 @@ flowchart TD
   C --> F[Life / safety<br/>see Emergency Aid]
   D --> G{Minor / misdemeanor?}
   G -- Yes --> H[No categorical rule<br/>Welsh / Lange case-by-case]
-  G -- No --> I[Entry reasonable]
+  G -- No --> I[Felony pursuit<br/>still requires genuine, continuous exigency<br/>Hayden / Santana]
 ```
 
 ## Recent developments & subsequent treatment

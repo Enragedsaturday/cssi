@@ -30,7 +30,7 @@ When a search or seizure serves a "special need" beyond the normal need for ordi
 | *Board of Education v. Earls*, 536 U.S. 822 (2002) | Extends *Vernonia*: suspicionless testing of all students in competitive extracurriculars is reasonable. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/121171/board-of-education-of-independent-school-district-no-92-of-pottawatomie/) |
 | *United States v. Knights*, 534 U.S. 112 (2001) | A probation search on reasonable suspicion, authorized by a search condition, is reasonable even for a law-enforcement purpose. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/118468/united-states-v-knights/) |
 | *Samson v. California*, 547 U.S. 843 (2006) | A *suspicionless* search of a parolee subject to a search condition is reasonable; parolees have severely diminished privacy expectations. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/145640/samson-v-california/) |
-| *Skinner v. Railway Labor Executives' Ass'n*, 489 U.S. 602 (1989) | Suspicionless drug/alcohol testing of railway employees after accidents is reasonable under the special-needs doctrine. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/112219/skinner-v-railway-labor-executives-assn/) |
+| *Skinner v. Railway Labor Executives' Ass'n*, 489 U.S. 602 (1989) | Suspicionless drug/alcohol testing of railway employees is reasonable under the special-needs doctrine — both the FRA's mandatory toxicological testing after a "major train accident" and discretionary breath/urine testing following specified rule violations (e.g., signal noncompliance, excessive speeding) or reportable accidents. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/112219/skinner-v-railway-labor-executives-assn/) |
 | *National Treasury Employees Union v. Von Raab*, 489 U.S. 656 (1989) | Suspicionless drug testing of Customs employees seeking interdiction or firearm-carrying posts is reasonable. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/112220/national-treasury-employees-union-v-von-raab/) |
 | *Maryland v. King*, 569 U.S. 435 (2013) | A buccal DNA cheek-swab of a person arrested for a serious offense and held in custody is a reasonable booking procedure. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/873669/maryland-v-king/) |
 | *South Dakota v. Opperman*, 428 U.S. 364 (1976) | A vehicle inventory under standard procedures, not a pretext for investigation, is reasonable. | SCOTUS — binding | [opinion](https://www.courtlistener.com/opinion/109537/south-dakota-v-opperman/) |
@@ -59,6 +59,7 @@ These cases are treated in full elsewhere but bear directly on the special-needs
 - **Administrative inspections still favor a warrant.** *Camara* requires a warrant for routine code inspections, but on area-based standards rather than individualized PC. *Burger* recognizes a closely-regulated-industry exception (substantial interest + necessity + adequate warrant substitute), and modern *Patel* polices it: the regime must allow pre-compliance review, and ordinary businesses like hotels are not "closely regulated."
 - **Inventory cluster (primary home: [[Search Incident to Arrest]]).** Inventories (*Opperman*, *Bertine*, *Wells*) are a caretaking, not investigatory, function. They turn on **standardized procedures**, not officer discretion. *Wells*: "an inventory search must not be a ruse for a general rummaging in order to discover incriminating evidence." (495 U.S. at 4). *Bertine* permits opening closed containers, but only where "discretion is exercised according to standard criteria and on the basis of something other than suspicion of evidence of criminal activity." (479 U.S. at 375-76).
 - **King is a booking-process balancing case**, not a checkpoint or testing program — the DNA swab of a serious-offense arrestee is upheld as a reasonable booking procedure.
+- **Burden & standard of review.** The **government** bears the burden of justifying a warrantless/suspicionless search by establishing that a recognized special-needs/administrative exception applies (a "special need, beyond the normal need for law enforcement") and that, on balance, the government's interest outweighs the individual's privacy intrusion. *Vernonia School Dist. 47J v. Acton*, 515 U.S. 646, 652-53 (1995); cf. *New Jersey v. T.L.O.*, 469 U.S. 325 (1985). On review, the reasonableness balancing is a question of law reviewed **de novo**, underlying facts for clear error.
 
 ## Common pitfalls
 - **Treating any checkpoint as automatically valid.** *Edmond* makes the program's primary purpose dispositive — a "drug checkpoint" or general crime-control roadblock is unconstitutional even if conducted exactly like a lawful *Sitz* sobriety checkpoint. Articulate the special purpose first.
@@ -80,7 +81,8 @@ flowchart TD
     B -- Yes --> X[Edmond: FAILS]
     B -- No, special need --> C[Balance: gov't interest vs privacy intrusion]
     C --> D{Reasonable?}
-    D -- Yes --> E[Valid: Sitz / Vernonia / Knights / Burger]
+    D -- Yes --> E[Valid: Sitz / Vernonia / Knights]
+    C --> G[Admin inspections: Camara / Burger / Patel — warrant substitute + pre-compliance review]
     D -- No --> F[Invalid: Chandler / Ferguson / Patel]
 ```
 

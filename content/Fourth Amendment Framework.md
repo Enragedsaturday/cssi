@@ -1,7 +1,7 @@
 ---
 title: "Fourth Amendment Framework"
 aliases:
-  - "4th Amendant, general"
+  - "4th Amendment, general"
   - "4A Framework"
 topic: The Fourth Amendment Framework
 type: doctrine
