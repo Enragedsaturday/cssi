@@ -3647,7 +3647,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/564407/united-states-v-daryl-lee-evans/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 564407,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 215,
@@ -3661,7 +3664,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/134729/united-states-v-flores-montano/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 134729,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 216,
@@ -3675,7 +3681,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/7027957/united-states-v-gastiaburo/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 6929715,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 217,
@@ -3689,7 +3698,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/654273/united-states-v-kenneth-d-gooch/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 654273,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 218,
@@ -3703,7 +3715,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/145670/united-states-v-grubbs/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 145670,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 219,
@@ -3717,7 +3732,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/110300/united-states-v-henry/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 110300,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 220,
@@ -3731,7 +3749,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111294/united-states-v-hensley/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111294,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 221,
@@ -3745,7 +3766,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/4881258/united-states-v-howard-davis/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 4685037,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 222,
@@ -3759,7 +3783,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/2798587/united-states-v-ac-jackson/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 2798587,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 223,
@@ -3773,7 +3800,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111143/united-states-v-jacobsen/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111143,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 224,
@@ -3787,7 +3817,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111305/united-states-v-johns/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111305,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 225,
@@ -3801,7 +3834,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 7268856,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 226,
@@ -3815,7 +3851,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/118468/united-states-v-knights/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 118468,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 227,
@@ -3829,7 +3868,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/505922/united-states-v-richard-j-leary-and-fl-kleinberg-co/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 505922,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 228,
@@ -3844,7 +3886,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111262/united-states-v-leon/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111262,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 229,
@@ -3858,7 +3903,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109541/united-states-v-martinez-fuerte/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109541,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 230,
@@ -3872,7 +3920,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/2736649/united-states-v-arnold-maurice-mathis/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 2736649,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 231,
@@ -3886,7 +3937,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 108967,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 232,
@@ -3900,7 +3954,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/110264/united-states-v-mendenhall/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 110264,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 233,
@@ -3914,7 +3971,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111509/united-states-v-montoya-de-hernandez/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111509,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 234,
