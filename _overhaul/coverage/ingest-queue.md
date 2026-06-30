@@ -35,29 +35,29 @@
 | ✅ **United States v. Sharpe** | A 20-min Terry detention was reasonable; no rigid time limit — diligence is the test. | [[Terry Stops and Reasonable Suspicion]] — Progeny (duration) | 1,2 | good-law |
 | ✅ **Illinois v. Caballes** | A dog sniff during a lawful traffic stop needs no independent suspicion if it doesn't prolong the stop. Pairs with Rodriguez. | [[Traffic Stops]] — Anchor; [[Two Definitions of Search]] | 2,3 | good-law |
 | ✅ **Hayes v. Florida** | Transporting a suspect to the station for fingerprinting without consent/PC is an arrest requiring PC. Pairs with Davis. | [[Seizure of the Person]] — Limiting | 1,2 | good-law |
-| **Kansas v. Glover** | An officer may stop on RS from learning the registered owner's license is revoked (absent info the owner isn't driving). | [[Traffic Stops]] — Progeny; [[Probable Cause and Reasonable Suspicion]] | 1,6 | good-law |
-| **Henry v. United States (1959)** | PC for a warrantless arrest is judged at the moment of arrest; mere package movement did not supply PC. | [[Probable Cause and Reasonable Suspicion]] — Anchor | 5 | foundational |
-| **Draper v. United States** | A reliable informant's detailed tip, corroborated by police, can establish PC to arrest. | [[Probable Cause and Reasonable Suspicion]] — Progeny | 1,2 | good-law |
-| **Sibron v. New York** | A frisk must be limited to a weapons search on RS the suspect is armed; reaching into a pocket for drugs exceeds Terry. | [[Terry Stops and Reasonable Suspicion]] — Limiting | 1,2 | good-law |
-| **Peters v. New York** | Companion to Sibron: where PC to arrest existed, the search was a valid SITA. | [[Terry Stops and Reasonable Suspicion]] — Related; [[Search Incident to Arrest]] | 2 | good-law |
-| **Adams v. Williams** | A known informant's tip can furnish RS for a Terry stop and protective frisk. | [[Terry Stops and Reasonable Suspicion]] — Progeny; [[Probable Cause and Reasonable Suspicion]] | 1,2 | good-law |
-| **Brown v. Texas** | Police may not stop and demand ID without RS; the Brown balancing test for suspicionless seizures. | [[Terry Stops and Reasonable Suspicion]] — Anchor; [[Seizure of the Person]] | 3 | foundational |
-| **Arizona v. Johnson** | During a lawful traffic stop an officer may frisk a passenger on RS the passenger is armed and dangerous. | [[Traffic Stops]] — Progeny; [[Terry Stops and Reasonable Suspicion]] | 3 | good-law |
-| **Arkansas v. Sullivan** | Per curiam: an arrest is valid despite pretextual/subjective motive (extends Whren to arrests). | [[Traffic Stops]] — Progeny (pretext); pairs with [[Whren v. United States]] | 2 | good-law |
-| **Kolender v. Lawson** | A stop-and-identify statute requiring 'credible and reliable' ID is void for vagueness. | [[Terry Stops and Reasonable Suspicion]] — Related; pairs with Hiibel/Brown v. Texas | 2 | good-law |
+| ✅ **Kansas v. Glover** | An officer may stop on RS from learning the registered owner's license is revoked (absent info the owner isn't driving). | [[Traffic Stops]] — Progeny; [[Probable Cause and Reasonable Suspicion]] | 1,6 | good-law |
+| ✅ **Henry v. United States (1959)** | PC for a warrantless arrest is judged at the moment of arrest; mere package movement did not supply PC. | [[Probable Cause and Reasonable Suspicion]] — Anchor | 5 | foundational |
+| ✅ **Draper v. United States** | A reliable informant's detailed tip, corroborated by police, can establish PC to arrest. | [[Probable Cause and Reasonable Suspicion]] — Progeny | 1,2 | good-law |
+| ✅ **Sibron v. New York** | A frisk must be limited to a weapons search on RS the suspect is armed; reaching into a pocket for drugs exceeds Terry. | [[Terry Stops and Reasonable Suspicion]] — Limiting | 1,2 | good-law |
+| ✅ **Peters v. New York** | Companion to Sibron: where PC to arrest existed, the search was a valid SITA. | [[Terry Stops and Reasonable Suspicion]] — Related; [[Search Incident to Arrest]] | 2 | good-law |
+| ✅ **Adams v. Williams** | A known informant's tip can furnish RS for a Terry stop and protective frisk. | [[Terry Stops and Reasonable Suspicion]] — Progeny; [[Probable Cause and Reasonable Suspicion]] | 1,2 | good-law |
+| ✅ **Brown v. Texas** | Police may not stop and demand ID without RS; the Brown balancing test for suspicionless seizures. | [[Terry Stops and Reasonable Suspicion]] — Anchor; [[Seizure of the Person]] | 3 | foundational |
+| ✅ **Arizona v. Johnson** | During a lawful traffic stop an officer may frisk a passenger on RS the passenger is armed and dangerous. | [[Traffic Stops]] — Progeny; [[Terry Stops and Reasonable Suspicion]] | 3 | good-law |
+| ✅ **Arkansas v. Sullivan** | Per curiam: an arrest is valid despite pretextual/subjective motive (extends Whren to arrests). | [[Traffic Stops]] — Progeny (pretext); pairs with [[Whren v. United States]] | 2 | good-law |
+| ✅ **Kolender v. Lawson** | A stop-and-identify statute requiring 'credible and reliable' ID is void for vagueness. | [[Terry Stops and Reasonable Suspicion]] — Related; pairs with Hiibel/Brown v. Texas | 2 | good-law |
 
 ## Batch C — Seizure of the person · arrest mechanics · arrest in the home (8)
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **Brower v. Inyo County** | A seizure occurs only when an officer terminates movement through a means intentionally applied. Defines 'seizure'. | [[Seizure of the Person]] — Anchor; [[Use of Force]] | 2 | foundational |
-| **Michigan v. Chesternut** | Police pursuit, without more, is not a seizure; the Mendenhall 'free to leave' test governs. | [[Seizure of the Person]] — Progeny | 2 | good-law |
-| **Atwater v. City of Lago Vista** | A warrantless arrest for a fine-only misdemeanor committed in the officer's presence does not violate the 4A. | [[Seizure of the Person]] — Anchor; [[Search Incident to Arrest]] | 1 | good-law |
-| **Gerstein v. Pugh** | A warrantless arrestee is entitled to a prompt judicial PC determination. Pairs with Riverside. | [[Seizure of the Person]] — Anchor; [[Arrest in the Home]] | 1 | foundational |
-| **County of Riverside v. McLaughlin** | A judicial PC determination within 48 hrs of a warrantless arrest is presumptively prompt (implements Gerstein). | [[Seizure of the Person]] — Progeny; pairs with Gerstein | 1 | good-law |
-| **Hill v. California** | An arrest of the wrong person on a reasonable good-faith mistake of identity is valid, as is the ensuing SITA. | [[Probable Cause and Reasonable Suspicion]] — Progeny; [[Search Incident to Arrest]] | 3 | good-law |
-| **Kirk v. Louisiana** | Per curiam: absent a warrant or exigency, police may not arrest a suspect in his home (reaffirms Payton). | [[Arrest in the Home]] — Progeny | 2 | good-law |
-| **New York v. Harris (1990)** | With PC, a Payton violation does not require suppression of a later statement made outside the home. | [[Arrest in the Home]] — Limiting; [[The Exclusionary Rule]] | 2,5 | good-law |
+| ✅ **Brower v. Inyo County** | A seizure occurs only when an officer terminates movement through a means intentionally applied. Defines 'seizure'. | [[Seizure of the Person]] — Anchor; [[Use of Force]] | 2 | foundational |
+| ✅ **Michigan v. Chesternut** | Police pursuit, without more, is not a seizure; the Mendenhall 'free to leave' test governs. | [[Seizure of the Person]] — Progeny | 2 | good-law |
+| ✅ **Atwater v. City of Lago Vista** | A warrantless arrest for a fine-only misdemeanor committed in the officer's presence does not violate the 4A. | [[Seizure of the Person]] — Anchor; [[Search Incident to Arrest]] | 1 | good-law |
+| ✅ **Gerstein v. Pugh** | A warrantless arrestee is entitled to a prompt judicial PC determination. Pairs with Riverside. | [[Seizure of the Person]] — Anchor; [[Arrest in the Home]] | 1 | foundational |
+| ✅ **County of Riverside v. McLaughlin** | A judicial PC determination within 48 hrs of a warrantless arrest is presumptively prompt (implements Gerstein). | [[Seizure of the Person]] — Progeny; pairs with Gerstein | 1 | good-law |
+| ✅ **Hill v. California** | An arrest of the wrong person on a reasonable good-faith mistake of identity is valid, as is the ensuing SITA. | [[Probable Cause and Reasonable Suspicion]] — Progeny; [[Search Incident to Arrest]] | 3 | good-law |
+| ✅ **Kirk v. Louisiana** | Per curiam: absent a warrant or exigency, police may not arrest a suspect in his home (reaffirms Payton). | [[Arrest in the Home]] — Progeny | 2 | good-law |
+| ✅ **New York v. Harris (1990)** | With PC, a Payton violation does not require suppression of a later statement made outside the home. | [[Arrest in the Home]] — Limiting; [[The Exclusionary Rule]] | 2,5 | good-law |
 
 ## Batch D — Automobile exception · inventory · exigency · community caretaking (15)
 
