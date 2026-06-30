@@ -20,7 +20,7 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 | S2 | IA folder restructure + aliases | ✅ done | committed e3f37ca; 44 moves, 0 broken links |
 | S3 | Platform/nav/UX + components | ✅ done | nav b713b2b + components 09cdca8; build ok. S9 flags: CaseBrowser live render, data-island scaling, slug-casing deep-link check |
 | S4 | Case pages (BIRAC) + index | ✅ done | 262 pages, 0 escalations; Case Index regen diff-clean, LINT-6 clean, build ok. Deep gate→S9. |
-| S5 | Missed-case ingest + concordance | ⏳ blocked(S4) | borderline → USER PAUSE |
+| S5 | Missed-case ingest + concordance | ⏳ in progress | Phase A done; USER decisions in; Phase B ingesting |
 | S6 | Doctrine/narrative reformat | ⏳ blocked(S5) | caretaking split, Garrity page |
 | S7+S8 | Research pages + glossary wiring | ⏳ blocked(S6) | anchorize-then-wire |
 | S9 | Verification + release gate | ⏳ blocked(S7+S8) | STOP before publish |
@@ -61,6 +61,14 @@ Arizona v. Johnson · Berger v. New York · Birchfield v. North Dakota · Brown 
 - **Pinpoint provenance to spot-check at S9/D8:** slip-op + S.Ct.-only + paragraph-pinpoint cases (Carpenter, Riley, Saucier, Torres, Touset, Strieff, Mansor, et al.) — verbatim-confirmed; only the page provenance is reporter-derived in some.
 - Note: verified-cases-catalog.json holds only key/cite/url (no holdings) → generation was live-derived (strong SR-1). Richer prior holdings for S5 Thread-P are in prior-manifests/spec/*.spec.md.
 - pinpoint-pagination caveats to revisit at gate/S9: Gant star-pag; Bailey/Berghuis slip-op; Benn paragraph-nums (idx 8/12/13/14)
+
+## S5 tracker
+- Phase A ✅: 262 already-covered / 185 confirmed-miss / 105 excluded / 11 borderline. Thread-P frozen. Brief served (2026-06-30-cssi-s5-ingest-decisions.html).
+- **USER DECISIONS (2026-06-30):** (1) **TIER** — full pages for foundational/good-law + key foils; demote minor dead-letter overruled companions → brief-mentions (Case-Index row + S6 doctrine history note). (2) **Borderline = accept recommendations** — ingest O'Connor, Quon, Hudson v. Palmer, Salinas, Heck; brief-mention Verdugo-Urquidez, Wyman, G.M. Leasing, A Quantity of Copies of Books; annotate geofence + border-device frontier splits (no pages).
+- Phase B-1 ✅: 15 unambiguous (9 foundational + 6 Garrity) authored, 0 esc, ~52 CL. Thornton (resolves dangling refs) + Garrity cluster homed→[[Public-Employee Compelled Statements (Garrity)]] (S6 authors). **Corpus 262→277.**
+- Phase B-tiering: ⏳ classify remaining ~170 confirmed-miss → page-set vs brief-mention-set; fold in borderline dispositions.
+- Phase B-2..N: ingest page-set (serial CL batches).
+- Phase C: brief-mention Case-Index enrichment + dual-thread concordance + omissions/no-regression audit.
 
 ## Artifact locations
 - Orchestration: `_overhaul/ledger/` (this file, `cl-calls.log`).
