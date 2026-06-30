@@ -44,6 +44,19 @@
     cursor: default;
   }
 
+  // S3 · R6 #3 — glossary-definition popovers. Quartz derives the popover id from
+  // the trigger link's pathname (`popover-${pathname}`), so a hover preview of a
+  // `[[Common Legal Terms#term]]` wikilink (wired in S7) matches this selector with
+  // no per-link class needed — and full-page popovers keep the default 30rem width.
+  // Constrains width/length and tunes typography for short legal-term definitions.
+  &[id*="common-legal-terms"] > .popover-inner {
+    width: 22rem;
+    max-height: 14rem;
+    padding: 0.2rem 1rem 1rem 1rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
   & > .popover-inner[data-content-type] {
     &[data-content-type*="pdf"],
     &[data-content-type*="image"] {

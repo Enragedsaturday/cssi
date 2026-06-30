@@ -124,6 +124,10 @@ button.desktop-explorer {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+      // S3 · R3 — roomier rows
+      display: inline-block;
+      line-height: 1.65rem;
+      padding: 0.15rem 0;
 
       &.active {
         opacity: 1;
@@ -155,13 +159,14 @@ button.desktop-explorer {
   display: flex;
   align-items: center;
   user-select: none;
+  padding: 0.1rem 0; // S3 · R3 — roomier rows
 
   & div > a {
     color: var(--secondary);
     font-family: var(--headerFont);
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
-    line-height: 1.5rem;
+    line-height: 1.7rem; // S3 · R3 — roomier rows (was 1.5rem)
     display: inline-block;
   }
 
@@ -187,9 +192,25 @@ button.desktop-explorer {
       color: var(--secondary);
       font-weight: $semiBoldWeight;
       margin: 0;
-      line-height: 1.5rem;
+      line-height: 1.7rem; // S3 · R3 — roomier rows (was 1.5rem)
       pointer-events: none;
     }
+  }
+}
+
+// S3 · R3 — active-section emphasis. The stock `.active` styling reaches only the
+// leaf link; this bolds + tints the active page's ancestor folder title(s) (both
+// the #7 cluster parent and its 7a/7b child when a leaf inside is active) so the
+// current category reads at a glance. `.folder-title` covers both the link
+// (folderClickBehavior: "link") and span (collapse) variants.
+.explorer-content li:has(> .folder-outer a.active) > .folder-container {
+  & .folder-title {
+    color: var(--tertiary);
+    font-weight: $boldWeight;
+  }
+
+  & .folder-icon {
+    color: var(--tertiary);
   }
 }
 
