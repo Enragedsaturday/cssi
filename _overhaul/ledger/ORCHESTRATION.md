@@ -66,8 +66,8 @@ Arizona v. Johnson · Berger v. New York · Birchfield v. North Dakota · Brown 
 - Phase A ✅: 262 already-covered / 185 confirmed-miss / 105 excluded / 11 borderline. Thread-P frozen. Brief served (2026-06-30-cssi-s5-ingest-decisions.html).
 - **USER DECISIONS (2026-06-30):** (1) **TIER** — full pages for foundational/good-law + key foils; demote minor dead-letter overruled companions → brief-mentions (Case-Index row + S6 doctrine history note). (2) **Borderline = accept recommendations** — ingest O'Connor, Quon, Hudson v. Palmer, Salinas, Heck; brief-mention Verdugo-Urquidez, Wyman, G.M. Leasing, A Quantity of Copies of Books; annotate geofence + border-device frontier splits (no pages).
 - Phase B-1 ✅: 15 unambiguous (9 foundational + 6 Garrity) authored, 0 esc, ~52 CL. Thornton (resolves dangling refs) + Garrity cluster homed→[[Public-Employee Compelled Statements (Garrity)]] (S6 authors). **Corpus 262→277.**
-- Phase B-tiering: ⏳ classify remaining ~170 confirmed-miss → page-set vs brief-mention-set; fold in borderline dispositions.
-- Phase B-2..N: ingest page-set (serial CL batches).
+- Phase B-tiering ✅: **ingest-queue = 171 pages** (166 page-earning + 5 borderline-ingests); brief-mention-queue = 8 (4 dead-letter minors: Trupiano/Frank v. Maryland/Sanders/Robbins + 4 borderline); annotate-queue = 8 cases / 2 frontier clusters → S6. Partition reconciles. **NOTE: tier shaved only 8 → corpus heads to ~448 (misses are genuinely good-law/foundational, not bloat). User informed; proceeding unless redirected to aggressive cap.**
+- Phase B-2..N: ⏳ ingest the 171 ingest-queue.md in serial-CL batches of ~18 (~10 batches). Then brief-mention Case-Index enrichment (light CL) + S6 annotate flags.
 - Phase C: brief-mention Case-Index enrichment + dual-thread concordance + omissions/no-regression audit.
 
 ## Artifact locations

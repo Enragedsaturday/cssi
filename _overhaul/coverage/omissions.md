@@ -48,6 +48,19 @@
 
 _Subtotal A: 38 candidates._
 
+## A2. Borderline → brief-mention (S5 tiering, Decision 2)
+
+> The 4 `borderline.md` candidates resolved to **brief-mention** under Decision 2: a genuine 4A search/seizure holding (mostly still good law) but **field relevance too thin for a standalone page**. Each gets a Case-Index row + an S6 one-line note on its home doctrine page; see `brief-mention-queue.md`. Reason-class: `borderline (R2) — thin field relevance`.
+
+| Case | Book section / source | Reason-class | Disposition | Note |
+|---|---|---|---|---|
+| **United States v. Verdugo-Urquidez** | I.Search / Foreign Searches | borderline (R2) — thin field relevance | brief-mention | Scope of 'the people'; good law but foreign-search niche → note on [[Fourth Amendment Framework]] |
+| **Wyman v. James** | VI / Special Needs | borderline (R2) — thin field relevance | brief-mention | Welfare home-visit not a 4A search; good law → note on [[Special Needs and Administrative Searches]] |
+| **G. M. Leasing Corp. v. United States** | VIII / Other Issues | borderline (R2) — thin field relevance | brief-mention | Warrant needed for tax-levy office entry; good law → note on [[The Warrant Requirement]] |
+| **A Quantity of Copies of Books v. Kansas** | VIII / Other Issues | borderline (R2) — thin field relevance | brief-mention | 1A-sensitive seizures need prior adversarial hearing; good law → note on [[The Warrant Requirement]] |
+
+_Subtotal A2: 4 candidates._
+
 ## B. Persuasive-only circuit/state cases named in doctrine prose (no page by default — R6)
 
 > Illustrative circuit/state authorities cited inside existing doctrine pages. Per R6, persuasive-only/illustrative cases get **no page by default — a doctrine-page mention at most**. Reason-class `out-of-remit (persuasive-only, R6)`; disposition `brief-mention` (kept as the existing in-prose mention) unless promoted. Frontier circuit cases that are split-markers are on the **borderline** list, not here.
