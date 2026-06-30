@@ -40,8 +40,9 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 - batch 11: idx 194–213 — ✅ committed (19 pages + idx 212 skipped, 0 esc, ~50 CL calls). N2 corrections (August/Basher → Binding in-circuit). **N1 findings for S6/gate:** Anchondo (ratio=SITA, homed Auto-Exc) + Braxton (ratio=inevitable-discovery, homed SITA) — re-home decision.
 - batch 12: idx 214–233 — ✅ committed (20 pages, 0 esc, ~80 CL calls). Survived ~12min CL MCP outage (502s, not throttle) + recovered. L3 trap caught: Gastiaburo URL→unrelated case, resolved. Leon, Matlock, US v. Jones 2012.
 - batch 13: idx 234–253 — ✅ committed (19 pages + idx 252 skipped, 0 esc, ~67 CL calls). Splits flagged inline (Touset↔Cotterman, Tuggle); Sandoval lexicon fix; Morton N1 (ratio=good-faith, homed Plain View). **CONFIRMED: Thornton NOT in worklist → S5 MUST ingest (class-2 miss); Gant/Belton refs dangle until then.**
-- batch 14: idx 254–265 — ⏳ running (FINAL, ~11 cases)
-- **250/262 case pages done (~95%)**
+- batch 14: idx 254–265 — ✅ committed (12 pages, 0 esc, ~37 CL calls). Weeks, Wong Sun, Whren, Warden v. Hayden, Houghton.
+- **✅ S4 GENERATION COMPLETE: 262/262 case pages, 0 escalations, no throttle.** All needs_page=true → authored; pending = idx 177/212/252 (flagged captions, correctly page-less).
+- S4 wrap-up: ⏳ Case Index regen (R10) + lint baseline + build validation, then free structural gate (deep legal re-verify deferred to S9 SR-1, to avoid redundant CL).
 
 ### S4 findings carried to S5/S6/S9 (gate)
 - **S5 class-2 ingest:** Thornton v. United States (Belton/Gant companion; dangling refs).
