@@ -37,8 +37,9 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 - batch 8: idx 134–153 — ✅ committed (20 pages, 0 esc, 47 CL calls). D5 coherence: Montejo↔Jackson, Belton limited→Gant, Olmstead overruled→Katz, Elstad limited→Seibert all align.
 - batch 9: idx 154–173 — ✅ committed (20 pages, 0 esc, ~69 CL calls). Riley=2680439; Saucier limited→Pearson; People v. Hughes state-high→Persuasive-state.
 - batch 10: idx 174–193 — ✅ committed (19 pages + idx 177 skipped, 0 esc, ~47 CL calls). L3 traps caught (Mansor cluster→wrong doc, resolved). **SR-5 finding:** Mitcham prior="independent-source" vs live="inevitable discovery" → authored to LIVE; flag for S5/S9 concordance.
-- batch 11: idx 194–213 — ⏳ running (~19 cases; idx 212 trio caption = needs_page=false, skip)
-- **192/262 case pages done (~73%)**
+- batch 11: idx 194–213 — ✅ committed (19 pages + idx 212 skipped, 0 esc, ~50 CL calls). N2 corrections (August/Basher → Binding in-circuit). **N1 findings for S6/gate:** Anchondo (ratio=SITA, homed Auto-Exc) + Braxton (ratio=inevitable-discovery, homed SITA) — re-home decision.
+- batch 12: idx 214–233 — ⏳ running (20 cases)
+- **211/262 case pages done (~81%)**
 - pinpoint-pagination caveats to revisit at gate/S9: Gant star-pag; Bailey/Berghuis slip-op; Benn paragraph-nums (idx 8/12/13/14)
 
 ## Artifact locations

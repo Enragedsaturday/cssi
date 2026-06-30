@@ -3310,7 +3310,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 107729,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 195,
@@ -3324,7 +3327,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/110901/texas-v-brown/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 110901,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 196,
@@ -3338,7 +3344,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/118417/texas-v-cobb/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 118417,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 197,
@@ -3352,7 +3361,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/4867542/torres-v-madrid/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 4671321,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 198,
@@ -3366,7 +3378,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/4403802/turner-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 4181055,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 199,
@@ -3380,7 +3395,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/758111/united-states-v-erick-anchondo/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 758111,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 200,
@@ -3394,7 +3412,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/118474/united-states-v-arvizu/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 118474,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 201,
@@ -3408,7 +3429,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/108846/united-states-v-ash/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 108846,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 202,
@@ -3422,7 +3446,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/10574922/united-states-v-august/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 11041510,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 203,
@@ -3436,7 +3463,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111514/united-states-v-bagley/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111514,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 204,
@@ -3450,7 +3480,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/183144/united-states-v-basher/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 183144,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 205,
@@ -3464,7 +3497,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/9381854/united-states-v-braxton/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 9377330,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 206,
@@ -3478,7 +3514,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109311/united-states-v-brignoni-ponce/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109311,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 207,
@@ -3492,7 +3531,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/108898/united-states-v-calandra/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 108898,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 208,
@@ -3506,7 +3548,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/4649091/united-states-v-miguel-cano/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 4426344,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 209,
@@ -3520,7 +3565,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/747208/united-states-v-larry-duane-conner-united-states-of-america-v-john/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 747208,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 210,
@@ -3534,7 +3582,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/110377/united-states-v-cortez/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 110377,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 211,
@@ -3548,7 +3599,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/854692/united-states-v-howard-cotterman/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 854692,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 212,
@@ -3576,7 +3630,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/121153/united-states-v-drayton/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 121153,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 214,
