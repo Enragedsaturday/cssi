@@ -63,29 +63,29 @@
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **United States v. Chadwick** | Warrant required to search a footlocker/luggage seized from a car's trunk; luggage carries a high REP (Chadwick-Sanders rule, later collapsed for cars by Acevedo). | [[Automobile Exception]] — Historical/Limiting; [[Search Incident to Arrest]] | 2 | foundational |
-| **Cardwell v. Lewis** | Examining a car's exterior (paint, tires) in a public lot is not a search; reduced REP in a vehicle's exterior. | [[Automobile Exception]] — Related; [[Curtilage]] | 1 | good-law |
-| **Michigan v. Thomas** | The auto exception permits a warrantless search of an impounded car at the station where PC existed; no separate exigency. | [[Automobile Exception]] — Progeny | 1 | good-law |
-| **Florida v. Myers** | Per curiam: a second warrantless search of an already-impounded car is valid under the auto exception. | [[Automobile Exception]] — Related | 1,2 | good-law |
-| **Maryland v. Dyson** | Per curiam: the auto exception has no separate exigency requirement — PC alone suffices. | [[Automobile Exception]] — Progeny | 1,2 | good-law |
-| **Cooper v. California** | A warrantless search of a car lawfully impounded for forfeiture is reasonable. | [[Automobile Exception]] — Related (inventory/forfeiture) | 1 | good-law |
-| **Florida v. White** | Police may seize a car from a public place without a warrant on PC it is forfeitable contraband. | [[Automobile Exception]] — Related (forfeiture seizure) | 5 | good-law |
-| **Harris v. United States (1968)** | Items in plain view found during a lawful inventory of an impounded car may be seized. | [[Plain View Doctrine]] — Related; [[Automobile Exception]] (inventory) | 5 | good-law |
-| **Cupp v. Murphy** | Warrantless taking of fingernail scrapings on PC was justified by ready destructibility (limited SITA-type intrusion). | [[Search Incident to Arrest]] — Related; [[Exigent Circumstances and Hot Pursuit]] | 1,2 | good-law |
-| **Michigan v. Tyler** | Firefighters may enter a burning building and remain a reasonable time to investigate cause; later entries need a warrant/consent. | [[Community Caretaking and Emergency Aid]] — Progeny; [[Special Needs and Administrative Searches]] | 1,2 | good-law |
-| **Michigan v. Clifford** | A post-fire investigative search after the blaze is out and scene secured needs an administrative or criminal warrant. | [[Community Caretaking and Emergency Aid]] — Limiting | 2 | good-law |
-| **Thompson v. Louisiana** | Per curiam: no 'murder-scene exception'; a warrantless multi-hour homicide-scene search is unreasonable (reaffirms Mincey). | [[Community Caretaking and Emergency Aid]] — Related; pairs with Mincey | 2 | good-law |
-| **Flippo v. West Virginia** | Per curiam: there is no general 'crime-scene exception' to the warrant requirement. | [[Community Caretaking and Emergency Aid]] — Related; [[Securing the Scene]] | 2 | good-law |
-| **Ryburn v. Huff** | Per curiam: warrantless emergency-aid entry is reasonable when officers reasonably believe violence is imminent; QI. | [[Community Caretaking and Emergency Aid]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 3 | good-law |
-| **Case v. Montana** | Emergency-aid / community-caretaking entry (recent; **CONFIRM IDENTITY at ingest** — possible 2025 case). | [[Community Caretaking and Emergency Aid]] — Progeny | 3,6 | good-law |
+| ✅ **United States v. Chadwick** | Warrant required to search a footlocker/luggage seized from a car's trunk; luggage carries a high REP (Chadwick-Sanders rule, later collapsed for cars by Acevedo). | [[Automobile Exception]] — Historical/Limiting; [[Search Incident to Arrest]] | 2 | foundational |
+| ✅ **Cardwell v. Lewis** | Examining a car's exterior (paint, tires) in a public lot is not a search; reduced REP in a vehicle's exterior. | [[Automobile Exception]] — Related; [[Curtilage]] | 1 | good-law |
+| ✅ **Michigan v. Thomas** | The auto exception permits a warrantless search of an impounded car at the station where PC existed; no separate exigency. | [[Automobile Exception]] — Progeny | 1 | good-law |
+| ✅ **Florida v. Myers** (filed as **Florida v. Meyers**) | Per curiam: a second warrantless search of an already-impounded car is valid under the auto exception. | [[Automobile Exception]] — Related | 1,2 | good-law |
+| ✅ **Maryland v. Dyson** | Per curiam: the auto exception has no separate exigency requirement — PC alone suffices. | [[Automobile Exception]] — Progeny | 1,2 | good-law |
+| ✅ **Cooper v. California** | A warrantless search of a car lawfully impounded for forfeiture is reasonable. | [[Automobile Exception]] — Related (inventory/forfeiture) | 1 | good-law |
+| ✅ **Florida v. White** | Police may seize a car from a public place without a warrant on PC it is forfeitable contraband. | [[Automobile Exception]] — Related (forfeiture seizure) | 5 | good-law |
+| ✅ **Harris v. United States (1968)** | Items in plain view found during a lawful inventory of an impounded car may be seized. | [[Plain View Doctrine]] — Related; [[Automobile Exception]] (inventory) | 5 | good-law |
+| ✅ **Cupp v. Murphy** | Warrantless taking of fingernail scrapings on PC was justified by ready destructibility (limited SITA-type intrusion). | [[Search Incident to Arrest]] — Related; [[Exigent Circumstances and Hot Pursuit]] | 1,2 | good-law |
+| ✅ **Michigan v. Tyler** | Firefighters may enter a burning building and remain a reasonable time to investigate cause; later entries need a warrant/consent. | [[Community Caretaking and Emergency Aid]] — Progeny; [[Special Needs and Administrative Searches]] | 1,2 | good-law |
+| ✅ **Michigan v. Clifford** | A post-fire investigative search after the blaze is out and scene secured needs an administrative or criminal warrant. | [[Community Caretaking and Emergency Aid]] — Limiting | 2 | good-law |
+| ✅ **Thompson v. Louisiana** | Per curiam: no 'murder-scene exception'; a warrantless multi-hour homicide-scene search is unreasonable (reaffirms Mincey). | [[Community Caretaking and Emergency Aid]] — Related; pairs with Mincey | 2 | good-law |
+| ✅ **Flippo v. West Virginia** | Per curiam: there is no general 'crime-scene exception' to the warrant requirement. | [[Community Caretaking and Emergency Aid]] — Related; [[Securing the Scene]] | 2 | good-law |
+| ✅ **Ryburn v. Huff** | Per curiam: warrantless emergency-aid entry is reasonable when officers reasonably believe violence is imminent; QI. | [[Community Caretaking and Emergency Aid]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 3 | good-law |
+| ✅ **Case v. Montana** | Emergency-aid / community-caretaking entry (recent; **CONFIRM IDENTITY at ingest** — possible 2025 case). | [[Community Caretaking and Emergency Aid]] — Progeny | 3,6 | good-law |
 
 ## Batch E — Search incident to arrest (9)
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **Go-Bart Importing Co. v. United States** | A SITA may not become a general exploratory search of the premises (early SITA limit; principle survives in Chimel). | [[Search Incident to Arrest]] — Historical | 1 | foundational |
-| **Agnello v. United States** | SITA cannot extend to the arrestee's home several blocks away (early SITA limit; survives in Chimel). | [[Search Incident to Arrest]] — Historical | 1 | foundational |
-| **Shipley v. California** | Per curiam: police may not search a home as 'incident' to an arrest made outside it. | [[Search Incident to Arrest]] — Related | 2 | good-law |
+| ✅ **Go-Bart Importing Co. v. United States** | A SITA may not become a general exploratory search of the premises (early SITA limit; principle survives in Chimel). | [[Search Incident to Arrest]] — Historical | 1 | foundational |
+| ✅ **Agnello v. United States** | SITA cannot extend to the arrestee's home several blocks away (early SITA limit; survives in Chimel). | [[Search Incident to Arrest]] — Historical | 1 | foundational |
+| ✅ **Shipley v. California** | Per curiam: police may not search a home as 'incident' to an arrest made outside it. | [[Search Incident to Arrest]] — Related | 2 | good-law |
 | **Vale v. Louisiana** | An arrest on the front steps does not justify a warrantless search of the house; SITA limited to the area of arrest. | [[Search Incident to Arrest]] — Limiting; [[Arrest in the Home]] | 1,2 | good-law |
 | **United States v. Edwards** | SITA may extend in time — clothing taken from a jailed arrestee the next morning was valid. | [[Search Incident to Arrest]] — Progeny | 1 | good-law |
 | **Virginia v. Moore** | An arrest on PC is reasonable under the 4A even if it violates state arrest law; SITA follows. | [[Search Incident to Arrest]] — Progeny; [[Seizure of the Person]]; [[The Exclusionary Rule]] | 1 | good-law |
