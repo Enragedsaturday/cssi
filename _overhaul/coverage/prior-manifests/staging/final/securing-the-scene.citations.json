@@ -1,0 +1,171 @@
+{
+ "page": "securing-the-scene",
+ "slug": "securing-the-scene",
+ "cases": [
+  {
+   "name": "Michigan v. Summers",
+   "cite": "Michigan v. Summers, 452 U.S. 692 (1981)",
+   "url": "https://www.courtlistener.com/opinion/110534/michigan-v-summers/",
+   "holding": "A warrant to search premises for contraband, founded on probable cause, implicitly carries the limited authority to detain the occupants of the premises while a proper search is conducted.",
+   "quotes": [
+    {
+     "text": "Thus, for Fourth Amendment purposes, we hold that a warrant to search for contraband founded on probable cause implicitly carries with it the limited authority to detain the occupants of the premises while a proper search is conducted.",
+     "pinpoint": "452 U.S. at 705",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "manifest:securing-the-scene.citations.json",
+   "goodlaw": "good"
+  },
+  {
+   "name": "Muehler v. Mena",
+   "cite": "Muehler v. Mena, 544 U.S. 93 (2005)",
+   "url": "https://www.courtlistener.com/opinion/142878/muehler-v-mena/",
+   "holding": "Officers executing a search warrant for weapons at a gang house may detain occupants in handcuffs for the entire duration of the search where the governmental (safety) interest outweighs the marginal intrusion; a 2-to-3-hour handcuffed detention was reasonable on these facts. Questioning Mena about her immigration status during the lawful detention did not, by itself, constitute an independent Fourth Amendment seizure/event requiring separate justification, because mere police questioning is not a seizure and the questioning did not extend the detention's duration.",
+   "quotes": [
+    {
+     "text": "However, the 2- to 3-hour detention in handcuffs in this case does not outweigh the government's continuing safety interests. As we have noted, this case involved the detention of four detainees by two officers during a search of a gang house for dangerous weapons. We conclude that the detention of Mena in handcuffs during the search was reasonable.",
+     "pinpoint": "544 U.S. at 100",
+     "confirmed": true
+    },
+    {
+     "text": "We hold that Mena's detention in handcuffs for the length of the search was consistent with our opinion in Michigan v. Summers, 452 U.S. 692 (1981), and that the officers' [questioning of Mena did not constitute an independent Fourth Amendment violation].",
+     "pinpoint": "544 U.S. at 95",
+     "confirmed": true
+    },
+    {
+     "text": "[B]ecause the questioning in this case did not constitute an independent Fourth Amendment seizure ... no additional Fourth Amendment justification for inquiring about Mena's immigration status was required.",
+     "pinpoint": "544 U.S. at 101",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "manifest:securing-the-scene.citations.json",
+   "goodlaw": "good"
+  },
+  {
+   "name": "Bailey v. United States",
+   "cite": "Bailey v. United States, 568 U.S. 186 (2013)",
+   "url": "https://www.courtlistener.com/opinion/820749/bailey-v-united-states/",
+   "holding": "The detention authority recognized in Michigan v. Summers is limited to the immediate vicinity of the premises to be searched; it does not authorize detaining a former occupant who has left the premises before the search and is stopped at a distance (here about a mile away). Detentions beyond the immediate vicinity must be justified by some other rationale (e.g., Terry reasonable suspicion or probable cause).",
+   "quotes": [
+    {
+     "text": "The rule in Summers is limited to the immediate vicinity of the premises to be searched and does not apply here, where Bailey was detained at a point beyond any reasonable understanding of the immediate vicinity of the premises in question.",
+     "pinpoint": "568 U.S. at 186 (syllabus / Held)",
+     "confirmed": true
+    },
+    {
+     "text": "A spatial constraint defined by the immediate vicinity of the premises to be searched is therefore required for detentions incident to the execution of a search warrant.",
+     "pinpoint": "568 U.S. at 201",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "manifest:securing-the-scene.citations.json",
+   "goodlaw": "good"
+  },
+  {
+   "name": "Maryland v. Buie",
+   "cite": "Maryland v. Buie, 494 U.S. 325 (1990)",
+   "url": "https://www.courtlistener.com/opinion/112384/maryland-v-buie/",
+   "holding": "Protective sweep incident to an in-home arrest: (1) without probable cause or reasonable suspicion, officers may as a precaution look in closets and other spaces immediately adjoining the place of arrest from which an attack could be immediately launched; (2) a broader protective sweep requires articulable facts that, with rational inferences, would warrant a reasonably prudent officer in believing the area swept harbors an individual posing a danger to those at the arrest scene.",
+   "quotes": [
+    {
+     "text": "We also hold that as an incident to the arrest the officers could, as a precautionary matter and without probable cause or reasonable suspicion, look in closets and other spaces immediately adjoining the place of arrest from which an attack could be immediately launched. Beyond that, however, we hold that there must be articulable facts which, taken together with the rational inferences from those facts, would warrant a reasonably prudent officer in believing that the area to be swept harbors an individual posing [a danger to those on the arrest scene].",
+     "pinpoint": "494 U.S. at 334",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "manifest:securing-the-scene.citations.json",
+   "goodlaw": "good"
+  },
+  {
+   "name": "Illinois v. McArthur",
+   "cite": "Illinois v. McArthur, 531 U.S. 326 (2001)",
+   "url": "https://www.courtlistener.com/opinion/118405/illinois-v-mcarthur/",
+   "holding": "Where police have probable cause to believe a home contains contraband, they may reasonably impose a temporary restraint on a resident \u2014 preventing him from re-entering the home unaccompanied for a limited time (here about two hours) \u2014 to prevent destruction of evidence while they obtain a search warrant.",
+   "quotes": [
+    {
+     "text": "Police officers, with probable cause to believe that a man had hidden marijuana in his home, prevented that man from entering the home for about two hours while they obtained a search warrant. We must decide whether those officers violated the Fourth Amendment. We conclude that the officers acted reasonably. They did not violate the Amendment's requirements.",
+     "pinpoint": "531 U.S. at 328-29",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "manifest:securing-the-scene.citations.json",
+   "goodlaw": "good"
+  },
+  {
+   "name": "Payton v. New York",
+   "cite": "Payton v. New York, 445 U.S. 573 (1980)",
+   "url": "https://www.courtlistener.com/opinion/110235/payton-v-new-york/",
+   "holding": "Warrantless, nonconsensual entry into a SUSPECT'S OWN home to make a routine felony arrest is presumptively unreasonable; an arrest warrant implicitly authorizes entry into the suspect's dwelling when there is reason to believe the suspect is within.",
+   "quotes": [
+    {
+     "text": "an arrest warrant founded on probable cause implicitly carries with it the limited authority to enter a dwelling in which the suspect lives when there is reason to believe the suspect is within",
+     "pinpoint": "445 U.S. at 603",
+     "confirmed": true
+    },
+    {
+     "text": "the Fourth Amendment has drawn a firm line at the entrance to the house. Absent exigent circumstances, that threshold may not reasonably be crossed without a warrant",
+     "pinpoint": "445 U.S. at 590",
+     "confirmed": true
+    }
+   ],
+   "weight": "binding (SCOTUS)",
+   "src": "manifest:arrest-in-the-home.citations.json",
+   "goodlaw": null
+  },
+  {
+   "name": "United States v. Conner",
+   "cite": "United States v. Conner, 127 F.3d 663 (8th Cir. 1997)",
+   "url": "https://www.courtlistener.com/opinion/747208/united-states-v-larry-duane-conner-united-states-of-america-v-john/",
+   "holding": "Where police, under color of authority, demand that occupants of a motel room open the door, and an occupant opens the door not voluntarily but in response to that demand, the officers' resulting visual/physical access to the dwelling is a warrantless intrusion into a constitutionally protected zone of privacy (a 'constructive entry') that violates the Fourth Amendment absent consent or exigent circumstances. The entry and the arrest of the occupants violated the Fourth Amendment; evidence was suppressed and Leon good-faith and inevitable-discovery exceptions did not apply.",
+   "quotes": [
+    {
+     "text": "[A]n unconstitutional search occurs when officers gain visual or physical access to a motel room after an occupant opens the door not voluntarily, but in response to a demand under color of authority.",
+     "pinpoint": "127 F.3d at 667",
+     "confirmed": true
+    },
+    {
+     "text": "Based on these facts, we agree with the district court that the officers' entry into the motel room and arrest of the occupants violated Conner's and Tilton's Fourth Amendment rights.",
+     "pinpoint": "127 F.3d at 666",
+     "confirmed": true
+    }
+   ],
+   "weight": "Circuit (8th) \u2014 persuasive",
+   "src": "manifest:securing-the-scene.citations.json",
+   "goodlaw": "good"
+  },
+  {
+   "name": "Segura v. United States",
+   "cite": "Segura v. United States, 468 U.S. 796 (1984)",
+   "url": "https://www.courtlistener.com/opinion/111259/segura-v-united-states/",
+   "holding": "Evidence seized under a valid warrant is admissible even after an earlier illegal entry, where the warrant was supported wholly by information known to police independent of (and before) the unlawful entry.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-exclusionary.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Steagald v. United States",
+   "cite": "Steagald v. United States, 451 U.S. 204 (1981)",
+   "url": "https://www.courtlistener.com/opinion/110464/steagald-v-united-states/",
+   "holding": "To search a THIRD PARTY'S home for the subject of an arrest warrant, police need a SEARCH warrant (absent exigency or consent); an arrest warrant alone protects the suspect, not the third-party homeowner.",
+   "quotes": [
+    {
+     "text": "whether, under the Fourth Amendment, a law enforcement officer may legally search for the subject of an arrest warrant in the home of a third party without first obtaining a search warrant. Concluding that a search warrant must be obtained absent exigent circumstances or consent, we reverse",
+     "pinpoint": "451 U.S. at 205-06",
+     "confirmed": true
+    }
+   ],
+   "weight": "binding (SCOTUS)",
+   "src": "manifest:arrest-in-the-home.citations.json",
+   "goodlaw": null
+  }
+ ],
+ "unresolved": [],
+ "note": "Phase-3 FINAL authoring manifest: packet(manifest+deck) + P3 gap verifications + marquee quotes + good-law."
+}

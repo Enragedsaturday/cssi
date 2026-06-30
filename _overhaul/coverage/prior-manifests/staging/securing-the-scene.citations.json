@@ -1,0 +1,164 @@
+{
+  "page": "Securing the Scene",
+  "slug": "securing-the-scene",
+  "cases": [
+    {
+      "bluebook": "Muehler v. Mena, 544 U.S. 93 (2005)",
+      "cl_url": "https://www.courtlistener.com/opinion/142878/muehler-v-mena/",
+      "opinion_id": 142878,
+      "cluster_id": 142878,
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Officers executing a search warrant for weapons at a gang house may detain occupants in handcuffs for the entire duration of the search where the governmental (safety) interest outweighs the marginal intrusion; a 2-to-3-hour handcuffed detention was reasonable on these facts. Questioning Mena about her immigration status during the lawful detention did not, by itself, constitute an independent Fourth Amendment seizure/event requiring separate justification, because mere police questioning is not a seizure and the questioning did not extend the detention's duration.",
+      "proposition_checked": "Handcuffing/detention of occupants for the duration of a warrant search is reasonable where justified (here ~2-3 hrs, gang/weapons search); immigration-status questioning during the lawful detention was not an independent Fourth Amendment seizure requiring its own justification.",
+      "quotes": [
+        {
+          "text": "However, the 2- to 3-hour detention in handcuffs in this case does not outweigh the government's continuing safety interests. As we have noted, this case involved the detention of four detainees by two officers during a search of a gang house for dangerous weapons. We conclude that the detention of Mena in handcuffs during the search was reasonable.",
+          "pinpoint": "544 U.S. at 100",
+          "confirmed": true
+        },
+        {
+          "text": "We hold that Mena's detention in handcuffs for the length of the search was consistent with our opinion in Michigan v. Summers, 452 U.S. 692 (1981), and that the officers' [questioning of Mena did not constitute an independent Fourth Amendment violation].",
+          "pinpoint": "544 U.S. at 95",
+          "confirmed": true
+        },
+        {
+          "text": "[B]ecause the questioning in this case did not constitute an independent Fourth Amendment seizure ... no additional Fourth Amendment justification for inquiring about Mena's immigration status was required.",
+          "pinpoint": "544 U.S. at 101",
+          "confirmed": true
+        }
+      ],
+      "goodlaw": "good",
+      "treatment_note": "Still controlling SCOTUS precedent (Rehnquist, C.J.). Not overruled or abrogated. Kennedy concurrence cautions handcuffing must not become routine or unduly prolonged.",
+      "notes": "Cluster id == opinion id (142878); case name 'Muehler v. Mena' and Rehnquist authorship confirmed in returned text. Three earlier same-name entries (542/543 U.S.) are cert-stage orders; the 544 U.S. 93 (2005-03-22) entry is the merits opinion."
+    },
+    {
+      "bluebook": "Michigan v. Summers, 452 U.S. 692 (1981)",
+      "cl_url": "https://www.courtlistener.com/opinion/110534/michigan-v-summers/",
+      "opinion_id": 110534,
+      "cluster_id": 110534,
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "A warrant to search premises for contraband, founded on probable cause, implicitly carries the limited authority to detain the occupants of the premises while a proper search is conducted.",
+      "proposition_checked": "A warrant to search premises for contraband carries limited authority to detain occupants of the premises while the search is conducted.",
+      "quotes": [
+        {
+          "text": "Thus, for Fourth Amendment purposes, we hold that a warrant to search for contraband founded on probable cause implicitly carries with it the limited authority to detain the occupants of the premises while a proper search is conducted.",
+          "pinpoint": "452 U.S. at 705",
+          "confirmed": true
+        }
+      ],
+      "goodlaw": "good",
+      "treatment_note": "Controlling SCOTUS precedent; later spatially limited (not abrogated) by Bailey v. United States, 568 U.S. 186 (2013), which confined the Summers detention authority to the immediate vicinity of the premises searched.",
+      "notes": "Cluster id == opinion id (110534); holding language verbatim at *705."
+    },
+    {
+      "bluebook": "Illinois v. McArthur, 531 U.S. 326 (2001)",
+      "cl_url": "https://www.courtlistener.com/opinion/118405/illinois-v-mcarthur/",
+      "opinion_id": 118405,
+      "cluster_id": 118405,
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Where police have probable cause to believe a home contains contraband, they may reasonably impose a temporary restraint on a resident — preventing him from re-entering the home unaccompanied for a limited time (here about two hours) — to prevent destruction of evidence while they obtain a search warrant.",
+      "proposition_checked": "Police with PC may temporarily prevent a resident from entering his home unaccompanied while they obtain a search warrant (a reasonable temporary seizure/freeze of the premises).",
+      "quotes": [
+        {
+          "text": "Police officers, with probable cause to believe that a man had hidden marijuana in his home, prevented that man from entering the home for about two hours while they obtained a search warrant. We must decide whether those officers violated the Fourth Amendment. We conclude that the officers acted reasonably. They did not violate the Amendment's requirements.",
+          "pinpoint": "531 U.S. at 328-29",
+          "confirmed": true
+        }
+      ],
+      "goodlaw": "good",
+      "treatment_note": "Controlling SCOTUS precedent (Breyer, J.). Not overruled or abrogated.",
+      "notes": "Cluster id == opinion id (118405); Breyer authorship and McArthur facts confirmed in text. Holding statement captured from the opinion's opening paragraph at *328-29."
+    },
+    {
+      "bluebook": "Maryland v. Buie, 494 U.S. 325 (1990)",
+      "cl_url": "https://www.courtlistener.com/opinion/112384/maryland-v-buie/",
+      "opinion_id": 112384,
+      "cluster_id": 112384,
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Protective sweep incident to an in-home arrest: (1) without probable cause or reasonable suspicion, officers may as a precaution look in closets and other spaces immediately adjoining the place of arrest from which an attack could be immediately launched; (2) a broader protective sweep requires articulable facts that, with rational inferences, would warrant a reasonably prudent officer in believing the area swept harbors an individual posing a danger to those at the arrest scene.",
+      "proposition_checked": "Protective sweep — both prongs: (a) automatic look in spaces immediately adjoining the arrest with no suspicion; (b) broader sweep requires reasonable, articulable suspicion the area harbors a dangerous individual.",
+      "quotes": [
+        {
+          "text": "We also hold that as an incident to the arrest the officers could, as a precautionary matter and without probable cause or reasonable suspicion, look in closets and other spaces immediately adjoining the place of arrest from which an attack could be immediately launched. Beyond that, however, we hold that there must be articulable facts which, taken together with the rational inferences from those facts, would warrant a reasonably prudent officer in believing that the area to be swept harbors an individual posing [a danger to those on the arrest scene].",
+          "pinpoint": "494 U.S. at 334",
+          "confirmed": true
+        }
+      ],
+      "goodlaw": "good",
+      "treatment_note": "Controlling SCOTUS precedent (White, J.). Not overruled or abrogated.",
+      "notes": "Cluster id == opinion id (112384); both prongs captured in a single passage at *334. Case name confirmed in text."
+    },
+    {
+      "bluebook": "Bailey v. United States, 568 U.S. 186 (2013)",
+      "cl_url": "https://www.courtlistener.com/opinion/820749/bailey-v-united-states/",
+      "opinion_id": 820749,
+      "cluster_id": 820749,
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "The detention authority recognized in Michigan v. Summers is limited to the immediate vicinity of the premises to be searched; it does not authorize detaining a former occupant who has left the premises before the search and is stopped at a distance (here about a mile away). Detentions beyond the immediate vicinity must be justified by some other rationale (e.g., Terry reasonable suspicion or probable cause).",
+      "proposition_checked": "Summers detention authority is limited to the immediate vicinity of the premises searched; it does not authorize detaining a former occupant who left before the search and was stopped about a mile away.",
+      "quotes": [
+        {
+          "text": "The rule in Summers is limited to the immediate vicinity of the premises to be searched and does not apply here, where Bailey was detained at a point beyond any reasonable understanding of the immediate vicinity of the premises in question.",
+          "pinpoint": "568 U.S. at 186 (syllabus / Held)",
+          "confirmed": true
+        },
+        {
+          "text": "A spatial constraint defined by the immediate vicinity of the premises to be searched is therefore required for detentions incident to the execution of a search warrant.",
+          "pinpoint": "568 U.S. at 201",
+          "confirmed": true
+        }
+      ],
+      "goodlaw": "good",
+      "treatment_note": "Controlling SCOTUS precedent (Kennedy, J.). Not overruled or abrogated; it is the case that limits Summers.",
+      "notes": "Cluster id == opinion id (820749); case name confirmed in text. Text is the official slip-opinion format (line-wrapped). Held statement quoted from syllabus; substantive 'spatial constraint' holding from Opinion of the Court."
+    },
+    {
+      "bluebook": "United States v. Conner, 127 F.3d 663 (8th Cir. 1997)",
+      "cl_url": "https://www.courtlistener.com/opinion/747208/united-states-v-larry-duane-conner-united-states-of-america-v-john/",
+      "opinion_id": 747208,
+      "cluster_id": 747208,
+      "weight": "Circuit (8th) — persuasive",
+      "verdict": "MISCHARACTERIZED",
+      "captured": true,
+      "holding": "Where police, under color of authority, demand that occupants of a motel room open the door, and an occupant opens the door not voluntarily but in response to that demand, the officers' resulting visual/physical access to the dwelling is a warrantless intrusion into a constitutionally protected zone of privacy (a 'constructive entry') that violates the Fourth Amendment absent consent or exigent circumstances. The entry and the arrest of the occupants violated the Fourth Amendment; evidence was suppressed and Leon good-faith and inevitable-discovery exceptions did not apply.",
+      "proposition_checked": "SACO ('surround and call out') — ordering occupants out of a dwelling/room under a show of armed authority is a SEIZURE under the Fourth Amendment.",
+      "quotes": [
+        {
+          "text": "[A]n unconstitutional search occurs when officers gain visual or physical access to a motel room after an occupant opens the door not voluntarily, but in response to a demand under color of authority.",
+          "pinpoint": "127 F.3d at 667",
+          "confirmed": true
+        },
+        {
+          "text": "Based on these facts, we agree with the district court that the officers' entry into the motel room and arrest of the occupants violated Conner's and Tilton's Fourth Amendment rights.",
+          "pinpoint": "127 F.3d at 666",
+          "confirmed": true
+        }
+      ],
+      "goodlaw": "good",
+      "treatment_note": "Eighth Circuit panel decision (Heaney, J.; Murphy, J., dissenting), persuasive only outside the 8th Cir. Still good law in the Eighth Circuit; widely cited in the 'constructive entry'/SACO line.",
+      "notes": "VERDICT NUANCE: the cite (127 F.3d 663, 8th Cir. 1997) and the underlying Fourth-Amendment-violation result are VERIFIED and correct. However, the case's actual reasoning frames the SACO/'surround-and-call-out' conduct as an unconstitutional warrantless ENTRY/SEARCH of the dwelling ('constructive entry' under color of authority), plus an unlawful arrest — NOT expressly as a 'seizure of the person' the way the proposition states. The opinion does not use the words 'seizure' (of persons), 'show of authority,' or 'constructive entry' as terms of art; the holding sounds in Payton/Steagald (warrantless home/motel-room entry). Flagging as MISCHARACTERIZED: the SACO-as-Fourth-Amendment-violation point is sound and supportable, but pin the proposition to constructive-entry/warrantless-search doctrine rather than to 'seizure.' Cluster id == opinion id (747208) for the combined opinion; case name confirmed in text."
+    }
+  ],
+  "corrections": [
+    {
+      "case": "United States v. Conner",
+      "issue": "Proposition framing",
+      "stated": "Ordering occupants out under show of armed authority is a SEIZURE under the Fourth Amendment.",
+      "correct": "The 8th Circuit held the conduct was an unconstitutional warrantless ENTRY/SEARCH of the dwelling (constructive entry in response to a demand under color of authority), plus an unlawful arrest of the occupants — violating the Fourth Amendment under Payton/Steagald. Substantively a SACO Fourth Amendment violation, but the operative doctrine is constructive entry, not seizure-of-the-person."
+    }
+  ],
+  "flags": [
+    "Conner: proposition characterizes the holding as a 'seizure'; the opinion's actual rationale is constructive entry / warrantless search of the motel room. Authoring should pin to constructive-entry doctrine. Persuasive (8th Cir.) only.",
+    "Conner cluster_id and opinion_id collide at 747208 (combined-opinion); confirmed correct by case name in text."
+  ]
+}

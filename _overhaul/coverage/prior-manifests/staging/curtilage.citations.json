@@ -1,0 +1,163 @@
+{
+  "topic": "Curtilage",
+  "_note": "MERGED file. Existing 6 SCOTUS entries from curtilage.citations.EXISTING.json are preserved verbatim under existing_entries. New T2 entries (commercial-REP foundation + state-illustrative) are added under new_entries. Do not drop existing entries.",
+  "existing_entries": [
+    {
+      "case": "Hester v. United States",
+      "bluebook": "Hester v. United States, 265 U.S. 57 (1924)",
+      "court": "U.S. Supreme Court",
+      "year": 1924,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/100413/hester-v-united-states/",
+      "cluster_id": 100413,
+      "proposition": "Origin of the open-fields doctrine; the Fourth Amendment's protection of 'persons, houses, papers, and effects' does not extend to open fields, and the common law distinguishes open fields from the curtilage.",
+      "pinpoint": "265 U.S. at 59",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Oliver v. United States",
+      "bluebook": "Oliver v. United States, 466 U.S. 170 (1984)",
+      "court": "U.S. Supreme Court",
+      "year": 1984,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/111146/oliver-v-united-states/",
+      "cluster_id": 111146,
+      "proposition": "Reaffirms Hester: an individual has no legitimate expectation that open fields will be free from warrantless intrusion - even fenced land posted with 'No Trespassing' signs - while only the curtilage carries the home's Fourth Amendment protection.",
+      "pinpoint": "466 U.S. at 176-81",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "California v. Ciraolo",
+      "bluebook": "California v. Ciraolo, 476 U.S. 207 (1986)",
+      "court": "U.S. Supreme Court",
+      "year": 1986,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/111666/california-v-ciraolo/",
+      "cluster_id": 111666,
+      "proposition": "Warrantless naked-eye aerial observation of a fenced backyard within the curtilage, from navigable airspace at 1,000 feet, is not a Fourth Amendment search - observation from a lawful vantage is not entry; supports lawful-vantage vs. lawful-entry distinction.",
+      "pinpoint": "476 U.S. at 213-14",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "United States v. Dunn",
+      "bluebook": "United States v. Dunn, 480 U.S. 294 (1987)",
+      "court": "U.S. Supreme Court",
+      "year": 1987,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/111833/united-states-v-dunn/",
+      "cluster_id": 111833,
+      "proposition": "Establishes the four-factor curtilage test: (1) proximity of the area to the home; (2) whether the area is within an enclosure surrounding the home; (3) the nature of the uses to which the area is put; (4) the steps taken to protect the area from observation by people passing by. Barn ~60 yards from the house and outside the fence held not curtilage.",
+      "pinpoint": "480 U.S. at 301",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Florida v. Jardines",
+      "bluebook": "Florida v. Jardines, 569 U.S. 1 (2013)",
+      "court": "U.S. Supreme Court",
+      "year": 2013,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/",
+      "cluster_id": 856347,
+      "proposition": "Curtilage (here, the front porch) is part of the home for Fourth Amendment purposes; the implied license to approach lets a visitor take the front path, knock promptly, wait briefly, and leave ('the Nation's Girl Scouts and trick-or-treaters'). Bringing a drug-detection dog onto the porch exceeded that license and was a trespassory search; decided on the property/trespass theory without reaching Katz.",
+      "pinpoint": "569 U.S. at 6-8",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Collins v. Virginia",
+      "bluebook": "Collins v. Virginia, 584 U.S. 586 (2018)",
+      "court": "U.S. Supreme Court",
+      "year": 2018,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/4501697/collins-v-virginia/",
+      "cluster_id": 4501697,
+      "proposition": "The automobile exception does not permit the warrantless entry of a home or its curtilage to search a vehicle parked therein; a partially enclosed driveway top abutting the house is curtilage, and the ability to observe curtilage from a lawful vantage is not the right to enter it.",
+      "pinpoint": "584 U.S. at 593-99",
+      "weight": "SCOTUS - binding"
+    }
+  ],
+  "new_entries": [
+    {
+      "case": "Dow Chemical Co. v. United States",
+      "cite": "Dow Chemical Co. v. United States, 476 U.S. 227 (1986)",
+      "court": "U.S. Supreme Court",
+      "year": 1986,
+      "weight": "SCOTUS-binding",
+      "verdict": "VERIFIED",
+      "holding": "An industrial plant complex's outdoor areas between buildings are more like 'open fields' than the curtilage of a home, so EPA's warrantless aerial photography (commercial mapping camera) was not a search. BUT the Court did not say businesses have zero Fourth Amendment privacy - it acknowledged commercial premises retain some protection.",
+      "pinpoint": "476 U.S. at 235-39",
+      "quote": null,
+      "cl_link": "https://www.courtlistener.com/opinion/111667/dow-chemical-co-v-united-states-ex-rel-administrator/",
+      "point_cited_for": "Businesses have no 'curtilage' in the home sense, yet commercial premises still carry some reasonable expectation of privacy",
+      "correction": null
+    },
+    {
+      "case": "See v. City of Seattle",
+      "cite": "See v. City of Seattle, 387 U.S. 541 (1967)",
+      "court": "U.S. Supreme Court",
+      "year": 1967,
+      "weight": "SCOTUS-binding",
+      "verdict": "VERIFIED",
+      "holding": "Commercial premises are protected by the Fourth Amendment against unreasonable administrative inspections; the businessman, like the homeowner, has a right to insist on a warrant before an administrative entry. (Companion to Camara.)",
+      "pinpoint": "387 U.S. at 543, 545-46",
+      "quote": null,
+      "cl_link": "https://www.courtlistener.com/opinion/107474/see-v-city-of-seattle/",
+      "point_cited_for": "Commercial premises have Fourth Amendment protection (anchors the 'businesses can have a REP' point)",
+      "correction": null
+    },
+    {
+      "case": "G. M. Leasing Corp. v. United States",
+      "cite": "G. M. Leasing Corp. v. United States, 429 U.S. 338 (1977)",
+      "court": "U.S. Supreme Court",
+      "year": 1977,
+      "weight": "SCOTUS-binding",
+      "verdict": "VERIFIED",
+      "holding": "Warrantless IRS entry into a corporation's offices to seize property for taxes was an unreasonable Fourth Amendment intrusion; business offices not open to the public carry an expectation of privacy. (Seizure of cars from public/open areas was upheld - the line is entry into the private business interior.)",
+      "pinpoint": "429 U.S. at 351-59",
+      "quote": null,
+      "cl_link": "https://www.courtlistener.com/opinion/109579/g-m-leasing-corp-v-united-states/",
+      "point_cited_for": "Reinforces commercial-interior REP; warrant needed to enter private business premises",
+      "correction": null
+    },
+    {
+      "case": "State v. Karston",
+      "cite": "State v. Karston, 588 So. 2d 165 (La. Ct. App. 1991)",
+      "court": "Louisiana Court of Appeal (4th Cir.)",
+      "year": 1991,
+      "weight": "state-illustrative",
+      "verdict": "VERIFIED",
+      "holding": "Louisiana intermediate appellate curtilage/search illustration. Decided 1991-10-15 (volume 588 So.2d is 1991), NOT 2008.",
+      "pinpoint": "588 So. 2d at 165",
+      "quote": null,
+      "cl_link": "https://www.courtlistener.com/opinion/1767998/state-v-karston/",
+      "point_cited_for": "State illustrative curtilage example",
+      "correction": "YEAR CORRECTION: capture said 2008; actual decision date is 1991-10-15 (La. Ct. App.). Reporter 588 So.2d confirms 1991. Use (La. Ct. App. 1991)."
+    },
+    {
+      "case": "State v. Weaver",
+      "cite": "State v. Weaver, 349 S.W.3d 521 (Tex. Crim. App. 2011)",
+      "court": "Texas Court of Criminal Appeals",
+      "year": 2011,
+      "weight": "state-illustrative",
+      "verdict": "VERIFIED",
+      "holding": "Texas curtilage/search illustration (decided 2011-09-28). Note: court is the Texas Court of Criminal Appeals (the state's highest criminal court), not an intermediate 'Tex. App.' court as the manifest labeled it.",
+      "pinpoint": "349 S.W.3d at 521",
+      "quote": null,
+      "cl_link": "https://www.courtlistener.com/opinion/2546485/state-v-weaver/",
+      "point_cited_for": "State illustrative curtilage/commercial-privacy example",
+      "correction": "COURT LABEL: manifest said 'Tex. App. 2011'; CL shows Texas Court of Criminal Appeals (Tex. Crim. App. 2011). Cite accordingly."
+    },
+    {
+      "case": "State v. Larson",
+      "cite": "State v. Larson, 159 Or. App. 34, 977 P.2d 1175 (1999)",
+      "court": "Oregon Court of Appeals",
+      "year": 1999,
+      "weight": "state-illustrative",
+      "verdict": "VERIFIED",
+      "holding": "Oregon Court of Appeals curtilage/search illustration (decided 1999-03-17).",
+      "pinpoint": "159 Or. App. at 34",
+      "quote": null,
+      "cl_link": "https://www.courtlistener.com/opinion/1187724/state-v-larson/",
+      "point_cited_for": "State illustrative curtilage example",
+      "correction": "Add parallel cite 977 P.2d 1175 for completeness."
+    }
+  ],
+  "corrections_log": [
+    "State v. Karston: year 2008 -> 1991 (588 So.2d 165, La. Ct. App., decided 1991-10-15).",
+    "State v. Weaver: court 'Tex. App.' -> Texas Court of Criminal Appeals (Tex. Crim. App. 2011).",
+    "State v. Larson: added parallel cite 977 P.2d 1175."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+ "page": "knock-and-talk",
+ "slug": "knock-and-talk",
+ "cases": [
+  {
+   "name": "Florida v. Jardines",
+   "cite": "Florida v. Jardines, 569 U.S. 1, 6-8 (2013)",
+   "url": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/",
+   "holding": "Bringing a drug dog onto the home's curtilage (the front porch) to investigate exceeded the implied license to approach and knock \u2014 a trespassory search under the Jones property theory.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-threshold.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Kentucky v. King",
+   "cite": "Kentucky v. King, 563 U.S. 452 (2011)",
+   "url": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/",
+   "holding": "The exigent-circumstances rule applies even where police 'created' the exigency, SO LONG AS the police did not create it by engaging or threatening to engage in conduct that itself violates the Fourth Amendment (e.g., lawfully knocking and announcing is fine).",
+   "quotes": [
+    {
+     "text": "The exigent circumstances rule applies when the police do not create the exigency by engaging or threatening to engage in conduct that violates the Fourth Amendment",
+     "pinpoint": "563 U.S. at 462",
+     "confirmed": true
+    },
+    {
+     "text": "a warrantless entry based on exigent circumstances is reasonable when the police did not create the exigency by engaging or threatening to engage in conduct violating the Fourth Amendment",
+     "pinpoint": "563 U.S. at 462",
+     "confirmed": true
+    }
+   ],
+   "weight": "binding (SCOTUS)",
+   "src": "manifest:arrest-in-the-home.citations.json",
+   "goodlaw": null
+  },
+  {
+   "name": "French v. Merrill",
+   "cite": "French v. Merrill, 15 F.4th 116 (1st Cir. 2021)",
+   "url": "https://www.courtlistener.com/opinion/5273192/french-v-merrill/",
+   "holding": "The scope of the 'knock and talk' exception to the warrant requirement is controlled by the implied social license to enter the curtilage, which is limited both in physical area and in purpose (per Florida v. Jardines). Where officers' conduct on the curtilage \u2014 here, repeated pre-dawn visits, knocking on a bedroom window, peering through a window covering and shining a flashlight, in a contentious and invasive manner \u2014 exceeds what a reasonable visitor could understand the implied license to authorize, the officers exceed the implied license and violate the Fourth Amendment. The court held this was clearly established by Jardines, so the officers were not entitled to qualified immunity on that ground (reversing the grant of QI).",
+   "quotes": [
+    {
+     "text": "The officers in this case, like the officers in Jardines, in the absence of any license to do so, \"physically intrud[ed]\" on a suspect's property repeatedly and engaged in intrusive conduct that no reasonable visitor could have understood as impliedly authorized by a resident.",
+     "pinpoint": "15 F.4th at ___ (slip op. at 40)",
+     "confirmed": true
+    },
+    {
+     "text": "[The officers' conduct] plainly exceeded the scope of the implied license to enter the curtilage of French's home.",
+     "pinpoint": "15 F.4th at ___ (slip op. at 43)",
+     "confirmed": true
+    }
+   ],
+   "weight": "Circuit (1st) \u2014 persuasive",
+   "src": "manifest:knock-and-talk.citations.json",
+   "goodlaw": "good"
+  },
+  {
+   "name": "Florida v. Bostick",
+   "cite": "Florida v. Bostick, 501 U.S. 429, 435-36 (1991)",
+   "url": "https://www.courtlistener.com/opinion/112631/florida-v-bostick/",
+   "holding": "On a bus (where the passenger isn't free to leave regardless), the seizure question is whether a reasonable person would feel free to decline the officers' requests or otherwise terminate the encounter.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-seizure-arrest-force.json",
+   "goodlaw": null
+  },
+  {
+   "name": "United States v. Drayton",
+   "cite": "United States v. Drayton, 536 U.S. 194, 203-07 (2002)",
+   "url": "https://www.courtlistener.com/opinion/121153/united-states-v-drayton/",
+   "holding": "A bus sweep with consent-to-search requests is not a seizure, and consent can be voluntary even though officers do not advise passengers of their right to refuse.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-seizure-arrest-force.json",
+   "goodlaw": null
+  }
+ ],
+ "unresolved": [],
+ "note": "Phase-3 FINAL authoring manifest: packet(manifest+deck) + P3 gap verifications + marquee quotes + good-law."
+}

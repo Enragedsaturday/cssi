@@ -1,0 +1,3736 @@
+[
+  {
+    "idx": 1,
+    "name": "Abel v. United States",
+    "cite": "362 U.S. 217 (1960)",
+    "year": 1960,
+    "prior_holding": "Items left in a hotel-room wastebasket after the guest paid up and **vacated** the room were abandoned ('bona vacantia'); their warrantless seizure was lawful.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Abandonment]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/106021/abel-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 2,
+    "name": "Aguilar v. Texas",
+    "cite": "378 U.S. 108 (1964)",
+    "year": 1964,
+    "prior_holding": "A magistrate may issue a warrant on an informant's hearsay only if the affidavit shows **(1) the informant's basis of knowledge** (how…",
+    "good_law_flag": "⚠ abrogated",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/106865/aguilar-v-texas/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 3,
+    "name": "Alabama v. White",
+    "cite": "496 U.S. 325, 332 (1990)",
+    "year": 1990,
+    "prior_holding": "An anonymous tip can supply reasonable suspicion when sufficiently corroborated by police observation — especially of the tipster's…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112454/alabama-v-white/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 4,
+    "name": "Almeida-Sanchez v. United States",
+    "cite": "413 U.S. 266 (1973)",
+    "year": 1973,
+    "prior_holding": "A warrantless search of a vehicle by a roving Border Patrol on a California road at least 20 miles north of the Mexican border, without…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Border Searches]]",
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108845/almeida-sanchez-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 5,
+    "name": "Andresen v. Maryland",
+    "cite": "427 U.S. 463 (1976)",
+    "year": 1976,
+    "prior_holding": "A particularized warrant to search for and seize a person's business records, and their introduction in evidence, does not violate the…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109522/andresen-v-maryland/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 6,
+    "name": "Arizona v. Evans",
+    "cite": "514 U.S. 1 (1995)",
+    "year": 1995,
+    "prior_holding": "The good-faith exception extends to evidence seized on a mistaken arrest record caused by clerical errors of court employees (here, a…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/117905/arizona-v-evans/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 7,
+    "name": "Arizona v. Fulminante",
+    "cite": "499 U.S. 279 (1991)",
+    "year": 1991,
+    "prior_holding": "The admission of an involuntary/coerced confession is a \"trial error\" subject to harmless-error analysis under Chapman, not automatic…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Due-Process Voluntariness of Confessions]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112566/arizona-v-fulminante/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 8,
+    "name": "Arizona v. Gant",
+    "cite": "556 U.S. 332 (2009)",
+    "year": 2009,
+    "prior_holding": "Cabins Belton. A vehicle search incident to a recent occupant's arrest is permitted only when (1) the arrestee is unsecured and within…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Search Incident to Arrest]]",
+      "[[Traffic Stops]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145887/arizona-v-gant/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 9,
+    "name": "Arizona v. Hicks",
+    "cite": "480 U.S. 321 (1987)",
+    "year": 1987,
+    "prior_holding": "Moving stereo equipment a few inches to read serial numbers was a SEARCH separate from the lawful entry, and 'immediately apparent'…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 10,
+    "name": "Arizona v. Roberson",
+    "cite": "486 U.S. 675 (1988)",
+    "year": 1988,
+    "prior_holding": "The Edwards bar is not offense-specific — once a suspect invokes counsel, police may not interrogate him about ANY offense, including an…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112100/arizona-v-roberson/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 11,
+    "name": "Ashcraft v. Tennessee",
+    "cite": "322 U.S. 143 (1944)",
+    "year": 1944,
+    "prior_holding": "Thirty-six hours of continuous, relay interrogation without sleep is \"inherently coercive,\" rendering the resulting confession…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Due-Process Voluntariness of Confessions]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/103981/ashcraft-v-tennessee/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 12,
+    "name": "Bailey v. United States",
+    "cite": "568 U.S. 186 (2013)",
+    "year": 2013,
+    "prior_holding": "The detention authority recognized in Michigan v. Summers is limited to the immediate vicinity of the premises to be searched; it does…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Securing the Scene]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/820749/bailey-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 13,
+    "name": "Benn v. Lambert",
+    "cite": "283 F.3d 1040 (9th Cir. 2002)",
+    "year": 2002,
+    "prior_holding": "Granted habeas relief: the prosecution suppressed BOTH material exculpatory evidence (expert evidence on the cause of the fire) AND…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Brady and Giglio]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/776954/gary-benn-v-john-lambert-superintendent-of-the-washington-state/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 14,
+    "name": "Berghuis v. Thompkins",
+    "cite": "560 U.S. 370 (2010)",
+    "year": 2010,
+    "prior_holding": "The right to remain silent must be invoked UNAMBIGUOUSLY; merely staying silent does not invoke it, and a suspect who answers questions…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/147529/berghuis-v-thompkins/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 15,
+    "name": "Berkemer v. McCarty",
+    "cite": "468 U.S. 420 (1984)",
+    "year": 1984,
+    "prior_holding": "(1) Miranda applies to ALL custodial interrogation regardless of the offense's severity — misdemeanors included; (2) the temporary,…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda and Custodial Interrogation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111249/berkemer-v-mccarty/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 16,
+    "name": "Board of Education v. Earls",
+    "cite": "536 U.S. 822 (2002)",
+    "year": 2002,
+    "prior_holding": "Suspicionless drug testing of all students participating in competitive extracurricular activities is a reasonable special-needs search.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/121171/board-of-education-of-independent-school-district-no-92-of-pottawatomie/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 17,
+    "name": "Boyd v. United States",
+    "cite": "116 U.S. 616 (1886)",
+    "year": 1886,
+    "prior_holding": "Recounts the founding history and adopts *Entick v. Carrington* as 'the true and ultimate expression of constitutional law' embodied in the Fourth Amendment.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Common Law Origins]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 18,
+    "name": "Brady v. Maryland",
+    "cite": "373 U.S. 83 (1963)",
+    "year": 1963,
+    "prior_holding": "The prosecution's suppression of evidence favorable to the accused that is material to guilt or punishment violates due process —…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Brady and Giglio]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/106598/brady-v-maryland/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 19,
+    "name": "Brendlin v. California",
+    "cite": "551 U.S. 249, 251, 263 (2007)",
+    "year": 2007,
+    "prior_holding": "When a vehicle is stopped, a passenger is seized just as the driver is, and so may challenge the constitutionality of the stop.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Standing to Challenge a Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145712/brendlin-v-california/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 20,
+    "name": "Brewer v. Williams",
+    "cite": "430 U.S. 387, 392-93, 399-400 (1977)",
+    "year": 1977,
+    "prior_holding": "The detective's \"Christian burial speech\" was the functional equivalent of interrogation and deliberately elicited incriminating…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109624/brewer-v-williams/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 21,
+    "name": "Brigham City v. Stuart",
+    "cite": "547 U.S. 398 (2006)",
+    "year": 2006,
+    "prior_holding": "Emergency aid exception: police may enter a home without a warrant when they have an objectively reasonable basis to believe an occupant…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Community Caretaking and Emergency Aid]]",
+      "[[Exigent Circumstances and Hot Pursuit]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145654/brigham-city-v-stuart/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 22,
+    "name": "Brinegar v. United States",
+    "cite": "338 U.S. 160, 175 (1949)",
+    "year": 1949,
+    "prior_holding": "Classic probable-cause standard: practical, non-technical probabilities on which reasonable people act.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/104716/brinegar-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 23,
+    "name": "Brown v. Illinois",
+    "cite": "422 U.S. 590 (1975)",
+    "year": 1975,
+    "prior_holding": "Sets out the attenuation factors: temporal proximity, intervening circumstances, and the purpose and flagrancy of the official…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109304/brown-v-illinois/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 24,
+    "name": "Brown v. Mississippi",
+    "cite": "297 U.S. 278 (1936)",
+    "year": 1936,
+    "prior_holding": "A confession extracted by physical torture is involuntary and its use to convict violates Fourteenth Amendment due process.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Due-Process Voluntariness of Confessions]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/102604/brown-v-mississippi/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 25,
+    "name": "Byrd v. United States",
+    "cite": "584 U.S. 395 (2018)",
+    "year": 2018,
+    "prior_holding": "A driver in lawful possession and control of a rental car generally has a reasonable expectation of privacy in it, even though he is not…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Standing to Challenge a Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4497658/byrd-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 26,
+    "name": "Cady v. Dombrowski",
+    "cite": "413 U.S. 433 (1973)",
+    "year": 1973,
+    "prior_holding": "Origin of the 'community caretaking' concept: police perform many noncriminal caretaking functions with VEHICLES (disabled cars,…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Community Caretaking and Emergency Aid]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108850/cady-v-dombrowski/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 27,
+    "name": "California v. Acevedo",
+    "cite": "500 U.S. 565 (1991)",
+    "year": 1991,
+    "prior_holding": "Unified rule for containers in vehicles: police may search a container in a car without a warrant where they have PC to believe it holds…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112608/california-v-acevedo/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 28,
+    "name": "California v. Carney",
+    "cite": "471 U.S. 386 (1985)",
+    "year": 1985,
+    "prior_holding": "The automobile exception applies to a motor home being used as a vehicle, and articulates the exception's TWO justifications: (1) ready…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111423/california-v-carney/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 29,
+    "name": "California v. Ciraolo",
+    "cite": "476 U.S. 207 (1986)",
+    "year": 1986,
+    "prior_holding": "Warrantless naked-eye aerial observation of a fenced curtilage from navigable airspace (1,000 ft) is not a search — no reasonable expectation of privacy from the air.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Curtilage]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111666/california-v-ciraolo/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 30,
+    "name": "California v. Greenwood",
+    "cite": "486 U.S. 35 (1988)",
+    "year": 1988,
+    "prior_holding": "No reasonable expectation of privacy in garbage bags left for collection at the curb, outside the curtilage; warrantless search/seizure of curbside trash does not violate the 4A.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Abandonment]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112067/california-v-greenwood/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 31,
+    "name": "California v. Hodari D.",
+    "cite": "499 U.S. 621 (1991)",
+    "year": 1991,
+    "prior_holding": "A show-of-authority seizure is not complete until the suspect submits; contraband discarded while still fleeing is not the fruit of a seizure.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Seizure of the Person]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112579/california-v-hodari-d/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 32,
+    "name": "Camara v. Municipal Court",
+    "cite": "387 U.S. 523 (1967)",
+    "year": 1967,
+    "prior_holding": "Administrative inspections of private property generally require a warrant, but it may be an \"area warrant\" issued on reasonable…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107473/camara-v-municipal-court-of-city-and-county-of-san-francisco/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 33,
+    "name": "Caniglia v. Strom",
+    "cite": "593 U.S. 194 (2021)",
+    "year": 2021,
+    "prior_holding": "There is NO freestanding 'community caretaking' exception authorizing warrantless entry into the HOME. Cady's caretaking rationale was…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Community Caretaking and Emergency Aid]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4883694/caniglia-v-strom/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 34,
+    "name": "Carpenter v. United States",
+    "cite": "585 U.S. 296 (2018)",
+    "year": 2018,
+    "prior_holding": "Acquiring extended historical cell-site location information is a search — a reasonable expectation of privacy in 'the whole of [one's] physical movements'; narrows the third-party doctrine for digital-age data.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Two Definitions of Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 35,
+    "name": "Carroll v. United States",
+    "cite": "267 U.S. 132 (1925)",
+    "year": 1925,
+    "prior_holding": "Origin of the automobile exception: a vehicle may be searched without a warrant on probable cause because, unlike a fixed structure, it…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/100567/carroll-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 36,
+    "name": "Chambers v. Florida",
+    "cite": "309 U.S. 227 (1940)",
+    "year": 1940,
+    "prior_holding": "Confessions extracted through prolonged, incommunicado interrogation of helpless prisoners were the product of compulsion and their use…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Due-Process Voluntariness of Confessions]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/103301/chambers-v-florida/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 37,
+    "name": "Chambers v. Maroney",
+    "cite": "399 U.S. 42 (1970)",
+    "year": 1970,
+    "prior_holding": "Where there was PC and mobility at the scene, officers may search the vehicle without a warrant later at the station house; immediate…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108184/chambers-v-maroney/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 38,
+    "name": "Chandler v. Miller",
+    "cite": "520 U.S. 305 (1997)",
+    "year": 1997,
+    "prior_holding": "Georgia's suspicionless drug-testing requirement for candidates for state office is unconstitutional — there was no concrete, special…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118100/chandler-v-miller/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 39,
+    "name": "Chimel v. California",
+    "cite": "395 U.S. 752 (1969)",
+    "year": 1969,
+    "prior_holding": "Foundational scope of search incident to arrest: the arrestee's person and the area 'within his immediate control' — meaning the area…",
+    "good_law_flag": "⚠ narrowed by Gant in vehicles",
+    "homes": [
+      "[[Search Incident to Arrest]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107979/chimel-v-california/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 40,
+    "name": "City of Indianapolis v. Edmond",
+    "cite": "531 U.S. 32 (2000)",
+    "year": 2000,
+    "prior_holding": "A checkpoint program whose primary purpose is to detect ordinary criminal wrongdoing / general crime control (here, drug interdiction)…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118391/city-of-indianapolis-v-edmond/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 41,
+    "name": "City of Los Angeles v. Patel",
+    "cite": "576 U.S. 409 (2015)",
+    "year": 2015,
+    "prior_holding": "A hotel guest-registry inspection ordinance is facially unconstitutional because it gives operators no opportunity for pre-compliance…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/2810524/los-angeles-v-patel/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 42,
+    "name": "City of Tahlequah v. Bond",
+    "cite": "595 U.S. 9 (2021)",
+    "year": 2021,
+    "prior_holding": "Courts must not define clearly established law at too high a level of generality; QI protects 'all but the plainly incompetent or those who knowingly violate the law.'",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/5290448/city-of-tahlequah-v-bond/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 43,
+    "name": "Collins v. Virginia",
+    "cite": "584 U.S. 586 (2018)",
+    "year": 2018,
+    "prior_holding": "The automobile exception does NOT authorize a warrantless entry of a home or its curtilage to search a vehicle parked there. The…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4501697/collins-v-virginia/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 44,
+    "name": "Colorado v. Bertine",
+    "cite": "479 U.S. 367 (1987)",
+    "year": 1987,
+    "prior_holding": "Inventory searches (including opening closed containers) are permissible where police discretion is exercised according to standardized…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Search Incident to Arrest]]",
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111788/colorado-v-bertine/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 45,
+    "name": "Colorado v. Connelly",
+    "cite": "479 U.S. 157 (1986)",
+    "year": 1986,
+    "prior_holding": "A confession is \"involuntary\" for due-process purposes only when there is COERCIVE POLICE ACTIVITY; a suspect's mental illness or…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Due-Process Voluntariness of Confessions]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111779/colorado-v-connelly/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 46,
+    "name": "Commonwealth v. Herlth",
+    "cite": "2026 PA Super 114, No. 183 MDA 2024 (Pa. Super. June 5, 2026)",
+    "year": 2026,
+    "prior_holding": "A closed, opaque shoebox with a one-inch manufacturer's hole, inside a residence, retains a reasonable expectation of privacy; a trooper…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/10870804/com-v-herlth-j/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 47,
+    "name": "Coolidge v. New Hampshire",
+    "cite": "403 U.S. 443 (1971)",
+    "year": 1971,
+    "prior_holding": "ORIGIN of the modern plain-view doctrine (Stewart plurality). Plain view justifies a warrantless seizure only where the incriminating…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]",
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108377/coolidge-v-new-hampshire/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 48,
+    "name": "Davis v. United States",
+    "cite": "512 U.S. 452 (1994)",
+    "year": 1994,
+    "prior_holding": "A suspect must invoke the right to counsel UNAMBIGUOUSLY; an equivocal or ambiguous reference (\"maybe I should talk to a lawyer\") does…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/117863/davis-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 49,
+    "name": "Delaware v. Prouse",
+    "cite": "440 U.S. 648 (1979)",
+    "year": 1979,
+    "prior_holding": "Random, suspicionless stops of motorists to check license and registration are unreasonable under the Fourth Amendment; an officer needs…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Traffic Stops]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110045/delaware-v-prouse/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 50,
+    "name": "Devenpeck v. Alford",
+    "cite": "543 U.S. 146, 153-55 (2004)",
+    "year": 2004,
+    "prior_holding": "An arrest is lawful so long as the known facts give probable cause for SOME criminal offense; the offense need not be the one the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/137733/devenpeck-v-alford/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 51,
+    "name": "Dickerson v. United States",
+    "cite": "530 U.S. 428, 432, 444 (2000)",
+    "year": 2000,
+    "prior_holding": "Miranda is a constitutional rule that Congress may not supersede by statute; § 3501 is unconstitutional and Miranda governs the…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Miranda and Custodial Interrogation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118380/dickerson-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 52,
+    "name": "District of Columbia v. Wesby",
+    "cite": "583 U.S. 48, 63 (2018)",
+    "year": 2018,
+    "prior_holding": "Probable cause is a totality inquiry; courts must not divide-and-conquer the facts.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4460854/district-of-columbia-v-wesby/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 53,
+    "name": "Edwards v. Arizona",
+    "cite": "451 U.S. 477 (1981)",
+    "year": 1981,
+    "prior_holding": "Once an accused invokes his Fifth Amendment right to counsel, police may not reinitiate interrogation until counsel has been made…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110475/edwards-v-arizona/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 54,
+    "name": "Ferguson v. City of Charleston",
+    "cite": "532 U.S. 67 (2001)",
+    "year": 2001,
+    "prior_holding": "Covertly drug-testing pregnant patients and reporting results to law enforcement is an unreasonable search; the special-needs exception…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118414/ferguson-v-city-of-charleston/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 55,
+    "name": "Fernandez v. California",
+    "cite": "571 U.S. 292 (2014)",
+    "year": 2014,
+    "prior_holding": "Randolph is limited to a PHYSICALLY PRESENT objector. Once the objecting occupant is lawfully removed (e.g., by arrest), the remaining…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Consent Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/2654534/fernandez-v-california/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 56,
+    "name": "Florida v. Bostick",
+    "cite": "501 U.S. 429, 435-36 (1991)",
+    "year": 1991,
+    "prior_holding": "On a bus (where the passenger isn't free to leave regardless), the seizure question is whether a reasonable person would feel free to…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Knock and Talk]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112631/florida-v-bostick/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 57,
+    "name": "Florida v. Harris",
+    "cite": "568 U.S. 237, 244-48 (2013)",
+    "year": 2013,
+    "prior_holding": "Whether a dog's alert furnishes probable cause is a totality-of-the-circumstances question; evidence of a dog's satisfactory performance…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/820744/florida-v-harris/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 58,
+    "name": "Florida v. J.L.",
+    "cite": "529 U.S. 266, 272 (2000)",
+    "year": 2000,
+    "prior_holding": "A bare anonymous tip that a person is carrying a gun, without more, is NOT reasonable suspicion for a stop and frisk; an accurate…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118352/florida-v-jl/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 59,
+    "name": "Florida v. Jardines",
+    "cite": "569 U.S. 1, 6-8 (2013)",
+    "year": 2013,
+    "prior_holding": "Bringing a drug dog onto the home's curtilage (the front porch) to investigate exceeded the implied license to approach and knock — a…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Knock and Talk]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 60,
+    "name": "Florida v. Jimeno",
+    "cite": "500 U.S. 248 (1991)",
+    "year": 1991,
+    "prior_holding": "The SCOPE of a consent search is measured by OBJECTIVE REASONABLENESS — what the typical reasonable person would have understood by the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Consent Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112595/florida-v-jimeno/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 61,
+    "name": "Florida v. Wells",
+    "cite": "495 U.S. 1 (1990)",
+    "year": 1990,
+    "prior_holding": "An inventory search must not be a ruse for general rummaging to discover incriminating evidence; standardized criteria or established…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Search Incident to Arrest]]",
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112412/florida-v-wells/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 62,
+    "name": "Franks v. Delaware",
+    "cite": "438 U.S. 154 (1978)",
+    "year": 1978,
+    "prior_holding": "A warrant affidavit containing a knowing/intentional or reckless material falsehood may be challenged at a hearing on a substantial…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]",
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109925/franks-v-delaware/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 63,
+    "name": "Frazier v. Cupp",
+    "cite": "394 U.S. 731, 739 (1969)",
+    "year": 1969,
+    "prior_holding": "Police misrepresentation (falsely telling a suspect his codefendant had confessed) did not render the confession involuntary; deception…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Due-Process Voluntariness of Confessions]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107913/frazier-v-cupp/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 64,
+    "name": "French v. Merrill",
+    "cite": "15 F.4th 116 (1st Cir. 2021)",
+    "year": 2021,
+    "prior_holding": "The scope of the 'knock and talk' exception to the warrant requirement is controlled by the implied social license to enter the…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Knock and Talk]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/5273192/french-v-merrill/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 65,
+    "name": "Georgia v. Randolph",
+    "cite": "547 U.S. 103 (2006)",
+    "year": 2006,
+    "prior_holding": "A PHYSICALLY PRESENT co-occupant's express refusal to consent prevails over another occupant's consent, rendering the warrantless search…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Consent Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145669/georgia-v-randolph/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 66,
+    "name": "Giglio v. United States",
+    "cite": "405 U.S. 150 (1972)",
+    "year": 1972,
+    "prior_holding": "Impeachment evidence falls within the Brady rule: nondisclosure of evidence affecting a key witness's credibility — including a promise…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Brady and Giglio]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108471/giglio-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 67,
+    "name": "Gilbert v. California",
+    "cite": "388 U.S. 263, 272-74 (1967)",
+    "year": 1967,
+    "prior_holding": "Testimony that a witness identified the accused at an uncounseled post-indictment lineup must be excluded per se — a strict rule (no…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Eyewitness Identification]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107487/gilbert-v-california/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 68,
+    "name": "Graham v. Connor",
+    "cite": "490 U.S. 386 (1989)",
+    "year": 1989,
+    "prior_holding": "Excessive-force § 1983 claims arising from an arrest, stop, or other seizure are analyzed under the Fourth Amendment's 'objective…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112257/graham-v-connor/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 69,
+    "name": "Griffin v. Wisconsin",
+    "cite": "483 U.S. 868 (1987)",
+    "year": 1987,
+    "prior_holding": "A warrantless search of a probationer's home pursuant to a valid regulation is reasonable when supported by \"reasonable grounds\";…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111959/griffin-v-wisconsin/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 70,
+    "name": "Groh v. Ramirez",
+    "cite": "540 U.S. 551 (2004)",
+    "year": 2004,
+    "prior_holding": "A warrant that utterly **fails to describe the persons or things to be seized** is facially invalid under the Particularity Clause —…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/131161/groh-v-ramirez/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 71,
+    "name": "Hampton v. United States",
+    "cite": "425 U.S. 484 (1976)",
+    "year": 1976,
+    "prior_holding": "Neither the entrapment defense nor the Due Process Clause bars conviction of a PREDISPOSED defendant even where a government agent…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Entrapment]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109437/hampton-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 72,
+    "name": "Harlow v. Fitzgerald",
+    "cite": "457 U.S. 800 (1982)",
+    "year": 1982,
+    "prior_holding": "Reformulated qualified immunity as a purely OBJECTIVE test: officials performing discretionary functions are shielded from civil damages…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110763/harlow-v-fitzgerald/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 73,
+    "name": "Heien v. North Carolina",
+    "cite": "574 U.S. 54 (2014)",
+    "year": 2014,
+    "prior_holding": "A traffic stop is valid if based on an officer's objectively reasonable mistake of law (as well as a reasonable mistake of fact); a…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Traffic Stops]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/2760668/heien-v-north-carolina/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 74,
+    "name": "Herring v. United States",
+    "cite": "555 U.S. 135 (2009)",
+    "year": 2009,
+    "prior_holding": "Suppression is warranted only where deterrence benefits outweigh costs; isolated, attenuated police negligence (a recordkeeping error)…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145922/herring-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 75,
+    "name": "Hester v. United States",
+    "cite": "265 U.S. 57 (1924)",
+    "year": 1924,
+    "prior_holding": "Origin of the open-fields doctrine — 4A protection of 'persons, houses, papers, and effects' does not extend to open fields; and a fleeing suspect who drops containers abandons any 4A interest in them.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Curtilage]]",
+      "[[Abandonment]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/100413/hester-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 76,
+    "name": "Hiibel v. Sixth Judicial Dist. Court",
+    "cite": "542 U.S. 177 (2004)",
+    "year": 2004,
+    "prior_holding": "A state stop-and-identify law compelling a suspect to give his name during a valid *Terry* stop is consistent with the Fourth Amendment.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Terry Stops and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/136990/hiibel-v-sixth-judicial-dist-court-of-nev-humboldt-cty/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 77,
+    "name": "Hoffa v. United States",
+    "cite": "385 U.S. 293 (1966)",
+    "year": 1966,
+    "prior_holding": "A defendant has no Sixth Amendment claim when a government informant elicits statements **before** the right has attached; planting an informant raises no 6A problem pre-attachment.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107318/hoffa-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 78,
+    "name": "Hope v. Pelzer",
+    "cite": "536 U.S. 730 (2002)",
+    "year": 2002,
+    "prior_holding": "A right can be clearly established **without a factually identical case** — in an 'obvious case,' officials have fair warning even in novel circumstances (the QI 'obvious case' escape hatch).",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/121169/hope-v-pelzer/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 79,
+    "name": "Horton v. California",
+    "cite": "496 U.S. 128 (1990)",
+    "year": 1990,
+    "prior_holding": "Sets the modern plain-view SEIZURE test and DROPS the inadvertence requirement: a warrantless seizure of an item in plain view is lawful…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112448/horton-v-california/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 80,
+    "name": "Howes v. Fields",
+    "cite": "565 U.S. 499 (2012)",
+    "year": 2012,
+    "prior_holding": "Imprisonment alone does not make questioning custodial for Miranda; whether an inmate is \"in custody\" depends on the totality — here,…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda and Custodial Interrogation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/623144/howes-v-fields/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 81,
+    "name": "Hudson v. Michigan",
+    "cite": "547 U.S. 586 (2006)",
+    "year": 2006,
+    "prior_holding": "A knock-and-announce violation does NOT require suppression of the evidence found inside; the interests protected by knock-and-announce…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145646/hudson-v-michigan/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 82,
+    "name": "Illinois v. Gates",
+    "cite": "462 U.S. 213 (1983)",
+    "year": 1983,
+    "prior_holding": "Probable cause from an informant's tip is judged by the **totality of the circumstances** — the issuing magistrate makes a practical,…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]",
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110959/illinois-v-gates/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 83,
+    "name": "Illinois v. Krull",
+    "cite": "480 U.S. 340 (1987)",
+    "year": 1987,
+    "prior_holding": "Good-faith reliance on a STATUTE later held unconstitutional does not trigger exclusion; excluding such evidence would have no deterrent…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111835/illinois-v-krull/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 84,
+    "name": "Illinois v. Lafayette",
+    "cite": "462 U.S. 640 (1983)",
+    "year": 1983,
+    "prior_holding": "As part of the routine booking/incarceration process (a stationhouse inventory), police may search any container or article in an…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Search Incident to Arrest]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110976/illinois-v-lafayette/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 85,
+    "name": "Illinois v. Lidster",
+    "cite": "540 U.S. 419 (2004)",
+    "year": 2004,
+    "prior_holding": "An information-seeking checkpoint — stopping motorists to ask whether they witnessed an earlier crime committed by *someone else* — is…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/131154/illinois-v-lidster/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 86,
+    "name": "Illinois v. McArthur",
+    "cite": "531 U.S. 326 (2001)",
+    "year": 2001,
+    "prior_holding": "Where police have probable cause to believe a home contains contraband, they may reasonably impose a temporary restraint on a resident —…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Securing the Scene]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118405/illinois-v-mcarthur/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 87,
+    "name": "Illinois v. Perkins",
+    "cite": "496 U.S. 292 (1990)",
+    "year": 1990,
+    "prior_holding": "Miranda warnings are not required when an undercover officer (or agent) posing as an inmate elicits statements from a suspect — because…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda and Custodial Interrogation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112452/illinois-v-perkins/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 88,
+    "name": "Illinois v. Rodriguez",
+    "cite": "497 U.S. 177 (1990)",
+    "year": 1990,
+    "prior_holding": "APPARENT AUTHORITY: a warrantless entry on third-party consent is valid if officers REASONABLY (though mistakenly) believed the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Consent Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112475/illinois-v-rodriguez/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 89,
+    "name": "Illinois v. Wardlow",
+    "cite": "528 U.S. 119, 124 (2000)",
+    "year": 2000,
+    "prior_holding": "Unprovoked headlong flight upon noticing police, combined with presence in a high-crime area, can furnish reasonable suspicion for a…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118326/illinois-v-wardlow/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 90,
+    "name": "Immigration & Naturalization Service v. Lopez-Mendoza",
+    "cite": "468 U.S. 1032 (1984)",
+    "year": 1984,
+    "prior_holding": "The exclusionary rule generally does NOT apply in civil deportation/removal proceedings: an admission of unlawful presence made after an…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111265/immigration-naturalization-service-v-lopez-mendoza/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 91,
+    "name": "J.D.B. v. North Carolina",
+    "cite": "564 U.S. 261 (2011)",
+    "year": 2011,
+    "prior_holding": "A child's age is a relevant factor in the Miranda custody analysis when it was known to or objectively apparent to the officer — because…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda and Custodial Interrogation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/218925/j-d-b-v-north-carolina/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 92,
+    "name": "Jacobson v. United States",
+    "cite": "503 U.S. 540 (1992)",
+    "year": 1992,
+    "prior_holding": "Where the government induces the crime, it must prove the defendant was predisposed to commit it INDEPENDENT of, and PRIOR TO, the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Entrapment]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112720/jacobson-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 93,
+    "name": "Johnson v. United States",
+    "cite": "333 U.S. 10 (1948)",
+    "year": 1948,
+    "prior_holding": "Probable-cause inferences must be drawn by a neutral and detached magistrate, not by the officer engaged in ferreting out crime.",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/104504/johnson-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 94,
+    "name": "Jones v. United States",
+    "cite": "362 U.S. 257 (1960)",
+    "year": 1960,
+    "prior_holding": "Established \"automatic standing\" for those charged with possessory offenses and the broader rule that anyone \"legitimately on the…",
+    "good_law_flag": "⛔ overruled",
+    "homes": [
+      "[[Standing to Challenge a Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/106022/jones-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 95,
+    "name": "Katz v. United States",
+    "cite": "389 U.S. 347, 351, 361 (1967)",
+    "year": 1967,
+    "prior_holding": "Electronic eavesdropping that invades a justified expectation of privacy is a search even with no physical trespass; overruled…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Standing to Challenge a Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 96,
+    "name": "Kentucky v. King",
+    "cite": "563 U.S. 452 (2011)",
+    "year": 2011,
+    "prior_holding": "The exigent-circumstances rule applies even where police 'created' the exigency, SO LONG AS the police did not create it by engaging or…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Arrest in the Home]]",
+      "[[Exigent Circumstances and Hot Pursuit]]",
+      "[[Knock and Talk]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 97,
+    "name": "Kirby v. Illinois",
+    "cite": "406 U.S. 682, 688-90 (1972)",
+    "year": 1972,
+    "prior_holding": "The Sixth Amendment right to counsel attaches only at or after the initiation of adversary judicial criminal proceedings (formal charge,…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Eyewitness Identification]]",
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108554/kirby-v-illinois/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 98,
+    "name": "Kuhlmann v. Wilson",
+    "cite": "477 U.S. 436, 459 (1986)",
+    "year": 1986,
+    "prior_holding": "A defendant does not make out a Sixth Amendment violation merely by showing an informant reported his statements; he must show the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111726/kuhlmann-v-wilson/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 99,
+    "name": "Kyles v. Whitley",
+    "cite": "514 U.S. 419 (1995)",
+    "year": 1995,
+    "prior_holding": "Two load-bearing points: (1) materiality is assessed CUMULATIVELY — all suppressed evidence considered collectively, not item by item;…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Brady and Giglio]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/117923/kyles-v-whitley/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 100,
+    "name": "Lange v. California",
+    "cite": "594 U.S. 295 (2021)",
+    "year": 2021,
+    "prior_holding": "Pursuit of a fleeing MISDEMEANOR suspect does not categorically justify warrantless home entry; courts apply a case-by-case exigency…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Arrest in the Home]]",
+      "[[Exigent Circumstances and Hot Pursuit]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4894407/lange-v-california/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 101,
+    "name": "Lo-Ji Sales",
+    "cite": "Inc. v. New York, 442 U.S. 319 (1979)",
+    "year": 1979,
+    "prior_holding": "A magistrate who abandons the neutral-and-detached role — here the Town Justice joined and effectively led the search party, conducting…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[The Exclusionary Rule]]",
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110100/lo-ji-sales-inc-v-new-york/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 102,
+    "name": "Maine v. Moulton",
+    "cite": "474 U.S. 159 (1985)",
+    "year": 1985,
+    "prior_holding": "The Sixth Amendment is violated when the State knowingly exploits an opportunity to confront the accused without counsel — it makes no…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111546/maine-v-moulton/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 103,
+    "name": "Manson v. Brathwaite",
+    "cite": "432 U.S. 98, 113-14 (1977)",
+    "year": 1977,
+    "prior_holding": "There is no per se rule excluding identifications from unnecessarily suggestive procedures; reliability is the linchpin, assessed under…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Eyewitness Identification]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109693/manson-v-brathwaite/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 104,
+    "name": "Mapp v. Ohio",
+    "cite": "367 U.S. 643 (1961)",
+    "year": 1961,
+    "prior_holding": "The exclusionary rule applies to the States through the Fourteenth Amendment.",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/106285/mapp-v-ohio/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 105,
+    "name": "Marbury v. Madison",
+    "cite": "5 U.S. (1 Cranch) 137 (1803)",
+    "year": 1803,
+    "prior_holding": "Establishes judicial review: it is the province and duty of the judiciary to say what the law is, and a law repugnant to the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Federal Court System]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/84759/marbury-v-madison/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 106,
+    "name": "Maryland v. Buie",
+    "cite": "494 U.S. 325 (1990)",
+    "year": 1990,
+    "prior_holding": "Protective sweep incident to an in-home arrest: (1) without probable cause or reasonable suspicion, officers may as a precaution look in…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Securing the Scene]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112384/maryland-v-buie/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 107,
+    "name": "Maryland v. Garrison",
+    "cite": "480 U.S. 79 (1987)",
+    "year": 1987,
+    "prior_holding": "A warrant's validity is judged on the information reasonably available to officers when they sought it; a reasonable, good-faith mistake…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111823/maryland-v-garrison/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 108,
+    "name": "Maryland v. King",
+    "cite": "569 U.S. 435, 465-66 (2013)",
+    "year": 2013,
+    "prior_holding": "Taking a buccal (cheek) DNA swab from a person arrested for a serious offense and held in custody is a reasonable booking procedure…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/873669/maryland-v-king/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 109,
+    "name": "Maryland v. Pringle",
+    "cite": "540 U.S. 366, 371-74 (2003)",
+    "year": 2003,
+    "prior_holding": "Where drugs and cash are found in a car and no occupant claims them, an officer has probable cause to arrest all the occupants on a…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/131150/maryland-v-pringle/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 110,
+    "name": "Maryland v. Shatzer",
+    "cite": "559 U.S. 98 (2010)",
+    "year": 2010,
+    "prior_holding": "Edwards protection ends after a 14-day break in Miranda custody; once 14 days pass, police may re-approach and seek a fresh waiver.…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 111,
+    "name": "Maryland v. Wilson",
+    "cite": "519 U.S. 408 (1997)",
+    "year": 1997,
+    "prior_holding": "Mimms extends to passengers: an officer making a lawful traffic stop may order the passengers, as well as the driver, out of the car…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Traffic Stops]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118086/maryland-v-wilson/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 112,
+    "name": "Massachusetts v. Sheppard",
+    "cite": "468 U.S. 981 (1984)",
+    "year": 1984,
+    "prior_holding": "Companion to Leon: where a warrant was technically/clerically defective in form (wrong pre-printed form) but officers reasonably relied…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111263/massachusetts-v-sheppard/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 113,
+    "name": "Massiah v. United States",
+    "cite": "377 U.S. 201, 206 (1964)",
+    "year": 1964,
+    "prior_holding": "Once adversary proceedings have begun (here, post-indictment), the government violates the Sixth Amendment when it deliberately elicits…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/106822/massiah-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 114,
+    "name": "Mathews v. United States",
+    "cite": "485 U.S. 58 (1988)",
+    "year": 1988,
+    "prior_holding": "A defendant who denies one or more elements of the charged crime is nonetheless entitled to an entrapment instruction whenever there is…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Entrapment]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112012/mathews-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 115,
+    "name": "McNeil v. Wisconsin",
+    "cite": "501 U.S. 171, 175-78 (1991)",
+    "year": 1991,
+    "prior_holding": "The Sixth Amendment right to counsel is offense-specific, and a 6A invocation is NOT an invocation of the Fifth Amendment *Miranda-Edwards* right to counsel; the two are distinct.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112622/mcneil-v-wisconsin/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 116,
+    "name": "Michigan Dept. of State Police v. Sitz",
+    "cite": "496 U.S. 444 (1990)",
+    "year": 1990,
+    "prior_holding": "Suspicionless sobriety (DUI) checkpoints are constitutional; the state's interest in combating drunk driving and the checkpoint's…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112459/michigan-department-of-state-police-v-sitz/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 117,
+    "name": "Michigan v. DeFillippo",
+    "cite": "443 U.S. 31 (1979)",
+    "year": 1979,
+    "prior_holding": "An arrest based on a presumptively valid ordinance later declared unconstitutional was valid (supported by probable cause at the time),…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110127/michigan-v-defillippo/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 118,
+    "name": "Michigan v. Fisher",
+    "cite": "558 U.S. 45 (2009)",
+    "year": 2009,
+    "prior_holding": "Applies Brigham City: emergency-aid entry upheld where it was objectively reasonable to believe an occupant was injured or about to be;…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Community Caretaking and Emergency Aid]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/1755/michigan-v-fisher/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 119,
+    "name": "Michigan v. Jackson",
+    "cite": "475 U.S. 625 (1986)",
+    "year": 1986,
+    "prior_holding": "Held a post-appointment, police-initiated waiver of the Sixth Amendment right to counsel presumptively invalid — **overruled by *Montejo v. Louisiana* (2009)**; survives only as history.",
+    "good_law_flag": "⛔ overruled by Montejo",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 120,
+    "name": "Michigan v. Long",
+    "cite": "463 U.S. 1032 (1983)",
+    "year": 1983,
+    "prior_holding": "Terry's protective-frisk rationale extends to vehicles: on specific and articulable facts giving the officer a reasonable belief the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Traffic Stops]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111020/michigan-v-long/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 121,
+    "name": "Michigan v. Mosley",
+    "cite": "423 U.S. 96 (1975)",
+    "year": 1975,
+    "prior_holding": "After a suspect invokes the right to SILENCE, later statements are admissible if police \"scrupulously honored\" the invocation — here,…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109336/michigan-v-mosley/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 122,
+    "name": "Michigan v. Summers",
+    "cite": "452 U.S. 692 (1981)",
+    "year": 1981,
+    "prior_holding": "A warrant to search premises for contraband, founded on probable cause, implicitly carries the limited authority to detain the occupants…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Securing the Scene]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110534/michigan-v-summers/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 123,
+    "name": "Mincey v. Arizona",
+    "cite": "437 U.S. 385 (1978)",
+    "year": 1978,
+    "prior_holding": "No 'murder scene' exception: the seriousness of the offense does not by itself create exigency. BUT police may make warrantless entries…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Community Caretaking and Emergency Aid]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109905/mincey-v-arizona/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 124,
+    "name": "Minnesota v. Carter",
+    "cite": "525 U.S. 83 (1998)",
+    "year": 1998,
+    "prior_holding": "A short-term visitor present in another's home for a purely commercial purpose (bagging drugs), with no prior relationship and no…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Standing to Challenge a Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118249/minnesota-v-carter/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 125,
+    "name": "Minnesota v. Dickerson",
+    "cite": "508 U.S. 366 (1993)",
+    "year": 1993,
+    "prior_holding": "Plain-feel corollary: contraband whose identity is immediately apparent by touch during a lawful *Terry* frisk may be seized — but not where the officer squeezed/manipulated it to ID it.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112873/minnesota-v-dickerson/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 126,
+    "name": "Minnesota v. Olson",
+    "cite": "495 U.S. 91 (1990)",
+    "year": 1990,
+    "prior_holding": "An overnight guest has a reasonable expectation of privacy in his host's home and therefore standing to challenge a warrantless entry to…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Standing to Challenge a Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112416/minnesota-v-olson/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 127,
+    "name": "Minnick v. Mississippi",
+    "cite": "498 U.S. 146 (1990)",
+    "year": 1990,
+    "prior_holding": "Once counsel is invoked, Edwards bars police-initiated re-interrogation without counsel PRESENT — and that protection is not satisfied…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112513/minnick-v-mississippi/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 128,
+    "name": "Miranda v. Arizona",
+    "cite": "384 U.S. 436, 444 (1966)",
+    "year": 1966,
+    "prior_holding": "Statements from custodial interrogation are inadmissible unless police first gave the warnings and the suspect knowingly, voluntarily…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda and Custodial Interrogation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107252/miranda-v-arizona/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 129,
+    "name": "Missouri v. McNeely",
+    "cite": "569 U.S. 141, 145, 156 (2013)",
+    "year": 2013,
+    "prior_holding": "The natural metabolization of alcohol is NOT a per se exigency justifying a warrantless DUI blood draw in every case; exigency must be…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Exigent Circumstances and Hot Pursuit]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/858288/missouri-v-mcneely/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 130,
+    "name": "Missouri v. Seibert",
+    "cite": "542 U.S. 600 (2004)",
+    "year": 2004,
+    "prior_holding": "A deliberate \"question-first, warn-later\" two-step interrogation is invalid.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/137002/missouri-v-seibert/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 131,
+    "name": "Mitchell v. Wisconsin",
+    "cite": "588 U.S. 840 (2019)",
+    "year": 2019,
+    "prior_holding": "When police have probable cause for DUI and the driver's unconsciousness/stupor forces hospitalization before a breath test can be…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Exigent Circumstances and Hot Pursuit]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/9231242/mitchell-v-wisconsin/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 132,
+    "name": "Monell v. Department of Social Services",
+    "cite": "436 U.S. 658 (1978)",
+    "year": 1978,
+    "prior_holding": "Local governments ARE 'persons' suable under § 1983, but ONLY when the constitutional injury is caused by the execution of an official…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109881/monell-v-new-york-city-dept-of-social-servs/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 133,
+    "name": "Monroe v. Pape",
+    "cite": "365 U.S. 167 (1961)",
+    "year": 1961,
+    "prior_holding": "Revived § 1983 as a real federal remedy: 'under color of' state law reaches the MISUSE of authority an officer possesses by virtue of…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/106170/monroe-v-pape/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 134,
+    "name": "Montejo v. Louisiana",
+    "cite": "556 U.S. 778, 797 (2009)",
+    "year": 2009,
+    "prior_holding": "A defendant may validly waive his Sixth Amendment right to counsel during police-initiated interrogation even after counsel has been…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145873/montejo-v-louisiana/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 135,
+    "name": "Moran v. Burbine",
+    "cite": "475 U.S. 412 (1986)",
+    "year": 1986,
+    "prior_holding": "A Miranda waiver is valid even though police failed to tell the suspect that an attorney was trying to reach him; events outside the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111614/moran-v-burbine/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 136,
+    "name": "Muehler v. Mena",
+    "cite": "544 U.S. 93 (2005)",
+    "year": 2005,
+    "prior_holding": "Officers executing a search warrant for weapons at a gang house may detain occupants in handcuffs for the entire duration of the search…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Securing the Scene]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/142878/muehler-v-mena/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 137,
+    "name": "Mullenix v. Luna",
+    "cite": "577 U.S. 7 (2015)",
+    "year": 2015,
+    "prior_holding": "'Clearly established' law must be particularized to the specific context — 'the dispositive question is whether the violative nature of particular conduct is clearly established.'",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/3153112/mullenix-v-luna/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 138,
+    "name": "Murray v. United States",
+    "cite": "487 U.S. 533 (1988)",
+    "year": 1988,
+    "prior_holding": "Independent source: evidence first observed during an unlawful entry is admissible if later acquired through a genuinely independent…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112136/murray-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 139,
+    "name": "Napue v. Illinois",
+    "cite": "360 U.S. 264 (1959)",
+    "year": 1959,
+    "prior_holding": "The State may not knowingly use false testimony to obtain a conviction, and that duty applies even when the false testimony goes only to…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Brady and Giglio]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/105912/napue-v-illinois/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 140,
+    "name": "National Treasury Employees Union v. Von Raab",
+    "cite": "489 U.S. 656 (1989)",
+    "year": 1989,
+    "prior_holding": "Suspicionless drug testing of Customs employees seeking drug-interdiction or firearm-carrying positions is reasonable under the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112220/national-treasury-employees-union-v-von-raab/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 141,
+    "name": "Navarette v. California",
+    "cite": "572 U.S. 393, 398-99 (2014)",
+    "year": 2014,
+    "prior_holding": "A 911 call reporting dangerous/reckless driving can supply reasonable suspicion for a stop when it bears adequate indicia of reliability…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/2670795/prado-navarette-v-california/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 142,
+    "name": "Neil v. Biggers",
+    "cite": "409 U.S. 188, 199-200 (1972)",
+    "year": 1972,
+    "prior_holding": "Even an unnecessarily suggestive identification is admissible if, under the totality of the circumstances, it is nonetheless reliable;…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Eyewitness Identification]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108639/neil-v-biggers/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 143,
+    "name": "New Jersey v. T.L.O.",
+    "cite": "469 U.S. 325 (1985)",
+    "year": 1985,
+    "prior_holding": "A school official's search of a student requires only reasonableness under all the circumstances — justified at inception + reasonably…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111301/new-jersey-v-t-l-o/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 144,
+    "name": "New York v. Belton",
+    "cite": "453 U.S. 454 (1981)",
+    "year": 1981,
+    "prior_holding": "Defines the SCOPE of a vehicle search incident to arrest: on a lawful custodial arrest of a vehicle occupant, police may search the…",
+    "good_law_flag": "⚠ limited/cabined as applied to vehicle searches by Arizona v. Gant (2009)",
+    "homes": [
+      "[[Search Incident to Arrest]]",
+      "[[Traffic Stops]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110559/new-york-v-belton/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 145,
+    "name": "New York v. Burger",
+    "cite": "482 U.S. 691 (1987)",
+    "year": 1987,
+    "prior_holding": "A warrantless administrative inspection of a closely (pervasively) regulated business — here, an automobile junkyard — is reasonable if…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111927/new-york-v-burger/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 146,
+    "name": "New York v. Quarles",
+    "cite": "467 U.S. 649 (1984)",
+    "year": 1984,
+    "prior_holding": "There is a \"public safety\" exception to Miranda — when officers ask questions reasonably prompted by an immediate threat to public…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda and Custodial Interrogation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111214/new-york-v-quarles/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 147,
+    "name": "Nix v. Williams",
+    "cite": "467 U.S. 431 (1984)",
+    "year": 1984,
+    "prior_holding": "Inevitable discovery: unlawfully obtained evidence is admissible if the prosecution proves by a preponderance it would inevitably have…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111204/nix-v-williams/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 148,
+    "name": "North Carolina v. Butler",
+    "cite": "441 U.S. 369 (1979)",
+    "year": 1979,
+    "prior_holding": "An express written or oral waiver is not required; a valid Miranda waiver may be inferred from the suspect's words and conduct — but…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110065/north-carolina-v-butler/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 149,
+    "name": "Ohio v. Robinette",
+    "cite": "519 U.S. 33 (1996)",
+    "year": 1996,
+    "prior_holding": "No-warning rule: officers need not tell a lawfully stopped motorist he is 'free to go' for his subsequent consent to search to be voluntary.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Consent Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118066/ohio-v-robinette/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 150,
+    "name": "Oliver v. United States",
+    "cite": "466 U.S. 170 (1984)",
+    "year": 1984,
+    "prior_holding": "Reaffirms that open fields get no Fourth Amendment protection — even fenced, posted 'No Trespassing' land; only curtilage carries the home's protection.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Curtilage]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111146/oliver-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 151,
+    "name": "Olmstead v. United States",
+    "cite": "277 U.S. 438 (1928)",
+    "year": 1928,
+    "prior_holding": "Wiretapping with no physical entry was not a search — pure property/trespass framing; overruled on the privacy point by *Katz* (property instinct later revived by *Jones*).",
+    "good_law_flag": "⚠ superseded on privacy by Katz",
+    "homes": [
+      "[[Two Definitions of Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 152,
+    "name": "Oregon v. Elstad",
+    "cite": "470 U.S. 298 (1985)",
+    "year": 1985,
+    "prior_holding": "An initial, un-warned but voluntary statement does not automatically taint a later confession; if the suspect is then properly…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111364/oregon-v-elstad/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 153,
+    "name": "Oregon v. Mathiason",
+    "cite": "429 U.S. 492 (1977)",
+    "year": 1977,
+    "prior_holding": "A suspect who comes voluntarily to the station, is told he is not under arrest, and is free to leave is NOT in custody for Miranda —…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda and Custodial Interrogation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109587/oregon-v-mathiason/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 154,
+    "name": "Ornelas v. United States",
+    "cite": "517 U.S. 690 (1996)",
+    "year": 1996,
+    "prior_holding": "Appellate review of determinations of reasonable suspicion and probable cause to make a warrantless search/stop is de novo (historical…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118030/ornelas-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 155,
+    "name": "Orozco v. Texas",
+    "cite": "394 U.S. 324 (1969)",
+    "year": 1969,
+    "prior_holding": "Miranda warnings were required where four officers questioned a suspect under arrest in his own bedroom in the early morning; custody…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Miranda and Custodial Interrogation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107883/orozco-v-texas/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 156,
+    "name": "Patterson v. Illinois",
+    "cite": "487 U.S. 285 (1988)",
+    "year": 1988,
+    "prior_holding": "An accused may knowingly and intelligently waive the Sixth Amendment right to counsel for post-indictment questioning through the…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112127/patterson-v-illinois/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 157,
+    "name": "Payton v. New York",
+    "cite": "445 U.S. 573 (1980)",
+    "year": 1980,
+    "prior_holding": "Warrantless, nonconsensual entry into a SUSPECT'S OWN home to make a routine felony arrest is presumptively unreasonable; an arrest…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Arrest in the Home]]",
+      "[[Securing the Scene]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110235/payton-v-new-york/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 158,
+    "name": "Pearson v. Callahan",
+    "cite": "555 U.S. 223 (2009)",
+    "year": 2009,
+    "prior_holding": "The Saucier two-step sequence, while often appropriate, is NO LONGER MANDATORY. Lower courts may exercise discretion over which prong…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145918/pearson-v-callahan/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 159,
+    "name": "Pennsylvania v. Labron",
+    "cite": "518 U.S. 938 (1996)",
+    "year": 1996,
+    "prior_holding": "No separate exigency requirement beyond ready mobility: if a car is readily mobile and PC exists to believe it contains contraband, the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118063/pennsylvania-v-labron/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 160,
+    "name": "Pennsylvania v. Mimms",
+    "cite": "434 U.S. 106 (1977)",
+    "year": 1977,
+    "prior_holding": "Once a vehicle is lawfully stopped for a traffic violation, an officer may order the driver out of the vehicle as a matter of course;…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Traffic Stops]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109751/pennsylvania-v-mimms/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 161,
+    "name": "People v. Hughes",
+    "cite": "506 Mich. 512, 958 N.W.2d 98 (2020)",
+    "year": 2020,
+    "prior_holding": "Declines a per se rule that an officer may always review the ENTIRE contents of digital data seized under a warrant on the mere…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4843477/people-of-michigan-v-kristopher-allen-hughes/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 162,
+    "name": "Perry v. New Hampshire",
+    "cite": "565 U.S. 228, 232-33, 248 (2012)",
+    "year": 2012,
+    "prior_holding": "The Due Process Clause requires a preliminary judicial screening of eyewitness-identification reliability ONLY when the suggestive…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Eyewitness Identification]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/620671/perry-v-new-hampshire/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 163,
+    "name": "Rakas v. Illinois",
+    "cite": "439 U.S. 128 (1978)",
+    "year": 1978,
+    "prior_holding": "Fourth Amendment rights are personal; a defendant must show his own legitimate expectation of privacy was infringed and cannot…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Standing to Challenge a Search]]",
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109953/rakas-v-illinois/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 164,
+    "name": "Rawlings v. Kentucky",
+    "cite": "448 U.S. 98 (1980)",
+    "year": 1980,
+    "prior_holding": "Owning the items seized is not enough to challenge a search; a defendant must have a legitimate expectation of privacy in the PLACE…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Standing to Challenge a Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110326/rawlings-v-kentucky/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 165,
+    "name": "Rhode Island v. Innis",
+    "cite": "446 U.S. 291 (1980)",
+    "year": 1980,
+    "prior_holding": "'Interrogation' under Miranda is not limited to express questioning. It also includes the 'functional equivalent' of express…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Miranda and Custodial Interrogation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110254/rhode-island-v-innis/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 166,
+    "name": "Richards v. Wisconsin",
+    "cite": "520 U.S. 385 (1997)",
+    "year": 1997,
+    "prior_holding": "There is **no blanket exception** to knock-and-announce for entire categories of crime (e.g., felony drug cases); the no-knock decision…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118103/richards-v-wisconsin/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 167,
+    "name": "Riley v. California",
+    "cite": "573 U.S. 373 (2014)",
+    "year": 2014,
+    "prior_holding": "The Robinson bright-line search-incident rule does NOT extend to the digital contents of a cell phone seized incident to arrest.…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]",
+      "[[Search Incident to Arrest]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/2680439/riley-v-cal-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 168,
+    "name": "Rivas-Villegas v. Cortesluna",
+    "cite": "595 U.S. 1 (2021)",
+    "year": 2021,
+    "prior_holding": "For QI, the plaintiff must identify a case that put the officer on notice that his specific conduct was unlawful, 'in light of the specific context of the case, not as a broad general proposition.'",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/5290447/rivas-villegas-v-cortesluna/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 169,
+    "name": "Rodriguez v. United States",
+    "cite": "575 U.S. 348 (2015)",
+    "year": 2015,
+    "prior_holding": "A traffic stop may last no longer than necessary to complete the stop's 'mission' (addressing the violation and ordinary inquiries).…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Traffic Stops]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/2795278/rodriguez-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 170,
+    "name": "Rothgery v. Gillespie County",
+    "cite": "554 U.S. 191, 198, 213 (2008)",
+    "year": 2008,
+    "prior_holding": "A criminal defendant's initial appearance before a magistrate, where he learns the charge against him and his liberty is restricted,…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145785/rothgery-v-gillespie-county/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 171,
+    "name": "Samson v. California",
+    "cite": "547 U.S. 843 (2006)",
+    "year": 2006,
+    "prior_holding": "A suspicionless search of a parolee is reasonable; a parolee subject to a search condition has severely diminished privacy expectations,…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145640/samson-v-california/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 172,
+    "name": "Saucier v. Katz",
+    "cite": "533 U.S. 194 (2001)",
+    "year": 2001,
+    "prior_holding": "Established the (then-mandatory) two-step qualified-immunity sequence: (1) taken in the light most favorable to the plaintiff, do the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118449/saucier-v-katz/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 173,
+    "name": "Schneckloth v. Bustamonte",
+    "cite": "412 U.S. 218 (1973)",
+    "year": 1973,
+    "prior_holding": "The voluntariness of consent to search is a question of fact determined from the TOTALITY OF ALL THE CIRCUMSTANCES; the government need…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Consent Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108800/schneckloth-v-bustamonte/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 174,
+    "name": "Scott v. Harris",
+    "cite": "550 U.S. 372 (2007)",
+    "year": 2007,
+    "prior_holding": "*Garner* is not a rigid separate test but 'simply an application' of *Graham* reasonableness — no 'magical on/off switch'; ramming a fleeing motorist who endangered the public was reasonable.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Use of Force]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145738/scott-v-harris/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 175,
+    "name": "Screws v. United States",
+    "cite": "325 U.S. 91 (1945)",
+    "year": 1945,
+    "prior_holding": "Construing 18 U.S.C. § 242 'willfully' — the criminal civil-rights statute requires a specific-intent (willful) deprivation of constitutional rights under color of law.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/104135/screws-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 176,
+    "name": "Segura v. United States",
+    "cite": "468 U.S. 796 (1984)",
+    "year": 1984,
+    "prior_holding": "Evidence seized under a valid warrant is admissible even after an earlier illegal entry, where the warrant was supported wholly by…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Securing the Scene]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111259/segura-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 177,
+    "name": "Self-help doctrine' (as an exclusionary-rule exception)",
+    "cite": "",
+    "year": null,
+    "prior_holding": "Capture lists a 'self-help doctrine' as an exclusionary-rule exception. No recognized Fourth-Amendment / exclusionary-rule exception by…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "",
+    "needs_page": false,
+    "status": "pending"
+  },
+  {
+    "idx": 178,
+    "name": "Sherman v. United States",
+    "cite": "356 U.S. 369 (1958)",
+    "year": 1958,
+    "prior_holding": "Entrapment is established as a matter of law when the government, through its informant, implants the criminal design in an…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Entrapment]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/105681/sherman-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 179,
+    "name": "Silverman v. United States",
+    "cite": "365 U.S. 505 (1961)",
+    "year": 1961,
+    "prior_holding": "A 'spike mike' physically penetrating the wall into the house was a search — an unauthorized physical intrusion into a constitutionally protected area, not measured by 'technical trespass' niceties.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Two Definitions of Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/106187/silverman-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 180,
+    "name": "Skinner v. Railway Labor Executives' Ass'n",
+    "cite": "489 U.S. 602, 614 (1989)",
+    "year": 1989,
+    "prior_holding": "Suspicionless drug/alcohol testing of railway employees after accidents is reasonable under the special-needs doctrine.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112219/skinner-v-railway-labor-executives-assn/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 181,
+    "name": "Smith v. Cain",
+    "cite": "565 U.S. 73 (2012)",
+    "year": 2012,
+    "prior_holding": "Modern *Brady* reversal: undisclosed impeachment of the sole eyewitness is material — conviction reversed.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Brady and Giglio]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/620666/smith-v-cain/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 182,
+    "name": "Sorrells v. United States",
+    "cite": "287 U.S. 435 (1932)",
+    "year": 1932,
+    "prior_holding": "Entrapment is a valid defense; it arises when government officials implant the criminal design in the mind of a person who had no…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Entrapment]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/101997/sorrells-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 183,
+    "name": "South Dakota v. Opperman",
+    "cite": "428 U.S. 364 (1976)",
+    "year": 1976,
+    "prior_holding": "An inventory search of a lawfully impounded vehicle conducted pursuant to standard police procedures, and not as a pretext concealing an…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Search Incident to Arrest]]",
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109537/south-dakota-v-opperman/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 184,
+    "name": "Spano v. New York",
+    "cite": "360 U.S. 315 (1959)",
+    "year": 1959,
+    "prior_holding": "A confession produced by psychological pressure — here a friend's feigned distress plus persistent overnight questioning of a suspect…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Due-Process Voluntariness of Confessions]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/105917/spano-v-new-york/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 185,
+    "name": "Stansbury v. California",
+    "cite": "511 U.S. 318 (1994)",
+    "year": 1994,
+    "prior_holding": "Custody is determined by the objective circumstances of the interrogation, not by the subjective, undisclosed views of the officer or…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda and Custodial Interrogation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/117843/stansbury-v-california/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 186,
+    "name": "State v. Mansor",
+    "cite": "363 Or. 185, 421 P.3d 323 (2018)",
+    "year": 2018,
+    "prior_holding": "Decided under Article I, section 9 of the OREGON Constitution: the State may not USE information found in a computer search that the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/6656738/state-v-mansor/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 187,
+    "name": "State v. Mitcham",
+    "cite": "258 Ariz. 435 (2025)",
+    "year": 2025,
+    "prior_holding": "Arizona Supreme Court applies the independent-source exception: evidence discovered during/because of an unlawful search is admissible…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/10293607/state-of-arizona-v-ian-mitcham/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 188,
+    "name": "State v. Tarantino",
+    "cite": "322 N.C. 386, 368 S.E.2d 588 (1988)",
+    "year": 1988,
+    "prior_holding": "A reasonable expectation of privacy in a building's interior is NOT eliminated by small (quarter-inch) cracks; an officer who must 'bend…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/1294594/state-v-tarantino/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 189,
+    "name": "State v. Volle",
+    "cite": "580 P.3d 1223 (Kan. 2025)",
+    "year": 2025,
+    "prior_holding": "Because relevant information may be stored anywhere on a digital device, a warrant ordinarily cannot prescribe in advance exactly how…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/10811858/state-v-volle/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 190,
+    "name": "Steagald v. United States",
+    "cite": "451 U.S. 204 (1981)",
+    "year": 1981,
+    "prior_holding": "To search a THIRD PARTY'S home for the subject of an arrest warrant, police need a SEARCH warrant (absent exigency or consent); an…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Arrest in the Home]]",
+      "[[Securing the Scene]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110464/steagald-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 191,
+    "name": "Stovall v. Denno",
+    "cite": "388 U.S. 293, 301-02 (1967)",
+    "year": 1967,
+    "prior_holding": "A confrontation that is unnecessarily suggestive and conducive to irreparable mistaken identification can violate due process;…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Eyewitness Identification]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107488/stovall-v-denno/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 192,
+    "name": "Strickler v. Greene",
+    "cite": "527 U.S. 263 (1999)",
+    "year": 1999,
+    "prior_holding": "Canonical statement of the THREE Brady components: (1) the evidence must be favorable (exculpatory OR impeaching); (2) it must have been…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Brady and Giglio]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118307/strickler-v-greene/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 193,
+    "name": "Tennessee v. Garner",
+    "cite": "471 U.S. 1 (1985)",
+    "year": 1985,
+    "prior_holding": "Deadly force against an apparently unarmed, non-dangerous fleeing suspect is an unreasonable seizure; deadly force needs PC to believe the suspect poses a significant threat of death or serious injury.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Use of Force]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111397/tennessee-v-garner/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 194,
+    "name": "Terry v. Ohio",
+    "cite": "392 U.S. 1 (1968)",
+    "year": 1968,
+    "prior_holding": "An investigative stop and protective frisk require reasonable, articulable suspicion grounded in specific facts and rational inferences…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]",
+      "[[Traffic Stops]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 195,
+    "name": "Texas v. Brown",
+    "cite": "460 U.S. 730 (1983) (plurality)",
+    "year": 1983,
+    "prior_holding": "'Immediately apparent' means probable cause, not certainty ('an unhappy choice of words'); shining a flashlight into a car interior is not a search.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110901/texas-v-brown/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 196,
+    "name": "Texas v. Cobb",
+    "cite": "532 U.S. 162, 167-68, 173 (2001)",
+    "year": 2001,
+    "prior_holding": "The Sixth Amendment right to counsel is offense-specific; it attaches only to the charged offense and does not extend to other,…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118417/texas-v-cobb/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 197,
+    "name": "Torres v. Madrid",
+    "cite": "592 U.S. 306 (2021)",
+    "year": 2021,
+    "prior_holding": "Physical force applied with intent to restrain is a seizure at the moment of application, even if the person does not submit and is not subdued.",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Seizure of the Person]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4867542/torres-v-madrid/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 198,
+    "name": "Turner v. United States",
+    "cite": "582 U.S. 313 (2017)",
+    "year": 2017,
+    "prior_holding": "Counterweight: *Brady* materiality is demanding and judged on the whole record; the suppression here was immaterial — no *Brady* violation.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Brady and Giglio]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4403802/turner-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 199,
+    "name": "United States v. Anchondo",
+    "cite": "156 F.3d 1043 (10th Cir. 1998)",
+    "year": 1998,
+    "prior_holding": "ACTUAL holding: cocaine found on the defendant's body was the product of a lawful SEARCH INCIDENT TO ARREST, not the automobile…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/758111/united-states-v-erick-anchondo/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 200,
+    "name": "United States v. Arvizu",
+    "cite": "534 U.S. 266, 274 (2002)",
+    "year": 2002,
+    "prior_holding": "Reasonable suspicion is judged on the totality of the circumstances — the \"whole picture\" — and reviewing courts may NOT use a…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Probable Cause and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118474/united-states-v-arvizu/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 201,
+    "name": "United States v. Ash",
+    "cite": "413 U.S. 300 (1973)",
+    "year": 1973,
+    "prior_holding": "The Sixth Amendment does not grant a right to counsel at a post-indictment photographic display (no trial-like confrontation, since the…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Eyewitness Identification]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108846/united-states-v-ash/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 202,
+    "name": "United States v. August",
+    "cite": "136 F.4th 595 (5th Cir. 2025)",
+    "year": 2025,
+    "prior_holding": "(5th Cir. — persuasive, not binding) Articulates a four-part protective-sweep test and extends *Buie*'s officer-safety rationale to curtilage and to a non-arrest, investigatory entry.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Securing the Scene]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/10574922/united-states-v-august/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 203,
+    "name": "United States v. Bagley",
+    "cite": "473 U.S. 667 (1985)",
+    "year": 1985,
+    "prior_holding": "Set the unified MATERIALITY standard for Brady (covering no-request, general-request, and specific-request cases) and confirmed…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Brady and Giglio]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111514/united-states-v-bagley/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 204,
+    "name": "United States v. Basher",
+    "cite": "629 F.3d 1161 (9th Cir. 2011)",
+    "year": 2011,
+    "prior_holding": "(9th Cir. — persuasive) Reaffirms privacy inside a tent ('comparable to a house, apartment, or hotel room'), but the area outside the tent in a dispersed public-land campsite is not curtilage.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Tents]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/183144/united-states-v-basher/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 205,
+    "name": "United States v. Braxton",
+    "cite": "61 F.4th 830 (10th Cir. 2023)",
+    "year": 2023,
+    "prior_holding": "The government CONCEDED the warrantless search of Braxton's backpack was not a valid search incident to arrest, then relied on…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Search Incident to Arrest]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/9381854/united-states-v-braxton/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 206,
+    "name": "United States v. Brignoni-Ponce",
+    "cite": "422 U.S. 873, 884, 886-87 (1975)",
+    "year": 1975,
+    "prior_holding": "A roving Border Patrol may stop a vehicle near the border to question occupants only on reasonable suspicion, based on specific…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Border Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109311/united-states-v-brignoni-ponce/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 207,
+    "name": "United States v. Calandra",
+    "cite": "414 U.S. 338 (1974)",
+    "year": 1974,
+    "prior_holding": "The exclusionary rule is a judicially created deterrent remedy, not a personal constitutional right; it does not apply to grand-jury…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108898/united-states-v-calandra/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 208,
+    "name": "United States v. Cano",
+    "cite": "934 F.3d 1002 (9th Cir. 2019)",
+    "year": 2019,
+    "prior_holding": "Manual border searches of a cell phone need no suspicion, but a *forensic* (Cellebrite-type) device search requires reasonable suspicion…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Border Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4649091/united-states-v-miguel-cano/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 209,
+    "name": "United States v. Conner",
+    "cite": "127 F.3d 663 (8th Cir. 1997)",
+    "year": 1997,
+    "prior_holding": "Where police, under color of authority, demand that occupants of a motel room open the door, and an occupant opens the door not…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Securing the Scene]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/747208/united-states-v-larry-duane-conner-united-states-of-america-v-john/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 210,
+    "name": "United States v. Cortez",
+    "cite": "449 U.S. 411 (1981)",
+    "year": 1981,
+    "prior_holding": "Reasonable suspicion = a particularized and objective basis on the totality of the circumstances (the 'whole picture').",
+    "good_law_flag": "",
+    "homes": [
+      "[[Terry Stops and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110377/united-states-v-cortez/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 211,
+    "name": "United States v. Cotterman",
+    "cite": "709 F.3d 952 (9th Cir. 2013)",
+    "year": 2013,
+    "prior_holding": "A forensic (comprehensive) examination of an electronic device seized at the border requires reasonable suspicion; it is the…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Border Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/854692/united-states-v-howard-cotterman/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 212,
+    "name": "United States v. Cruz / United States v. West / second bare 'United States v. Jackson",
+    "cite": "",
+    "year": null,
+    "prior_holding": "Three bare names with no reporter, pinpoint, or holding detail appear in the capture under the good-faith/bad-faith-warrant heading.",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "",
+    "needs_page": false,
+    "status": "pending"
+  },
+  {
+    "idx": 213,
+    "name": "United States v. Drayton",
+    "cite": "536 U.S. 194, 203-07 (2002)",
+    "year": 2002,
+    "prior_holding": "A bus sweep with consent-to-search requests is not a seizure, and consent can be voluntary even though officers do not advise passengers…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Knock and Talk]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/121153/united-states-v-drayton/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 214,
+    "name": "United States v. Evans",
+    "cite": "937 F.2d 1534 (10th Cir. 1991)",
+    "year": 1991,
+    "prior_holding": "UPHELD an inventory search of a carry-on bag (cocaine found in a container) conducted at a bus station: the officer followed the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Search Incident to Arrest]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/564407/united-states-v-daryl-lee-evans/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 215,
+    "name": "United States v. Flores-Montano",
+    "cite": "541 U.S. 149 (2004)",
+    "year": 2004,
+    "prior_holding": "The government's authority to conduct suspicionless searches of vehicles at the border includes disassembling and reassembling a gas…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Border Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/134729/united-states-v-flores-montano/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 216,
+    "name": "United States v. Gastiaburo",
+    "cite": "16 F.3d 582 (4th Cir. 1994)",
+    "year": 1994,
+    "prior_holding": "The automobile exception is not subject to a temporal limit; a 38-day gap between the car's seizure and the warrantless search did not…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/7027957/united-states-v-gastiaburo/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 217,
+    "name": "United States v. Gooch",
+    "cite": "6 F.3d 673 (9th Cir. 1993)",
+    "year": 1993,
+    "prior_holding": "(9th Cir. — persuasive) An occupant has a reasonable expectation of privacy in a tent in a public campground; 'a tent is more like a house than a car,' so its warrantless search violated the 4A.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Tents]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/654273/united-states-v-kenneth-d-gooch/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 218,
+    "name": "United States v. Grubbs",
+    "cite": "547 U.S. 90 (2006)",
+    "year": 2006,
+    "prior_holding": "**Anticipatory warrants** — warrants that take effect only upon a future 'triggering condition' — are not categorically…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/145670/united-states-v-grubbs/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 219,
+    "name": "United States v. Henry",
+    "cite": "447 U.S. 264, 270-74 (1980)",
+    "year": 1980,
+    "prior_holding": "By intentionally creating a situation likely to induce the indicted defendant to make incriminating statements, the government (through…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Sixth Amendment Right to Counsel]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110300/united-states-v-henry/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 220,
+    "name": "United States v. Hensley",
+    "cite": "469 U.S. 221 (1985)",
+    "year": 1985,
+    "prior_holding": "Police may conduct a Terry investigatory stop in objective reliance on a wanted flyer or bulletin issued by another police department if…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Collective Knowledge and the Fellow-Officer Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111294/united-states-v-hensley/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 221,
+    "name": "United States v. Howard Davis",
+    "cite": "997 F.3d 191 (4th Cir. 2021)",
+    "year": 2021,
+    "prior_holding": "Gant's FIRST holding (the Chimel reachability/officer-safety prong) applies OUTSIDE the vehicle context — to non-vehicular containers…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Search Incident to Arrest]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4881258/united-states-v-howard-davis/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 222,
+    "name": "United States v. Jackson",
+    "cite": "784 F.3d 1227 (8th Cir. 2015)",
+    "year": 2015,
+    "prior_holding": "Although the warrant application failed to supply probable cause, the deputy acted in objectively reasonable good faith (affidavit…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/2798587/united-states-v-ac-jackson/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 223,
+    "name": "United States v. Jacobsen",
+    "cite": "466 U.S. 109 (1984)",
+    "year": 1984,
+    "prior_holding": "Defines a property seizure; the Amendment reaches only government action — once a private party exposes contents, a government inspection within that scope invades no remaining privacy (private-search doctrine).",
+    "good_law_flag": "",
+    "homes": [
+      "[[Fourth Amendment Framework]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111143/united-states-v-jacobsen/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 224,
+    "name": "United States v. Johns",
+    "cite": "469 U.S. 478 (1985)",
+    "year": 1985,
+    "prior_holding": "A warrantless search of packages lawfully removed from a vehicle on PC is not rendered unreasonable merely because officers delayed the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111305/united-states-v-johns/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 225,
+    "name": "United States v. Jones",
+    "cite": "565 U.S. 400 (2012)",
+    "year": 2012,
+    "prior_holding": "Installing a GPS tracker on a vehicle and monitoring it was a search under the revived trespass theory — physical intrusion on an 'effect' to obtain information; the controlling modern trespass-search case.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Two Definitions of Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 226,
+    "name": "United States v. Knights",
+    "cite": "534 U.S. 112 (2001)",
+    "year": 2001,
+    "prior_holding": "A warrantless search of a probationer subject to a search condition, supported by reasonable suspicion, is reasonable under the Fourth…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118468/united-states-v-knights/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 227,
+    "name": "United States v. Leary",
+    "cite": "846 F.2d 592 (10th Cir. 1988)",
+    "year": 1988,
+    "prior_holding": "A facially overbroad / general warrant (authorizing seizure of records 'relating to' violations of the export laws, offering no…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/505922/united-states-v-richard-j-leary-and-fl-kleinberg-co/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 228,
+    "name": "United States v. Leon",
+    "cite": "468 U.S. 897 (1984)",
+    "year": 1984,
+    "prior_holding": "Good-faith exception: evidence obtained by officers in objectively reasonable reliance on a search warrant later found unsupported by…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]",
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111262/united-states-v-leon/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 229,
+    "name": "United States v. Martinez-Fuerte",
+    "cite": "428 U.S. 543 (1976)",
+    "year": 1976,
+    "prior_holding": "Brief stops at fixed/permanent interior immigration checkpoints are constitutional without any individualized suspicion; routine…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Border Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109541/united-states-v-martinez-fuerte/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 230,
+    "name": "United States v. Mathis",
+    "cite": "767 F.3d 1264 (11th Cir. 2014)",
+    "year": 2014,
+    "prior_holding": "Even assuming the search warrant lacked probable cause, the Leon good-faith exception applied: the detective had an objectively…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/2736649/united-states-v-arnold-maurice-mathis/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 231,
+    "name": "United States v. Matlock",
+    "cite": "415 U.S. 164 (1974)",
+    "year": 1974,
+    "prior_holding": "COMMON AUTHORITY: consent of one who possesses common authority over premises or effects is valid against an absent, nonconsenting…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Consent Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 232,
+    "name": "United States v. Mendenhall",
+    "cite": "446 U.S. 544 (1980)",
+    "year": 1980,
+    "prior_holding": "The 'free to leave' benchmark: a person is seized only if, under all the circumstances, a reasonable person would not have believed himself free to leave.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Seizure of the Person]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110264/united-states-v-mendenhall/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 233,
+    "name": "United States v. Montoya de Hernandez",
+    "cite": "473 U.S. 531 (1985)",
+    "year": 1985,
+    "prior_holding": "The prolonged detention of a suspected alimentary-canal (balloon) smuggler at the border is reasonable when customs officers have…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Border Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111509/united-states-v-montoya-de-hernandez/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 234,
+    "name": "United States v. Morley",
+    "cite": "99 F.4th 1328 (11th Cir. 2024)",
+    "year": 2024,
+    "prior_holding": "Recites the modern two-element formulation of the automobile exception: a warrantless vehicle search is permitted if (1) the vehicle is…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/9498175/united-states-v-derrick-alfondso-morley/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 235,
+    "name": "United States v. Morton",
+    "cite": "46 F.4th 331 (5th Cir. 2022)",
+    "year": 2022,
+    "prior_holding": "En banc 5th Circuit (resolving on good-faith grounds) discusses the digital general-warrant problem and flags, in concurrence, that the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/7859188/united-states-v-morton/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 236,
+    "name": "United States v. Neugin",
+    "cite": "958 F.3d 924 (10th Cir. 2020)",
+    "year": 2020,
+    "prior_holding": "Illustrative application of inevitable discovery where the exception did NOT apply: the chain to discovery was too speculative, so…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4750564/united-states-v-neugin/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 237,
+    "name": "United States v. Patane",
+    "cite": "542 U.S. 630 (2004)",
+    "year": 2004,
+    "prior_holding": "Physical fruits of an un-warned but voluntary statement are admissible.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Miranda Waiver and Invocation]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/137003/united-states-v-patane/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 238,
+    "name": "United States v. Ramsey",
+    "cite": "431 U.S. 606 (1977)",
+    "year": 1977,
+    "prior_holding": "Routine searches at the international border (including incoming international mail) require neither a warrant nor probable cause; the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Border Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109675/united-states-v-ramsey/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 239,
+    "name": "United States v. Robinson",
+    "cite": "414 U.S. 218 (1973)",
+    "year": 1973,
+    "prior_holding": "A lawful custodial arrest categorically authorizes a full search of the arrestee's person; the search needs no additional justification…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Search Incident to Arrest]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108893/united-states-v-robinson/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 240,
+    "name": "United States v. Ross",
+    "cite": "456 U.S. 798 (1982)",
+    "year": 1982,
+    "prior_holding": "When PC justifies the search of a lawfully stopped vehicle, it justifies a search of every part of the vehicle and every container…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110719/united-states-v-ross/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 241,
+    "name": "United States v. Russell",
+    "cite": "411 U.S. 423 (1973)",
+    "year": 1973,
+    "prior_holding": "There is no entrapment where the defendant was predisposed, even though a government agent supplied a difficult-to-obtain but legal…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Entrapment]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108768/united-states-v-russell/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 242,
+    "name": "United States v. Salvucci",
+    "cite": "448 U.S. 83 (1980)",
+    "year": 1980,
+    "prior_holding": "Abolished automatic standing; a defendant charged with a possessory crime must show that his own Fourth Amendment rights (a legitimate…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Standing to Challenge a Search]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110325/united-states-v-salvucci/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 243,
+    "name": "United States v. Sandoval",
+    "cite": "200 F.3d 659 (9th Cir. 2000)",
+    "year": 2000,
+    "prior_holding": "(9th Cir. — persuasive) A reasonable expectation of privacy in a tent on public (BLM) land does not turn on whether the camper had permission to be there; denial of suppression reversed.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Tents]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/767260/united-states-v-rodrigo-sandoval/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 244,
+    "name": "United States v. Santana",
+    "cite": "427 U.S. 38 (1976)",
+    "year": 1976,
+    "prior_holding": "A suspect standing in her own doorway/threshold is in a 'public' place for Fourth Amendment purposes; she cannot defeat a lawful arrest…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Arrest in the Home]]",
+      "[[Exigent Circumstances and Hot Pursuit]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109504/united-states-v-santana/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 245,
+    "name": "United States v. Sokolow",
+    "cite": "490 U.S. 1 (1989)",
+    "year": 1989,
+    "prior_holding": "Factors each individually consistent with innocence can, taken together, amount to reasonable suspicion.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Terry Stops and Reasonable Suspicion]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/112239/united-states-v-sokolow/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 246,
+    "name": "United States v. Soto-Peguero",
+    "cite": "978 F.3d 13 (1st Cir. 2020)",
+    "year": 2020,
+    "prior_holding": "Illustrative application of inevitable discovery: government met its burden (agent would have sought and obtained a warrant regardless),…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4798028/united-states-v-soto-peguero/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 247,
+    "name": "United States v. Touset",
+    "cite": "890 F.3d 1227 (11th Cir. 2018)",
+    "year": 2018,
+    "prior_holding": "The Fourth Amendment requires no suspicion — not even reasonable suspicion — for a forensic search of an electronic device at the…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Border Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4500452/united-states-v-karl-touset/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 248,
+    "name": "United States v. Tuggle",
+    "cite": "4 F.4th 505 (7th Cir. 2021)",
+    "year": 2021,
+    "prior_holding": "Long-term pole-camera surveillance of a home's exterior did not violate the Fourth Amendment under existing doctrine, BUT the court…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Plain View Doctrine]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4899735/united-states-v-travis-tuggle/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 249,
+    "name": "United States v. Vinton",
+    "cite": "594 F.3d 14 (D.C. Cir. 2010)",
+    "year": 2010,
+    "prior_holding": "Gant's 'secured arrestee' limitation does not abate a Michigan v. Long protective (Terry) vehicle search: the protective-search…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Traffic Stops]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/187527/united-states-v-vinton/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 250,
+    "name": "United States v. Wade",
+    "cite": "388 U.S. 218, 236-37, 240-42 (1967)",
+    "year": 1967,
+    "prior_holding": "A post-indictment lineup is a critical stage of the prosecution at which the accused has a Sixth Amendment right to counsel; counsel's…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Eyewitness Identification]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107486/united-states-v-wade/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 251,
+    "name": "United States v. Watson",
+    "cite": "423 U.S. 411 (1976)",
+    "year": 1976,
+    "prior_holding": "Custody alone does not render consent involuntary. The fact of being under arrest / in custody is ONE factor in the…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Consent Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/109352/united-states-v-watson/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 252,
+    "name": "United States v. White (standing in stolen vehicle)",
+    "cite": "",
+    "year": null,
+    "prior_holding": "Capture asserts a 'United States v. White' holding of no standing / no reasonable expectation of privacy in a stolen vehicle. No such…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "",
+    "needs_page": false,
+    "status": "pending"
+  },
+  {
+    "idx": 253,
+    "name": "Utah v. Strieff",
+    "cite": "579 U.S. 232 (2016)",
+    "year": 2016,
+    "prior_holding": "Attenuation: discovery of a valid pre-existing arrest warrant during an unlawful stop was an intervening circumstance that attenuated…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/8176208/utah-v-strieff/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 254,
+    "name": "Vernonia School District 47J v. Acton",
+    "cite": "515 U.S. 646 (1995)",
+    "year": 1995,
+    "prior_holding": "Suspicionless random drug testing of public-school student athletes is reasonable under the special-needs doctrine, given athletes'…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Special Needs and Administrative Searches]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/117964/vernonia-school-district-47j-v-acton/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 255,
+    "name": "Walter v. United States",
+    "cite": "447 U.S. 649 (1980)",
+    "year": 1980,
+    "prior_holding": "The government may not exceed the scope of a prior private search; the FBI's screening of films the private party had not viewed was a separate, unlawful search.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Fourth Amendment Framework]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/110314/walter-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 256,
+    "name": "Warden v. Hayden",
+    "cite": "387 U.S. 294, 298-99 (1967)",
+    "year": 1967,
+    "prior_holding": "Hot pursuit of a fleeing armed robber into a house is a valid warrantless entry and search where \"the exigencies of the situation made…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Exigent Circumstances and Hot Pursuit]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/107465/warden-maryland-penitentiary-v-hayden/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 257,
+    "name": "Wearry v. Cain",
+    "cite": "577 U.S. 385 (2016)",
+    "year": 2016,
+    "prior_holding": "Reaffirms cumulative *Brady* materiality: suppressed evidence assessed collectively undermined confidence in the verdict.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Brady and Giglio]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/3183098/wearry-v-cain/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 258,
+    "name": "Weeks v. United States",
+    "cite": "232 U.S. 383 (1914)",
+    "year": 1914,
+    "prior_holding": "Origin of the federal exclusionary rule: evidence obtained in violation of the Fourth Amendment is inadmissible against a defendant in…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/98094/weeks-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 259,
+    "name": "Welsh v. Wisconsin",
+    "cite": "466 U.S. 740 (1984)",
+    "year": 1984,
+    "prior_holding": "The gravity of the underlying offense is a key factor in the exigency analysis; warrantless home entry for a MINOR offense should rarely…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Arrest in the Home]]",
+      "[[Exigent Circumstances and Hot Pursuit]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/111173/welsh-v-wisconsin/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 260,
+    "name": "Whiteley v. Warden",
+    "cite": "401 U.S. 560 (1971)",
+    "year": 1971,
+    "prior_holding": "An officer may act on the strength of a police radio bulletin and assume the issuing officer had probable cause. But where the issuing…",
+    "good_law_flag": "✅ good",
+    "homes": [
+      "[[Collective Knowledge and the Fellow-Officer Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/108297/whiteley-v-warden-wyoming-state-penitentiary/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 261,
+    "name": "Whren v. United States",
+    "cite": "517 U.S. 806 (1996)",
+    "year": 1996,
+    "prior_holding": "An officer's subjective motive is irrelevant to the Fourth Amendment validity of a traffic stop; a stop supported by an objective,…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Traffic Stops]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118036/whren-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 262,
+    "name": "Wilson v. Arkansas",
+    "cite": "514 U.S. 927 (1995)",
+    "year": 1995,
+    "prior_holding": "The common-law **knock-and-announce** principle — that officers must announce their presence and authority before forcibly entering a…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Warrant Requirement]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/117936/wilson-v-arkansas/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 263,
+    "name": "Wong Sun v. United States",
+    "cite": "371 U.S. 471 (1963)",
+    "year": 1963,
+    "prior_holding": "'Fruit of the poisonous tree': derivative evidence is suppressed if come at by exploitation of the primary illegality, not merely 'but…",
+    "good_law_flag": "",
+    "homes": [
+      "[[The Exclusionary Rule]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/106515/wong-sun-v-united-states/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 264,
+    "name": "Wright v. City of Euclid",
+    "cite": "962 F.3d 852 (6th Cir. 2020)",
+    "year": 2020,
+    "prior_holding": "The Sixth Circuit REVERSED summary judgment / denial of qualified immunity on multiple Fourth Amendment § 1983 claims: excessive force…",
+    "good_law_flag": "",
+    "homes": [
+      "[[Section 1983 Liability and Qualified Immunity]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/4762133/lamar-wright-v-city-of-euclid/",
+    "needs_page": true,
+    "status": "pending"
+  },
+  {
+    "idx": 265,
+    "name": "Wyoming v. Houghton",
+    "cite": "526 U.S. 295 (1999)",
+    "year": 1999,
+    "prior_holding": "With PC to search a car, officers may search a passenger's belongings capable of concealing the object; a non-suspect passenger's ownership is no shield.",
+    "good_law_flag": "",
+    "homes": [
+      "[[Automobile Exception]]"
+    ],
+    "cl_url": "https://www.courtlistener.com/opinion/118277/wyoming-v-houghton/",
+    "needs_page": true,
+    "status": "pending"
+  }
+]

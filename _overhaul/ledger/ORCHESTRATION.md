@@ -16,10 +16,10 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 |---|---|---|---|
 | 0 | Setup (branch, scaffold, ledger) | ✅ done | branch + dirs + task list created |
 | — | CL tier probe | ✅ done | **TIER=NEW (≥20/min), MCP auth OK**, cluster→opinion gotcha validated → PROCEED |
-| S1 | STANDARDS.md + LINT roster | ⏳ in progress | 2 sub-agents running (free / no-CL) |
-| S2 | IA folder restructure + aliases | ⏳ blocked(S1) | git mv, stems stable, no deck work |
-| S3 | Platform/nav/UX + components | ⏳ blocked(S2) | Explorer, SCSS, components |
-| S4 | Case pages (BIRAC) + index | ⏳ blocked(S3,probe) | HEAVY CL serial |
+| S1 | STANDARDS.md + LINT roster | ✅ done | committed ce6b5cd |
+| S2 | IA folder restructure + aliases | ✅ done | committed e3f37ca; 44 moves, 0 broken links |
+| S3 | Platform/nav/UX + components | ⏳ in progress | SPLIT: S3-nav first (unblocks S4), S3-components parallel w/ S4 |
+| S4 | Case pages (BIRAC) + index | ⏳ blocked(S3-nav,probe) | HEAVY CL serial; runs ∥ S3-components |
 | S5 | Missed-case ingest + concordance | ⏳ blocked(S4) | borderline → USER PAUSE |
 | S6 | Doctrine/narrative reformat | ⏳ blocked(S5) | caretaking split, Garrity page |
 | S7+S8 | Research pages + glossary wiring | ⏳ blocked(S6) | anchorize-then-wire |
@@ -36,6 +36,13 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 - Tier NEW (≥20/min); pace <20/min (~1 call/3.2s); cached opinion reads are free.
 - Carpenter v. United States (2018): cluster 4510032, lead `opinion_id` 4287285, url `https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/`.
 
+## S4 facts (from Case Index)
+- Case Index: 267 data rows; **261 carry a CL opinion URL → 261 case pages to generate** (S4 target). ~6 flagged captions (no CL URL) get NO page (R1: flagged exception rows).
+- Columns: Case | Holding | Good law | Home page(s) | CourtListener. Good-law blank = "good" convention (N13 will fill explicit status).
+- Worklist: `_overhaul/ledger/S4-worklist.json` (bootstrap). Collisions: `_overhaul/ledger/S4-collisions.md`.
+
 ## Decision log (consequential calls, with rationale)
+- **2026-06-30 · S4 ∥ S3 parallelization.** S4 generation is file-disjoint from all of S3 (S4 writes content/cases + Case Index + scripts and is the only CL user; S3 writes quartz/ + category stubs). So S4 runs in PARALLEL with S3-components — the serial-CL lane is internal to S4; S3 is free/no-CL. The S4-blockedBy-S3 task dep is therefore advisory only; S4 needs only content/cases/ (created in S2) + the probe (done).
+- **2026-06-30 · S4 batch pipeline.** 261 cases generated via SEQUENTIAL serial-CL batch sub-agents (~20/batch, one CL lane at a time — never parallel CL, L4). Each batch: verify identity (cluster→opinion L3) + good-law (analyze_citations batched) + verbatim pinpoint quotes (search_document) → author BIRAC page → checkpoint S4-worklist.json status. Resumable. find→adjudicate→fix gate (review free/parallel) runs after generation; needs_cl adjudication back on the serial lane.
 - **2026-06-30 · Baseline carry-forward.** Prior FINAL-QA working tree (modified Curtilage/Miranda-Waiver/Special-Needs/index + new Recalibration & Third-Party pages) carried onto the branch as the canonical `content/` start state (U6-S9). Dogfood/backup junk (`idb-dogfood/`, `app.js.bak`) gitignored.
 - **2026-06-30 · S2/S3 split.** Per EXECUTE order: S2 = physical folder restructure (git mv, stems stable, aliases); S3 = Explorer/SCSS/components. Caretaking split + Garrity page CONTENT deferred to S6 (content authoring); S2 only moves the existing combined caretaking file into 7a and S6 splits it.

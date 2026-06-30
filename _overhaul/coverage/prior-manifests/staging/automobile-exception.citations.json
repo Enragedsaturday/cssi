@@ -1,0 +1,255 @@
+{
+  "page": "Automobile Exception",
+  "slug": "automobile-exception",
+  "cases": [
+    {
+      "bluebook": "Carroll v. United States, 267 U.S. 132 (1925)",
+      "cluster_id": 100567,
+      "opinion_id": 100567,
+      "cl_url": "https://www.courtlistener.com/opinion/100567/carroll-v-united-states/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Origin of the automobile exception: a vehicle may be searched without a warrant on probable cause because, unlike a fixed structure, it can be quickly moved out of the jurisdiction before a warrant can be obtained (ready mobility).",
+      "proposition_checked": "Carroll is the origin of the warrantless-vehicle-search-on-PC rule, grounded in ready mobility.",
+      "quotes": [
+        {
+          "text": "a search of a ship, motor boat, wagon, or automobile for contraband goods, where it is not practicable to secure a warrant, because the vehicle can be quickly moved out of the locality or jurisdiction in which the warrant must be sought",
+          "pinpoint": "267 U.S. at 153",
+          "confirmed": true
+        }
+      ],
+      "notes": "Majority by Taft. Opinion id matches cluster id (100567)."
+    },
+    {
+      "bluebook": "United States v. Ross, 456 U.S. 798 (1982)",
+      "cluster_id": 110719,
+      "opinion_id": 110719,
+      "cl_url": "https://www.courtlistener.com/opinion/110719/united-states-v-ross/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "When PC justifies the search of a lawfully stopped vehicle, it justifies a search of every part of the vehicle and every container within it that may conceal the object of the search; the scope is as broad as a magistrate could authorize by warrant.",
+      "proposition_checked": "PC justifies warrantless search of every part of the vehicle and all containers where the object of the search may be found.",
+      "quotes": [
+        {
+          "text": "If probable cause justifies the search of a lawfully stopped vehicle, it justifies the search of every part of the vehicle and its contents that may conceal the object of the search.",
+          "pinpoint": "456 U.S. at 825",
+          "confirmed": true
+        },
+        {
+          "text": "A warrant to search a vehicle would support a search of every part of the vehicle that might contain the object of the search.",
+          "pinpoint": "456 U.S. at 821",
+          "confirmed": true
+        }
+      ],
+      "notes": "Opinion id matches cluster id (110719)."
+    },
+    {
+      "bluebook": "United States v. Johns, 469 U.S. 478 (1985)",
+      "cluster_id": 111305,
+      "opinion_id": 111305,
+      "cl_url": "https://www.courtlistener.com/opinion/111305/united-states-v-johns/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "A warrantless search of packages lawfully removed from a vehicle on PC is not rendered unreasonable merely because officers delayed the search; here the search occurred three days after the seizure and was upheld. The automobile-exception justification does not disappear when the vehicle/contents are immobilized.",
+      "proposition_checked": "Delayed search of packages taken from a vehicle remains valid days later.",
+      "quotes": [
+        {
+          "text": "The warrantless search of the packages was not unreasonable merely because the Customs officers returned to Tucson and placed the packages in a DEA warehouse rather than immediately opening them.",
+          "pinpoint": "469 U.S. at 487",
+          "confirmed": true
+        },
+        {
+          "text": "the parties do not dispute the conclusion of the Court of Appeals ... that the search occurred three days after the packages were seized from the pickup trucks",
+          "pinpoint": "469 U.S. at 481",
+          "confirmed": true
+        }
+      ],
+      "notes": "Capture's '3 days later' is accurate. Opinion id matches cluster id (111305)."
+    },
+    {
+      "bluebook": "United States v. Gastiaburo, 16 F.3d 582 (4th Cir. 1994)",
+      "cluster_id": 7027957,
+      "opinion_id": 6929715,
+      "cl_url": "https://www.courtlistener.com/opinion/6929715/united-states-v-gastiaburo/",
+      "weight": "Circuit (4th) — persuasive",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "The automobile exception is not subject to a temporal limit; a 38-day gap between the car's seizure and the warrantless search did not invalidate it. The justification does not disappear because the car is immobilized/impounded, and no separate exigency need be shown.",
+      "proposition_checked": "Continued validity — the '38 days' point; passage of time legally irrelevant.",
+      "quotes": [
+        {
+          "text": "Not a single published federal case speaks of a “temporal limit” to the automobile exception.",
+          "pinpoint": "16 F.3d at 587",
+          "confirmed": true
+        },
+        {
+          "text": "the passage of time between the seizure and the search of Gastiaburo’s car is legally irrelevant",
+          "pinpoint": "16 F.3d at 587",
+          "confirmed": true
+        },
+        {
+          "text": "the justification to conduct a warrantless search under the automobile exception does not disappear merely because the car has been immobilized and impounded",
+          "pinpoint": "16 F.3d at 586",
+          "confirmed": true
+        }
+      ],
+      "notes": "Cluster id (7027957) != opinion id (6929715) — used opinion 6929715. Capture's paraphrase 'we don't see what difference 38 days makes' is the substance; actual phrase = 'legally irrelevant'."
+    },
+    {
+      "bluebook": "United States v. Morley, 99 F.4th 1328 (11th Cir. 2024)",
+      "cluster_id": 9498175,
+      "opinion_id": 9964788,
+      "cl_url": "https://www.courtlistener.com/opinion/9498175/united-states-v-derrick-alfondso-morley/",
+      "weight": "Circuit (11th) — persuasive",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Recites the modern two-element formulation of the automobile exception: a warrantless vehicle search is permitted if (1) the vehicle is readily mobile and (2) law enforcement has PC to search it. Both satisfied; denial of suppression affirmed.",
+      "proposition_checked": "Ready-mobility element (modern two-part statement of the rule).",
+      "quotes": [
+        {
+          "text": "The automobile exception allows law enforcement to conduct a warrantless search of a vehicle if (1) the vehicle is readily mobile and (2) law enforcement has probable cause to search it.",
+          "pinpoint": "99 F.4th at 1338",
+          "confirmed": true
+        }
+      ],
+      "notes": "COLLISION CAVEAT APPLIED: cluster id 9498175 != opinion id 9964788. Confirmed this is the correct 2024 Morley (Derrick Alfondso Morley) by case name in returned text before quoting."
+    },
+    {
+      "bluebook": "United States v. Anchondo, 156 F.3d 1043 (10th Cir. 1998)",
+      "cluster_id": 758111,
+      "opinion_id": 758111,
+      "cl_url": "https://www.courtlistener.com/opinion/758111/united-states-v-erick-anchondo/",
+      "weight": "Circuit (10th) — persuasive (thin)",
+      "verdict": "MISCHARACTERIZED (as an automobile-exception case)",
+      "captured": true,
+      "holding": "ACTUAL holding: cocaine found on the defendant's body was the product of a lawful SEARCH INCIDENT TO ARREST, not the automobile exception. A canine alert supplied PC to arrest; a warrantless search may precede the arrest if (1) a legitimate basis to arrest existed before the search and (2) the arrest followed shortly after. The court expressly declined to reach the Terry frisk question. The defendant CONCEDED PC to search the vehicle, so the automobile exception itself was never the disputed/decided issue.",
+      "proposition_checked": "Whether Anchondo is an automobile-exception holding (instructor flags it as weak/conclusory and over-applied).",
+      "quotes": [
+        {
+          "text": "We find it unnecessary to address the parties[’] arguments on the application of Terry v. Ohio to this case because the agents were justified in conducting a full, warrant-less search of the defendant under these circumstances.",
+          "pinpoint": "156 F.3d at 1045",
+          "confirmed": true
+        },
+        {
+          "text": "The defendant admits that the officers had probable cause to search the vehicle.",
+          "pinpoint": "156 F.3d at 1045",
+          "confirmed": true
+        },
+        {
+          "text": "the discovery of cocaine on the defendant’s person was the result of a lawful search incident to arrest. We AFFIRM.",
+          "pinpoint": "156 F.3d at 1046",
+          "confirmed": true
+        }
+      ],
+      "notes": "PRIORITY TASK RESOLVED. Capture spelled 'Anchando' -> Anchondo (corrected). Found via analyze_citations on '156 F.3d 1043'. Short opinion (10,870 chars). Instructor's critique CONFIRMED and SHARPENED: the opinion is brief and conclusory, and it is actually a search-incident-to-arrest decision resting on a canine-alert PC / pre-arrest-search rationale (Chimel; United States v. Rivera, 867 F.2d 1261 (10th Cir. 1989)), NOT an automobile-exception holding. The defendant conceded vehicle PC; the auto exception was undisputed and not analyzed. Officers nonetheless cite it for automobile-exception propositions it does not actually stand for. Include WITH this critique; do not anchor any auto-exception rule to it."
+    },
+    {
+      "bluebook": "Chambers v. Maroney, 399 U.S. 42 (1970)",
+      "cluster_id": 108184,
+      "opinion_id": 108184,
+      "cl_url": "https://www.courtlistener.com/opinion/108184/chambers-v-maroney/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Where there was PC and mobility at the scene, officers may search the vehicle without a warrant later at the station house; immediate roadside search and search after immobilization are equally reasonable.",
+      "proposition_checked": "Search at the station house is OK (no need to search at the roadside).",
+      "quotes": [
+        {
+          "text": "there is little to choose in terms of practical consequences between an immediate search without a warrant and the car's immobilization until a warrant is obtained",
+          "pinpoint": "399 U.S. at 52",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational add. Opinion id matches cluster id (108184)."
+    },
+    {
+      "bluebook": "California v. Carney, 471 U.S. 386 (1985)",
+      "cluster_id": 111423,
+      "opinion_id": 111423,
+      "cl_url": "https://www.courtlistener.com/opinion/111423/california-v-carney/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "The automobile exception applies to a motor home being used as a vehicle, and articulates the exception's TWO justifications: (1) ready mobility and (2) a reduced expectation of privacy stemming from the vehicle's pervasive regulation as a licensed motor vehicle.",
+      "proposition_checked": "Motor homes; the two rationales = ready mobility + reduced expectation of privacy from pervasive regulation.",
+      "quotes": [
+        {
+          "text": "First, the vehicle is obviously readily mobile by the turn of an ignition key, if not actually moving. Second, there is a reduced expectation of privacy stemming from its use as a licensed motor vehicle subject to a range of police regulation inapplicable to a fixed dwelling.",
+          "pinpoint": "471 U.S. at 392-93",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational add. Opinion id matches cluster id (111423)."
+    },
+    {
+      "bluebook": "California v. Acevedo, 500 U.S. 565 (1991)",
+      "cluster_id": 112608,
+      "opinion_id": 112608,
+      "cl_url": "https://www.courtlistener.com/opinion/112608/california-v-acevedo/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Unified rule for containers in vehicles: police may search a container in a car without a warrant where they have PC to believe it holds contraband/evidence. Interprets Carroll as one rule governing all automobile searches and overrules Arkansas v. Sanders (which had required a warrant for a container the police had PC to search before it was placed in the car).",
+      "proposition_checked": "Unified Ross/Sanders rule for containers in vehicles; overruled Sanders.",
+      "quotes": [
+        {
+          "text": "We therefore interpret Carroll as providing one rule to govern all automobile searches. The police may search an automobile and the containers within it where they have probable cause to believe contraband or evidence is contained.",
+          "pinpoint": "500 U.S. at 580",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational add. Opinion id matches cluster id (112608). Sanders overruling discussed at length in opinion (data-id 110119)."
+    },
+    {
+      "bluebook": "Collins v. Virginia, 584 U.S. 586 (2018)",
+      "cluster_id": 4501697,
+      "opinion_id": 4278950,
+      "cl_url": "https://www.courtlistener.com/opinion/4501697/collins-v-virginia/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "The automobile exception does NOT authorize a warrantless entry of a home or its curtilage to search a vehicle parked there. The exception reaches the vehicle, not the constitutionally protected area in which it sits.",
+      "proposition_checked": "Curtilage limit — exception does not reach a vehicle parked within the home's curtilage.",
+      "quotes": [
+        {
+          "text": "The automobile exception does not permit the warrantless entry of a home or its curtilage in order to search a vehicle therein.",
+          "pinpoint": "584 U.S. at 591",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational add + cross-link to Curtilage. COLLISION CAVEAT APPLIED: cluster id 4501697 != opinion id 4278950; used opinion 4278950; confirmed case name in returned text."
+    },
+    {
+      "bluebook": "Pennsylvania v. Labron, 518 U.S. 938 (1996) (per curiam)",
+      "cluster_id": 118063,
+      "opinion_id": 118063,
+      "cl_url": "https://www.courtlistener.com/opinion/118063/pennsylvania-v-labron/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "No separate exigency requirement beyond ready mobility: if a car is readily mobile and PC exists to believe it contains contraband, the Fourth Amendment permits a warrantless search 'without more.' Reverses a state rule requiring proof of additional exigent circumstances. Recites both Carney rationales.",
+      "proposition_checked": "No separate exigency requirement beyond ready mobility + PC.",
+      "quotes": [
+        {
+          "text": "If a car is readily mobile and probable cause exists to believe it contains contraband, the Fourth Amendment thus permits police to search the vehicle without more.",
+          "pinpoint": "518 U.S. at 940",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational add. Per curiam. Opinion id matches cluster id (118063)."
+    }
+  ],
+  "corrections": [
+    "Capture 'US V Carrol' -> Carroll v. United States, 267 U.S. 132 (1925).",
+    "Capture 'Anchando' -> United States v. (Erick) Anchondo, 156 F.3d 1043 (10th Cir. 1998).",
+    "Capture 'US v Morley 11 cir 2024' -> United States v. Morley, 99 F.4th 1328 (11th Cir. 2024); correct opinion id 9964788, NOT cluster id 9498175 (collision caveat)."
+  ],
+  "flags": [
+    "ANCHONDO MISCHARACTERIZATION (load-bearing for the page): Anchondo is NOT an automobile-exception holding. It is a search-incident-to-arrest decision (canine-alert PC -> arrest; pre-arrest search permitted) in which the defendant CONCEDED PC to search the vehicle and the court EXPRESSLY declined to reach the Terry question. It is short and conclusory. It must appear on the page only as the instructor's critique example (weak/conclusory, over-applied in the field), never as authority for any stated automobile-exception rule.",
+    "Gastiaburo is 4th Circuit (persuasive only). The '38-day' / 'no temporal limit' point is circuit law; the binding SCOTUS support for delay/immobilization is Johns (469 U.S. 478) and Michigan v. Thomas (458 U.S. 259) and Florida v. Meyers (466 U.S. 380), all cited within Gastiaburo. Anchor the rule to Johns; cite Gastiaburo as a vivid persuasive illustration.",
+    "No circuit split surfaced on the captured/added propositions; the doctrine is SCOTUS-settled. Morley and Gastiaburo simply apply settled SCOTUS rules."
+  ]
+}

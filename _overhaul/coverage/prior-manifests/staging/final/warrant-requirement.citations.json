@@ -1,0 +1,185 @@
+{
+ "page": "warrant-requirement",
+ "slug": "warrant-requirement",
+ "cases": [
+  {
+   "name": "Illinois v. Gates",
+   "cite": "Illinois v. Gates, 462 U.S. 213 (1983)",
+   "url": "https://www.courtlistener.com/opinion/110959/illinois-v-gates/",
+   "holding": "Probable cause from an informant's tip is judged by the **totality of the circumstances** \u2014 the issuing magistrate makes a practical, common-sense decision whether there is a fair probability of crime; an informant's veracity, reliability, and basis of knowledge are relevant factors but not independent, dispositive hurdles.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-warrants.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Franks v. Delaware",
+   "cite": "Franks v. Delaware, 438 U.S. 154 (1978)",
+   "url": "https://www.courtlistener.com/opinion/109925/franks-v-delaware/",
+   "holding": "A warrant affidavit containing a knowing/intentional or reckless material falsehood may be challenged at a hearing on a substantial preliminary showing; if perjury/reckless disregard is established by a preponderance and the affidavit's remaining content is insufficient for probable cause, the warrant is voided and the fruits excluded. This is Leon's first good-faith limit ('lies and reckless info').",
+   "quotes": [
+    {
+     "text": "We reverse, and we hold that, where the defendant makes a substantial preliminary showing that a false statement knowingly and intentionally, or with reckless disregard for the truth, was included by the affiant in the warrant affidavit, and if the allegedly false statement is necessary to the finding of probable cause, the Fourth Amendment requires that a hearing be held at the defendant's request. In the event that at that hearing the allegation of perjury or reckless disregard is established by the defendant by a preponderance of the evidence, and, with the affidavit's false material set to one side, the affidavit's remaining content is insufficient to establish probable cause, the search warrant must be voided and the fruits of the search excluded to the same extent as if probable cause was lacking on the face of the affidavit.",
+     "pinpoint": "438 U.S. at 155-156",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "manifest:exclusionary-rule.citations.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Maryland v. Garrison",
+   "cite": "Maryland v. Garrison, 480 U.S. 79 (1987)",
+   "url": "https://www.courtlistener.com/opinion/111823/maryland-v-garrison/",
+   "holding": "A warrant's validity is judged on the information reasonably available to officers when they sought it; a reasonable, good-faith mistake about the premises (here, that one apartment occupied the whole floor) does not invalidate the warrant or the search conducted before the error became apparent.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-warrants.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Groh v. Ramirez",
+   "cite": "Groh v. Ramirez, 540 U.S. 551 (2004)",
+   "url": "https://www.courtlistener.com/opinion/131161/groh-v-ramirez/",
+   "holding": "A warrant that utterly **fails to describe the persons or things to be seized** is facially invalid under the Particularity Clause \u2014 even if the supporting affidavit is particular \u2014 and the search is presumptively unreasonable; the officer who drafted and led it was not entitled to qualified immunity because no reasonable officer could believe such a warrant valid.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-warrants.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Wilson v. Arkansas",
+   "cite": "Wilson v. Arkansas, 514 U.S. 927 (1995)",
+   "url": "https://www.courtlistener.com/opinion/117936/wilson-v-arkansas/",
+   "holding": "The common-law **knock-and-announce** principle \u2014 that officers must announce their presence and authority before forcibly entering a dwelling \u2014 is an element of the Fourth Amendment reasonableness analysis; but it is not a rigid rule and yields to countervailing law-enforcement interests (threat of violence, destruction of evidence, escape).",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-warrants.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Richards v. Wisconsin",
+   "cite": "Richards v. Wisconsin, 520 U.S. 385 (1997)",
+   "url": "https://www.courtlistener.com/opinion/118103/richards-v-wisconsin/",
+   "holding": "There is **no blanket exception** to knock-and-announce for entire categories of crime (e.g., felony drug cases); the no-knock decision must be evaluated case-by-case \u2014 officers need **reasonable suspicion** that knocking would be dangerous, futile, or would allow destruction of evidence.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-warrants.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Hudson v. Michigan",
+   "cite": "Hudson v. Michigan, 547 U.S. 586 (2006)",
+   "url": "https://www.courtlistener.com/opinion/145646/hudson-v-michigan/",
+   "holding": "A knock-and-announce violation does NOT require suppression of the evidence found inside; the interests protected by knock-and-announce have nothing to do with the seizure of evidence, and the deterrence benefits don't justify the cost.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-exclusionary.json",
+   "goodlaw": null
+  },
+  {
+   "name": "United States v. Grubbs",
+   "cite": "United States v. Grubbs, 547 U.S. 90 (2006)",
+   "url": "https://www.courtlistener.com/opinion/145670/united-states-v-grubbs/",
+   "holding": "**Anticipatory warrants** \u2014 warrants that take effect only upon a future 'triggering condition' \u2014 are not categorically unconstitutional; they require the magistrate to find it now probable that (1) the triggering condition will occur and (2) if it does, contraband will be at the place to be searched.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-warrants.json",
+   "goodlaw": null
+  },
+  {
+   "name": "United States v. Leon",
+   "cite": "United States v. Leon, 468 U.S. 897 (1984)",
+   "url": "https://www.courtlistener.com/opinion/111262/united-states-v-leon/",
+   "holding": "Good-faith exception: evidence obtained by officers in objectively reasonable reliance on a search warrant later found unsupported by probable cause is admissible; suppression would not serve the rule's deterrent purpose. Good faith does NOT apply in four situations (468 U.S. at 923): (1) the magistrate was misled by a knowing/reckless false affidavit (Franks); (2) the magistrate wholly abandoned the neutral-and-detached judicial role (Lo-Ji Sales); (3) the affidavit was so lacking in indicia of probable cause as to render official belief in its existence entirely unreasonable; (4) the warrant was so facially deficient (failing to particularize place/things) that officers could not reasonably presume it valid (cf. Massachusetts v. Sheppard).",
+   "quotes": [
+    {
+     "text": "We conclude that the marginal or nonexistent benefits produced by suppressing evidence obtained in objectively reasonable reliance on a subsequently invalidated search warrant cannot justify the substantial costs of exclusion.",
+     "pinpoint": "468 U.S. at 922",
+     "confirmed": true
+    },
+    {
+     "text": "Suppression therefore remains an appropriate remedy if the magistrate or judge in issuing a warrant was misled by information in an affidavit that the affiant knew was false or would have known was false except for his reckless disregard of the truth. Franks v. Delaware, 438 U. S. 154 (1978). The exception we recognize today will also not apply in cases where the issuing magistrate wholly abandoned his judicial role in the manner condemned in Lo-Ji Sales, Inc. v. New York, 442 U. S. 319 (1979) ... Nor would an officer manifest objective good faith in relying on a warrant based on an affidavit \"so lacking in indicia of probable cause as to render official belief in its existence entirely unreasonable.\" ... Finally, depending on the circumstances of the particular case, a warrant may be so facially deficient \u2014 i. e., in failing to particularize the place to be searched or the things to be seized \u2014 that the executing officers cannot reasonably presume it to be valid.",
+     "pinpoint": "468 U.S. at 923",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "manifest:exclusionary-rule.citations.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Coolidge v. New Hampshire",
+   "cite": "Coolidge v. New Hampshire, 403 U.S. 443 (1971)",
+   "url": "https://www.courtlistener.com/opinion/108377/coolidge-v-new-hampshire/",
+   "holding": "ORIGIN of the modern plain-view doctrine (Stewart plurality). Plain view justifies a warrantless seizure only where the incriminating nature is 'immediately apparent'; the doctrine 'may not be used to extend a general exploratory search from one object to another.' Originally also required 'inadvertent' discovery \u2014 a condition LATER ABANDONED in Horton.",
+   "quotes": [
+    {
+     "text": "the extension of the original justification is legitimate only where it is immediately apparent to the police that they have evidence before them; the \"plain view\" doctrine may not be used to extend a general exploratory search from one object to another until something incriminating at last emerges",
+     "pinpoint": "403 U.S. at 466-67",
+     "confirmed": true
+    }
+   ],
+   "weight": "binding (SCOTUS) (plurality on plain view)",
+   "src": "manifest:plain-view-doctrine.citations.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Johnson v. United States",
+   "cite": "Johnson v. United States, 333 U.S. 10 (1948)",
+   "url": "https://www.courtlistener.com/opinion/104504/johnson-v-united-states/",
+   "holding": "Probable-cause inferences must be drawn by a neutral and detached magistrate, not by the officer engaged in ferreting out crime.",
+   "quotes": [
+    {
+     "text": "Its protection consists in requiring that those inferences be drawn by a neutral and detached magistrate instead of being judged by the officer engaged in the often competitive enterprise of ferreting out crime.",
+     "pinpoint": "333 U.S. at 13-14",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "P3-verified",
+   "verdict": "VERIFIED",
+   "goodlaw": "good",
+   "treatment_note": "Canonical neutral-magistrate principle; repeatedly reaffirmed (cited ~3,855 times)."
+  },
+  {
+   "name": "Andresen v. Maryland",
+   "cite": "Andresen v. Maryland, 427 U.S. 463 (1976)",
+   "url": "https://www.courtlistener.com/opinion/109522/andresen-v-maryland/",
+   "holding": "A particularized warrant to search for and seize a person's business records, and their introduction in evidence, does not violate the Fifth Amendment because the accused was not compelled to do anything.",
+   "quotes": [
+    {
+     "text": "Accordingly, we hold that the search of an individual's office for business records, their seizure, and subsequent introduction into evidence do not offend the Fifth Amendment's proscription that \"[n]o person . . . shall be compelled in any criminal case to be a witness against himself.\"",
+     "pinpoint": "427 U.S. at 477",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "P3-verified",
+   "verdict": "VERIFIED",
+   "goodlaw": "good",
+   "treatment_note": "Current; business-records-warrant + no-5A-compulsion holding intact."
+  },
+  {
+   "name": "Lo-Ji Sales",
+   "cite": "Lo-Ji Sales, Inc. v. New York, 442 U.S. 319 (1979)",
+   "url": "https://www.courtlistener.com/opinion/110100/lo-ji-sales-inc-v-new-york/",
+   "holding": "An open-ended warrant executed by a magistrate who joined and led the search operation amounts to a forbidden general warrant and a loss of the magistrate's neutral-and-detached character; the search is invalid.",
+   "quotes": [
+    {
+     "text": "He allowed himself to become a member, if not the leader, of the search party which was essentially a police operation. Once in the store, he conducted a generalized search under authority of an invalid warrant; he was not acting as a judicial officer but as an adjunct law enforcement officer.",
+     "pinpoint": "442 U.S. at 327",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "P3-verified",
+   "verdict": "VERIFIED",
+   "goodlaw": "good",
+   "treatment_note": "Current; classic non-neutral-magistrate / general-warrant invalidation."
+  }
+ ],
+ "unresolved": [],
+ "note": "Phase-3 FINAL authoring manifest: packet(manifest+deck) + P3 gap verifications + marquee quotes + good-law."
+}

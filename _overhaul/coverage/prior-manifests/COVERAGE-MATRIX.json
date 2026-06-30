@@ -1,0 +1,65 @@
+{
+ "gap_cases": [
+  [
+   "Ornelas v. United States",
+   "probable-cause-reasonable-suspicion"
+  ],
+  [
+   "United States v. Cook",
+   "collective-knowledge"
+  ],
+  [
+   "Illinois v. Andreas",
+   "collective-knowledge"
+  ],
+  [
+   "New Jersey v. TLO",
+   "special-needs-administrative-searches"
+  ],
+  [
+   "United States v. Knights",
+   "special-needs-administrative-searches"
+  ],
+  [
+   "United States v. Cotterman",
+   "border-searches"
+  ],
+  [
+   "Andresen v. Maryland",
+   "warrant-requirement"
+  ],
+  [
+   "Johnson v. United States",
+   "warrant-requirement"
+  ],
+  [
+   "Lo-Ji Sales v. New York",
+   "warrant-requirement"
+  ],
+  [
+   "United States v. Salvucci",
+   "standing-to-challenge-a-search"
+  ],
+  [
+   "Jones v. United States",
+   "standing-to-challenge-a-search"
+  ],
+  [
+   "Chambers v. Florida",
+   "due-process-voluntariness"
+  ],
+  [
+   "Orozco v. Texas",
+   "miranda-custodial-interrogation"
+  ],
+  [
+   "Patterson v. Illinois",
+   "sixth-amendment-right-to-counsel"
+  ],
+  [
+   "Mathews v. United States",
+   "entrapment"
+  ]
+ ],
+ "gap_count": 15
+}

@@ -1,0 +1,37 @@
+{
+  "page": "Knock and Talk",
+  "slug": "knock-and-talk",
+  "cases": [
+    {
+      "bluebook": "French v. Merrill, 15 F.4th 116 (1st Cir. 2021)",
+      "cl_url": "https://www.courtlistener.com/opinion/5273192/french-v-merrill/",
+      "opinion_id": 5100775,
+      "cluster_id": 5273192,
+      "weight": "Circuit (1st) — persuasive",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "The scope of the 'knock and talk' exception to the warrant requirement is controlled by the implied social license to enter the curtilage, which is limited both in physical area and in purpose (per Florida v. Jardines). Where officers' conduct on the curtilage — here, repeated pre-dawn visits, knocking on a bedroom window, peering through a window covering and shining a flashlight, in a contentious and invasive manner — exceeds what a reasonable visitor could understand the implied license to authorize, the officers exceed the implied license and violate the Fourth Amendment. The court held this was clearly established by Jardines, so the officers were not entitled to qualified immunity on that ground (reversing the grant of QI).",
+      "proposition_checked": "First Circuit knock-and-talk / qualified-immunity case on the limits of the implied license: officers exceeded the scope of the implied license / the knock-and-talk.",
+      "quotes": [
+        {
+          "text": "The officers in this case, like the officers in Jardines, in the absence of any license to do so, \"physically intrud[ed]\" on a suspect's property repeatedly and engaged in intrusive conduct that no reasonable visitor could have understood as impliedly authorized by a resident.",
+          "pinpoint": "15 F.4th at ___ (slip op. at 40)",
+          "confirmed": true
+        },
+        {
+          "text": "[The officers' conduct] plainly exceeded the scope of the implied license to enter the curtilage of French's home.",
+          "pinpoint": "15 F.4th at ___ (slip op. at 43)",
+          "confirmed": true
+        }
+      ],
+      "goodlaw": "good",
+      "treatment_note": "First Circuit panel decision (2021); persuasive only outside the 1st Cir. Still good law. Shows the direction of travel ('which way the wind is blowing') on knock-and-talk scope post-Jardines: courts policing the purpose-and-area limits of the implied license and denying qualified immunity for clearly excessive conduct.",
+      "notes": "CLUSTER != OPINION applied: search returned cluster_id 5273192 but the actual opinion id is 5100775 (post-2015 case). Read against opinion_id 5100775 and confirmed the case name (French v. Merrill), First Circuit, and the Jardines-based implied-license analysis appear in the returned text. Cite 15 F.4th 116 and 2021-10-01 First Circuit filing confirmed. Pinpoint page numbers within 15 F.4th not surfaced by CL text (slip-opinion internal pagination cited instead); marked accordingly. Verdict VERIFIED on cite/court/year/holding."
+    }
+  ],
+  "corrections": [],
+  "flags": [
+    "French v. Merrill: cluster_id (5273192) != opinion_id (5100775). Use opinion 5100775 for text reads. Persuasive (1st Cir.) only.",
+    "Exact 15 F.4th reporter page pincites not available from CL (text uses slip-opinion pagination); quotes pinned to slip-op pages. If a hard F.4th pincite is needed for the wiki, confirm against the published reporter."
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "topic": "The 3 Golden Rules (instructor maxims)",
+  "citations": [
+    {
+      "case": "Graham v. Connor",
+      "bluebook": "Graham v. Connor, 490 U.S. 386 (1989)",
+      "court": "U.S. Supreme Court",
+      "year": 1989,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/112257/graham-v-connor/",
+      "cluster_id": 112257,
+      "proposition": "Seizure reasonableness is judged under an objective standard from the perspective of a reasonable officer on the scene; the analysis weighs, among other factors, 'the severity of the crime at issue.' Anchors Golden Rule #2 (seriousness of the crime/circumstance bears on reasonableness).",
+      "pinpoint": "490 U.S. at 396",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Terry v. Ohio",
+      "bluebook": "Terry v. Ohio, 392 U.S. 1 (1968)",
+      "court": "U.S. Supreme Court",
+      "year": 1968,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/",
+      "cluster_id": 107729,
+      "proposition": "Reasonableness is judged on 'the facts available to the officer at the moment of the seizure or the search' that would 'warrant a man of reasonable caution in the belief' the action was appropriate; also the source of the reasonable-suspicion tier. Anchors Golden Rule #1 (articulable facts) and the burden-of-proof ladder.",
+      "pinpoint": "392 U.S. at 21-22",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Brinegar v. United States",
+      "bluebook": "Brinegar v. United States, 338 U.S. 160 (1949)",
+      "court": "U.S. Supreme Court",
+      "year": 1949,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/104716/brinegar-v-united-states/",
+      "cluster_id": 104716,
+      "proposition": "VERIFIED VERBATIM: 'In dealing with probable cause, however, as the very name implies, we deal with probabilities. These are not technical; they are the factual and practical considerations of everyday life on which reasonable and prudent men, not legal technicians, act.' Anchors Golden Rule #3 (probabilities, not possibilities).",
+      "pinpoint": "338 U.S. at 175",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Illinois v. Gates",
+      "bluebook": "Illinois v. Gates, 462 U.S. 213 (1983)",
+      "court": "U.S. Supreme Court",
+      "year": 1983,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/110959/illinois-v-gates/",
+      "cluster_id": 110959,
+      "proposition": "VERIFIED VERBATIM: 'probable cause is a fluid concept - turning on the assessment of probabilities in particular factual contexts - not readily, or even usefully, reduced to a neat set of legal rules.' Adopts the totality-of-the-circumstances test. Anchors Golden Rule #3.",
+      "pinpoint": "462 U.S. at 232 (totality test at 230-32)",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Maryland v. Buie",
+      "bluebook": "Maryland v. Buie, 494 U.S. 325 (1990)",
+      "court": "U.S. Supreme Court",
+      "year": 1990,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/112384/maryland-v-buie/",
+      "cluster_id": 112384,
+      "proposition": "VERIFIED VERBATIM: a protective sweep requires 'articulable facts which, taken together with the rational inferences from those facts, would warrant a reasonably prudent officer in believing that the area to be swept harbors an individual posing a danger to those on the arrest scene' (494 U.S. at 334); it is 'decidedly not \"automati[c]\"' (494 U.S. at 336); scope limited to a cursory inspection of spaces where a person may be found, lasting no longer than needed to dispel the danger (494 U.S. at 335-36). Controlling FEDERAL rule for protective sweeps.",
+      "pinpoint": "494 U.S. at 327, 334, 335-36, 336",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Gaetjens v. Winnebago County (Gaetjens v. City of Loves Park)",
+      "bluebook": "Gaetjens v. Winnebago County, 4 F.4th 487 (7th Cir. 2021)",
+      "court": "U.S. Court of Appeals for the Seventh Circuit",
+      "year": 2021,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/4899427/sally-gaetjens-v-winnebago-county-illinois/",
+      "cluster_id": 4899427,
+      "proposition": "VERIFIED: emergency-aid exigency - government officials may enter a home without a warrant 'to render assistance or prevent harm to persons or property within'; entry lawful where the officer had 'an objectively reasonable basis for believing that [the occupant] was experiencing a medical emergency that required immediate action.' Also requires a nexus between the emergency and the place entered, and scope limited to the emergency. Illustrates Golden Rule #2 (seriousness/urgency widens reasonableness). NOTE: caption is 'Sally Gaetjens v. Winnebago County, Illinois' (Loves Park is in Winnebago County); the note's 'City of Loves Park' is the home's location, not the case caption. Civil sec. 1983/Monell posture but applies the Fourth Amendment exigency standard. read_document opinion id = 4703206 (cluster id = 4899427).",
+      "pinpoint": "4 F.4th at 493-94",
+      "weight": "Circuit - persuasive"
+    }
+  ],
+  "non_case_items": [
+    {
+      "item": "Strive for Five",
+      "note": "Instructor maxim, NOT a legal rule. Articulate at least five factors for any action - a habit to build articulation, not a five-factor Fourth Amendment requirement. Stated plainly on this page; no case verifies it because it is a heuristic. Lives on this page per the brief."
+    },
+    {
+      "item": "State opinion, then 'because ->' the facts",
+      "note": "Instructor articulation drill (form of expression), not a legal standard."
+    },
+    {
+      "item": "The 3 Golden Rules themselves",
+      "note": "Instructor-development maxims, not citation-verifiable. Captured verbatim in substance and stated plainly; each maxim's legal CORE is anchored to verified federal authority (Terry/Graham/Brinegar/Gates/Buie)."
+    },
+    {
+      "item": "Burden-of-proof ladder / pyramid",
+      "note": "Pedagogical hierarchy: mere suspicion -> reasonable suspicion -> probable cause -> preponderance -> clear and convincing -> beyond a reasonable doubt. The reasonable-suspicion and probable-cause rungs are anchored to Terry and Gates/Brinegar; the civil/criminal burdens (preponderance, clear & convincing, BRD) are standard evidentiary tiers, not Fourth Amendment holdings."
+    }
+  ],
+  "corrections": [
+    {
+      "raw": "Gaetjens v City of Loves Park",
+      "correct": "Case caption is Sally Gaetjens v. Winnebago County, Illinois, 4 F.4th 487 (7th Cir. 2021). 'Loves Park' is the city where the searched home sat (in Winnebago County, IL); it is not the case name. Verified on CourtListener."
+    },
+    {
+      "raw": "Gaetjens 'Actual prongs?' (note left the test incomplete)",
+      "correct": "Emergency-aid exigency: (1) an objectively reasonable basis to believe a person inside needs immediate aid (or that the premises pose an immediate safety threat); (2) a nexus between the emergency and the area entered; (3) scope limited to addressing the emergency. Verified against the 7th Cir. opinion (4 F.4th at 493-94)."
+    },
+    {
+      "raw": "Us v Holiday (child abused in car, no car at house, officers went in, saw evidence in plain view, evidence suppressed)",
+      "correct": "FLAG - UNVERIFIABLE this pass. 'United States v. Holiday' returns many cases on CourtListener and none was positively matched to these facts (child abuse in a car, no car at the house, warrantless entry anyway, plain-view evidence suppressed). Per the brief, NOT asserted. Omitted from the page body. The PRINCIPLE it illustrates (exceeding the scope/nexus of an exigency leads to suppression) is instead anchored to verified federal authority (Buie's scope limits; Gaetjens' nexus requirement). Verifier: attempt a precise match before any inclusion."
+    },
+    {
+      "raw": "State v McCall - protective sweeps as a matter of routine (patently unconstitutional)",
+      "correct": "FLAG - NOT independently verified this pass (rate-limit cap reached). Multiple 'State v. McCall' decisions exist; reporter/year/jurisdiction not pinned down. Presented only as an unconfirmed state ILLUSTRATION paired with the controlling federal rule (Maryland v. Buie). The substantive point (routine/automatic sweeps are unconstitutional) IS the holding of Buie itself (494 U.S. at 336: 'decidedly not automati[c]'), which carries the page. Verifier: identify state + year or drop the illustration."
+    },
+    {
+      "raw": "State v Smith (Idaho, 2021) protective sweep - reasonable fear someone might be present that could harm officers",
+      "correct": "FLAG - NOT independently verified this pass (rate-limit cap reached). An Idaho 2021 'State v. Smith' on protective sweeps was not confirmed to reporter/year on CourtListener. Presented only as an unconfirmed state ILLUSTRATION paired with Buie (the upheld-on-articulable-fear scenario tracks Buie's standard). Verifier: confirm the Idaho cite or drop the illustration."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "topic": "Abandonment",
+  "citations": [
+    {
+      "case": "California v. Greenwood",
+      "bluebook": "California v. Greenwood, 486 U.S. 35 (1988)",
+      "court": "Supreme Court of the United States",
+      "year": 1988,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/112067/california-v-greenwood/",
+      "cluster_id": 112067,
+      "proposition": "No reasonable expectation of privacy in garbage bags left for collection at the curb, outside the curtilage of a home; warrantless search and seizure of curbside trash does not violate the Fourth Amendment. Abandonment/privacy is judged by the objective REP standard, not state property law. Verbatim pull-quote confirmed at 486 U.S. 40: garbage 'left on or at the side of a public street are readily accessible to animals, children, scavengers, snoops, and other members of the public.' Curtilage limit stated at 486 U.S. 37 ('outside the curtilage of a home').",
+      "pinpoint": "486 U.S. at 37, 39-41",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Abel v. United States",
+      "bluebook": "Abel v. United States, 362 U.S. 217 (1960)",
+      "court": "Supreme Court of the United States",
+      "year": 1960,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/106021/abel-v-united-states/",
+      "cluster_id": 106021,
+      "proposition": "Items left in a hotel-room wastepaper basket after the guest paid his bill and vacated the room were abandoned ('bona vacantia'); the warrantless search/seizure was 'entirely lawful' because the guest had vacated the room (hotel then had exclusive possession and consented) and had abandoned the articles. Verbatim confirmed at 362 U.S. 241: 'petitioner had abandoned these articles. He had thrown them away... There can be nothing unlawful in the Government's appropriation of such abandoned property. See Hester v. United States, 265 U.S. 57, 58.' Opinion itself cites Hester.",
+      "pinpoint": "362 U.S. at 241",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Hester v. United States",
+      "bluebook": "Hester v. United States, 265 U.S. 57 (1924)",
+      "court": "Supreme Court of the United States",
+      "year": 1924,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/100413/hester-v-united-states/",
+      "cluster_id": 100413,
+      "proposition": "A fleeing suspect who dropped/abandoned containers (jug, jar, bottle) abandoned any Fourth Amendment interest in them. Verbatim confirmed at 265 U.S. 58: 'there was no seizure in the sense of the law when the officers examined the contents of each after it had been abandoned.' (Hester is also the open-fields origin case — cross-linked in [[curtilage]].)",
+      "pinpoint": "265 U.S. at 58",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Bond v. United States",
+      "bluebook": "Bond v. United States, 529 U.S. 334 (2000)",
+      "court": "Supreme Court of the United States",
+      "year": 2000,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/118354/bond-v-united-states/",
+      "cluster_id": 118354,
+      "proposition": "A bus passenger retained a reasonable expectation of privacy in his carry-on bag; a Border Patrol agent's exploratory physical manipulation ('squeezing') of the bag was a Fourth Amendment search. A bailment (temporary transfer of possession) does not abandon a privacy interest. Verbatim holding confirmed at 529 U.S. 335-36: 'whether a law enforcement officer's physical manipulation of a bus passenger's carry-on luggage violated the Fourth Amendment's proscription against unreasonable searches. We hold that it did.' Also at 529 U.S. 337: 'Physically invasive inspection is simply more intrusive than purely visual inspection.'",
+      "pinpoint": "529 U.S. at 335-39",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "United States v. Matlock",
+      "bluebook": "United States v. Matlock, 415 U.S. 164 (1974)",
+      "court": "Supreme Court of the United States",
+      "year": 1974,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/",
+      "cluster_id": 108967,
+      "proposition": "Consent of one who possesses common authority over premises or effects is valid against an absent, nonconsenting co-occupant. Common authority verbatim defined at 415 U.S. 171 n.7: it 'rests rather on mutual use of the property by persons generally having joint access or control for most purposes...' and 'is, of course, not to be implied from the mere property interest a third party has in the property.' Cited here to distinguish abandonment from the common-authority/consent route (consent doctrine covered later -> [[CREW]]).",
+      "pinpoint": "415 U.S. at 171 & n.7",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "California v. Hodari D.",
+      "bluebook": "California v. Hodari D., 499 U.S. 621 (1991)",
+      "court": "Supreme Court of the United States",
+      "year": 1991,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/112579/california-v-hodari-d/",
+      "cluster_id": 112579,
+      "proposition": "Cross-reference only. Contraband discarded by a suspect during flight, before submission to authority, is abandoned and admissible because no seizure has yet occurred. Confirmed at 499 U.S. 623: while fleeing the suspect 'tossed away what appeared to be a small rock' (crack cocaine) which 'he had discarded.' Full seizure-of-the-person treatment lives in [[seizing people]].",
+      "pinpoint": "499 U.S. at 623, 629",
+      "weight": "SCOTUS - binding"
+    }
+  ],
+  "non_case_items": [
+    {
+      "item": "Abandonment factors (denial of ownership; physical relinquishment or discard; location where left; intent inferred from conduct)",
+      "treatment": "Presented as a common synthesis of the case law framed as a totality inquiry into whether a REP was retained under the Greenwood standard, NOT as a single SCOTUS-stated multi-factor test. Drawn from the raw note and standard doctrine; not citation-verified as a holding."
+    },
+    {
+      "item": "Field-practice maxim: ask whether the suspect has 'anything to do with' the item, not merely whether it is 'theirs.'",
+      "treatment": "Instructor/practical guidance from the raw note, stated as guidance (own 'Practical capture' section), not as a legal rule."
+    }
+  ],
+  "corrections": [
+    {
+      "raw": "Abailment (temporary possession) -> Do they have common authority?",
+      "correct": "Typo for 'bailment.' Also clarified the doctrinal relationship: a bailment is a temporary transfer of possession that does NOT abandon a reasonable expectation of privacy (Bond). 'Common authority' (Matlock) is a separate, third-party CONSENT route that can validate a search where there is no abandonment; it is not a sub-test of abandonment. The two ideas are distinct doctrines and are presented as such on the page."
+    },
+    {
+      "raw": "When establishing abandonment, ask the suspect whether they have 'anything to do with it' no just whether or not it is theirs.",
+      "correct": "Typo 'no' -> 'not.' Substance preserved as practical instructor guidance, not a legal rule."
+    }
+  ]
+}

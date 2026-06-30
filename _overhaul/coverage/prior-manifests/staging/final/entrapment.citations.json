@@ -1,0 +1,82 @@
+{
+ "page": "entrapment",
+ "slug": "entrapment",
+ "cases": [
+  {
+   "name": "Sorrells v. United States",
+   "cite": "Sorrells v. United States, 287 U.S. 435 (1932)",
+   "url": "https://www.courtlistener.com/opinion/101997/sorrells-v-united-states/",
+   "holding": "Entrapment is a valid defense; it arises when government officials implant the criminal design in the mind of a person who had no previous disposition to commit the offense and then lure that \"otherwise innocent\" person into committing it.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-entrapment.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Sherman v. United States",
+   "cite": "Sherman v. United States, 356 U.S. 369 (1958)",
+   "url": "https://www.courtlistener.com/opinion/105681/sherman-v-united-states/",
+   "holding": "Entrapment is established as a matter of law when the government, through its informant, implants the criminal design in an otherwise-unwilling person and induces the crime; the defendant's lack of predisposition was clear (he was a recovering addict pressured by a fellow patient).",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-entrapment.json",
+   "goodlaw": null
+  },
+  {
+   "name": "United States v. Russell",
+   "cite": "United States v. Russell, 411 U.S. 423 (1973)",
+   "url": "https://www.courtlistener.com/opinion/108768/united-states-v-russell/",
+   "holding": "There is no entrapment where the defendant was predisposed, even though a government agent supplied a difficult-to-obtain but legal ingredient for the crime; the Court (5-4) declined to overturn the predisposition test and rejected the proposed objective test.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-entrapment.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Jacobson v. United States",
+   "cite": "Jacobson v. United States, 503 U.S. 540 (1992)",
+   "url": "https://www.courtlistener.com/opinion/112720/jacobson-v-united-states/",
+   "holding": "Where the government induces the crime, it must prove the defendant was predisposed to commit it INDEPENDENT of, and PRIOR TO, the government's inducement; 26 months of government solicitation that itself created the predisposition means the prosecution failed as a matter of law, so entrapment is established.",
+   "quotes": [
+    {
+     "text": "the proposition that the accused must be predisposed prior to contact with law enforcement officers is so firmly established that the Government conceded the point at oral argument",
+     "pinpoint": "503 U.S. at 549",
+     "confirmed": true
+    }
+   ],
+   "weight": null,
+   "src": "deck:name-that-case-entrapment.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Hampton v. United States",
+   "cite": "Hampton v. United States, 425 U.S. 484 (1976)",
+   "url": "https://www.courtlistener.com/opinion/109437/hampton-v-united-states/",
+   "holding": "Neither the entrapment defense nor the Due Process Clause bars conviction of a PREDISPOSED defendant even where a government agent supplied the contraband (heroin) the defendant then sold; his conceded predisposition defeated the entrapment defense.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-entrapment.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Mathews v. United States",
+   "cite": "Mathews v. United States, 485 U.S. 58 (1988)",
+   "url": "https://www.courtlistener.com/opinion/112012/mathews-v-united-states/",
+   "holding": "A defendant who denies one or more elements of the charged crime is nonetheless entitled to an entrapment instruction whenever there is sufficient evidence from which a reasonable jury could find entrapment.",
+   "quotes": [
+    {
+     "text": "We hold that even if the defendant denies one or more elements of the crime, he is entitled to an entrapment instruction whenever there is sufficient evidence from which a reasonable jury could find entrapment.",
+     "pinpoint": "485 U.S. at 62",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "P3-verified",
+   "verdict": "VERIFIED",
+   "goodlaw": "good",
+   "treatment_note": "Current; defendant need not admit the acts to raise entrapment."
+  }
+ ],
+ "unresolved": [],
+ "note": "Phase-3 FINAL authoring manifest: packet(manifest+deck) + P3 gap verifications + marquee quotes + good-law."
+}

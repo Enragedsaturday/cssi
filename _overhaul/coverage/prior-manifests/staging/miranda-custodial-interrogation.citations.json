@@ -1,0 +1,29 @@
+{
+  "page": "Miranda Custodial Interrogation",
+  "slug": "miranda-custodial-interrogation",
+  "cases": [
+    {
+      "bluebook": "Rhode Island v. Innis, 446 U.S. 291 (1980)",
+      "cl_url": "https://www.courtlistener.com/opinion/110254/rhode-island-v-innis/",
+      "opinion_id": 110254,
+      "cluster_id": 110254,
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "'Interrogation' under Miranda is not limited to express questioning. It also includes the 'functional equivalent' of express questioning: any words or actions on the part of the police (other than those normally attendant to arrest and custody) that the police should know are reasonably likely to elicit an incriminating response from the suspect. The test focuses on the perceptions of the suspect; here, the officers' conversation about a missing shotgun and handicapped children was not the functional equivalent of interrogation because the officers should not have known it was reasonably likely to elicit an incriminating response.",
+      "proposition_checked": "'Interrogation' under Miranda means express questioning OR its functional equivalent — words or actions (other than those normally attendant to arrest and custody) that police should know are reasonably likely to elicit an incriminating response.",
+      "quotes": [
+        {
+          "text": "We conclude that the Miranda safeguards come into play whenever a person in custody is subjected to either express questioning or its functional equivalent. That is to say, the term \"interrogation\" under Miranda refers not only to express questioning, but also to any words or actions on the part of the police (other than those normally attendant to arrest and custody) that the police should know are reasonably likely to elicit an incriminating response from the suspect.",
+          "pinpoint": "446 U.S. at 300-01",
+          "confirmed": true
+        }
+      ],
+      "goodlaw": "good",
+      "treatment_note": "Controlling SCOTUS precedent (Stewart, J.). The 'functional equivalent' definition of interrogation remains the governing standard and has not been overruled or abrogated.",
+      "notes": "Cluster id == opinion id (110254); case name confirmed in text. Verbatim definition captured in full from the opinion at *300-01 (read via read_document chunk to obtain the complete sentence through 'from the suspect')."
+    }
+  ],
+  "corrections": [],
+  "flags": []
+}

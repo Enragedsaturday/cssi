@@ -1,0 +1,89 @@
+{
+  "page": "Community Caretaking & Emergency Aid",
+  "slug": "community-caretaking-emergency-aid",
+  "cases": [
+    {
+      "bluebook": "Cady v. Dombrowski, 413 U.S. 433 (1973)",
+      "cluster_id": 108850,
+      "cl_url": "https://www.courtlistener.com/opinion/108850/cady-v-dombrowski/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Origin of the 'community caretaking' concept: police perform many noncriminal caretaking functions with VEHICLES (disabled cars, accidents) divorced from criminal investigation; a warrantless caretaking search of an impounded car for a firearm was reasonable.",
+      "proposition_checked": "Community caretaking is a vehicle/automobile-context doctrine, outside the home.",
+      "quotes": [
+        {"text": "engage in what, for want of a better term, may be described as community caretaking functions, totally divorced from the detection, investigation, or acquisition of evidence relating to the violation of a criminal statute", "pinpoint": "413 U.S. at 441", "confirmed": true}
+      ],
+      "notes": "The phrase originates here and is expressly tied to the constitutional difference between cars and homes (the 'ambulatory character' of vehicles). Pair with Caniglia, which confirms this is a vehicle doctrine, not a home doctrine."
+    },
+    {
+      "bluebook": "Brigham City v. Stuart, 547 U.S. 398 (2006)",
+      "cluster_id": 145654,
+      "cl_url": "https://www.courtlistener.com/opinion/145654/brigham-city-v-stuart/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Emergency aid exception: police may enter a home without a warrant when they have an objectively reasonable basis to believe an occupant is seriously injured or imminently threatened; the officer's subjective motive is irrelevant.",
+      "proposition_checked": "Emergency aid INSIDE the home is judged by an OBJECTIVE standard; subjective intent irrelevant.",
+      "quotes": [
+        {"text": "police may enter a home without a warrant when they have an objectively reasonable basis for believing that an occupant is seriously injured or imminently threatened with such injury", "pinpoint": "547 U.S. at 400", "confirmed": true},
+        {"text": "The officer's subjective motivation is irrelevant.", "pinpoint": "547 U.S. at 404", "confirmed": true}
+      ],
+      "notes": "This is the controlling emergency-aid (in-home) standard. The objective test is the load-bearing point the instructor stressed."
+    },
+    {
+      "bluebook": "Caniglia v. Strom, 593 U.S. 194 (2021)",
+      "cluster_id": 4883694,
+      "cl_url": "https://www.courtlistener.com/opinion/4883694/caniglia-v-strom/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "There is NO freestanding 'community caretaking' exception authorizing warrantless entry into the HOME. Cady's caretaking rationale was vehicle-specific and does not extend to homes.",
+      "proposition_checked": "No standalone community-caretaking exception for the home; Cady does not transplant to the house.",
+      "quotes": [
+        {"text": "A recognition of the existence of \"community caretaking\" tasks, like rendering aid to motorists in disabled vehicles, is not an open-ended license to perform them anywhere", "pinpoint": "593 U.S. at 196-97 (syllabus)", "confirmed": true},
+        {"text": "The First Circuit's \"community caretaking\" rule, however, goes beyond anything this Court has recognized.", "pinpoint": "593 U.S. at 198", "confirmed": true}
+      ],
+      "notes": "CRITICAL CORRECTION on CL IDs: routing.md cluster 4883694 is correct as a CLUSTER, but reading 4883694 as an opinion_id returns an UNRELATED Florida journalist-subpoena case (cluster/opinion ID collision). Real Caniglia opinion_id = 4687473 (cluster 4883694, cite 593 U.S. 194). Verified there. Note: Caniglia does NOT abolish exigent-circumstances/emergency-aid home entries (Alito & Kavanaugh concurrences make clear those survive); it only rejects a freestanding caretaking label for homes."
+    },
+    {
+      "bluebook": "Mincey v. Arizona, 437 U.S. 385 (1978)",
+      "cluster_id": 109905,
+      "cl_url": "https://www.courtlistener.com/opinion/109905/mincey-v-arizona/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "No 'murder scene' exception: the seriousness of the offense does not by itself create exigency. BUT police may make warrantless entries to render immediate aid and may do a prompt sweep for other victims/a killer.",
+      "proposition_checked": "Emergency-aid entry is permitted; scope is limited; no crime-seriousness exception.",
+      "quotes": [
+        {"text": "the Fourth Amendment does not bar police officers from making warrantless entries and searches when they reasonably believe that a person within is in need of immediate aid", "pinpoint": "437 U.S. at 392", "confirmed": true},
+        {"text": "We decline to hold that the seriousness of the offense under investigation itself creates exigent circumstances of the kind that under the Fourth Amendment justify a warrantless search.", "pinpoint": "437 U.S. at 393-94", "confirmed": true}
+      ],
+      "notes": "Foundational ADD. Sets the emergency-aid predicate and its scope limit, and forecloses a 'serious crime = automatic exigency' shortcut."
+    },
+    {
+      "bluebook": "Michigan v. Fisher, 558 U.S. 45 (2009) (per curiam)",
+      "cluster_id": 1755,
+      "cl_url": "https://www.courtlistener.com/opinion/1755/michigan-v-fisher/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Applies Brigham City: emergency-aid entry upheld where it was objectively reasonable to believe an occupant was injured or about to be; officers need not have ironclad proof of a serious, life-threatening injury, and need not be right.",
+      "proposition_checked": "Emergency-aid exception applied; objective standard, no proof-of-serious-injury requirement.",
+      "quotes": [
+        {"text": "This \"emergency aid exception\" does not depend on the officers' subjective intent or the seriousness of any crime they are investigating when the emergency arises.", "pinpoint": "558 U.S. at 47", "confirmed": true},
+        {"text": "the test, as we have said, is not what Goolsby believed, but whether there was \"an objectively reasonable basis for believing\" that medical assistance was needed, or persons were in danger", "pinpoint": "558 U.S. at 49", "confirmed": true}
+      ],
+      "notes": "Foundational ADD. Concrete application of the Brigham City objective standard; useful officer-facing illustration."
+    }
+  ],
+  "corrections": [
+    "Caniglia v. Strom cluster/opinion ID: routing.md lists cluster 4883694 (correct as a cluster, cite 593 U.S. 194). But reading 4883694 as an opinion_id returns an unrelated Florida journalist-subpoena opinion (Sallah). Correct opinion_id for the real Caniglia majority is 4687473 (under cluster 4883694). Use opinion 4687473 to read.",
+    "Capture spelled 'Cady v Dombrowki' — correct spelling is Cady v. Dombrowski; verified. 'Brigham City v Stuart' and 'Caniglia v. Strom' verified correct."
+  ],
+  "flags": [
+    "Do NOT overstate Caniglia. It rejects a FREESTANDING community-caretaking exception for the HOME; it does NOT eliminate exigent-circumstances or emergency-aid home entries (Brigham City/Fisher/Mincey survive). Both concurrences (Alito, Kavanaugh) emphasize that suicide-prevention, welfare checks, and emergency aid remain available under the established exigency framework.",
+    "Doctrinal line to teach: community caretaking = VEHICLES/OUTSIDE the home (Cady); emergency aid = INSIDE the home via the exigency/emergency-aid exception (Brigham City, Fisher, Mincey). Caniglia polices the boundary by refusing to extend the caretaking LABEL to homes.",
+    "CL cluster-ID vs opinion-ID collision again on a 2021 SCOTUS cluster (Caniglia): read by sub-opinion ID 4687473, not cluster ID 4883694."
+  ]
+}

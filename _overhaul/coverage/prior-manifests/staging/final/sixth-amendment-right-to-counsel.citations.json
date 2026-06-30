@@ -1,0 +1,124 @@
+{
+ "page": "sixth-amendment-right-to-counsel",
+ "slug": "sixth-amendment-right-to-counsel",
+ "cases": [
+  {
+   "name": "Massiah v. United States",
+   "cite": "Massiah v. United States, 377 U.S. 201, 206 (1964)",
+   "url": "https://www.courtlistener.com/opinion/106822/massiah-v-united-states/",
+   "holding": "Once adversary proceedings have begun (here, post-indictment), the government violates the Sixth Amendment when it deliberately elicits incriminating statements from the accused in the absence of counsel \u2014 even surreptitiously, outside any custodial setting.",
+   "quotes": [
+    {
+     "text": "We hold that the petitioner was denied the basic protections of that guarantee when there was used against him at his trial evidence of his own incriminating words, which federal agents had deliberately elicited from him after he had been indicted and in the absence of his counsel.",
+     "pinpoint": "377 U.S. at 206",
+     "confirmed": true
+    }
+   ],
+   "weight": null,
+   "src": "deck:name-that-case-counsel-id.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Brewer v. Williams",
+   "cite": "Brewer v. Williams, 430 U.S. 387, 392-93, 399-400 (1977)",
+   "url": "https://www.courtlistener.com/opinion/109624/brewer-v-williams/",
+   "holding": "The detective's \"Christian burial speech\" was the functional equivalent of interrogation and deliberately elicited incriminating statements after the Sixth Amendment right had attached (post-arraignment), with no valid waiver \u2014 a Massiah violation.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-counsel-id.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Kirby v. Illinois",
+   "cite": "Kirby v. Illinois, 406 U.S. 682, 688-90 (1972) (plurality opinion)",
+   "url": "https://www.courtlistener.com/opinion/108554/kirby-v-illinois/",
+   "holding": "The Sixth Amendment right to counsel attaches only at or after the initiation of adversary judicial criminal proceedings (formal charge, preliminary hearing, indictment, information, or arraignment). A pre-charge identification is not a critical stage requiring counsel.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-counsel-id.json",
+   "goodlaw": null
+  },
+  {
+   "name": "United States v. Henry",
+   "cite": "United States v. Henry, 447 U.S. 264, 270-74 (1980)",
+   "url": "https://www.courtlistener.com/opinion/110300/united-states-v-henry/",
+   "holding": "By intentionally creating a situation likely to induce the indicted defendant to make incriminating statements, the government (through a paid informant who was ostensibly just a fellow inmate) \"deliberately elicited\" them in violation of the Sixth Amendment.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-counsel-id.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Montejo v. Louisiana",
+   "cite": "Montejo v. Louisiana, 556 U.S. 778, 797 (2009)",
+   "url": "https://www.courtlistener.com/opinion/145873/montejo-v-louisiana/",
+   "holding": "A defendant may validly waive his Sixth Amendment right to counsel during police-initiated interrogation even after counsel has been appointed; the Court overruled Michigan v. Jackson's rule that such a waiver was presumptively invalid.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-counsel-id.json",
+   "goodlaw": "good",
+   "treatment_note": "Current; this is the case that OVERRULED Michigan v. Jackson ('Michigan v. Jackson should be and now is overruled')."
+  },
+  {
+   "name": "Texas v. Cobb",
+   "cite": "Texas v. Cobb, 532 U.S. 162, 167-68, 173 (2001)",
+   "url": "https://www.courtlistener.com/opinion/118417/texas-v-cobb/",
+   "holding": "The Sixth Amendment right to counsel is offense-specific; it attaches only to the charged offense and does not extend to other, uncharged offenses \u2014 even factually related ones (using the Blockburger same-elements test to define \"offense\").",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-counsel-id.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Maine v. Moulton",
+   "cite": "Maine v. Moulton, 474 U.S. 159 (1985)",
+   "url": "https://www.courtlistener.com/opinion/111546/maine-v-moulton/",
+   "holding": "The Sixth Amendment is violated when the State knowingly exploits an opportunity to confront the accused without counsel \u2014 it makes no difference that the meeting was set up by the defendant, not the police, once the right has attached.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-counsel-id.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Kuhlmann v. Wilson",
+   "cite": "Kuhlmann v. Wilson, 477 U.S. 436, 459 (1986)",
+   "url": "https://www.courtlistener.com/opinion/111726/kuhlmann-v-wilson/",
+   "holding": "A defendant does not make out a Sixth Amendment violation merely by showing an informant reported his statements; he must show the informant took some action, beyond merely listening, designed deliberately to elicit them. A pure \"listening post\" is permissible.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-counsel-id.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Rothgery v. Gillespie County",
+   "cite": "Rothgery v. Gillespie County, 554 U.S. 191, 198, 213 (2008)",
+   "url": "https://www.courtlistener.com/opinion/145785/rothgery-v-gillespie-county/",
+   "holding": "A criminal defendant's initial appearance before a magistrate, where he learns the charge against him and his liberty is restricted, marks the attachment of the Sixth Amendment right to counsel \u2014 even if no prosecutor is aware of or involved in it.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-counsel-id.json",
+   "goodlaw": "good",
+   "treatment_note": "Current; Sixth Amendment right to counsel attaches at the initial appearance before a magistrate. No negative treatment."
+  },
+  {
+   "name": "Patterson v. Illinois",
+   "cite": "Patterson v. Illinois, 487 U.S. 285 (1988)",
+   "url": "https://www.courtlistener.com/opinion/112127/patterson-v-illinois/",
+   "holding": "An accused may knowingly and intelligently waive the Sixth Amendment right to counsel for post-indictment questioning through the administration of Miranda warnings.",
+   "quotes": [
+    {
+     "text": "So long as the accused is made aware of the \"dangers and disadvantages of self-representation\" during postindictment questioning, by use of the Miranda warnings, his waiver of his Sixth Amendment right to counsel at such questioning is \"knowing and intelligent.\"",
+     "pinpoint": "487 U.S. at 300",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "P3-verified",
+   "verdict": "VERIFIED",
+   "goodlaw": "good",
+   "treatment_note": "Current (cf. Montejo, which relied on Patterson in overruling Jackson's separate presumption)."
+  }
+ ],
+ "unresolved": [],
+ "note": "Phase-3 FINAL authoring manifest: packet(manifest+deck) + P3 gap verifications + marquee quotes + good-law."
+}

@@ -1,0 +1,135 @@
+{
+  "page": "Civil Liability — § 1983 & Qualified Immunity",
+  "slug": "civil-liability-1983",
+  "cases": [
+    {
+      "bluebook": "Harlow v. Fitzgerald, 457 U.S. 800 (1982)",
+      "cluster_id": 110763,
+      "opinion_id": 110763,
+      "cl_url": "https://www.courtlistener.com/opinion/110763/harlow-v-fitzgerald/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Reformulated qualified immunity as a purely OBJECTIVE test: officials performing discretionary functions are shielded from civil damages unless their conduct violated 'clearly established' statutory or constitutional rights of which a reasonable person would have known. Abandoned the old subjective 'good faith / malice' prong as incompatible with summary judgment.",
+      "proposition_checked": "QI = objective 'clearly established law,' not subjective good faith; there is no 'good-faith' inquiry — it is objective reasonableness measured against clearly established law.",
+      "quotes": [
+        {"text": "government officials performing discretionary functions, generally are shielded from liability for civil damages insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known", "pinpoint": "457 U.S. at 818", "confirmed": true},
+        {"text": "Reliance on the objective reasonableness of an official's conduct, as measured by reference to clearly established law, should avoid excessive disruption of government and permit the resolution of many insubstantial claims on summary judgment.", "pinpoint": "457 U.S. at 818", "confirmed": true},
+        {"text": "If the law at that time was not clearly established, an official could not reasonably be expected to anticipate subsequent legal developments, nor could he fairly be said to \"know\" that the law forbade conduct not previously identified as unlawful.", "pinpoint": "457 U.S. at 818-19", "confirmed": true}
+      ],
+      "notes": "Directly supports the capture's point: the focus is NOT on the officer's subjective 'good faith' but on whether the law was clearly established at the time. The Court expressly found the subjective component 'incompatible' with disposing of insubstantial claims (457 U.S. at 815-17)."
+    },
+    {
+      "bluebook": "Monroe v. Pape, 365 U.S. 167 (1961)",
+      "cluster_id": 106170,
+      "opinion_id": 106170,
+      "cl_url": "https://www.courtlistener.com/opinion/106170/monroe-v-pape/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Revived § 1983 as a real federal remedy: 'under color of' state law reaches the MISUSE of authority an officer possesses by virtue of state law, even when the conduct violates state law. A § 1983 action does not require the plaintiff first to exhaust state remedies. (Partially overruled by Monell on the separate municipality question.)",
+      "proposition_checked": "§ 1983 reaches an officer's misuse of state-conferred authority ('under color of' law).",
+      "quotes": [
+        {"text": "Misuse of power, possessed by virtue of state law and made possible only because the wrongdoer is clothed with the authority of state law, is action taken `under color of' state law.", "pinpoint": "365 U.S. at 184 (quoting United States v. Classic)", "confirmed": true}
+      ],
+      "notes": "Foundational ADD. This is the case that made § 1983 operative against individual officers acting under color of law. The 'under color of' quote is the Classic formulation expressly adopted in Monroe. Note: Monroe ALSO held municipalities were not 'persons' under § 1983 — that municipality holding was overruled by Monell (1978)."
+    },
+    {
+      "bluebook": "Monell v. Department of Social Services, 436 U.S. 658 (1978)",
+      "cluster_id": 109881,
+      "opinion_id": 109881,
+      "cl_url": "https://www.courtlistener.com/opinion/109881/monell-v-new-york-city-dept-of-social-servs/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Local governments ARE 'persons' suable under § 1983, but ONLY when the constitutional injury is caused by the execution of an official policy or custom. There is NO respondeat superior — a municipality cannot be held liable solely because it employs a tortfeasor.",
+      "proposition_checked": "Municipal § 1983 liability requires a policy or custom; no respondeat superior.",
+      "quotes": [
+        {"text": "a municipality cannot be held liable under § 1983 on a respondeat superior theory", "pinpoint": "436 U.S. at 691", "confirmed": true},
+        {"text": "it is when execution of a government's policy or custom, whether made by its lawmakers or by those whose edicts or acts may fairly be said to represent official policy, inflicts the injury that the government as an entity is responsible under § 1983", "pinpoint": "436 U.S. at 694", "confirmed": true}
+      ],
+      "notes": "Foundational ADD. The municipal-liability spine; overruled Monroe's holding that municipalities are not 'persons.' Operationally: suing the agency requires identifying a policy, custom, or final-policymaker decision, not just a single officer's act."
+    },
+    {
+      "bluebook": "Saucier v. Katz, 533 U.S. 194 (2001)",
+      "cluster_id": 118449,
+      "opinion_id": 118449,
+      "cl_url": "https://www.courtlistener.com/opinion/118449/saucier-v-katz/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Established the (then-mandatory) two-step qualified-immunity sequence: (1) taken in the light most favorable to the plaintiff, do the facts show a constitutional violation? and (2) was that right 'clearly established' at the time, judged at a specific (not general) level?",
+      "proposition_checked": "QI two-step: constitutional violation, then clearly established — in that order (as of 2001).",
+      "quotes": [
+        {"text": "the first inquiry must be whether a constitutional right would have been violated on the facts alleged; second, assuming the violation is established, the question whether the right was clearly established must be considered on a more specific level", "pinpoint": "533 U.S. at 200", "confirmed": true},
+        {"text": "A court required to rule upon the qualified immunity issue must consider, then, this threshold question: Taken in the light most favorable to the party asserting the injury, do the facts alleged show the officer's conduct violated a constitutional right? This must be the initial inquiry.", "pinpoint": "533 U.S. at 201", "confirmed": true}
+      ],
+      "notes": "Foundational ADD. Pairs with Pearson: Saucier set the order as mandatory; Pearson (2009) made the sequence discretionary."
+    },
+    {
+      "bluebook": "Pearson v. Callahan, 555 U.S. 223 (2009)",
+      "cluster_id": 145918,
+      "opinion_id": 145918,
+      "cl_url": "https://www.courtlistener.com/opinion/145918/pearson-v-callahan/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "The Saucier two-step sequence, while often appropriate, is NO LONGER MANDATORY. Lower courts may exercise discretion over which prong (constitutional violation OR clearly established) to address first.",
+      "proposition_checked": "Pearson made the Saucier sequence discretionary, not mandatory.",
+      "quotes": [
+        {"text": "while the sequence set forth there is often appropriate, it should no longer be regarded as mandatory", "pinpoint": "555 U.S. at 236", "confirmed": true},
+        {"text": "The judges of the district courts and the courts of appeals should be permitted to exercise their sound discretion in deciding which of the two prongs of the qualified immunity analysis should be addressed first", "pinpoint": "555 U.S. at 236", "confirmed": true}
+      ],
+      "notes": "Foundational ADD. Verified the correct opinion (Afton Callahan, § 1983, Tenth Circuit) in the document text — no cluster/opinion collision here. Practical effect: courts can grant QI on 'not clearly established' without ever deciding whether a right was violated, which can leave the underlying constitutional question unresolved."
+    },
+    {
+      "bluebook": "Graham v. Connor, 490 U.S. 386 (1989)",
+      "cluster_id": 112257,
+      "opinion_id": 112257,
+      "cl_url": "https://www.courtlistener.com/opinion/112257/graham-v-connor/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Excessive-force § 1983 claims arising from an arrest, stop, or other seizure are analyzed under the Fourth Amendment's 'objective reasonableness' standard; an officer's subjective intent (good or bad) is irrelevant to that inquiry.",
+      "proposition_checked": "Objective reasonableness governs force/seizure § 1983 claims; subjective motive irrelevant (the same objective theme as Harlow QI).",
+      "quotes": [
+        {"text": "such claims are properly analyzed under the Fourth Amendment's \"objective reasonableness\" standard, rather than under a substantive due process standard", "pinpoint": "490 U.S. at 388", "confirmed": true},
+        {"text": "The Fourth Amendment inquiry is one of \"objective reasonableness\" under the circumstances, and subjective concepts like \"malice\" and \"sadism\" have no proper place in that inquiry.", "pinpoint": "490 U.S. at 399", "confirmed": true}
+      ],
+      "notes": "Cross-link to [[Use of Force]]. Included here because it reinforces the page's central theme — liability turns on OBJECTIVE reasonableness, not subjective good/bad faith — exactly mirroring Harlow on the QI side. Primary home for Graham is the Use of Force page."
+    },
+    {
+      "bluebook": "Wright v. City of Euclid, 962 F.3d 852 (6th Cir. 2020)",
+      "cluster_id": 4762133,
+      "opinion_id": 4542480,
+      "cl_url": "https://www.courtlistener.com/opinion/4762133/lamar-wright-v-city-of-euclid/",
+      "weight": "persuasive (6th Cir.); illustrative",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "The Sixth Circuit REVERSED summary judgment / denial of qualified immunity on multiple Fourth Amendment § 1983 claims: excessive force (drawing a weapon on, tasering, and pepper-spraying a non-resisting suspect), false arrest, extended detention, and federal malicious prosecution. Applied the two-step QI framework and warned against defining clearly established law 'at a high level of generality.' Also addressed a Monell claim against the City (including its use-of-force training).",
+      "proposition_checked": "Illustrative § 1983 / QI-denied case — officers not entitled to QI where a jury could find a Fourth Amendment violation that was clearly established.",
+      "quotes": [
+        {"text": "It was clearly established as of November 4, 2016 that drawing a weapon on a suspect who was not fleeing or posing a safety risk and tasering a suspect who was not actively resisting arrest constituted excessive force. Therefore, we REVERSE the district court's grant of summary judgment on qualified immunity grounds", "pinpoint": "962 F.3d at 868", "confirmed": true},
+        {"text": "Wright has presented sufficient evidence for a reasonable jury to find no probable cause—and no qualified immunity—for the arrest.", "pinpoint": "962 F.3d at 874", "confirmed": true}
+      ],
+      "notes": "Captured as 'Wright V Euclid.' Verified correct opinion (Lamar Wright v. City of Euclid, 6th Cir.) via sub-opinion 4542480 under cluster 4762133. CORRECTION on framing: routing.md described it as 'unlawful search/seizure + excessive force.' The opinion's core holdings are excessive force + false arrest + extended detention + malicious prosecution (Fourth Amendment SEIZURE + force); the 'search' angle is thin (only an 'intrusive search' reference inside the malicious-prosecution discussion). State it as an unlawful-seizure / excessive-force case, not a search case. Weight: persuasive (one circuit) — use as illustration, do not anchor the doctrine to it."
+    }
+  ],
+  "statutes": [
+    {"cite": "42 U.S.C. § 1983", "text_point": "Creates a private civil action against any person who, under color of state law, deprives another of rights, privileges, or immunities secured by the Constitution and federal law. NOTE: the capture's emphasis is correct — § 1983 protects RIGHTS (constitutional/federal), not mere injuries. It is the primary vehicle for damages/injunctive relief for Fourth Amendment violations by state/local officers. (Statute — cite the U.S. Code; no case-verify needed for the statute text itself.)"},
+    {"cite": "42 U.S.C. § 1988(b)", "text_point": "Authorizes the court, in its discretion, to award reasonable attorney's fees to the PREVAILING PARTY in a § 1983 action. This is the 'taxpayer-funded legal fees' point from the capture — a successful civil-rights plaintiff can recover fees, which (for government defendants) are borne by the public fisc. (Statute.)"},
+    {"cite": "18 U.S.C. § 242", "text_point": "The CRIMINAL counterpart: makes it a federal crime to WILLFULLY deprive a person of constitutional/federal rights under color of law. In practice, § 242 indictments are reserved for the most egregious violations because the government must prove the officer acted WILLFULLY (specific intent) — a hard burden (see Screws v. United States, 325 U.S. 91 (1945), construing 'willfully'). Distinguish clearly: § 1983 = civil damages; § 242 = criminal prosecution. (Statute.)"}
+  ],
+  "corrections": [
+    "Capture 'Wright V Euclid' → Wright v. City of Euclid, 962 F.3d 852 (6th Cir. 2020). Verified. Framing corrected: it is primarily an unlawful-SEIZURE + excessive-force case (false arrest, extended detention, force), not an unlawful-search case as routing.md loosely described.",
+    "Capture 'harlow v fitzgerald 457 Us 800 (1982)' — citation correct; verified 457 U.S. 800 (1982).",
+    "Monroe v. Pape's municipality holding (that municipalities are not 'persons') was overruled by Monell (1978) — note this so the page does not present Monroe as the last word on municipal liability."
+  ],
+  "flags": [
+    "ROUTING CALL surfaced: This is a dedicated standalone page despite _conventions.md saying liability is 'minimal' and is a suppression course. Justification: instructor taught a dedicated Day-2 liability block. Keep it federal, accountability-focused, and cross-linked rather than threading liability through every doctrine page.",
+    "Doctrinal precision: Qualified immunity is a DEFENSE to § 1983 DAMAGES claims; it is NOT a suppression doctrine and has no bearing on whether evidence is suppressed in a criminal case. Do not let students conflate QI (civil) with the exclusionary rule / good-faith exception (criminal). The capture's line 'no good-faith exception to warrantless searches — it's objective reasonableness' is about Harlow QI's objective standard; keep it distinct from Leon's good-faith exception to the exclusionary rule (a separate, criminal-side doctrine).",
+    "§ 1983 vs § 242 distinction is load-bearing: civil (damages, preponderance, no willfulness element) vs criminal (prosecution, beyond a reasonable doubt, requires WILLFUL deprivation). Willfulness is why § 242 indictments are rare.",
+    "Graham v. Connor is a cross-link (primary home = Use of Force). Included only to reinforce the objective-reasonableness theme; do not duplicate the full Graham factors here.",
+    "Wright is persuasive (6th Cir.) and illustrative only — label it as such; do not anchor the QI standard to a single circuit case. The binding spine is Harlow/Saucier/Pearson (SCOTUS)."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "topic": "Seizure of the Person",
+  "citations": [
+    {
+      "case": "United States v. Mendenhall",
+      "bluebook": "United States v. Mendenhall, 446 U.S. 544 (1980)",
+      "court": "U.S. Supreme Court",
+      "year": 1980,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/110264/united-states-v-mendenhall/",
+      "cluster_id": 110264,
+      "proposition": "Supplies the objective benchmark for show-of-authority seizures: a person is 'seized' only if, 'in view of all of the circumstances surrounding the incident, a reasonable person would have believed that he was not free to leave.' Lists circumstances that may indicate a seizure (threatening presence of several officers, display of a weapon, physical touching, language/tone indicating compliance might be compelled).",
+      "pinpoint": "446 U.S. at 554",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "California v. Hodari D.",
+      "bluebook": "California v. Hodari D., 499 U.S. 621 (1991)",
+      "court": "U.S. Supreme Court",
+      "year": 1991,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/112579/california-v-hodari-d/",
+      "cluster_id": 112579,
+      "proposition": "A seizure by show of authority is not complete until the suspect submits; a suspect who flees an uncomplied-with show of authority is not yet seized, so cocaine he discarded while still fleeing was not the fruit of a seizure. 'An arrest requires either physical force (as described above) or, where that is absent, submission to the assertion of authority.' Frames the narrow question 'whether, with respect to a show of authority ..., a seizure occurs even though the subject does not yield. We hold that it does not.' Clarifies that the Mendenhall 'free to leave' condition is necessary but not sufficient for a show-of-authority seizure.",
+      "pinpoint": "499 U.S. at 626 (also 624-25)",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Torres v. Madrid",
+      "bluebook": "Torres v. Madrid, 592 U.S. 306 (2021)",
+      "court": "U.S. Supreme Court",
+      "year": 2021,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/4867542/torres-v-madrid/",
+      "cluster_id": 4867542,
+      "proposition": "'We hold that the application of physical force to the body of a person with intent to restrain is a seizure even if the person does not submit and is not subdued.' Officers shot Torres, who drove off; she was seized at the instant force was applied. Fills the force-without-submission gap left by Hodari D. A seizure by force, absent submission, lasts only as long as the application of force (no 'continuing arrest during the period of fugitivity'). The inquiry is whether the conduct objectively manifests an intent to restrain; accidental force, or force applied for some other purpose, does not qualify. Reasonableness, damages, and qualified immunity left open on remand.",
+      "pinpoint": "592 U.S. at 325 (holding); intent-to-restrain/objective inquiry and duration discussed earlier in the opinion (slip op. at 10, 17)",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Graham v. Connor",
+      "bluebook": "Graham v. Connor, 490 U.S. 386 (1989)",
+      "court": "U.S. Supreme Court",
+      "year": 1989,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/112257/graham-v-connor/",
+      "cluster_id": 112257,
+      "proposition": "Cross-reference only (own page): once a seizure by force has occurred, its reasonableness is judged under Graham's objective-reasonableness standard. Cited to connect the force-seizure trigger to the use-of-force reasonableness inquiry; not independently verified on this page.",
+      "pinpoint": "490 U.S. 386",
+      "weight": "SCOTUS - binding"
+    }
+  ],
+  "non_case_items": [],
+  "corrections": [
+    {
+      "raw": "Hodari D. 'Prongs: Not free to leave / When they submit to authority' (note treats these as two prongs of Hodari)",
+      "correct": "The 'not free to leave' standard is from United States v. Mendenhall, 446 U.S. 544, 554 (1980), not Hodari D. Hodari D., 499 U.S. 621, 626 (1991), adds the submission requirement and clarifies that Mendenhall's 'free to leave' test is a necessary but not sufficient condition for a show-of-authority seizure (the suspect must also actually submit). They are not two prongs of one case; the page attributes each standard to its correct source."
+    },
+    {
+      "raw": "Torres V Madrid (2021): 'Physical seizure occurs when you use force with the intent to restrain.'",
+      "correct": "Accurate in substance, with two refinements stated verbatim in the page: (1) the holding is that 'the application of physical force to the body of a person with intent to restrain is a seizure even if the person does not submit and is not subdued' (592 U.S. at 325) - i.e., force seizes even without subduing the person; and (2) the intent-to-restrain inquiry is objective (whether the conduct objectively manifests an intent to restrain), and accidental force does not count."
+    },
+    {
+      "raw": "Note heading 'physical seizure' vs. 'show of authority' listed as bare items",
+      "correct": "Framed as the two recognized ways to seize a person under the Fourth Amendment - (1) application of physical force with intent to restrain (Torres) and (2) a show of authority to which the person submits (Hodari D., 499 U.S. at 626) - with the analytical differences between the two branches made explicit."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+ "page": "standing-to-challenge-a-search",
+ "slug": "standing-to-challenge-a-search",
+ "cases": [
+  {
+   "name": "Rakas v. Illinois",
+   "cite": "Rakas v. Illinois, 439 U.S. 128 (1978)",
+   "url": "https://www.courtlistener.com/opinion/109953/rakas-v-illinois/",
+   "holding": "Fourth Amendment rights are personal; a defendant must show his own legitimate expectation of privacy was infringed and cannot vicariously assert others' rights.",
+   "quotes": [
+    {
+     "text": "Fourth Amendment rights are personal rights which, like some other constitutional rights, may not be vicariously asserted.",
+     "pinpoint": "439 U.S. at 133-134",
+     "confirmed": true
+    },
+    {
+     "text": "Katz held that capacity to claim the protection of the Fourth Amendment depends not upon a property right in the invaded place but upon whether the person who claims the protection of the Amendment has a legitimate expectation of privacy in the invaded place.",
+     "pinpoint": "439 U.S. at 143",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "manifest:exclusionary-rule.citations.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Rawlings v. Kentucky",
+   "cite": "Rawlings v. Kentucky, 448 U.S. 98 (1980)",
+   "url": "https://www.courtlistener.com/opinion/110326/rawlings-v-kentucky/",
+   "holding": "Owning the items seized is not enough to challenge a search; a defendant must have a legitimate expectation of privacy in the PLACE searched. No REP in a companion's purse = no standing.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-exclusionary.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Minnesota v. Olson",
+   "cite": "Minnesota v. Olson, 495 U.S. 91 (1990)",
+   "url": "https://www.courtlistener.com/opinion/112416/minnesota-v-olson/",
+   "holding": "An overnight guest has a reasonable expectation of privacy in his host's home and therefore standing to challenge a warrantless entry to arrest him.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-exclusionary.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Minnesota v. Carter",
+   "cite": "Minnesota v. Carter, 525 U.S. 83 (1998)",
+   "url": "https://www.courtlistener.com/opinion/118249/minnesota-v-carter/",
+   "holding": "A short-term visitor present in another's home for a purely commercial purpose (bagging drugs), with no prior relationship and no overnight stay, has no legitimate expectation of privacy there and cannot challenge the police observation.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-exclusionary.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Byrd v. United States",
+   "cite": "Byrd v. United States, 584 U.S. 395 (2018)",
+   "url": "https://www.courtlistener.com/opinion/4497658/byrd-v-united-states/",
+   "holding": "A driver in lawful possession and control of a rental car generally has a reasonable expectation of privacy in it, even though he is not listed as an authorized driver on the rental agreement.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-exclusionary.json",
+   "goodlaw": "good",
+   "treatment_note": "Current; unauthorized driver of a rental car can have a reasonable expectation of privacy. ~287 cites, no negative treatment."
+  },
+  {
+   "name": "Brendlin v. California",
+   "cite": "Brendlin v. California, 551 U.S. 249, 251, 263 (2007)",
+   "url": "https://www.courtlistener.com/opinion/145712/brendlin-v-california/",
+   "holding": "When a vehicle is stopped, a passenger is seized just as the driver is, and so may challenge the constitutionality of the stop.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-seizure-arrest-force.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Katz v. United States",
+   "cite": "Katz v. United States, 389 U.S. 347, 351, 361 (1967) (Harlan, J., concurring)",
+   "url": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/",
+   "holding": "Electronic eavesdropping that invades a justified expectation of privacy is a search even with no physical trespass; overruled Olmstead's trespass-only view.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-threshold.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Jones v. United States",
+   "cite": "Jones v. United States, 362 U.S. 257 (1960)",
+   "url": "https://www.courtlistener.com/opinion/106022/jones-v-united-states/",
+   "holding": "Established \"automatic standing\" for those charged with possessory offenses and the broader rule that anyone \"legitimately on the premises\" where a search occurs may challenge it.",
+   "quotes": [
+    {
+     "text": "No just interest of the Government in the effective and rigorous enforcement of the criminal law will be hampered by recognizing that anyone legitimately on premises where a search occurs may challenge its legality by way of a motion to suppress, when its fruits are proposed to be used against him.",
+     "pinpoint": "362 U.S. at 267",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding (HISTORICAL \u2014 overruled)",
+   "src": "P3-verified",
+   "verdict": "VERIFIED",
+   "goodlaw": "overruled",
+   "treatment_note": "NOT GOOD LAW: automatic standing overruled by United States v. Salvucci, 448 U.S. 83 (1980); 'legitimately on premises' standing rejected by Rakas v. Illinois, 439 U.S. 128 (1978). Record only as history."
+  },
+  {
+   "name": "United States v. Salvucci",
+   "cite": "United States v. Salvucci, 448 U.S. 83 (1980)",
+   "url": "https://www.courtlistener.com/opinion/110325/united-states-v-salvucci/",
+   "holding": "Abolished automatic standing; a defendant charged with a possessory crime must show that his own Fourth Amendment rights (a legitimate expectation of privacy in the area searched) were violated \u2014 possession of seized goods is not a substitute.",
+   "quotes": [
+    {
+     "text": "Today we hold that defendants charged with crimes of possession may only claim the benefits of the exclusionary rule if their own Fourth Amendment rights have in fact been violated. The automatic standing rule of Jones v. United States, supra, is therefore overruled.",
+     "pinpoint": "448 U.S. at 85",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "P3-verified",
+   "verdict": "VERIFIED",
+   "goodlaw": "good",
+   "treatment_note": "Current; this is the case that overruled Jones-1960 automatic standing."
+  }
+ ],
+ "unresolved": [],
+ "note": "Phase-3 FINAL authoring manifest: packet(manifest+deck) + P3 gap verifications + marquee quotes + good-law."
+}

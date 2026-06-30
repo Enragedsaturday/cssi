@@ -1,0 +1,130 @@
+{
+  "topic": "The Fourth Amendment Framework",
+  "citations": [
+    {
+      "case": "Camara v. Municipal Court",
+      "bluebook": "Camara v. Municipal Court, 387 U.S. 523 (1967)",
+      "court": "U.S. Supreme Court",
+      "year": 1967,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/107473/camara-v-municipal-court-of-city-and-county-of-san-francisco/",
+      "cluster_id": 107473,
+      "proposition": "Administrative area inspections are Fourth Amendment searches; reasonableness has no ready test 'other than by balancing the need to search against the invasion which the search entails' — the reasonableness-balancing root.",
+      "pinpoint": "387 U.S. at 536-37",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "United States v. Jacobsen",
+      "bluebook": "United States v. Jacobsen, 466 U.S. 109 (1984)",
+      "court": "U.S. Supreme Court",
+      "year": 1984,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/111143/united-states-v-jacobsen/",
+      "cluster_id": 111143,
+      "proposition": "A seizure of property is 'some meaningful interference with an individual's possessory interests in that property'; the Amendment reaches only governmental action; under the private-search doctrine a government inspection within the scope of a prior private search invades no remaining privacy, and re-examination is permissible where there is 'a virtual certainty that nothing else of significance' would be revealed.",
+      "pinpoint": "466 U.S. at 113 (seizure def.); 113-14 (governmental action); 115-17 (private search); 119 (virtual certainty)",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Walter v. United States",
+      "bluebook": "Walter v. United States, 447 U.S. 649 (1980)",
+      "court": "U.S. Supreme Court",
+      "year": 1980,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/110314/walter-v-united-states/",
+      "cluster_id": 110314,
+      "proposition": "Government may not exceed the scope of a prior private search without independent justification; FBI's projection of films the private party had not actually viewed was a significant expansion and a separate, unlawful search. The private search 'merely frustrated that expectation in part. It did not . . . strip the remaining unfrustrated portion . . . of all Fourth Amendment protection.'",
+      "pinpoint": "447 U.S. at 657",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Skinner v. Railway Labor Executives' Ass'n",
+      "bluebook": "Skinner v. Railway Labor Executives' Ass'n, 489 U.S. 602 (1989)",
+      "court": "U.S. Supreme Court",
+      "year": 1989,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/112219/skinner-v-railway-labor-executives-assn/",
+      "cluster_id": 112219,
+      "proposition": "The Fourth Amendment does not apply to a search/seizure 'effected by a private party on his own initiative,' but applies 'if the private party acted as an instrument or agent of the Government'; whether a private party is such an agent 'necessarily turns on the degree of the Government's participation in the private party's activities,' resolved 'in light of all the circumstances.' Anchors the state-action requirement.",
+      "pinpoint": "489 U.S. at 614-15",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Coolidge v. New Hampshire",
+      "bluebook": "Coolidge v. New Hampshire, 403 U.S. 443 (1971)",
+      "court": "U.S. Supreme Court",
+      "year": 1971,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/108377/coolidge-v-new-hampshire/",
+      "cluster_id": 108377,
+      "proposition": "A genuinely private search/seizure does not implicate the Fourth Amendment; whether conduct is private or attributable to the government is determined in light of all the circumstances (cited in Skinner and Walter for the state-action/private-search baseline).",
+      "pinpoint": "403 U.S. at 487-90",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Arizona v. Hicks",
+      "bluebook": "Arizona v. Hicks, 480 U.S. 321 (1987)",
+      "court": "U.S. Supreme Court",
+      "year": 1987,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/",
+      "cluster_id": 111834,
+      "proposition": "Moving stereo equipment a few inches to read serial numbers was a new search requiring probable cause; even a minimal further intrusion is a search. Pull-quote (verbatim): 'there is nothing new in the realization that the Constitution sometimes insulates the criminality of a few in order to protect the privacy of us all.'",
+      "pinpoint": "480 U.S. at 325, 329",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Katz v. United States",
+      "bluebook": "Katz v. United States, 389 U.S. 347 (1967)",
+      "court": "U.S. Supreme Court",
+      "year": 1967,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/",
+      "cluster_id": 107564,
+      "proposition": "Reasonable-expectation-of-privacy theory of a search (cross-reference only; deep treatment owned by [[2 searches under 4th Amendment]]).",
+      "pinpoint": "389 U.S. 347",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "United States v. Jones",
+      "bluebook": "United States v. Jones, 565 U.S. 400 (2012)",
+      "court": "U.S. Supreme Court",
+      "year": 2012,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/",
+      "cluster_id": 7350871,
+      "proposition": "Trespass/physical-intrusion theory of a search revived (GPS tracker on vehicle) (cross-reference only; deep treatment owned by [[2 searches under 4th Amendment]]).",
+      "pinpoint": "565 U.S. 400",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "District of Columbia v. Heller",
+      "bluebook": "District of Columbia v. Heller, 554 U.S. 570 (2008)",
+      "court": "U.S. Supreme Court",
+      "year": 2008,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/145777/district-of-columbia-v-heller/",
+      "cluster_id": 145777,
+      "proposition": "SECOND AMENDMENT case — NOT Fourth Amendment authority. Cited solely for the framing that the Bill of Rights' 'right of the people' was 'widely understood to codify a pre-existing right, rather than to fashion a new one' (verbatim confirmed at 554 U.S. at 592).",
+      "pinpoint": "554 U.S. at 592",
+      "weight": "SCOTUS - binding"
+    }
+  ],
+  "non_case_items": [
+    {"item": "U.S. Const. amend. IV", "note": "Constitutional text quoted verbatim; two clauses (reasonableness + warrant)."},
+    {"item": "C.R.E.W. (Consent, Recognized Exception, Warrant)", "note": "Instructor mnemonic — not case law, not citation-verified; owns its own practical page [[CREW]]. Used here as the reasonableness step only."}
+  ],
+  "corrections": [
+    {
+      "raw": "Private search doctrine (cat out of the bag search), note: May be defeated by US V Jones",
+      "correct": "CAPTURE ERROR. United States v. Jones, 565 U.S. 400 (2012) is the GPS/trespass-theory case; it has nothing to do with the private-search doctrine and does not 'defeat' it. The private-search doctrine is governed by United States v. Jacobsen, 466 U.S. 109 (1984) and scope-limited by Walter v. United States, 447 U.S. 649 (1980). The Jones reference was dropped from the private-search discussion and Jones is used only as the trespass-theory cross-reference."
+    },
+    {
+      "raw": "Govenment agent (on behalf of, direction, or significant encouragement or participation) US v Jacobsen",
+      "correct": "The state-action / government-agent principle is correctly anchored to Skinner v. Railway Labor Executives' Ass'n, 489 U.S. 602, 614-15 (1989) ('instrument or agent of the Government'; 'turns on the degree of the Government's participation') and Coolidge v. New Hampshire, 403 U.S. 443, 487 (1971). Jacobsen states the governmental-action limit generally but the operative agency standard is articulated in Skinner/Coolidge. The two-part agency test (govt knowledge+acquiescence; private intent to assist LE) is circuit law and is labeled persuasive, not a SCOTUS holding."
+    },
+    {
+      "raw": "Can not exceed scope of private search (Walterson)",
+      "correct": "Case name is Walter v. United States, 447 U.S. 649 (1980), not 'Walterson.'"
+    },
+    {
+      "raw": "search -physical intrusion const protected area or intrusion upon a reasonable expectation of privacy.",
+      "correct": "Stated correctly as the two-theory definition; the trespass theory requires a physical intrusion on a constitutionally protected area to obtain information (Jones), and the privacy theory requires invading a reasonable expectation of privacy (Katz). Deep treatment cross-linked to [[2 searches under 4th Amendment]] rather than duplicated."
+    },
+    {
+      "raw": "DC v Heller 2008 (codified pre-existing right) — listed among 4A foundational cases",
+      "correct": "Heller is a SECOND AMENDMENT case, not Fourth Amendment authority. Kept out of the Key cases table and confined to a single labeled nuance bullet, cited only for the 'codify a pre-existing right' framing (verbatim confirmed)."
+    }
+  ]
+}

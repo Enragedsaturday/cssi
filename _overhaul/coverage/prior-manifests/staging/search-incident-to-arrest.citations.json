@@ -1,0 +1,291 @@
+{
+  "page": "Search Incident to Arrest (SITA)",
+  "slug": "search-incident-to-arrest",
+  "cases": [
+    {
+      "bluebook": "Chimel v. California, 395 U.S. 752 (1969)",
+      "cluster_id": 107979,
+      "opinion_id": 9841975,
+      "cl_url": "https://www.courtlistener.com/opinion/107979/chimel-v-california/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Foundational scope of search incident to arrest: the arrestee's person and the area 'within his immediate control' — meaning the area from within which he might gain possession of a weapon or destructible evidence ('wingspan'). Justified by officer safety and evidence preservation.",
+      "proposition_checked": "SITA scope = arrestee + area of immediate control / wingspan.",
+      "quotes": [
+        {
+          "text": "There is ample justification, therefore, for a search of the arrestee’s person and the area “within his immediate control” — construing that phrase to mean the area from within which he might gain possession of a weapon or destructible evidence.",
+          "pinpoint": "395 U.S. at 763",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational research-add. The twin rationales (officer safety + evidence preservation) are the engine of Gant and Davis."
+    },
+    {
+      "bluebook": "United States v. Robinson, 414 U.S. 218 (1973)",
+      "cluster_id": 108893,
+      "opinion_id": 9425474,
+      "cl_url": "https://www.courtlistener.com/opinion/108893/united-states-v-robinson/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "A lawful custodial arrest categorically authorizes a full search of the arrestee's person; the search needs no additional justification (no case-by-case showing that weapons or evidence are present). It is the fact of the lawful arrest that establishes the authority to search.",
+      "proposition_checked": "Full search of the person on a lawful custodial arrest; arrest justifies the search.",
+      "quotes": [
+        {
+          "text": "It is the fact of the lawful arrest which establishes the authority to search, and we hold that in the case of a lawful custodial arrest a full search of the person is not only an exception to the warrant requirement of the Fourth Amendment, but is also a “reasonable” search under that Amendment.",
+          "pinpoint": "414 U.S. at 235",
+          "confirmed": true
+        }
+      ],
+      "notes": "The bright-line rule that Riley later declines to extend to digital data."
+    },
+    {
+      "bluebook": "Riley v. California, 573 U.S. 373 (2014)",
+      "cluster_id": 2680439,
+      "opinion_id": 2680439,
+      "cl_url": "https://www.courtlistener.com/opinion/2680439/riley-v-california/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "The Robinson bright-line search-incident rule does NOT extend to the digital contents of a cell phone seized incident to arrest. Officers must generally get a warrant before searching phone data, because digital data poses neither an officer-safety nor an evidence-destruction risk of the kind Chimel/Robinson address.",
+      "proposition_checked": "SITA bright-line does not extend to digital devices — 'get a warrant.'",
+      "quotes": [
+        {
+          "text": "Our answer to the question of what police must do before searching a cell phone seized incident to an arrest is accordingly simple — get a warrant.",
+          "pinpoint": "573 U.S. at 403",
+          "confirmed": true
+        },
+        {
+          "text": "Digital data stored on a cell phone cannot itself be used as a weapon to harm an arresting officer or to effectuate the arrestee's escape.",
+          "pinpoint": "573 U.S. at 387",
+          "confirmed": true
+        }
+      ],
+      "notes": "Cluster 2680439 has a single sub-opinion equal to the cluster id, so opinion_id 2680439 is correct (consolidated with United States v. Wurie). CL caseName field reads 'Riley v. Cal. United States'."
+    },
+    {
+      "bluebook": "New York v. Belton, 453 U.S. 454 (1981)",
+      "cluster_id": 110559,
+      "opinion_id": 9428488,
+      "cl_url": "https://www.courtlistener.com/opinion/110559/new-york-v-belton/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Defines the SCOPE of a vehicle search incident to arrest: on a lawful custodial arrest of a vehicle occupant, police may search the passenger compartment and any containers found within it.",
+      "proposition_checked": "Vehicle SITA scope = passenger compartment + containers therein (the 'where').",
+      "quotes": [
+        {
+          "text": "when a policeman has made a lawful custodial arrest of the occupant of an automobile, he may, as a contemporaneous incident of that arrest, search the passenger compartment of that automobile.",
+          "pinpoint": "453 U.S. at 460",
+          "confirmed": true
+        },
+        {
+          "text": "It follows from this conclusion that the police may also examine the contents of any containers found within the passenger compartment ...",
+          "pinpoint": "453 U.S. at 460",
+          "confirmed": true
+        }
+      ],
+      "notes": "PRIMARY HOME = this SITA page. Now read together with (and cabined by) Gant."
+    },
+    {
+      "bluebook": "Arizona v. Gant, 556 U.S. 332 (2009)",
+      "cluster_id": 145887,
+      "opinion_id": 9435359,
+      "cl_url": "https://www.courtlistener.com/opinion/145887/arizona-v-gant/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Cabins Belton. A vehicle search incident to a recent occupant's arrest is permitted only when (1) the arrestee is unsecured and within reaching distance of the passenger compartment at the time of the search (the Chimel/officer-safety prong), OR (2) it is reasonable to believe evidence relevant to the crime of arrest might be found in the vehicle (the evidentiary prong, unique to the vehicle context).",
+      "proposition_checked": "Vehicle SITA 'when' = (a) unsecured arrestee within reach, OR (b) reason to believe evidence of the crime of arrest is in the vehicle.",
+      "quotes": [
+        {
+          "text": "the Chimel rationale authorizes police to search a vehicle incident to a recent occupant’s arrest only when the arrestee is unsecured and within reaching distance of the passenger compartment at the time of the search.",
+          "pinpoint": "556 U.S. at 343",
+          "confirmed": true
+        },
+        {
+          "text": "circumstances unique to the vehicle context justify a search incident to a lawful arrest when it is “reasonable to believe evidence relevant to the crime of arrest might be found in the vehicle.”",
+          "pinpoint": "556 U.S. at 343-44 (quoting Thornton, 541 U.S. at 632 (Scalia, J., concurring in judgment))",
+          "confirmed": true
+        }
+      ],
+      "notes": "PRIMARY HOME = this SITA page. Cluster id 145887 also appears as a sub-opinion id — majority opinion is 9435359 (resolved before reading)."
+    },
+    {
+      "bluebook": "United States v. Howard Davis, 997 F.3d 191 (4th Cir. 2021)",
+      "cluster_id": 4881258,
+      "opinion_id": 4685037,
+      "cl_url": "https://www.courtlistener.com/opinion/4881258/united-states-v-howard-davis/",
+      "weight": "Circuit (4th) — persuasive",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Gant's FIRST holding (the Chimel reachability/officer-safety prong) applies OUTSIDE the vehicle context — to non-vehicular containers such as a backpack. Police may search such a container incident to a lawful arrest only when the arrestee is unsecured and within reaching distance of it at the time of the search. Because Davis was secured and not within reach of his backpack, the search was unlawful; suppression ordered.",
+      "proposition_checked": "Capture gave NO proposition — TASK: state the real SITA holding. RESULT: it is a genuinely useful, narrowly-stated SITA-scope point (extends Gant prong-1 reachability to backpacks/containers).",
+      "quotes": [
+        {
+          "text": "we conclude that the first Gant holding applies to searches of non-vehicular containers and conclude that police officers can conduct warrantless searches of non-vehicular containers incident to a lawful arrest “only when the arrestee is unsecured and within reaching distance of the [container] at the time of the search.”",
+          "pinpoint": "997 F.3d at 199 (quoting Gant, 556 U.S. at 343)",
+          "confirmed": true
+        },
+        {
+          "text": "the record reflects that Davis was secure and not within reaching distance of his backpack when [the officer] searched it. As such, there is no factual basis for finding that this was a proper search incident to arrest under the first Gant holding.",
+          "pinpoint": "997 F.3d at 202",
+          "confirmed": true
+        }
+      ],
+      "notes": "VERIFICATION TASK COMPLETE — NOT mischaracterized; useful. Persuasive only. Note the supporting consensus the court cites: 3d Cir. (Shakir), 9th Cir. (Cook), 10th Cir. (Knapp) agree; no circuit holds otherwise; 5th (Curtis) and 8th (Perdoma) declined to reach the question. Recommend the writer use it narrowly — as circuit authority extending Gant prong-1 reachability to containers — not as a SCOTUS-level rule."
+    },
+    {
+      "bluebook": "Illinois v. Lafayette, 462 U.S. 640 (1983)",
+      "cluster_id": 110976,
+      "opinion_id": 9429258,
+      "cl_url": "https://www.courtlistener.com/opinion/110976/illinois-v-lafayette/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "As part of the routine booking/incarceration process (a stationhouse inventory), police may search any container or article in an arrestee's possession in accordance with established inventory procedures — this is administratively distinct from a search incident to arrest.",
+      "proposition_checked": "Booking / stationhouse inventory of arrestee's effects per established procedures.",
+      "quotes": [
+        {
+          "text": "we hold that it is not “unreasonable” for police, as part of the routine procedure incident to incarcerating an arrested person, to search any container or article in his possession, in accordance with established inventory procedures.",
+          "pinpoint": "462 U.S. at 648",
+          "confirmed": true
+        }
+      ],
+      "notes": "Anchor for the Booking & Inventory section. Inventory is justified administratively (not by SITA), and depends on a standardized procedure."
+    },
+    {
+      "bluebook": "South Dakota v. Opperman, 428 U.S. 364 (1976)",
+      "cluster_id": 109537,
+      "opinion_id": 9426579,
+      "cl_url": "https://www.courtlistener.com/opinion/109537/south-dakota-v-opperman/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "An inventory search of a lawfully impounded vehicle conducted pursuant to standard police procedures, and not as a pretext concealing an investigatory motive, is reasonable under the Fourth Amendment.",
+      "proposition_checked": "Inventory must follow standardized procedures and not be a pretext for investigation.",
+      "quotes": [
+        {
+          "text": "there is no suggestion whatever that this standard procedure ... was a pretext concealing an investigatory police motive.",
+          "pinpoint": "428 U.S. at 376",
+          "confirmed": true
+        },
+        {
+          "text": "in following standard police procedures ... the conduct of the police was not “unreasonable” under the Fourth Amendment.",
+          "pinpoint": "428 U.S. at 376",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational research-add. First leg of the inventory trilogy."
+    },
+    {
+      "bluebook": "Colorado v. Bertine, 479 U.S. 367 (1987)",
+      "cluster_id": 111788,
+      "opinion_id": 9430773,
+      "cl_url": "https://www.courtlistener.com/opinion/111788/colorado-v-bertine/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Inventory searches (including opening closed containers) are permissible where police discretion is exercised according to standardized criteria and on the basis of something other than suspicion of evidence of criminal activity; inventories must be conducted per standardized criteria.",
+      "proposition_checked": "Inventory discretion must be cabined by standardized criteria, not investigatory suspicion.",
+      "quotes": [
+        {
+          "text": "[Lafayette] prohibits the exercise of police discretion so long as that discretion is exercised according to standard criteria and on the basis of something other than suspicion of evidence of criminal activity.",
+          "pinpoint": "479 U.S. at 375-76",
+          "confirmed": true
+        },
+        {
+          "text": "Our decisions have always adhered to the requirement that inventories be conducted according to standardized criteria.",
+          "pinpoint": "479 U.S. at 374 n.6",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational research-add. Second leg of the inventory trilogy. Opinion id 9430773 (taken from citation markup in Braxton and Wells)."
+    },
+    {
+      "bluebook": "Florida v. Wells, 495 U.S. 1 (1990)",
+      "cluster_id": 112412,
+      "opinion_id": 9431971,
+      "cl_url": "https://www.courtlistener.com/opinion/112412/florida-v-wells/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "An inventory search must not be a ruse for general rummaging to discover incriminating evidence; standardized criteria or established routine must govern the opening of containers. The policy must be designed to produce an inventory, and the officer must not have unbridled latitude.",
+      "proposition_checked": "Inventory cannot be a ruse / pretext for an investigatory search — the central guardrail.",
+      "quotes": [
+        {
+          "text": "an inventory search must not be a ruse for a general rummaging in order to discover incriminating evidence. The policy or practice governing inventory searches should be designed to produce an inventory.",
+          "pinpoint": "495 U.S. at 4",
+          "confirmed": true
+        },
+        {
+          "text": "The individual police officer must not be allowed so much latitude that inventory searches are turned into “a purposeful and general means of discovering evidence of crime.”",
+          "pinpoint": "495 U.S. at 4 (quoting Bertine, 479 U.S. at 376)",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational research-add. Third leg of the inventory trilogy — the crispest statement of the 'standardized criteria, not a ruse' guardrail."
+    },
+    {
+      "bluebook": "United States v. Evans, 937 F.2d 1534 (10th Cir. 1991)",
+      "cluster_id": 564407,
+      "opinion_id": 564407,
+      "cl_url": "https://www.courtlistener.com/opinion/564407/united-states-v-daryl-lee-evans/",
+      "weight": "Circuit (10th) — persuasive",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "UPHELD an inventory search of a carry-on bag (cocaine found in a container) conducted at a bus station: the officer followed the department's standardized inventory policy, there was no probable cause beforehand, and there was no evidence the search was a ruse for investigation. Location (bus station vs. stationhouse) did not invalidate it where policy permitted it.",
+      "proposition_checked": "Capture gave no specific proposition — the 'good inventory' example that applies Wells; contrast/companion to Braxton.",
+      "quotes": [
+        {
+          "text": "Sergeant Ring adhered to these procedures, and there is no evidence in the record that he anticipated or intended the search to serve any purpose other than that of an inventory of the contents of the bag. Accordingly, we hold the search conducted at the bus station of the carry-on bag was a lawful inventory search ...",
+          "pinpoint": "937 F.2d at 1539",
+          "confirmed": true
+        }
+      ],
+      "notes": "Persuasive 10th Cir. The textbook VALID inventory — the deliberate foil to Braxton ('bad case'). Pair with binding Opperman/Bertine/Wells."
+    },
+    {
+      "bluebook": "United States v. Braxton, 61 F.4th 830 (10th Cir. 2023)",
+      "cluster_id": 9381854,
+      "opinion_id": 9377330,
+      "cl_url": "https://www.courtlistener.com/opinion/9381854/united-states-v-braxton/",
+      "weight": "Circuit (10th) — persuasive",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "The government CONCEDED the warrantless search of Braxton's backpack was not a valid search incident to arrest, then relied on inevitable discovery (would have impounded under community caretaking, then inventoried per policy). The Tenth Circuit REVERSED and ordered suppression: the government failed to prove it would have validly impounded the backpack, because a companion (Gay) had arrived at Braxton's request and repeatedly asked to take it — a reasonable alternative to impoundment (Sanders factor 3). Without a valid impoundment there is no valid inventory, so inevitable discovery fails. Mere compliance with a standardized property policy does not by itself establish a reasonable, non-pretextual community-caretaking rationale.",
+      "proposition_checked": "Instructor called it a 'bad case' — TASK: state the holding and the critique angle.",
+      "quotes": [
+        {
+          "text": "the government’s stated community-caretaking interest in safeguarding Braxton’s personal property by impounding it is significantly undercut by the presence of an individual who arrived on the scene at Braxton’s request and repeatedly asked to take possession of the backpack throughout the arrest process.",
+          "pinpoint": "61 F.4th at 833",
+          "confirmed": true
+        },
+        {
+          "text": "the existence of and compliance with such a policy does not by itself establish a reasonable community-caretaking rationale.",
+          "pinpoint": "61 F.4th at 838",
+          "confirmed": true
+        }
+      ],
+      "notes": "VERIFICATION TASK COMPLETE. Why an instructor dislikes it ('bad case' = bad FOR law enforcement): it is defense-friendly — it (1) forecloses the routine 'we'd have inventoried it anyway' inevitable-discovery backstop when the predicate IMPOUNDMENT is itself unjustified; (2) requires officers to consider alternatives to impoundment (e.g., handing property to a present companion); (3) holds that standardized-policy compliance ALONE is not enough; and (4) second-guesses on-scene officer judgment, partly via bodycam. It is NOT an example of upholding a questionable inventory — it is the opposite: it suppressed. Teach it as the cautionary contrast to Evans."
+    }
+  ],
+  "corrections": [
+    "Capture 'US V Robinson 1973' -> United States v. Robinson, 414 U.S. 218 (1973). Correct.",
+    "Capture 'Illinois v. Lafayette | 462 U.S. 640 (1983)' correct as captured.",
+    "Capture 'US v Evans 10th cir 1991' -> United States v. Daryl Lee Evans, 937 F.2d 1534 (10th Cir. 1991). Correct (full party name added).",
+    "Capture 'US v Braxton, 10th Cic 2023' -> United States v. Braxton, 61 F.4th 830 (10th Cir. 2023). Correct (typo 'Cic' -> Cir.).",
+    "Capture 'US v Davis 4th Cir 2021' -> United States v. Howard Davis, 997 F.3d 191 (4th Cir. 2021). Correct.",
+    "Riley official cite is 573 U.S. 373 (2014); capture said '2014' only. CL caseName field reads 'Riley v. Cal. United States' (consolidated with United States v. Wurie) — the case is correct."
+  ],
+  "flags": [
+    "Davis (4th Cir.) VERIFICATION: capture listed it bare; it is a GENUINELY USEFUL, narrowly-stated SITA point — Gant prong-1 reachability extended to non-vehicular containers (backpacks). Use narrowly as persuasive circuit authority, not as a SCOTUS rule. 3d/9th/10th Cir. agree; no circuit contra; 5th & 8th declined to reach.",
+    "Braxton (10th Cir.) VERIFICATION: 'bad case' = bad FOR law enforcement (defense-friendly suppression). It rejects the inventory/inevitable-discovery workaround where impoundment itself is unjustified and where a reasonable alternative existed; holds policy-compliance alone is insufficient. Teach as the cautionary contrast to Evans, NOT as upholding a questionable inventory.",
+    "ROUTING (surface in report): Booking & Inventory folded in as a SECTION within SITA (administratively distinct from SITA proper — make the distinction explicit in the page so students don't conflate the inventory exception with the search-incident exception).",
+    "Belton & Gant PRIMARY HOME = this page (Traffic Stops only cross-references them).",
+    "Riley's SITA holding (no digital) cross-links to Plain View's digital-search section.",
+    "No SCOTUS-level circuit split flagged. Davis-type 'does Gant prong-1 apply outside vehicles' question: a near-consensus among circuits that reached it, with 5th/8th expressly reserving — note this as an open-but-leaning-uniform question, not a clean split.",
+    "Cluster/opinion-id collisions resolved before reading for Gant (145887 -> 9435359), Davis (4881258 -> 4685037), Braxton (9381854 -> 9377330)."
+  ]
+}

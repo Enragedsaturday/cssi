@@ -1,0 +1,126 @@
+{
+  "page": "Consent Searches",
+  "slug": "consent-searches",
+  "cases": [
+    {
+      "bluebook": "Schneckloth v. Bustamonte, 412 U.S. 218 (1973)",
+      "cluster_id": 108800,
+      "opinion_id": 108800,
+      "cl_url": "https://www.courtlistener.com/opinion/108800/schneckloth-v-bustamonte/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "The voluntariness of consent to search is a question of fact determined from the TOTALITY OF ALL THE CIRCUMSTANCES; the government need NOT prove the consenting person knew of the right to refuse (no Miranda-style warning required). Knowledge of the right to refuse is one factor, not a sine qua non.",
+      "proposition_checked": "Voluntariness = totality of the circumstances; no warning/knowledge-of-right-to-refuse requirement.",
+      "quotes": [
+        {"text": "the question whether a consent to a search was in fact \"voluntary\" or was the product of duress or coercion, express or implied, is a question of fact to be determined from the totality of all the circumstances", "pinpoint": "412 U.S. at 227", "confirmed": true},
+        {"text": "While knowledge of the right to refuse consent is one factor to be taken into account, the government need not establish such knowledge as the sine qua non of an effective consent", "pinpoint": "412 U.S. at 227", "confirmed": true}
+      ],
+      "notes": "FOUNDATIONAL add. The voluntariness spine of the whole doctrine and the source of the 'Voluntary' prong in the capture. Supplies the answer to the capture's open question on warnings: none required."
+    },
+    {
+      "bluebook": "Florida v. Jimeno, 500 U.S. 248 (1991)",
+      "cluster_id": 112595,
+      "opinion_id": 112595,
+      "cl_url": "https://www.courtlistener.com/opinion/112595/florida-v-jimeno/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "The SCOPE of a consent search is measured by OBJECTIVE REASONABLENESS — what the typical reasonable person would have understood by the exchange between officer and suspect. General consent to search a car for drugs reasonably extends to closed containers inside that might hold drugs; police need not separately request permission for each container. A suspect may delimit the scope as he chooses.",
+      "proposition_checked": "Scope of consent = objective reasonableness; general consent reaches containers a reasonable person would understand are included; suspect may limit scope.",
+      "quotes": [
+        {"text": "The standard for measuring the scope of a suspect's consent under the Fourth Amendment is that of \"objective\" reasonableness—what would the typical reasonable person have understood by the exchange between the officer and the suspect?", "pinpoint": "500 U.S. at 251", "confirmed": true},
+        {"text": "A suspect may of course delimit as he chooses the scope of the search to which he consents", "pinpoint": "500 U.S. at 252", "confirmed": true}
+      ],
+      "notes": "FOUNDATIONAL add. Source of the capture's 'Scope' prong. The 'delimit as he chooses' line is the SCOTUS basis for the right to limit (and the textual hook for the revocation question) — see flags."
+    },
+    {
+      "bluebook": "United States v. Watson, 423 U.S. 411 (1976)",
+      "cluster_id": 109352,
+      "opinion_id": 109352,
+      "cl_url": "https://www.courtlistener.com/opinion/109352/united-states-v-watson/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Custody alone does not render consent involuntary. The fact of being under arrest / in custody is ONE factor in the totality-of-circumstances voluntariness analysis, never per se coercion. Watson's consent (given on a public street while under arrest) was voluntary.",
+      "proposition_checked": "Detained/handcuffed person CAN give valid consent; custody is a TOC factor, not per se involuntary.",
+      "quotes": [
+        {"text": "He had been arrested and was in custody, but his consent was given while on a public street, not in the confines of the police station. Moreover, the fact of custody alone has never been enough in itself to demonstrate a coerced confession or consent to search", "pinpoint": "423 U.S. at 424", "confirmed": true}
+      ],
+      "notes": "Capture cite 'US v Watson 1976' is correct. Capture spells out exactly Watson's point: handcuffed/custody people CAN consent; it is a voluntariness factor. Note Watson itself flags that consent by a person lawfully in custody at the STATION was a question Schneckloth reserved (fn 29) — so the further from a neutral public setting, the heavier the government's burden."
+    },
+    {
+      "bluebook": "Illinois v. Rodriguez, 497 U.S. 177 (1990)",
+      "cluster_id": 112475,
+      "opinion_id": 112475,
+      "cl_url": "https://www.courtlistener.com/opinion/112475/illinois-v-rodriguez/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "APPARENT AUTHORITY: a warrantless entry on third-party consent is valid if officers REASONABLY (though mistakenly) believed the consenting person had common authority over the premises. The validity of consent-to-enter is judged by an objective standard — would the facts available warrant a person of reasonable caution in the belief that the consenting party had authority?",
+      "proposition_checked": "Apparent (even mistaken) authority validates third-party consent if the officer's belief was objectively reasonable.",
+      "quotes": [
+        {"text": "Whether a warrantless entry is valid when based upon the consent of a third party whom the police, at the time of the entry, reasonably believe to possess common authority over the premises, but who in fact does not do so", "pinpoint": "497 U.S. at 179", "confirmed": true},
+        {"text": "determination of consent to enter must \"be judged against an objective standard: would the facts available to the officer at the moment . . . `warrant a man of reasonable caution in the belief'\" that the consenting party had authority over the premises?", "pinpoint": "497 U.S. at 188", "confirmed": true}
+      ],
+      "notes": "FOUNDATIONAL add. Grounds the capture's 'Authority' prong. Apparent authority must be REASONABLE — if a reasonable officer would doubt the authority, further inquiry is required before relying on the consent (497 U.S. at 188-89)."
+    },
+    {
+      "bluebook": "United States v. Matlock, 415 U.S. 164 (1974)",
+      "cluster_id": 108967,
+      "opinion_id": 108967,
+      "cl_url": "https://www.courtlistener.com/opinion/108967/united-states-v-matlock/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "COMMON AUTHORITY: consent of one who possesses common authority over premises or effects is valid against an absent, nonconsenting co-occupant. Common authority rests on MUTUAL USE and joint access/control — not on mere property/legal title — because co-inhabitants assume the risk that any one of them may permit a search of the common area.",
+      "proposition_checked": "A co-occupant with common authority can consent for an ABSENT co-occupant; authority = mutual use / joint access, not property law.",
+      "quotes": [
+        {"text": "the consent of one who possesses common authority over premises or effects is valid as against the absent, nonconsenting person with whom that authority is shared", "pinpoint": "415 U.S. at 170", "confirmed": true},
+        {"text": "mutual use of the property by persons generally having joint access or control for most purposes, so that it is reasonable to recognize that any of the co-inhabitants has the right to permit the inspection in his own right and that the others have assumed the risk that one of their number might permit the common area to be searched", "pinpoint": "415 U.S. at 171 n.7", "confirmed": true}
+      ],
+      "notes": "FOUNDATIONAL add (routing cross-links to Abandonment via assumption-of-risk). The 'person-specific authority' point in the capture (passenger's bag vs driver's consent) flows from this: authority is over the AREA/effect the person actually shares, not everything in the car."
+    },
+    {
+      "bluebook": "Georgia v. Randolph, 547 U.S. 103 (2006)",
+      "cluster_id": 145669,
+      "opinion_id": 9434962,
+      "cl_url": "https://www.courtlistener.com/opinion/145669/georgia-v-randolph/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "A PHYSICALLY PRESENT co-occupant's express refusal to consent prevails over another occupant's consent, rendering the warrantless search unreasonable and invalid as to the objector. Co-tenant consent does not override a present, objecting co-tenant.",
+      "proposition_checked": "Present, expressly objecting co-tenant defeats another tenant's consent.",
+      "quotes": [
+        {"text": "a physically present co-occupant's stated refusal to permit entry prevails, rendering the warrantless search unreasonable and invalid as to him", "pinpoint": "547 U.S. at 106", "confirmed": true},
+        {"text": "a warrantless search of a shared dwelling for evidence over the express refusal of consent by a physically present resident cannot be justified as reasonable as to him on the basis of consent given to the police by another resident", "pinpoint": "547 U.S. at 120", "confirmed": true}
+      ],
+      "notes": "FOUNDATIONAL add. Cluster 145669; READ the lead opinion (Souter) id 9434962, NOT the cluster id. The holding is expressly limited to the PRESENT objector — the hook Fernandez later exploits."
+    },
+    {
+      "bluebook": "Fernandez v. California, 571 U.S. 292 (2014)",
+      "cluster_id": 2654534,
+      "opinion_id": 9798884,
+      "cl_url": "https://www.courtlistener.com/opinion/2654534/fernandez-v-california/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Randolph is limited to a PHYSICALLY PRESENT objector. Once the objecting occupant is lawfully removed (e.g., by arrest), the remaining occupant's consent is valid — so long as the removal was OBJECTIVELY REASONABLE (not a pretext to get rid of the objector).",
+      "proposition_checked": "After the objector is removed for objectively reasonable reasons, a remaining co-tenant may validly consent.",
+      "quotes": [
+        {"text": "Our opinion in Randolph took great pains to emphasize that its holding was limited to situations in which the objecting occupant is physically present. We therefore refuse to extend Randolph to the very different situation in this case, where consent was provided by an abused woman well after her male partner had been removed", "pinpoint": "571 U.S. at 296-97", "confirmed": true},
+        {"text": "the Randolph dictum is best understood not to require an inquiry into the subjective intent of officers who detain or arrest a potential objector but instead to refer to situations in which the removal of the potential objector is not objectively reasonable", "pinpoint": "571 U.S. at 302", "confirmed": true}
+      ],
+      "notes": "FOUNDATIONAL add. Cluster 2654534; READ lead opinion (Alito) id 9798884, NOT the cluster id. The pairing with Randolph is the operational rule: present objector = no; objector lawfully removed = yes. Removal must be objectively reasonable (lawful arrest fine; staged removal not)."
+    }
+  ],
+  "corrections": [
+    {"item": "Schneckloth spelling", "note": "Capture did not name it; added as the controlling voluntariness authority. Correct caption is Schneckloth v. Bustamonte, 412 U.S. 218 (1973)."},
+    {"item": "Watson date", "note": "Capture 'US V Watson 1976' is correct — 423 U.S. 411 (1976). No correction needed, confirmed."}
+  ],
+  "flags": [
+    "CONTINUOUS RIGHT TO REVOKE (capture open question): The right to LIMIT scope is settled — Jimeno, 500 U.S. at 252 ('A suspect may of course delimit as he chooses the scope of the search to which he consents'). Federal circuits widely recognize that consent, once given, may be WITHDRAWN/REVOKED by an unequivocal act or statement before/ during the search; this is circuit-level (not a SCOTUS holding). Recommend stating it as a recognized circuit principle anchored to Jimeno's scope-limitation language, WITHOUT asserting a single named case as binding. Do NOT cite 'Painter' as settled — not independently verified here.",
+    "Person-specific authority (passenger bag vs driver consent): correct and grounded in Matlock common-authority / Jimeno scope — a driver's consent to search 'the car' does not necessarily extend to a passenger's personal effects the driver has no common authority over. This is the operational point of the capture's 'Authority (person specific)' prong; phrase as objective-reasonableness + common-authority, not a bright line.",
+    "Custody/station nuance: Watson's voluntary-consent holding arose on a PUBLIC STREET; consent obtained from a person held at the STATION was expressly RESERVED in Schneckloth (412 U.S. at 240-41 & n.29). Heavier government burden the more custodial/coercive the setting."
+  ]
+}

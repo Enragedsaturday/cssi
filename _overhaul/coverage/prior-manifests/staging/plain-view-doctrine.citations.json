@@ -1,0 +1,190 @@
+{
+  "page": "Plain View Doctrine",
+  "slug": "plain-view-doctrine",
+  "cases": [
+    {
+      "bluebook": "Horton v. California, 496 U.S. 128 (1990)",
+      "cluster_id": 112448,
+      "opinion_id": 112448,
+      "cl_url": "https://www.courtlistener.com/opinion/112448/horton-v-california/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Sets the modern plain-view SEIZURE test and DROPS the inadvertence requirement: a warrantless seizure of an item in plain view is lawful if (1) the officer is lawfully in the position from which the item can be plainly viewed; (2) the item's incriminating character is IMMEDIATELY APPARENT (i.e., probable cause without manipulation); and (3) the officer has a lawful RIGHT OF ACCESS to the item. Inadvertent discovery is NOT a necessary condition.",
+      "proposition_checked": "Horton's 3 prongs (lawful presence; immediately apparent/PC; lawful right of access); inadvertence abandoned.",
+      "quotes": [
+        {"text": "not only must the item be in plain view; its incriminating character must also be \"immediately apparent.\"", "pinpoint": "496 U.S. at 136", "confirmed": true},
+        {"text": "not only must the officer be lawfully located in a place from which the object can be plainly seen, but he or she must also have a lawful right of access to the object itself", "pinpoint": "496 U.S. at 137", "confirmed": true}
+      ],
+      "notes": "CAPTURED, correct cite. Horton's 3 prongs = the spine of the page. Prong 2 ('immediately apparent') means probable cause (per Hicks) and bars manipulation. Inadvertence (a Coolidge plurality condition) is expressly abandoned (496 U.S. at 130, 141-42)."
+    },
+    {
+      "bluebook": "Coolidge v. New Hampshire, 403 U.S. 443 (1971)",
+      "cluster_id": 108377,
+      "opinion_id": 108377,
+      "cl_url": "https://www.courtlistener.com/opinion/108377/coolidge-v-new-hampshire/",
+      "weight": "binding (SCOTUS) (plurality on plain view)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "ORIGIN of the modern plain-view doctrine (Stewart plurality). Plain view justifies a warrantless seizure only where the incriminating nature is 'immediately apparent'; the doctrine 'may not be used to extend a general exploratory search from one object to another.' Originally also required 'inadvertent' discovery — a condition LATER ABANDONED in Horton.",
+      "proposition_checked": "Coolidge = doctrinal origin + the anti-general-search limiting principle; inadvertence requirement (later dropped).",
+      "quotes": [
+        {"text": "the extension of the original justification is legitimate only where it is immediately apparent to the police that they have evidence before them; the \"plain view\" doctrine may not be used to extend a general exploratory search from one object to another until something incriminating at last emerges", "pinpoint": "403 U.S. at 466-67", "confirmed": true}
+      ],
+      "notes": "FOUNDATIONAL add. Plurality opinion. The 'no general exploratory search' principle is the throughline to the DIGITAL general-warrant concern below. Note for writer: Coolidge's plain-view discussion is a plurality; its inadvertence prong was superseded by Horton."
+    },
+    {
+      "bluebook": "Arizona v. Hicks, 480 U.S. 321 (1987)",
+      "cluster_id": 111834,
+      "opinion_id": 111834,
+      "cl_url": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Moving stereo equipment a few inches to read serial numbers was a SEARCH separate from the lawful entry, and 'immediately apparent' requires PROBABLE CAUSE — reasonable suspicion is not enough to invoke plain view. KEY: a 'cursory inspection' that merely looks at what is already exposed, without disturbing it, is NOT a search; any manipulation crosses the line.",
+      "proposition_checked": "Moving an item = a search; plain view requires probable cause (no manipulation); pure observation of what's exposed is not a search.",
+      "quotes": [
+        {"text": "Officer Nelson's moving of the equipment, however, did constitute a \"search\" separate and apart from the search for the shooter, victims, and weapons that was the lawful objective of his entry into the apartment", "pinpoint": "480 U.S. at 324-25", "confirmed": true},
+        {"text": "We now hold that probable cause is required. To say otherwise would be to cut the \"plain view\" doctrine loose from its theoretical and practical moorings", "pinpoint": "480 U.S. at 326", "confirmed": true},
+        {"text": "a truly cursory inspection—one that involves merely looking at what is already exposed to view, without disturbing it—is not a \"search\" for Fourth Amendment purposes", "pinpoint": "480 U.S. at 328", "confirmed": true}
+      ],
+      "notes": "FOUNDATIONAL add. Anchors BOTH instructor distinctions: (a) 'immediately apparent' = PC, no manipulation (prong 2 of Horton); (b) observation-of-the-exposed (not a search) vs disturbing/moving (a search). The cursory-inspection line is the cleanest SCOTUS statement of plain-view-the-OBSERVATION."
+    },
+    {
+      "bluebook": "State v. Tarantino, 322 N.C. 386, 368 S.E.2d 588 (1988)",
+      "cluster_id": 1294594,
+      "opinion_id": 1294594,
+      "cl_url": "https://www.courtlistener.com/opinion/1294594/state-v-tarantino/",
+      "weight": "state — illustrative, non-binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "A reasonable expectation of privacy in a building's interior is NOT eliminated by small (quarter-inch) cracks; an officer who must 'bend and peer with a flashlight' through such cracks to see inside has conducted a SEARCH. Distinguished from US v. Dunn (open-front barn fully exposed). Requiring near-airtight structures to keep 4A rights would be an unfairly exacting standard.",
+      "proposition_checked": "Tiny gaps don't surrender REP; enhanced/probing observation (flashlight through cracks) = a search; distinguished from Dunn open view.",
+      "quotes": [
+        {"text": "This expectation was not unreasonable even though there were small cracks between the boards in the building's back wall. The presence of tiny cracks ... is not the kind of exposure which serves to eliminate a reasonable expectation of privacy", "pinpoint": "368 S.E.2d at 593", "confirmed": true},
+        {"text": "the cracks near the porch floor required him to make a probing examination in order to see inside ... Under these circumstances defendant's reasonable expectation of privacy remained intact", "pinpoint": "368 S.E.2d at 595", "confirmed": true}
+      ],
+      "notes": "CAPTURED, correct cite (also reported 322 N.C. 386). STATE — illustrative only, paired with Horton/Hicks (federal). Notably, the 2026 en banc Herlth opinion expressly relies on Tarantino as its most persuasive out-of-state authority and distinguishes US v. Dunn the same way."
+    },
+    {
+      "bluebook": "Commonwealth v. Herlth, 2026 PA Super 114, No. 183 MDA 2024 (Pa. Super. June 5, 2026) (en banc)",
+      "cluster_id": 10870804,
+      "opinion_id": 11338267,
+      "cl_url": "https://www.courtlistener.com/opinion/10870804/com-v-herlth-j/",
+      "weight": "state — illustrative, non-binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "A closed, opaque shoebox with a one-inch manufacturer's hole, inside a residence, retains a reasonable expectation of privacy; a trooper who shined a flashlight through the hole to identify drugs CONDUCTED A SEARCH (use of an 'artificial aid' to brighten/peer into a closed container is a search), and the search was improper under both the community-caretaking and plain-view exceptions. Adopts Tarantino; distinguishes US v. Dunn.",
+      "proposition_checked": "Small hole in a closed container in a home doesn't defeat REP; shining a flashlight in = a search (artificial vantage/aid); plain view does not justify it.",
+      "quotes": [
+        {"text": "(1) Appellant had a reasonable expectation of privacy in the contents of the shoebox; (2) the trooper conducted a search by shining a flashlight into a small hole in the shoebox, and (3) the search was improper under the community caretaking and plain view exceptions to the Fourth Amendment", "pinpoint": "2026 PA Super 114, slip op. at 1", "confirmed": true},
+        {"text": "Trooper Adams’ act of shining a flashlight into the hole of the closed shoebox was a search", "pinpoint": "slip op. at 7", "confirmed": true},
+        {"text": "his use of an artificial aid to “brighten” the shoebox interior still constituted an unlawful search into an area in which Appellant enjoyed a reasonable expectation of privacy", "pinpoint": "slip op. at 22 (responding to dissent)", "confirmed": true}
+      ],
+      "notes": "RESOLVED + VERIFIED on CourtListener. CL name search initially missed it, but full-text 'Herlth flashlight shoebox' surfaced 3 hits: a 2025 PA Super 73 PANEL decision (Mar 2025, clusters 10362673/10362674) AND the controlling 2026 PA Super 114 EN BANC decision (cluster 10870804, filed 2026-06-05). Instructor's cite (2026 PA Super 114) = the en banc opinion; READ lead opinion id 11338267 (NOT the cluster id; dissent is 11338268). STATE — illustrative, non-binding; pair with Horton/Hicks. Instructor's 'artificial vantage point' is a paraphrase of the opinion's 'artificial aid'/flashlight reasoning; the 'tip-toes over fence ok / bend under cracked garage no-go' line is the instructor's own illustration of the open-view vs enhanced-observation line, consistent with Tarantino/Dunn (not a verbatim Herlth quote)."
+    },
+    {
+      "bluebook": "United States v. Tuggle, 4 F.4th 505 (7th Cir. 2021)",
+      "cluster_id": 4899735,
+      "opinion_id": 4703514,
+      "cl_url": "https://www.courtlistener.com/opinion/4899735/united-states-v-travis-tuggle/",
+      "weight": "persuasive (7th Cir.)",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Long-term pole-camera surveillance of a home's exterior did not violate the Fourth Amendment under existing doctrine, BUT the court warned that proliferating digital/surveillance technologies may outstrip the Katz framework — 'it might soon be time to revisit the Fourth Amendment test established in Katz.'",
+      "proposition_checked": "Digital/surveillance tech may require revisiting Katz (the future-of-plain-view framing).",
+      "quotes": [
+        {"text": "it might soon be time to revisit the Fourth Amendment test established in Katz", "pinpoint": "4 F.4th at 527", "confirmed": true}
+      ],
+      "notes": "CAPTURED, correct cite. Cluster 4899735; READ opinion id 4703514. The 'Katz-revisit' line is VERBATIM-VERIFIED. CAUTION: the capture's longer quote ('advent of digital, cloud-based, and smart capabilities ... seldom contravene the traditional limitations') is a PARAPHRASE/composite — 'cloud-based' does not appear in the opinion; use only the verified revisit-Katz line. The revisit language is in a concurrence."
+    },
+    {
+      "bluebook": "People v. Hughes, 506 Mich. 512, 958 N.W.2d 98 (2020)",
+      "cluster_id": 4843477,
+      "opinion_id": 4647256,
+      "cl_url": "https://www.courtlistener.com/opinion/4843477/people-of-michigan-v-kristopher-allen-hughes/",
+      "weight": "persuasive (state high court — digital-warrant scope)",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Declines a per se rule that an officer may always review the ENTIRE contents of digital data seized under a warrant on the mere possibility that evidence could be anywhere; such a rule would nullify the Fourth Amendment particularity requirement for cell-phone data. Scope of a digital search must be tethered to the warrant.",
+      "proposition_checked": "No per se rule that entire-device review is always reasonable; particularity limits digital search scope.",
+      "quotes": [
+        {"text": "we decline to adopt a rule that it is always reasonable for an officer to review the entirety of the digital data seized pursuant to a warrant on the basis of the mere possibility that evidence may conceivably be found anywhere on the device", "pinpoint": "958 N.W.2d at 117", "confirmed": true},
+        {"text": "Such a per se rule would effectively nullify the particularity requirement of the Fourth Amendment in the context of cell-phone data", "pinpoint": "958 N.W.2d at 117", "confirmed": true}
+      ],
+      "notes": "CAPTURED, correct cite. Cluster 4843477; READ opinion id 4647256. Quote matches capture. State high-court decision — persuasive on the federal 4A digital-scope question (it discusses the federal particularity requirement)."
+    },
+    {
+      "bluebook": "State v. Volle, 580 P.3d 1223 (Kan. 2025)",
+      "cluster_id": 10811858,
+      "opinion_id": 11278610,
+      "cl_url": "https://www.courtlistener.com/opinion/10811858/state-v-volle/",
+      "weight": "persuasive (state high court — digital-warrant scope)",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Because relevant information may be stored anywhere on a digital device, a warrant ordinarily cannot prescribe in advance exactly how officers must locate data — so broad SEARCHING may be necessary; BUT the warrant must still include a meaningful limiting principle tying the authorized SEIZURE to evidence of a specified offense (search scope vs seizure scope are distinct).",
+      "proposition_checked": "Relevant data may be anywhere (so search latitude exists), but seizure must still be particularly tied to the offense.",
+      "quotes": [
+        {"text": "Because relevant information may be stored anywhere on such a device, it is ordinarily impractical—and sometimes impossible—for a warrant to prescribe in advance how officers must locate that data", "pinpoint": "580 P.3d at 1233", "confirmed": true},
+        {"text": "even though investigators may need to review broad portions of a device's contents to locate relevant material, the warrant must still include a meaningful limiting principle tying the authorized seizure to evidence of a specified offense", "pinpoint": "580 P.3d at 1233", "confirmed": true}
+      ],
+      "notes": "CAPTURED, correct cite. Cluster 10811858; READ opinion id 11278610 (filed 2025). Capture quote verified. Important pairing nuance: Volle gives officers SEARCH latitude (data anywhere) but insists the SEIZURE stay tethered to the offense — the counterweight to Hughes/Mansor."
+    },
+    {
+      "bluebook": "State v. Mansor, 363 Or. 185, 421 P.3d 323 (2018)",
+      "cluster_id": 6656738,
+      "opinion_id": 6534035,
+      "cl_url": "https://www.courtlistener.com/opinion/6656738/state-v-mansor/",
+      "weight": "persuasive (state constitution — illustrative of a use-restriction approach)",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Decided under Article I, section 9 of the OREGON Constitution: the State may not USE information found in a computer search that the warrant did not authorize the search to find (absent another exception) — i.e., a USE RESTRICTION on nonresponsive data, rather than letting plain view sweep it in.",
+      "proposition_checked": "Use restriction on nonresponsive digital data; state-constitutional ground (persuasive only).",
+      "quotes": [
+        {"text": "the state should not be permitted to use information obtained in a computer search if the warrant did not authorize the search for that information, unless some other warrant exception applies", "pinpoint": "421 P.3d at 363", "confirmed": true}
+      ],
+      "notes": "CAPTURED, correct cite. Cluster 6656738; READ opinion id 6534035. Decided EXPRESSLY under the Oregon Constitution (state ground) — so it is PERSUASIVE only on the federal question, exactly as the capture flags ('done under state const, persuasive'). Adopts Orin Kerr's use-restriction-on-nonresponsive-data thesis; cites Riley."
+    },
+    {
+      "bluebook": "United States v. Morton, 46 F.4th 331 (5th Cir. 2022) (en banc)",
+      "cluster_id": 7859188,
+      "opinion_id": 7803054,
+      "cl_url": "https://www.courtlistener.com/opinion/7859188/united-states-v-morton/",
+      "weight": "persuasive (5th Cir. en banc)",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "En banc 5th Circuit (resolving on good-faith grounds) discusses the digital general-warrant problem and flags, in concurrence, that the Supreme Court may eventually 'recognize an exception to another longstanding Fourth Amendment doctrine, this time plain view' to fit the digital world — expressly raising (without deciding) limits on plain view / use restrictions for nonresponsive data.",
+      "proposition_checked": "Digital searches risk becoming general warrants; possible future plain-view exception/limit for digital (raised, not decided).",
+      "quotes": [
+        {"text": "it would be unsurprising if the Court, again acknowledging the need to adapt rules constructed for the physical world to the reality of the digital world, recognized an exception to another longstanding Fourth Amendment doctrine, this time plain view", "pinpoint": "46 F.4th at 341 (concurrence)", "confirmed": true}
+      ],
+      "notes": "CAPTURED, correct cite (46 F.4th = the EN BANC decision; the 2021 panel was 41 F.4th). Cluster 7859188; READ opinion id 7803054. The 'this time plain view' language matches the capture and appears in a concurrence; it cites Mansor, Kerr, Riley, Carpenter, Kyllo. General-warrant concern RAISED, plain-view exception NOT decided — state accurately as open."
+    },
+    {
+      "bluebook": "Riley v. California, 573 U.S. 373 (2014)",
+      "cluster_id": 2680439,
+      "opinion_id": 2680439,
+      "cl_url": "https://www.courtlistener.com/opinion/2680439/riley-v-cal-united-states/",
+      "weight": "binding (SCOTUS)",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Digital is constitutionally different from physical: cell phones implicate vastly greater privacy interests, so categorical physical-world exceptions do not automatically transfer to digital data — 'get a warrant.' Cross-link anchor for the digital plain-view section.",
+      "proposition_checked": "Digital ≠ physical for 4A purposes (cross-link for the digital section).",
+      "quotes": [
+        {"text": "Our answer to the question of what police must do before searching a cell phone seized incident to an arrest is accordingly simple—get a warrant", "pinpoint": "573 U.S. at 403", "confirmed": true}
+      ],
+      "notes": "CROSS-LINK add (also a verified cluster used on the SITA page). Cluster 2680439 has a single sub-opinion (same id 2680439, no collision). The 'digital is different' principle is the doctrinal premise of the whole digital-plain-view section; Tuggle, Hughes, Volle, Mansor, and Morton all build on or cite it."
+    }
+  ],
+  "corrections": [
+    {"item": "Herlth surfacing", "note": "CL name search returned 0 (too new / caption 'Com. v. Herlth, J.'); full-text search 'Herlth flashlight shoebox' surfaced it. Controlling cite = 2026 PA Super 114 (en banc, June 5 2026); an earlier 2025 PA Super 73 panel decision (Mar 2025) also exists. Use the instructor's 2026 PA Super 114."},
+    {"item": "Tuggle longer quote", "note": "Capture's 'digital, cloud-based, and smart capabilities ... seldom contravene the traditional limitations' is paraphrase/composite — NOT verbatim ('cloud-based' absent from opinion). Only the 'time to revisit ... Katz' clause is verbatim-verified."},
+    {"item": "Morton citation form", "note": "46 F.4th 331 is the EN BANC opinion (capture correctly cites en banc); the 2021 panel was 41 F.4th 426. No change to the instructor's cite."}
+  ],
+  "flags": [
+    "ROUTING CALL CONFIRMED: digital-search material kept as a SECTION within Plain View (framed as the future of plain view), not a separate page.",
+    "CIRCUIT / DIGITAL SPLIT to flag (do NOT anchor to one circuit): courts are 'all over the place' on the SCOPE of a digital-warrant search and whether plain view sweeps in NON-RESPONSIVE data. Spectrum: (a) broad-search latitude because relevant data may be anywhere (Volle; cf. US v. Burgess, 10th Cir.) ; (b) refusal of any per-se entire-device-review rule, tethered to particularity (Hughes); (c) USE RESTRICTION on nonresponsive data — limiting/declining plain view for digital (Mansor, under state const.; Orin Kerr's thesis; raised in Morton concurrence). SCOTUS has NOT resolved it. Frame as unresolved; the general-warrant danger (Coolidge's 'no general exploratory search') is the unifying concern.",
+    "INSTRUCTOR'S TWO-DEFINITIONS DISTINCTION (capture accurate, anchor to Hicks): (1) plain view the OBSERVATION — no search/no REP in what is knowingly exposed to the public; merely looking at the already-exposed, 'without disturbing it,' is not a search (Hicks, 480 U.S. at 328). (2) plain view the DOCTRINE — justifies a warrantless SEIZURE of an item, requiring Horton's 3 prongs (lawful presence; immediately apparent/PC without manipulation; lawful right of access). Cross-link [[Two Definitions of Search]].",
+    "Herlth 'artificial vantage point' + 'fence vs garage-door' lines are the INSTRUCTOR'S framing/illustration, not verbatim Herlth holding. Opinion uses 'artificial aid'/flashlight. The fence-tiptoe-vs-bend-under-garage line illustrates open-view (no search) vs enhanced/probing observation (a search), consistent with Tarantino/Dunn. Present as instructor illustration, not a quote."
+  ]
+}

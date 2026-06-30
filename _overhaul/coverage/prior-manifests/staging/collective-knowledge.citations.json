@@ -1,0 +1,57 @@
+{
+  "page": "Collective Knowledge",
+  "slug": "collective-knowledge",
+  "cases": [
+    {
+      "bluebook": "Whiteley v. Warden, 401 U.S. 560 (1971)",
+      "cl_url": "https://www.courtlistener.com/opinion/108297/whiteley-v-warden-wyoming-state-penitentiary/",
+      "opinion_id": 108297,
+      "cluster_id": 108297,
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "An officer may act on the strength of a police radio bulletin and assume the issuing officer had probable cause. But where the issuing officer in fact lacked probable cause, an otherwise illegal arrest/search cannot be insulated from challenge by the instigating officer's decision to rely on fellow officers to make the arrest — collective/fellow-officer knowledge cannot manufacture probable cause that never existed.",
+      "proposition_checked": "Fellow-officer rule: an officer may act on a police bulletin/radio assuming the issuer had PC, BUT if the issuing officer lacked PC the arrest/search is invalid (collective knowledge cannot manufacture PC that never existed).",
+      "quotes": [
+        {
+          "text": "Certainly police officers called upon to aid other officers in executing arrest warrants are entitled to assume that the officers requesting aid offered the magistrate the information requisite to support an independent judicial assessment of probable cause. Where, however, the contrary turns out to be true, an otherwise illegal arrest cannot be insulated from challenge by the decision of the instigating officer to rely on fellow officers to make the arrest.",
+          "pinpoint": "401 U.S. at 568",
+          "confirmed": true
+        }
+      ],
+      "goodlaw": "good",
+      "treatment_note": "Controlling SCOTUS precedent (Harlan, J.). The Fourth Amendment exclusionary holding remains good law; its remedy reasoning was later refined by the good-faith line (Leon) and Herring v. United States, 555 U.S. 135 (2009) (which discusses Whiteley re: attenuation/good faith for negligent recordkeeping), but the collective-knowledge / fellow-officer rule itself stands and was extended in Hensley.",
+      "notes": "Cluster id == opinion id (108297); case name and fellow-officer passage confirmed verbatim in text at *568."
+    },
+    {
+      "bluebook": "United States v. Hensley, 469 U.S. 221 (1985)",
+      "cl_url": "https://www.courtlistener.com/opinion/111294/united-states-v-hensley/",
+      "opinion_id": 111294,
+      "cluster_id": 111294,
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Police may conduct a Terry investigatory stop in objective reliance on a wanted flyer or bulletin issued by another police department if the issuing department had a reasonable suspicion, grounded in specific and articulable facts, that the person was involved in a completed felony. This extends the Whiteley collective-knowledge / fellow-officer rule from probable-cause arrests to reasonable-suspicion investigatory stops; if the issuing department lacked reasonable suspicion, a stop in reliance on the flyer violates the Fourth Amendment.",
+      "proposition_checked": "Police may conduct a Terry stop relying on a wanted flyer/bulletin from another department if that department had reasonable suspicion (extends Whiteley to investigatory stops; collective-knowledge / fellow-officer rule).",
+      "quotes": [
+        {
+          "text": "We conclude that, if a flyer or bulletin has been issued on the basis of articulable facts supporting a reasonable suspicion that the wanted person has committed an offense, then reliance on that flyer or bulletin justifies a stop to check identification ... If the flyer has been issued in the absence of a reasonable suspicion, then a stop in the objective reliance upon it violates the Fourth Amendment.",
+          "pinpoint": "469 U.S. at 232-33",
+          "confirmed": true
+        },
+        {
+          "text": "[W]e hold that the evidence uncovered in the course of the stop is admissible if the police who issued the flyer or bulletin possessed a reasonable suspicion justifying a stop ... and if the stop that in fact occurred was not significantly more intrusive than would have been permitted the issuing department.",
+          "pinpoint": "469 U.S. at 233",
+          "confirmed": true
+        }
+      ],
+      "goodlaw": "good",
+      "treatment_note": "Controlling SCOTUS precedent (O'Connor, J.). Not overruled or abrogated; the foundational case for the collective-knowledge doctrine as applied to Terry stops.",
+      "notes": "Cluster id == opinion id (111294); case name confirmed, and the opinion expressly cites and extends Whiteley (visible in returned text). Holding language verbatim at *232-33."
+    }
+  ],
+  "corrections": [],
+  "flags": [
+    "Whiteley good-law nuance: the fellow-officer/collective-knowledge rule is intact, but the exclusionary-remedy analysis was later contextualized by Herring v. United States, 555 U.S. 135 (2009) and the Leon good-faith line. The proposition (PC cannot be manufactured by collective knowledge that never existed) remains correct."
+  ]
+}

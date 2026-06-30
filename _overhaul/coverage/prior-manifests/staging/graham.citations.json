@@ -1,0 +1,70 @@
+{
+  "topic": "Use of Force — Graham v. Connor (objective reasonableness)",
+  "citations": [
+    {
+      "case": "Graham v. Connor",
+      "bluebook": "Graham v. Connor, 490 U.S. 386 (1989)",
+      "court": "U.S. Supreme Court",
+      "year": 1989,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/112257/graham-v-connor/",
+      "cluster_id": 112257,
+      "proposition": "All claims that law enforcement officers used excessive force in the course of an arrest, investigatory stop, or other 'seizure' of a free person are analyzed under the Fourth Amendment's objective-reasonableness standard, not substantive due process. Reasonableness is judged from the perspective of a reasonable officer on the scene (not with 20/20 hindsight); it turns on the totality of the facts, guided by three non-exclusive factors (severity of the crime, immediate threat to safety, active resistance/flight); the calculus must allow for split-second judgments in tense, uncertain, rapidly evolving circumstances; and the inquiry is purely objective, without regard to the officer's underlying intent or motivation.",
+      "pinpoint": "490 U.S. at 395-397",
+      "weight": "SCOTUS - binding",
+      "verbatim_quotes": [
+        "all claims that law enforcement officers have used excessive force ... in the course of an arrest, investigatory stop, or other 'seizure' of a free citizen should be analyzed under the Fourth Amendment and its 'reasonableness' standard, rather than under a 'substantive due process' approach (at 395)",
+        "the severity of the crime at issue, whether the suspect poses an immediate threat to the safety of the officers or others, and whether he is actively resisting arrest or attempting to evade arrest by flight (at 396)",
+        "The 'reasonableness' of a particular use of force must be judged from the perspective of a reasonable officer on the scene, rather than with the 20/20 vision of hindsight (at 396)",
+        "The calculus of reasonableness must embody allowance for the fact that police officers are often forced to make split-second judgments — in circumstances that are tense, uncertain, and rapidly evolving (at 396-97)",
+        "whether the officers' actions are 'objectively reasonable' in light of the facts and circumstances confronting them, without regard to their underlying intent or motivation (at 397)",
+        "An officer's evil intentions will not make a Fourth Amendment violation out of an objectively reasonable use of force; nor will an officer's good intentions make an objectively unreasonable use of force constitutional (at 397)"
+      ]
+    },
+    {
+      "case": "Tennessee v. Garner",
+      "bluebook": "Tennessee v. Garner, 471 U.S. 1 (1985)",
+      "court": "U.S. Supreme Court",
+      "year": 1985,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/111397/tennessee-v-garner/",
+      "cluster_id": 111397,
+      "proposition": "Apprehension by deadly force is a seizure subject to the Fourth Amendment's reasonableness requirement. Deadly force may not be used against an apparently unarmed, non-dangerous fleeing suspect; it is permissible only where it is necessary to prevent escape and the officer has probable cause to believe the suspect poses a significant threat of death or serious physical injury to the officer or others.",
+      "pinpoint": "471 U.S. at 3, 7, 11",
+      "weight": "SCOTUS - binding",
+      "verbatim_quotes": [
+        "such force may not be used unless it is necessary to prevent the escape and the officer has probable cause to believe that the suspect poses a significant threat of death or serious physical injury to the officer or others (at 3, restated at 11)",
+        "apprehension by the use of deadly force is a seizure subject to the reasonableness requirement of the Fourth Amendment (at 7)"
+      ]
+    },
+    {
+      "case": "Scott v. Harris",
+      "bluebook": "Scott v. Harris, 550 U.S. 372 (2007)",
+      "court": "U.S. Supreme Court",
+      "year": 2007,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/145738/scott-v-harris/",
+      "cluster_id": 145738,
+      "proposition": "Garner did not create a rigid, separate test ('no magical on/off switch') for deadly force; it is simply an application of Graham's Fourth Amendment reasonableness standard. Force against a fleeing motorist whose reckless high-speed flight endangered the public (ramming his car) was reasonable. Used here to correct the common misreading of Garner as a rigid precondition for all deadly force.",
+      "pinpoint": "550 U.S. at 382, 386",
+      "weight": "SCOTUS - binding",
+      "verbatim_quotes": [
+        "Garner did not establish a magical on/off switch that triggers rigid preconditions whenever an officer's actions constitute 'deadly force.' Garner was simply an application of the Fourth Amendment's 'reasonableness' test ... to the use of a particular type of force (at 382)",
+        "We have little difficulty in concluding it was reasonable for Scott to take the action that he did (at 386)"
+      ]
+    }
+  ],
+  "non_case_items": [
+    {
+      "item": "42 U.S.C. § 1983",
+      "note": "Statutory vehicle for Graham (and Garner/Scott); the civil cause of action under which the Fourth Amendment force claim was brought. Mentioned once in the page to situate Graham; liability/qualified immunity is expressly kept out of scope per the suppression focus."
+    }
+  ],
+  "corrections": [
+    {
+      "raw": "Raw note lists '3 factors (plus 1): severity of crime / actively resisting / immediate threat / (plus everything else)'",
+      "correct": "Graham names exactly three factors (490 U.S. at 396): (1) the severity of the crime at issue; (2) whether the suspect poses an immediate threat to the safety of the officers or others; (3) whether he is actively resisting arrest or attempting to evade arrest by flight. The note's 'plus 1 / plus everything else' correctly captures that the factors are NON-EXCLUSIVE ('including' in the opinion) and that force is judged on the TOTALITY of the circumstances — not a closed three-part checklist. Stated correctly in the page as 'three named factors plus the totality.'"
+    },
+    {
+      "raw": "Raw note: 'Progeny cases, etc etc' (unspecified)",
+      "correct": "Day-1 progeny supplied and read: Tennessee v. Garner, 471 U.S. 1 (1985) (deadly-force seizure standard) and Scott v. Harris, 550 U.S. 372 (2007) (Garner is an application of Graham, no 'on/off switch'). Fourteenth-Amendment pretrial-detainee force cases (e.g., Kingsley v. Hendrickson) deliberately excluded to stay within 4A / Day-1 scope."
+    }
+  ]
+}

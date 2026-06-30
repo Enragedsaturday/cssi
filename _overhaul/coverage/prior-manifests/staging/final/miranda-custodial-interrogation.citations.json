@@ -1,0 +1,133 @@
+{
+ "page": "miranda-custodial-interrogation",
+ "slug": "miranda-custodial-interrogation",
+ "cases": [
+  {
+   "name": "Miranda v. Arizona",
+   "cite": "Miranda v. Arizona, 384 U.S. 436, 444 (1966)",
+   "url": "https://www.courtlistener.com/opinion/107252/miranda-v-arizona/",
+   "holding": "Statements from custodial interrogation are inadmissible unless police first gave the warnings and the suspect knowingly, voluntarily waived them; custody = \"taken into custody or otherwise deprived of his freedom of action in any significant way.\"",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Rhode Island v. Innis",
+   "cite": "Rhode Island v. Innis, 446 U.S. 291 (1980)",
+   "url": "https://www.courtlistener.com/opinion/110254/rhode-island-v-innis/",
+   "holding": "'Interrogation' under Miranda is not limited to express questioning. It also includes the 'functional equivalent' of express questioning: any words or actions on the part of the police (other than those normally attendant to arrest and custody) that the police should know are reasonably likely to elicit an incriminating response from the suspect. The test focuses on the perceptions of the suspect; here, the officers' conversation about a missing shotgun and handicapped children was not the functional equivalent of interrogation because the officers should not have known it was reasonably likely to elicit an incriminating response.",
+   "quotes": [
+    {
+     "text": "We conclude that the Miranda safeguards come into play whenever a person in custody is subjected to either express questioning or its functional equivalent. That is to say, the term \"interrogation\" under Miranda refers not only to express questioning, but also to any words or actions on the part of the police (other than those normally attendant to arrest and custody) that the police should know are reasonably likely to elicit an incriminating response from the suspect.",
+     "pinpoint": "446 U.S. at 300-01",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "manifest:innis-miranda.citations.json",
+   "goodlaw": "good"
+  },
+  {
+   "name": "Berkemer v. McCarty",
+   "cite": "Berkemer v. McCarty, 468 U.S. 420 (1984)",
+   "url": "https://www.courtlistener.com/opinion/111249/berkemer-v-mccarty/",
+   "holding": "(1) Miranda applies to ALL custodial interrogation regardless of the offense's severity \u2014 misdemeanors included; (2) the temporary, public detention of an ordinary traffic stop is NOT Miranda custody.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Oregon v. Mathiason",
+   "cite": "Oregon v. Mathiason, 429 U.S. 492 (1977) (per curiam)",
+   "url": "https://www.courtlistener.com/opinion/109587/oregon-v-mathiason/",
+   "holding": "A suspect who comes voluntarily to the station, is told he is not under arrest, and is free to leave is NOT in custody for Miranda \u2014 even inside a police building and even when confronted with a (false) claim of evidence.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "J.D.B. v. North Carolina",
+   "cite": "J.D.B. v. North Carolina, 564 U.S. 261 (2011)",
+   "url": "https://www.courtlistener.com/opinion/218925/j-d-b-v-north-carolina/",
+   "holding": "A child's age is a relevant factor in the Miranda custody analysis when it was known to or objectively apparent to the officer \u2014 because a reasonable child may feel restrained where an adult would not.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "New York v. Quarles",
+   "cite": "New York v. Quarles, 467 U.S. 649 (1984)",
+   "url": "https://www.courtlistener.com/opinion/111214/new-york-v-quarles/",
+   "holding": "There is a \"public safety\" exception to Miranda \u2014 when officers ask questions reasonably prompted by an immediate threat to public safety (e.g., a hidden loaded gun), the unwarned answers and the gun are admissible.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Dickerson v. United States",
+   "cite": "Dickerson v. United States, 530 U.S. 428, 432, 444 (2000)",
+   "url": "https://www.courtlistener.com/opinion/118380/dickerson-v-united-states/",
+   "holding": "Miranda is a constitutional rule that Congress may not supersede by statute; \u00a7 3501 is unconstitutional and Miranda governs the admissibility of confessions in federal court.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": "good",
+   "treatment_note": "Current; Miranda is a constitutional rule Congress cannot override by statute. Vega v. Tekoh (2022) expressly confirmed Dickerson still stands."
+  },
+  {
+   "name": "Illinois v. Perkins",
+   "cite": "Illinois v. Perkins, 496 U.S. 292 (1990)",
+   "url": "https://www.courtlistener.com/opinion/112452/illinois-v-perkins/",
+   "holding": "Miranda warnings are not required when an undercover officer (or agent) posing as an inmate elicits statements from a suspect \u2014 because there is no police-dominated \"coercive atmosphere\"; the suspect doesn't know he's talking to law enforcement.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Howes v. Fields",
+   "cite": "Howes v. Fields, 565 U.S. 499 (2012)",
+   "url": "https://www.courtlistener.com/opinion/623144/howes-v-fields/",
+   "holding": "Imprisonment alone does not make questioning custodial for Miranda; whether an inmate is \"in custody\" depends on the totality \u2014 here, told he could leave and return to his cell, he was not in Miranda custody.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Stansbury v. California",
+   "cite": "Stansbury v. California, 511 U.S. 318 (1994) (per curiam)",
+   "url": "https://www.courtlistener.com/opinion/117843/stansbury-v-california/",
+   "holding": "Custody is determined by the objective circumstances of the interrogation, not by the subjective, undisclosed views of the officer or the suspect; an officer's uncommunicated suspicion is irrelevant.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Orozco v. Texas",
+   "cite": "Orozco v. Texas, 394 U.S. 324 (1969)",
+   "url": "https://www.courtlistener.com/opinion/107883/orozco-v-texas/",
+   "holding": "Miranda warnings were required where four officers questioned a suspect under arrest in his own bedroom in the early morning; custody for Miranda is not limited to the stationhouse.",
+   "quotes": [
+    {
+     "text": "According to the officer's testimony, petitioner was under arrest and not free to leave when he was questioned in his bedroom in the early hours of the morning.",
+     "pinpoint": "394 U.S. at 326-327",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "P3-verified",
+   "verdict": "VERIFIED",
+   "goodlaw": "good",
+   "treatment_note": "Current; Miranda custody extends beyond the stationhouse ('in custody at the station or otherwise deprived of his freedom of action in any significant way')."
+  }
+ ],
+ "unresolved": [],
+ "note": "Phase-3 FINAL authoring manifest: packet(manifest+deck) + P3 gap verifications + marquee quotes + good-law."
+}

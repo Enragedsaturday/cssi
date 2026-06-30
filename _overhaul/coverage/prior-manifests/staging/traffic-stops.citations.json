@@ -1,0 +1,235 @@
+{
+  "page": "Traffic Stops",
+  "slug": "traffic-stops",
+  "cases": [
+    {
+      "bluebook": "Whren v. United States, 517 U.S. 806 (1996)",
+      "cluster_id": 118036,
+      "opinion_id": 118036,
+      "cl_url": "https://www.courtlistener.com/opinion/118036/whren-v-united-states/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "An officer's subjective motive is irrelevant to the Fourth Amendment validity of a traffic stop; a stop supported by an objective, observed traffic violation (probable cause) is reasonable regardless of pretext. Race-based selective enforcement is policed by the Equal Protection Clause, not the Fourth Amendment.",
+      "proposition_checked": "Pretext is OK so long as there is an objective traffic violation / PC.",
+      "quotes": [
+        {
+          "text": "We think these cases foreclose any argument that the constitutional reasonableness of traffic stops depends on the actual motivations of the individual officers involved. ... Subjective intentions play no role in ordinary, probable-cause Fourth Amendment analysis.",
+          "pinpoint": "517 U.S. at 813",
+          "confirmed": true
+        }
+      ],
+      "notes": "Cited approvingly throughout; defines the objective-justification rule for traffic stops."
+    },
+    {
+      "bluebook": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+      "cluster_id": 2795278,
+      "opinion_id": 9806947,
+      "cl_url": "https://www.courtlistener.com/opinion/2795278/rodriguez-v-united-states/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "A traffic stop may last no longer than necessary to complete the stop's 'mission' (addressing the violation and ordinary inquiries). Absent independent reasonable suspicion, police may not extend the stop — even briefly — for unrelated investigation such as a dog sniff. The dispositive question is whether the officer diligently pursued the stop's mission, not whether unrelated tasks added only de minimis time.",
+      "proposition_checked": "Cannot prolong a traffic stop beyond the mission without independent RAS; diligence is the measure; multitasking / unavoidable downtime is permissible.",
+      "quotes": [
+        {
+          "text": "We hold that a police stop exceeding the time needed to handle the matter for which the stop was made violates the Constitution's shield against unreasonable seizures. A seizure justified only by a police-observed traffic violation, therefore, \"become[s] unlawful if it is prolonged beyond the time reasonably required to complete th[e] mission\" of issuing a ticket for the violation.",
+          "pinpoint": "575 U.S. at 350-51",
+          "confirmed": true
+        },
+        {
+          "text": "in determining the reasonable duration of a stop, \"it [is] appropriate to examine whether the police diligently pursued [the] investigation\"",
+          "pinpoint": "575 U.S. at 357 (quoting United States v. Sharpe, 470 U.S. 675, 686 (1985))",
+          "confirmed": true
+        }
+      ],
+      "notes": "Cluster id 2795278 collides with a sub-opinion of the same id; majority opinion is 9806947 — resolved and confirmed before reading."
+    },
+    {
+      "bluebook": "Michigan v. Long, 463 U.S. 1032 (1983)",
+      "cluster_id": 111020,
+      "opinion_id": 9842054,
+      "cl_url": "https://www.courtlistener.com/opinion/111020/michigan-v-long/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Terry's protective-frisk rationale extends to vehicles: on specific and articulable facts giving the officer a reasonable belief the suspect is dangerous and may gain immediate control of weapons, police may conduct a protective search of the passenger compartment limited to areas where a weapon may be placed or hidden.",
+      "proposition_checked": "Protective vehicle frisk / sweep on RAS that the vehicle contains a weapon — entire passenger compartment incl. containers that may hold the weapon (scope tied to weapon).",
+      "quotes": [
+        {
+          "text": "the search of the passenger compartment of an automobile, limited to those areas in which a weapon may be placed or hidden, is permissible if the police officer possesses a reasonable belief based on “specific and articulable facts which, taken together with the rational inferences from those facts, reasonably warrant” the officer in believing that the suspect is dangerous and the suspect may gain immediate control of weapons.",
+          "pinpoint": "463 U.S. at 1049",
+          "confirmed": true
+        }
+      ],
+      "notes": "This is the Terry-for-cars protective sweep, distinct from a search incident to arrest."
+    },
+    {
+      "bluebook": "United States v. Vinton, 594 F.3d 14 (D.C. Cir. 2010)",
+      "cluster_id": 187527,
+      "opinion_id": 187527,
+      "cl_url": "https://www.courtlistener.com/opinion/187527/united-states-v-vinton/",
+      "weight": "Circuit (D.C.) — persuasive",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Gant's 'secured arrestee' limitation does not abate a Michigan v. Long protective (Terry) vehicle search: the protective-search justification persists even though the detainee was handcuffed and removed from the car, because — unlike an arrest — a Terry detainee will be allowed to return to the vehicle when the encounter ends and could then access any weapon.",
+      "proposition_checked": "Long protective-frisk concern not abated by suspect being handcuffed / out of the vehicle (not under arrest).",
+      "quotes": [
+        {
+          "text": "We decline to read Gant so expansively. The Supreme Court explicitly limited its holding to the search-incident-to-arrest context ... and it is doubtful that the same rule ought to apply in the Terry search context",
+          "pinpoint": "594 F.3d at 24 n.3",
+          "confirmed": true
+        },
+        {
+          "text": "In the no-arrest case, the possibility of access to weapons in the vehicle always exists, since the driver or passenger will be allowed to return to the vehicle when the interrogation is completed.",
+          "pinpoint": "594 F.3d at 24-25 n.3 (quoting Gant, 556 U.S. at 360 (Scalia, J., concurring))",
+          "confirmed": true
+        }
+      ],
+      "notes": "Persuasive only; pairs with Michigan v. Long (binding). The protective-search holding rests in footnote 3."
+    },
+    {
+      "bluebook": "Terry v. Ohio, 392 U.S. 1 (1968)",
+      "cluster_id": 107729,
+      "opinion_id": 9423752,
+      "cl_url": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "An investigative stop and protective frisk require reasonable, articulable suspicion grounded in specific facts and rational inferences — not an officer's inchoate, unparticularized suspicion or 'hunch.'",
+      "proposition_checked": "RAS predicate for any investigative detention (cross-link); a hunch is not enough.",
+      "quotes": [
+        {
+          "text": "due weight must be given, not to his inchoate and unparticularized suspicion or “hunch,” but to the specific reasonable inferences which he is entitled to draw from the facts in light of his experience.",
+          "pinpoint": "392 U.S. at 27",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational research-add: the RAS predicate that anchors prolonging a stop (Rodriguez) and the protective frisk (Long). Cross-links to the Hunches append on Seizure of the Person."
+    },
+    {
+      "bluebook": "Delaware v. Prouse, 440 U.S. 648 (1979)",
+      "cluster_id": 110045,
+      "opinion_id": 9427509,
+      "cl_url": "https://www.courtlistener.com/opinion/110045/delaware-v-prouse/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Random, suspicionless stops of motorists to check license and registration are unreasonable under the Fourth Amendment; an officer needs at least articulable and reasonable suspicion of a violation. (Neutral systematic checkpoints/roadblocks are not foreclosed.)",
+      "proposition_checked": "No random discretionary stops absent RAS.",
+      "quotes": [
+        {
+          "text": "except in those situations in which there is at least articulable and reasonable suspicion that a motorist is unlicensed or that an automobile is not registered, or that either the vehicle or an occupant is otherwise subject to seizure for violation of law, stopping an automobile and detaining the driver in order to check his driver’s license and the registration of the automobile are unreasonable under the Fourth Amendment.",
+          "pinpoint": "440 U.S. at 663",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational research-add. Establishes the RAS floor for discretionary spot stops."
+    },
+    {
+      "bluebook": "Pennsylvania v. Mimms, 434 U.S. 106 (1977)",
+      "cluster_id": 109751,
+      "opinion_id": 9427002,
+      "cl_url": "https://www.courtlistener.com/opinion/109751/pennsylvania-v-mimms/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Once a vehicle is lawfully stopped for a traffic violation, an officer may order the driver out of the vehicle as a matter of course; the marginal additional intrusion is outweighed by officer safety.",
+      "proposition_checked": "Officer may order the driver out of the car during a lawful stop.",
+      "quotes": [
+        {
+          "text": "once a motor vehicle has been lawfully detained for a traffic violation, the police officers may order the driver to get out of the vehicle without violating the Fourth Amendment’s proscription of unreasonable searches and seizures.",
+          "pinpoint": "434 U.S. at 111 n.6",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational research-add (per curiam). Pairs with Maryland v. Wilson (passengers)."
+    },
+    {
+      "bluebook": "Maryland v. Wilson, 519 U.S. 408 (1997)",
+      "cluster_id": 118086,
+      "opinion_id": 9433418,
+      "cl_url": "https://www.courtlistener.com/opinion/118086/maryland-v-wilson/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "Mimms extends to passengers: an officer making a lawful traffic stop may order the passengers, as well as the driver, out of the car pending completion of the stop.",
+      "proposition_checked": "Officer may order passengers out of the car during a lawful stop.",
+      "quotes": [
+        {
+          "text": "an officer making a traffic stop may order passengers to get out of the car pending completion of the stop.",
+          "pinpoint": "519 U.S. at 415",
+          "confirmed": true
+        }
+      ],
+      "notes": "Foundational research-add. The basis is weaker for passengers than for the driver, but the additional intrusion is minimal."
+    },
+    {
+      "bluebook": "Heien v. North Carolina, 574 U.S. 54 (2014)",
+      "cluster_id": 2760668,
+      "opinion_id": 9805193,
+      "cl_url": "https://www.courtlistener.com/opinion/2760668/heien-v-north-carolina/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": false,
+      "holding": "A traffic stop is valid if based on an officer's objectively reasonable mistake of law (as well as a reasonable mistake of fact); a reasonable mistake of law can supply the reasonable suspicion needed for the stop. The mistake must itself be objectively reasonable — not every error qualifies.",
+      "proposition_checked": "Reasonable mistake of law can support a valid stop.",
+      "quotes": [
+        {
+          "text": "There is no reason, under the text of the Fourth Amendment or our precedents, why this same result should be acceptable when reached by way of a reasonable mistake of fact, but not when reached by way of a similarly reasonable mistake of law.",
+          "pinpoint": "574 U.S. at 61",
+          "confirmed": true
+        }
+      ],
+      "notes": "CL citation-lookup did not resolve the official cite '574 U.S. 54'; found by name search under 135 S. Ct. 530. Cluster 2760668 collides with a sub-opinion of the same id — majority opinion is 9805193 (resolved before reading). The 574 U.S. 54 Bluebook cite is correct; flag is only about CL indexing."
+    },
+    {
+      "bluebook": "New York v. Belton, 453 U.S. 454 (1981)",
+      "cluster_id": 110559,
+      "opinion_id": 9428488,
+      "cl_url": "https://www.courtlistener.com/opinion/110559/new-york-v-belton/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Defines the SCOPE of a vehicle search incident to arrest: the passenger compartment and any containers within it. PRIMARY HOME = SITA page; cross-referenced here only.",
+      "proposition_checked": "Cross-reference: scope of vehicle SITA = passenger compartment (cabined by Gant's 'when').",
+      "quotes": [
+        {
+          "text": "when a policeman has made a lawful custodial arrest of the occupant of an automobile, he may, as a contemporaneous incident of that arrest, search the passenger compartment of that automobile.",
+          "pinpoint": "453 U.S. at 460",
+          "confirmed": true
+        }
+      ],
+      "notes": "CROSS-REFERENCE ONLY on Traffic Stops; full treatment on the SITA page."
+    },
+    {
+      "bluebook": "Arizona v. Gant, 556 U.S. 332 (2009)",
+      "cluster_id": 145887,
+      "opinion_id": 9435359,
+      "cl_url": "https://www.courtlistener.com/opinion/145887/arizona-v-gant/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "captured": true,
+      "holding": "Defines WHEN a vehicle search incident to arrest is permitted: only when (1) the arrestee is unsecured and within reaching distance of the passenger compartment, OR (2) it is reasonable to believe evidence relevant to the crime of arrest might be found in the vehicle. PRIMARY HOME = SITA page; cross-referenced here only.",
+      "proposition_checked": "Cross-reference: Gant's two-prong 'when' for vehicle SITA.",
+      "quotes": [
+        {
+          "text": "the Chimel rationale authorizes police to search a vehicle incident to a recent occupant’s arrest only when the arrestee is unsecured and within reaching distance of the passenger compartment at the time of the search.",
+          "pinpoint": "556 U.S. at 343",
+          "confirmed": true
+        }
+      ],
+      "notes": "CROSS-REFERENCE ONLY on Traffic Stops; full treatment on the SITA page. Cluster id 145887 also appears as a sub-opinion id — majority opinion is 9435359."
+    }
+  ],
+  "corrections": [
+    "Capture 'US v Carrol' (Automobile Exception page) and other shorthand not on this page. On this page no misremembered cites; all captured names matched.",
+    "Heien research-add cite '574 U.S. 54' is correct but does not resolve in CourtListener's citation-lookup API; the case is indexed under 135 S. Ct. 530, cluster 2760668 (found by name search)."
+  ],
+  "flags": [
+    "Belton and Gant are CROSS-REFERENCED here; their primary home is the SITA page (per routing.md).",
+    "Vinton is persuasive D.C. Circuit authority only; it is paired with binding Michigan v. Long. No circuit split identified on the narrow point (protective Terry vehicle search survives handcuffing) — but flag that it rests in a footnote and is not a holding adopted by all circuits.",
+    "No SCOTUS-level circuit split flagged for any case on this page.",
+    "Cluster/opinion-id collisions resolved before reading for Rodriguez (2795278 -> 9806947), Gant (145887 -> 9435359), and Heien (2760668 -> 9805193)."
+  ]
+}

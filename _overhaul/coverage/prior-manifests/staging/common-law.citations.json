@@ -1,0 +1,85 @@
+{
+  "topic": "Common Law & Early US Search and Seizure",
+  "citations": [
+    {
+      "case": "Boyd v. United States",
+      "bluebook": "Boyd v. United States, 116 U.S. 616 (1886)",
+      "court": "U.S. Supreme Court",
+      "year": 1886,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/",
+      "cluster_id": 91573,
+      "proposition": "Recounts the founding-era history of writs of assistance and general warrants and adopts Entick v. Carrington as the chief antecedent of the Fourth Amendment. Quotes (verbatim, confirmed in opinion text): James Otis calling the writ 'the worst instrument of arbitrary power, the most destructive of English liberty ... that ever was found in an English law book' (at 625); John Adams, 'Then and there the child Independence was born' (at 625); the Wilkes verdicts of GBP1000 against Wood and GBP4000 against Lord Halifax (at 626); Lord Camden's Entick judgment as 'one of the landmarks of English liberty,' 'one of the permanent monuments of the British Constitution,' and 'the true and ultimate expression of constitutional law' whose propositions 'were in the minds of those who framed the Fourth Amendment' (at 626-27); Camden's 'If it is law, it will be found in our books; if it is not to be found there, it is not law' and 'every invasion of private property, be it ever so minute, is a trespass' (at 627-28); and the holding that the warrant 'is illegal and void' (at 629).",
+      "pinpoint": "116 U.S. at 624-30 (esp. 625-27)",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Riley v. California",
+      "bluebook": "Riley v. California, 573 U.S. 373 (2014)",
+      "court": "U.S. Supreme Court",
+      "year": 2014,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/2680439/riley-v-california/",
+      "cluster_id": 2680439,
+      "proposition": "Modern Court reaffirms the founding history: 'the Fourth Amendment was the founding generation's response to the reviled \"general warrants\" and \"writs of assistance\" of the colonial era ... Opposition to such searches was in fact one of the driving forces behind the Revolution itself' (at 403); recounts Otis's 1761 Boston speech and Adams's account, expressly quoting Boyd v. United States, 116 U.S. at 625. Verbatim language confirmed in opinion text.",
+      "pinpoint": "573 U.S. at 403",
+      "weight": "SCOTUS - binding"
+    }
+  ],
+  "non_case_items": [
+    {
+      "name": "Paxton's Case",
+      "year": 1761,
+      "jurisdiction": "Province of Massachusetts Bay (colonial)",
+      "significance": "Boston merchants challenged the writs of assistance; James Otis argued against them ('a man's house is his castle'), and John Adams, present in the courtroom, later wrote 'then and there the child Independence was born.' The colonial spark for the Fourth Amendment.",
+      "note": "Historical / not in CourtListener (a U.S. case-law database). No U.S. Reports cite exists. Reported in Quincy's Mass. Reports 51-57. Grounded in the page via Boyd, 116 U.S. at 625 (Otis/Adams quotes), and Riley, 573 U.S. at 403."
+    },
+    {
+      "name": "Wilkes v. Wood",
+      "year": 1763,
+      "jurisdiction": "England (Court of Common Pleas)",
+      "significance": "Trespass action arising from a general warrant used in the John Wilkes / North Briton No. 45 affair; C.J. Pratt (later Lord Camden) sent it to a jury, which returned large damages, condemning general warrants.",
+      "note": "Historical / not in CourtListener. English report: 19 Howell's State Trials 1153; 98 Eng. Rep. 489. NEVER invent a U.S. citation. Wilkes verdicts (GBP1000 v. Wood; GBP4000 v. Lord Halifax) grounded via Boyd, 116 U.S. at 626."
+    },
+    {
+      "name": "Entick v. Carrington",
+      "year": 1765,
+      "jurisdiction": "England (Court of Common Pleas)",
+      "significance": "Lord Camden held a general warrant to break into a home and seize papers illegal and void: government may not search or seize without specific legal authority. The single most influential antecedent of the Fourth Amendment.",
+      "note": "Historical / not in CourtListener. English report: 19 Howell's State Trials 1029. NEVER invent a U.S. citation. Camden's judgment and its characterization ('one of the landmarks of English liberty'; 'the true and ultimate expression of constitutional law') grounded verbatim via Boyd, 116 U.S. at 626-30."
+    },
+    {
+      "name": "Virginia Declaration of Rights",
+      "year": 1776,
+      "jurisdiction": "Commonwealth of Virginia (state constitutional/founding document)",
+      "significance": "Section 10 condemned general warrants by name; an early American articulation of the antecedent grievance that became the Fourth Amendment.",
+      "note": "Historical primary source (state declaration of rights), not a court case; not in CourtListener."
+    },
+    {
+      "name": "Massachusetts Constitution, art. XIV",
+      "year": 1780,
+      "jurisdiction": "Commonwealth of Massachusetts (state constitution)",
+      "significance": "Drafted by John Adams; guarantees a right to be secure from 'all unreasonable searches, and seizures' - the source of the operative phrase the Fourth Amendment adopted.",
+      "note": "Historical primary source (state constitution), not a court case; not in CourtListener."
+    },
+    {
+      "name": "James Madison / U.S. Bill of Rights (Fourth Amendment)",
+      "year": 1789,
+      "jurisdiction": "United States (First Congress / federal Constitution)",
+      "significance": "Madison introduced and drafted the proposed amendments in the First Congress in June 1789; the Fourth Amendment, carrying the Entick principle and the Massachusetts 'unreasonable searches and seizures' language, was ratified with the Bill of Rights in 1791.",
+      "note": "Historical legislative/constitutional history, not a court case; not in CourtListener. The Fourth Amendment text itself (U.S. Const. amend. IV) is the primary authority."
+    }
+  ],
+  "corrections": [
+    {
+      "raw": "Madison wrote rough draft of Constitution",
+      "correct": "Imprecise. James Madison is the principal architect of the U.S. Constitution (1787) and the drafter who introduced the Bill of Rights in the First Congress (June 1789); he did not write a single 'rough draft of the Constitution.' For this page's purpose, his decisive role is as drafter of the Bill of Rights, which contains the Fourth Amendment (ratified 1791). Stated correctly in the body; raw shorthand not quoted in the page."
+    },
+    {
+      "raw": "Paxton's Case, 1761 (USA)",
+      "correct": "Paxton's Case (1761) arose in the Province of Massachusetts Bay - a British colony, pre-independence. Labeling it 'USA' is anachronistic; framed as colonial in the body. The famous Otis argument Boyd dates to February 1761 in Boston; Paxton's Case itself was argued in November 1761 (Boyd's own cross-reference). Both treated as the 1761 writs-of-assistance controversy."
+    },
+    {
+      "raw": "State Declaration of Rights (VA, PA, etc), no general warrants -> MA no unreasonable s/s.",
+      "correct": "Accurate in substance: the Virginia Declaration of Rights (1776) condemned general warrants, and the Massachusetts Constitution (1780, art. XIV, drafted by John Adams) used the 'unreasonable searches and seizures' formulation that shaped the Fourth Amendment. Stated with dates and articles in the body."
+    }
+  ]
+}

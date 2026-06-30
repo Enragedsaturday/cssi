@@ -1,0 +1,90 @@
+{
+  "topic": "Two Searches — Trespass & Privacy",
+  "citations": [
+    {
+      "case": "Olmstead v. United States",
+      "bluebook": "Olmstead v. United States, 277 U.S. 438 (1928)",
+      "court": "U.S. Supreme Court",
+      "year": 1928,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/",
+      "cluster_id": 101320,
+      "proposition": "Wiretapping telephone wires on the public streets, with no physical entry of the defendants' premises, was not a Fourth Amendment search; pure property/trespass framing. Brandeis, J., dissenting, urged a broad 'right to be let alone.' Overruled on the privacy point by Katz.",
+      "pinpoint": "277 U.S. at 457, 464 (majority); 277 U.S. at 478 (Brandeis, J., dissenting)",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Silverman v. United States",
+      "bluebook": "Silverman v. United States, 365 U.S. 505 (1961)",
+      "court": "U.S. Supreme Court",
+      "year": 1961,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/106187/silverman-v-united-states/",
+      "cluster_id": 106187,
+      "proposition": "A 'spike mike' physically penetrating the party wall to make contact with the heating duct of the house was an unauthorized physical intrusion into a constitutionally protected area, and thus a search; the Court expressly declined to rest its decision on local-law refinements of 'technical trespass.'",
+      "pinpoint": "365 U.S. at 509, 511-12",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Katz v. United States",
+      "bluebook": "Katz v. United States, 389 U.S. 347 (1967)",
+      "court": "U.S. Supreme Court",
+      "year": 1967,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/",
+      "cluster_id": 107564,
+      "proposition": "The Fourth Amendment protects people, not places; electronic eavesdropping on a public phone booth was a search despite the absence of physical trespass, overruling Olmstead's trespass-only view. The familiar two-prong reasonable-expectation-of-privacy test is from Justice Harlan's CONCURRENCE, not the majority: (1) a subjective expectation of privacy, (2) one society is prepared to recognize as reasonable. Majority: 'What a person knowingly exposes to the public ... is not a subject of Fourth Amendment protection.'",
+      "pinpoint": "389 U.S. at 351 (majority); 389 U.S. at 361 (Harlan, J., concurring)",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "United States v. Jones",
+      "bluebook": "United States v. Jones, 565 U.S. 400 (2012)",
+      "court": "U.S. Supreme Court",
+      "year": 2012,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/7350871/united-states-v-jones/",
+      "cluster_id": 7350871,
+      "proposition": "Installing a GPS tracker on a vehicle and using it to monitor the vehicle's movements is a search under the revived trespass theory: 'The Government physically occupied private property for the purpose of obtaining information.' Two elements: a physical intrusion on a constitutionally protected area (an 'effect') conjoined with intent to obtain information ('Trespass alone does not qualify, but there must be conjoined with that ... an attempt to find something or to obtain information.'). Jones revived the property baseline that Katz supplemented: 'Katz did not narrow the Fourth Amendment's scope.' Controlling modern trespass-search case.",
+      "pinpoint": "565 U.S. at 404-05, 406, 407-08 & n.5",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Florida v. Jardines",
+      "bluebook": "Florida v. Jardines, 569 U.S. 1 (2013)",
+      "court": "U.S. Supreme Court",
+      "year": 2013,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/",
+      "cluster_id": 856347,
+      "proposition": "Applied the Jones trespass theory to the home's curtilage: bringing a drug dog onto the front porch exceeded the implied license to approach and knock, a trespassory search; the Court did not need to reach the Katz privacy theory. (Deep curtilage treatment owned by [[curtilage]].)",
+      "pinpoint": "569 U.S. at 5-8, 11",
+      "weight": "SCOTUS - binding"
+    },
+    {
+      "case": "Carpenter v. United States",
+      "bluebook": "Carpenter v. United States, 585 U.S. 296 (2018)",
+      "court": "U.S. Supreme Court",
+      "year": 2018,
+      "courtlistener_url": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/",
+      "cluster_id": 4510032,
+      "proposition": "Acquiring extended historical cell-site location information (CSLI) is a search; a person retains a reasonable expectation of privacy in 'the whole of their physical movements.' Narrows the third-party doctrine for digital-age location data; an example of the Katz privacy theory recalibrating to new technology.",
+      "pinpoint": "585 U.S. at 310-16",
+      "weight": "SCOTUS - binding"
+    }
+  ],
+  "non_case_items": [],
+  "corrections": [
+    {
+      "raw": "Silverman ... 5/16th of an inch physically penetrated ... Technical trespass didn't actually matter.",
+      "correct": "Silverman turned on an unauthorized physical penetration into a constitutionally protected area (a 'spike mike' making contact with the home's heating duct). The Court expressly declined to rest on local property-law 'technical trespass' niceties — i.e., the precise inches/local-law trespass distinctions did not control; the unauthorized physical intrusion into the house did."
+    },
+    {
+      "raw": "Katz ... Prongs: subjective (person actually expects privacy) / objective (society recognizes it as reasonable).",
+      "correct": "The two-prong subjective/objective test is from Justice Harlan's CONCURRENCE in Katz (389 U.S. at 361), not the majority opinion. The majority's rule is 'the Fourth Amendment protects people, not places' and 'what a person knowingly exposes to the public ... is not protected.'"
+    },
+    {
+      "raw": "Jones ... This is the controlling current case law on physical trespass search. Many older cases are no longer good law bc of Jones.",
+      "correct": "Accurate in substance, but stated precisely: Jones REVIVED (did not replace) the property/trespass baseline that Katz had supplemented ('Katz did not narrow the Fourth Amendment's scope,' 565 U.S. at 408). Olmstead was overruled on the privacy point by Katz; Jones did not overrule Katz. The two theories now run in parallel and either independently establishes a search."
+    },
+    {
+      "raw": "Olmstead v US — Tapped phone, no warrant. No physical intrusion, no item seized (info).",
+      "correct": "Correct as to result (no search) and rationale (no physical entry of the premises; mere overhearing of conversations was not a seizure of tangible 'effects'). Note Olmstead is overruled on the privacy theory by Katz; its property instinct was later revived by Jones."
+    }
+  ]
+}

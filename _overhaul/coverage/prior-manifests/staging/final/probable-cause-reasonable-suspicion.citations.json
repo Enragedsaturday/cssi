@@ -1,0 +1,174 @@
+{
+ "page": "probable-cause-reasonable-suspicion",
+ "slug": "probable-cause-reasonable-suspicion",
+ "cases": [
+  {
+   "name": "Illinois v. Gates",
+   "cite": "Illinois v. Gates, 462 U.S. 213 (1983)",
+   "url": "https://www.courtlistener.com/opinion/110959/illinois-v-gates/",
+   "holding": "Probable cause from an informant's tip is judged by the **totality of the circumstances** \u2014 the issuing magistrate makes a practical, common-sense decision whether there is a fair probability of crime; an informant's veracity, reliability, and basis of knowledge are relevant factors but not independent, dispositive hurdles.",
+   "quotes": [
+    {
+     "text": "The task of the issuing magistrate is simply to make a practical, common-sense decision whether, given all the circumstances set forth in the affidavit before him, including the \"veracity\" and \"basis of knowledge\" of persons supplying hearsay information, there is a fair probability that contraband or evidence of a crime will be found in a particular place.",
+     "pinpoint": "462 U.S. at 238",
+     "confirmed": true
+    }
+   ],
+   "weight": null,
+   "src": "deck:name-that-case-warrants.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Aguilar v. Texas / Spinelli v. United States",
+   "cite": "Aguilar v. Texas, 378 U.S. 108 (1964)",
+   "url": "https://www.courtlistener.com/opinion/106865/aguilar-v-texas/",
+   "holding": "A magistrate may issue a warrant on an informant's hearsay only if the affidavit shows **(1) the informant's basis of knowledge** (how he got the information) **and (2) his veracity/reliability** (why he should be believed).",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-warrants.json",
+   "goodlaw": "abrogated",
+   "treatment_note": "NOT GOOD LAW as the governing PC test: the Aguilar-Spinelli two-pronged test was abandoned by Illinois v. Gates, 462 U.S. 213, 238 (1983) ('it is wiser to abandon the two-pronged test established by our decisions in Aguilar and Spinelli'). Superseded by totality-of-the-circumstances."
+  },
+  {
+   "name": "Maryland v. Pringle",
+   "cite": "Maryland v. Pringle, 540 U.S. 366, 371-74 (2003)",
+   "url": "https://www.courtlistener.com/opinion/131150/maryland-v-pringle/",
+   "holding": "Where drugs and cash are found in a car and no occupant claims them, an officer has probable cause to arrest all the occupants on a reasonable inference of common enterprise.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-seizure-arrest-force.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Brinegar v. United States",
+   "cite": "Brinegar v. United States, 338 U.S. 160, 175 (1949)",
+   "url": "https://www.courtlistener.com/opinion/104716/brinegar-v-united-states/",
+   "holding": "",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:three-golden-rules.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Terry v. Ohio",
+   "cite": "Terry v. Ohio, 392 U.S. 1 (1968)",
+   "url": "https://www.courtlistener.com/opinion/107729/terry-v-ohio/",
+   "holding": "An investigative stop and protective frisk require reasonable, articulable suspicion grounded in specific facts and rational inferences \u2014 not an officer's inchoate, unparticularized suspicion or 'hunch.'",
+   "quotes": [
+    {
+     "text": "due weight must be given, not to his inchoate and unparticularized suspicion or \u201chunch,\u201d but to the specific reasonable inferences which he is entitled to draw from the facts in light of his experience.",
+     "pinpoint": "392 U.S. at 27",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "manifest:traffic-stops.citations.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Devenpeck v. Alford",
+   "cite": "Devenpeck v. Alford, 543 U.S. 146, 153-55 (2004)",
+   "url": "https://www.courtlistener.com/opinion/137733/devenpeck-v-alford/",
+   "holding": "An arrest is lawful so long as the known facts give probable cause for SOME criminal offense; the offense need not be the one the officer invoked, nor even \"closely related\" to it.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-seizure-arrest-force.json",
+   "goodlaw": null
+  },
+  {
+   "name": "District of Columbia v. Wesby",
+   "cite": "District of Columbia v. Wesby, 583 U.S. 48, 63 (2018)",
+   "url": "https://www.courtlistener.com/opinion/4238107/district-of-columbia-v-wesby/",
+   "holding": "",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:civil-liability-1983.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Florida v. Harris",
+   "cite": "Florida v. Harris, 568 U.S. 237, 244-48 (2013)",
+   "url": "https://www.courtlistener.com/opinion/820744/florida-v-harris/",
+   "holding": "Whether a dog's alert furnishes probable cause is a totality-of-the-circumstances question; evidence of a dog's satisfactory performance in a certification or training program can itself provide reason to trust the alert \u2014 no rigid checklist of field-record evidence is required.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-threshold.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Illinois v. Wardlow",
+   "cite": "Illinois v. Wardlow, 528 U.S. 119, 124 (2000)",
+   "url": "https://www.courtlistener.com/opinion/118326/illinois-v-wardlow/",
+   "holding": "Unprovoked headlong flight upon noticing police, combined with presence in a high-crime area, can furnish reasonable suspicion for a Terry stop.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-stops-frisks.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Alabama v. White",
+   "cite": "Alabama v. White, 496 U.S. 325, 332 (1990)",
+   "url": "https://www.courtlistener.com/opinion/112454/alabama-v-white/",
+   "holding": "An anonymous tip can supply reasonable suspicion when sufficiently corroborated by police observation \u2014 especially of the tipster's prediction of future behavior, which shows inside knowledge.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-stops-frisks.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Florida v. J.L.",
+   "cite": "Florida v. J.L., 529 U.S. 266, 272 (2000)",
+   "url": "https://www.courtlistener.com/opinion/118352/florida-v-jl/",
+   "holding": "A bare anonymous tip that a person is carrying a gun, without more, is NOT reasonable suspicion for a stop and frisk; an accurate description of a readily observable location and appearance does not show knowledge of concealed criminal activity.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-stops-frisks.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Navarette v. California",
+   "cite": "Navarette v. California, 572 U.S. 393, 398-99 (2014)",
+   "url": "https://www.courtlistener.com/opinion/2670795/prado-navarette-v-california/",
+   "holding": "A 911 call reporting dangerous/reckless driving can supply reasonable suspicion for a stop when it bears adequate indicia of reliability \u2014 an eyewitness, contemporaneous report, on a recorded/traceable 911 system.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-stops-frisks.json",
+   "goodlaw": null
+  },
+  {
+   "name": "United States v. Arvizu",
+   "cite": "United States v. Arvizu, 534 U.S. 266, 274 (2002)",
+   "url": "https://www.courtlistener.com/opinion/118474/united-states-v-arvizu/",
+   "holding": "Reasonable suspicion is judged on the totality of the circumstances \u2014 the \"whole picture\" \u2014 and reviewing courts may NOT use a \"divide-and-conquer\" analysis that evaluates and discards each factor in isolation.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-stops-frisks.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Ornelas v. United States",
+   "cite": "Ornelas v. United States, 517 U.S. 690 (1996)",
+   "url": "https://www.courtlistener.com/opinion/118030/ornelas-v-united-states/",
+   "holding": "Appellate review of determinations of reasonable suspicion and probable cause to make a warrantless search/stop is de novo (historical facts reviewed for clear error, with due weight to inferences).",
+   "quotes": [
+    {
+     "text": "We hold that the ultimate questions of reasonable suspicion and probable cause to make a warrantless search should be reviewed de novo.",
+     "pinpoint": "517 U.S. at 691",
+     "confirmed": true
+    },
+    {
+     "text": "We therefore hold that as a general matter determinations of reasonable suspicion and probable cause should be reviewed de novo on appeal.",
+     "pinpoint": "517 U.S. at 699",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "P3-verified",
+   "verdict": "VERIFIED",
+   "goodlaw": "good",
+   "treatment_note": "Still the governing standard of review; cited ~7,196 times, no negative SCOTUS treatment."
+  }
+ ],
+ "unresolved": [],
+ "note": "Phase-3 FINAL authoring manifest: packet(manifest+deck) + P3 gap verifications + marquee quotes + good-law."
+}

@@ -1,0 +1,145 @@
+{
+ "page": "exigent-circumstances",
+ "slug": "exigent-circumstances",
+ "cases": [
+  {
+   "name": "Warden v. Hayden",
+   "cite": "Warden v. Hayden, 387 U.S. 294, 298-99 (1967)",
+   "url": "https://www.courtlistener.com/opinion/107465/warden-maryland-penitentiary-v-hayden/",
+   "holding": "Hot pursuit of a fleeing armed robber into a house is a valid warrantless entry and search where \"the exigencies of the situation made that course imperative\"; the case also abolished the old \"mere evidence\" rule.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-consent-exigency.json",
+   "goodlaw": null
+  },
+  {
+   "name": "United States v. Santana",
+   "cite": "United States v. Santana, 427 U.S. 38 (1976)",
+   "url": "https://www.courtlistener.com/opinion/109504/united-states-v-santana/",
+   "holding": "A suspect standing in her own doorway/threshold is in a 'public' place for Fourth Amendment purposes; she cannot defeat a lawful arrest set in motion in public by retreating inside, and hot pursuit justifies the warrantless entry that follows.",
+   "quotes": [
+    {
+     "text": "a suspect may not defeat an arrest which has been set in motion in a public place, and is therefore proper under Watson, by the expedient of escaping to a private place",
+     "pinpoint": "427 U.S. at 43",
+     "confirmed": true
+    },
+    {
+     "text": "The fact that the pursuit here ended almost as soon as it began did not render it any the less a \"hot pursuit\" sufficient to justify the warrantless entry into Santana's house",
+     "pinpoint": "427 U.S. at 43",
+     "confirmed": true
+    }
+   ],
+   "weight": "binding (SCOTUS)",
+   "src": "manifest:arrest-in-the-home.citations.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Welsh v. Wisconsin",
+   "cite": "Welsh v. Wisconsin, 466 U.S. 740 (1984)",
+   "url": "https://www.courtlistener.com/opinion/111173/welsh-v-wisconsin/",
+   "holding": "The gravity of the underlying offense is a key factor in the exigency analysis; warrantless home entry for a MINOR offense should rarely be sanctioned. Nighttime warrantless home arrest for a noncriminal traffic offense (DUI, civil forfeiture) is unconstitutional.",
+   "quotes": [
+    {
+     "text": "an important factor to be considered when determining whether any exigency exists is the gravity of the underlying offense for which the arrest is being made",
+     "pinpoint": "466 U.S. at 753",
+     "confirmed": true
+    },
+    {
+     "text": "application of the exigent-circumstances exception in the context of a home entry should rarely be sanctioned when there is probable cause to believe that only a minor offense ... has been committed",
+     "pinpoint": "466 U.S. at 753",
+     "confirmed": true
+    }
+   ],
+   "weight": "binding (SCOTUS)",
+   "src": "manifest:arrest-in-the-home.citations.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Lange v. California",
+   "cite": "Lange v. California, 594 U.S. 295 (2021)",
+   "url": "https://www.courtlistener.com/opinion/4894407/lange-v-california/",
+   "holding": "Pursuit of a fleeing MISDEMEANOR suspect does not categorically justify warrantless home entry; courts apply a case-by-case exigency assessment. Hot pursuit of a misdemeanant is permissible only when an actual exigency (escape, evidence destruction, harm) is present.",
+   "quotes": [
+    {
+     "text": "pursuit of a fleeing misdemeanor suspect does not always\u2014that is, categorically\u2014justify a warrantless entry into a home",
+     "pinpoint": "594 U.S. at 297-98 (syllabus)",
+     "confirmed": true
+    },
+    {
+     "text": "case-by-case assessment of exigency when deciding whether a suspected misdemeanant's flight justifies a warrantless home entry",
+     "pinpoint": "594 U.S. at 298 (syllabus)",
+     "confirmed": true
+    }
+   ],
+   "weight": "binding (SCOTUS)",
+   "src": "manifest:arrest-in-the-home.citations.json",
+   "goodlaw": "good",
+   "treatment_note": "Current; no flight-for-a-misdemeanor categorical exigency rule. Cited ~51 times, no negative SCOTUS treatment."
+  },
+  {
+   "name": "Kentucky v. King",
+   "cite": "Kentucky v. King, 563 U.S. 452 (2011)",
+   "url": "https://www.courtlistener.com/opinion/216733/kentucky-v-king/",
+   "holding": "The exigent-circumstances rule applies even where police 'created' the exigency, SO LONG AS the police did not create it by engaging or threatening to engage in conduct that itself violates the Fourth Amendment (e.g., lawfully knocking and announcing is fine).",
+   "quotes": [
+    {
+     "text": "The exigent circumstances rule applies when the police do not create the exigency by engaging or threatening to engage in conduct that violates the Fourth Amendment",
+     "pinpoint": "563 U.S. at 462",
+     "confirmed": true
+    },
+    {
+     "text": "a warrantless entry based on exigent circumstances is reasonable when the police did not create the exigency by engaging or threatening to engage in conduct violating the Fourth Amendment",
+     "pinpoint": "563 U.S. at 462",
+     "confirmed": true
+    }
+   ],
+   "weight": "binding (SCOTUS)",
+   "src": "manifest:arrest-in-the-home.citations.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Missouri v. McNeely",
+   "cite": "Missouri v. McNeely, 569 U.S. 141, 145, 156 (2013)",
+   "url": "https://www.courtlistener.com/opinion/858288/missouri-v-mcneely/",
+   "holding": "The natural metabolization of alcohol is NOT a per se exigency justifying a warrantless DUI blood draw in every case; exigency must be decided case-by-case on the totality of the circumstances.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-consent-exigency.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Mitchell v. Wisconsin",
+   "cite": "Mitchell v. Wisconsin, 588 U.S. 840 (2019) (plurality op.)",
+   "url": "https://www.courtlistener.com/opinion/9231242/mitchell-v-wisconsin/",
+   "holding": "When police have probable cause for DUI and the driver's unconsciousness/stupor forces hospitalization before a breath test can be given, they may almost always order a warrantless blood draw under the exigency exception.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-consent-exigency.json",
+   "goodlaw": "good",
+   "treatment_note": "Current; plurality on unconscious-driver BAC / exigency. No negative treatment."
+  },
+  {
+   "name": "Brigham City v. Stuart",
+   "cite": "Brigham City v. Stuart, 547 U.S. 398 (2006)",
+   "url": "https://www.courtlistener.com/opinion/145654/brigham-city-v-stuart/",
+   "holding": "Emergency aid exception: police may enter a home without a warrant when they have an objectively reasonable basis to believe an occupant is seriously injured or imminently threatened; the officer's subjective motive is irrelevant.",
+   "quotes": [
+    {
+     "text": "police may enter a home without a warrant when they have an objectively reasonable basis for believing that an occupant is seriously injured or imminently threatened with such injury",
+     "pinpoint": "547 U.S. at 400",
+     "confirmed": true
+    },
+    {
+     "text": "The officer's subjective motivation is irrelevant.",
+     "pinpoint": "547 U.S. at 404",
+     "confirmed": true
+    }
+   ],
+   "weight": "binding (SCOTUS)",
+   "src": "manifest:community-caretaking-emergency-aid.citations.json",
+   "goodlaw": null
+  }
+ ],
+ "unresolved": [],
+ "note": "Phase-3 FINAL authoring manifest: packet(manifest+deck) + P3 gap verifications + marquee quotes + good-law."
+}

@@ -1,0 +1,92 @@
+{
+ "page": "due-process-voluntariness",
+ "slug": "due-process-voluntariness",
+ "cases": [
+  {
+   "name": "Brown v. Mississippi",
+   "cite": "Brown v. Mississippi, 297 U.S. 278 (1936)",
+   "url": "https://www.courtlistener.com/opinion/102604/brown-v-mississippi/",
+   "holding": "A confession extracted by physical torture is involuntary and its use to convict violates Fourteenth Amendment due process.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Ashcraft v. Tennessee",
+   "cite": "Ashcraft v. Tennessee, 322 U.S. 143 (1944)",
+   "url": "https://www.courtlistener.com/opinion/103981/ashcraft-v-tennessee/",
+   "holding": "Thirty-six hours of continuous, relay interrogation without sleep is \"inherently coercive,\" rendering the resulting confession involuntary under due process.",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Spano v. New York",
+   "cite": "Spano v. New York, 360 U.S. 315 (1959)",
+   "url": "https://www.courtlistener.com/opinion/105917/spano-v-new-york/",
+   "holding": "A confession produced by psychological pressure \u2014 here a friend's feigned distress plus persistent overnight questioning of a suspect who had a lawyer and asked for him \u2014 is involuntary; \"the petitioner's will was overborne.\"",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Colorado v. Connelly",
+   "cite": "Colorado v. Connelly, 479 U.S. 157 (1986)",
+   "url": "https://www.courtlistener.com/opinion/111779/colorado-v-connelly/",
+   "holding": "A confession is \"involuntary\" for due-process purposes only when there is COERCIVE POLICE ACTIVITY; a suspect's mental illness or internal compulsion, without police overreaching, does not make it involuntary.",
+   "quotes": [
+    {
+     "text": "We hold that coercive police activity is a necessary predicate to the finding that a confession is not \"voluntary\" within the meaning of the Due Process Clause of the Fourteenth Amendment.",
+     "pinpoint": "479 U.S. at 167",
+     "confirmed": true
+    }
+   ],
+   "weight": null,
+   "src": "deck:name-that-case-miranda-core.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Frazier v. Cupp",
+   "cite": "Frazier v. Cupp, 394 U.S. at 740",
+   "url": "https://www.courtlistener.com/opinion/107913/frazier-v-cupp/",
+   "holding": "",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:consent-searches.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Arizona v. Fulminante",
+   "cite": "Arizona v. Fulminante, 499 U.S. 279 (1991)",
+   "url": "https://www.courtlistener.com/opinion/112566/arizona-v-fulminante/",
+   "holding": "The admission of an involuntary/coerced confession is a \"trial error\" subject to harmless-error analysis under Chapman, not automatic reversal (though on these facts the error was NOT harmless and the conviction was reversed).",
+   "quotes": [],
+   "weight": null,
+   "src": "deck:name-that-case-confessions-supplement.json",
+   "goodlaw": null
+  },
+  {
+   "name": "Chambers v. Florida",
+   "cite": "Chambers v. Florida, 309 U.S. 227 (1940)",
+   "url": "https://www.courtlistener.com/opinion/103301/chambers-v-florida/",
+   "holding": "Confessions extracted through prolonged, incommunicado interrogation of helpless prisoners were the product of compulsion and their use to obtain convictions violated due process.",
+   "quotes": [
+    {
+     "text": "To permit human lives to be forfeited upon confessions thus obtained would make of the constitutional requirement of due process of law a meaningless symbol.",
+     "pinpoint": "309 U.S. at 240",
+     "confirmed": true
+    }
+   ],
+   "weight": "SCOTUS \u2014 binding",
+   "src": "P3-verified",
+   "verdict": "VERIFIED",
+   "goodlaw": "good",
+   "treatment_note": "Current; foundational due-process voluntariness / coerced-confession decision."
+  }
+ ],
+ "unresolved": [],
+ "note": "Phase-3 FINAL authoring manifest: packet(manifest+deck) + P3 gap verifications + marquee quotes + good-law."
+}

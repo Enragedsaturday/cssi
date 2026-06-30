@@ -1,0 +1,553 @@
+{
+  "page": "Exclusionary Rule",
+  "slug": "exclusionary-rule",
+  "cases": [
+    {
+      "bluebook": "Weeks v. United States, 232 U.S. 383 (1914)",
+      "opinion_id": 98094,
+      "cluster_id": 98094,
+      "cl_url": "https://www.courtlistener.com/opinion/98094/weeks-v-united-states/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "Origin of the federal exclusionary rule: evidence obtained in violation of the Fourth Amendment is inadmissible against a defendant in federal court.",
+      "proposition_checked": "4A-violative evidence is inadmissible in federal court (origin of the federal exclusionary rule).",
+      "quotes": [
+        {
+          "text": "If letters and private documents can thus be seized and held and used in evidence against a citizen accused of an offense, the protection of the Fourth Amendment declaring his right to be secure against such searches and seizures, is of no value, and, so far as those thus placed are concerned, might as well be stricken from the Constitution.",
+          "pinpoint": "232 U.S. at 393",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Foundational. Older case: cluster_id == lead opinion_id (98094)."
+    },
+    {
+      "bluebook": "Mapp v. Ohio, 367 U.S. 643 (1961)",
+      "opinion_id": 106285,
+      "cluster_id": 106285,
+      "cl_url": "https://www.courtlistener.com/opinion/106285/mapp-v-ohio/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "The exclusionary rule applies to the States through the Fourteenth Amendment.",
+      "proposition_checked": "Exclusionary rule applies to the States via the Fourteenth Amendment.",
+      "quotes": [
+        {
+          "text": "We hold that all evidence obtained by searches and seizures in violation of the Constitution is, by that same authority, inadmissible in a state court.",
+          "pinpoint": "367 U.S. at 655",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Foundational ADD. Older case: cluster_id == opinion_id (106285)."
+    },
+    {
+      "bluebook": "Wong Sun v. United States, 371 U.S. 471 (1963)",
+      "opinion_id": 106515,
+      "cluster_id": 106515,
+      "cl_url": "https://www.courtlistener.com/opinion/106515/wong-sun-v-united-states/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "'Fruit of the poisonous tree': derivative evidence is suppressed if come at by exploitation of the primary illegality, not merely 'but for' the illegality.",
+      "proposition_checked": "Derivative evidence obtained by exploiting the illegality is suppressed; the test is exploitation, not mere but-for causation.",
+      "quotes": [
+        {
+          "text": "We need not hold that all evidence is \"fruit of the poisonous tree\" simply because it would not have come to light but for the illegal actions of the police. Rather, the more apt question in such a case is \"whether, granting establishment of the primary illegality, the evidence to which instant objection is made has been come at by exploitation of that illegality or instead by means sufficiently distinguishable to be purged of the primary taint.\"",
+          "pinpoint": "371 U.S. at 487-488",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Older case: cluster_id == opinion_id (106515)."
+    },
+    {
+      "bluebook": "United States v. Calandra, 414 U.S. 338 (1974)",
+      "opinion_id": 108898,
+      "cluster_id": 108898,
+      "cl_url": "https://www.courtlistener.com/opinion/108898/united-states-v-calandra/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "The exclusionary rule is a judicially created deterrent remedy, not a personal constitutional right; it does not apply to grand-jury questioning.",
+      "proposition_checked": "Exclusionary rule is a judicially-created deterrent remedy, not a personal constitutional right; inapplicable to grand-jury questioning.",
+      "quotes": [
+        {
+          "text": "In sum, the rule is a judicially created remedy designed to safeguard Fourth Amendment rights generally through its deterrent effect, rather than a personal constitutional right of the party aggrieved.",
+          "pinpoint": "414 U.S. at 348",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Quote is the majority's holding at *348; the same phrase also appears in the dissent (quoting/criticizing the majority). Older case: cluster_id == opinion_id (108898)."
+    },
+    {
+      "bluebook": "Herring v. United States, 555 U.S. 135 (2009)",
+      "opinion_id": 145922,
+      "cluster_id": 145922,
+      "cl_url": "https://www.courtlistener.com/opinion/145922/herring-v-united-states/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "Suppression is warranted only where deterrence benefits outweigh costs; isolated, attenuated police negligence (a recordkeeping error) does not trigger exclusion.",
+      "proposition_checked": "Suppression requires deterrence benefits to outweigh costs; isolated/attenuated negligence (recordkeeping error) does not trigger exclusion.",
+      "quotes": [
+        {
+          "text": "To trigger the exclusionary rule, police conduct must be sufficiently deliberate that exclusion can meaningfully deter it, and sufficiently culpable that such deterrence is worth the price paid by the justice system. As laid out in our cases, the exclusionary rule serves to deter deliberate, reckless, or grossly negligent conduct, or in some circumstances recurring or systemic negligence.",
+          "pinpoint": "555 U.S. at 144",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "RECENT — cluster 145922 resolved. Lead/majority text confirmed in opinion 145922 (URL slug herring-v-united-states; caption 'Bennie Dean HERRING, Petitioner, v. UNITED STATES'). Cluster also exposes split sub-opinion ids 9435413/9435414/9435415; 145922 holds the consolidated authoritative text and is the correct cl_url target. Pinpoint converted from S.Ct. *703 to U.S. Reports 555 U.S. at 144."
+    },
+    {
+      "bluebook": "Rakas v. Illinois, 439 U.S. 128 (1978)",
+      "opinion_id": 109953,
+      "cluster_id": 109953,
+      "cl_url": "https://www.courtlistener.com/opinion/109953/rakas-v-illinois/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "Fourth Amendment rights are personal; a defendant must show his own legitimate expectation of privacy was infringed and cannot vicariously assert others' rights.",
+      "proposition_checked": "4A rights are personal; defendant must show HIS OWN reasonable expectation of privacy; cannot assert others' rights.",
+      "quotes": [
+        {
+          "text": "Fourth Amendment rights are personal rights which, like some other constitutional rights, may not be vicariously asserted.",
+          "pinpoint": "439 U.S. at 133-134",
+          "confirmed": true
+        },
+        {
+          "text": "Katz held that capacity to claim the protection of the Fourth Amendment depends not upon a property right in the invaded place but upon whether the person who claims the protection of the Amendment has a legitimate expectation of privacy in the invaded place.",
+          "pinpoint": "439 U.S. at 143",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "First quote is Rakas quoting Alderman v. United States, 394 U.S. 165, 174 (1969). CL date_filed shows 1979-01-15 (decided Jan. 1979); the canonical reporter year is 1978 — both correct. This is the controlling SCOTUS standing line (see also 'US v White' flag and Byrd contrast in flags)."
+    },
+    {
+      "bluebook": "United States v. White (standing in stolen vehicle) — UNVERIFIABLE as captioned",
+      "opinion_id": null,
+      "cluster_id": null,
+      "cl_url": null,
+      "weight": "UNVERIFIABLE",
+      "verdict": "UNVERIFIABLE",
+      "holding": "Capture asserts a 'United States v. White' holding of no standing / no reasonable expectation of privacy in a stolen vehicle. No such well-known decision could be confirmed.",
+      "proposition_checked": "Existence of a 'White' case holding there is no standing / no REP in a stolen vehicle.",
+      "quotes": [],
+      "name_confirmed_in_text": false,
+      "notes": "FLAG: This is almost certainly NOT United States v. White, 401 U.S. 745 (1971) (wired-informant / third-party doctrine case). Escalation per RUNBOOK §3a: (1) name search type=o case_name=White + q='stolen vehicle reasonable expectation of privacy standing' -> 7 scattered hits, none on-point (mix of state cases + an unrelated D.C. Cir. case 648 F.2d 29); (2) federal-appellate full-text search q='\"White\" stolen vehicle \"legitimate expectation of privacy\" standing suppress' across SCOTUS+all circuits -> 0 results. No clean 'United States v. White' stolen-vehicle standing case exists. DO NOT ASSERT 'US v White.' The controlling SCOTUS standing line is Rakas v. Illinois (no standing without one's OWN reasonable expectation of privacy); the standard stolen-vehicle illustration is that a thief/unauthorized possessor has no legitimate expectation of privacy. For the rental-car / authorized-driver contrast, cite Byrd v. United States, 584 U.S. 395 (2018) (cluster 4497658, opinion id 4497658, https://www.courtlistener.com/opinion/4497658/byrd-v-united-states/). Recommend the page drop 'US v White' and rely on Rakas (+ Byrd contrast)."
+    },
+    {
+      "bluebook": "Nix v. Williams, 467 U.S. 431 (1984)",
+      "opinion_id": 111204,
+      "cluster_id": 111204,
+      "cl_url": "https://www.courtlistener.com/opinion/111204/nix-v-williams/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "Inevitable discovery: unlawfully obtained evidence is admissible if the prosecution proves by a preponderance it would inevitably have been discovered by lawful means.",
+      "proposition_checked": "Inevitable discovery — admissible if government proves by a preponderance it would inevitably have been discovered by lawful means.",
+      "quotes": [
+        {
+          "text": "If the prosecution can establish by a preponderance of the evidence that the information ultimately or inevitably would have been discovered by lawful means — here the volunteers' search — then the deterrence rationale has so little basis that the evidence should be received.",
+          "pinpoint": "467 U.S. at 444",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Older case: cluster_id == opinion_id (111204)."
+    },
+    {
+      "bluebook": "United States v. Soto-Peguero, 978 F.3d 13 (1st Cir. 2020)",
+      "opinion_id": 4578375,
+      "cluster_id": 4798028,
+      "cl_url": "https://www.courtlistener.com/opinion/4578375/united-states-v-soto-peguero/",
+      "weight": "Circuit (1st) — persuasive",
+      "verdict": "VERIFIED",
+      "holding": "Illustrative application of inevitable discovery: government met its burden (agent would have sought and obtained a warrant regardless), so the warrantless protective-sweep evidence was admissible; denial of suppression affirmed.",
+      "proposition_checked": "Illustrative application of the inevitable-discovery test (evidence admitted; affirmed).",
+      "quotes": [
+        {
+          "text": "Because Soto-Peguero has not succeeded in establishing that the United States failed to meet the requirements for applying the inevitable discovery doctrine, we affirm the District Court's denial of his motion to suppress.",
+          "pinpoint": "978 F.3d at 21",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Cite resolved: 978 F.3d 13 confirmed (likely shorthand correct). Cluster 4798028 -> lead opinion 4578375. Persuasive/illustrative (1st Cir.). Here the doctrine APPLIED and evidence was admitted (contrast Neugin)."
+    },
+    {
+      "bluebook": "United States v. Neugin, 958 F.3d 924 (10th Cir. 2020)",
+      "opinion_id": 4530911,
+      "cluster_id": 4750564,
+      "cl_url": "https://www.courtlistener.com/opinion/4530911/united-states-v-neugin/",
+      "weight": "Circuit (10th) — persuasive",
+      "verdict": "VERIFIED",
+      "holding": "Illustrative application of inevitable discovery where the exception did NOT apply: the chain to discovery was too speculative, so suppression was required; denial of suppression reversed.",
+      "proposition_checked": "Illustrative application of the inevitable-discovery test (exception rejected as too speculative; reversed).",
+      "quotes": [
+        {
+          "text": "Without the violation, therefore, Mr. Neugin would not inevitably have been arrested. And without the arrest, the truck would not inevitably have been impounded and searched. ... The inevitable discovery exception thus does not apply.",
+          "pinpoint": "958 F.3d at 933-34",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Cite resolved: 958 F.3d 924 confirmed. Cluster 4750564 -> lead opinion 4530911. IMPORTANT CHARACTERIZATION: Neugin REVERSED the denial of suppression — inevitable discovery did NOT apply (speculative). Use as a counter-illustration of the doctrine's limits, not as an admit-the-evidence example. Persuasive (10th Cir.)."
+    },
+    {
+      "bluebook": "Murray v. United States, 487 U.S. 533 (1988)",
+      "opinion_id": 112136,
+      "cluster_id": 112136,
+      "cl_url": "https://www.courtlistener.com/opinion/112136/murray-v-united-states/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "Independent source: evidence first observed during an unlawful entry is admissible if later acquired through a genuinely independent lawful source (a warrant not prompted by what was seen).",
+      "proposition_checked": "Evidence seen during unlawful entry is admissible if later acquired via a genuinely independent lawful source (e.g., a warrant not prompted by the unlawful observation).",
+      "quotes": [
+        {
+          "text": "The ultimate question, therefore, is whether the search pursuant to warrant was in fact a genuinely independent source of the information and tangible evidence at issue here. This would not have been the case if the agents' decision to seek the warrant was prompted by what they had seen during the initial entry, or if information obtained during that entry was presented to the Magistrate and affected his decision to issue the warrant.",
+          "pinpoint": "487 U.S. at 542",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Quote is from the majority opinion (genuinely-independent-source test). Older case: cluster_id == opinion_id (112136)."
+    },
+    {
+      "bluebook": "State v. Mitcham, 258 Ariz. 435 (2025)",
+      "opinion_id": 10760195,
+      "cluster_id": 10293607,
+      "cl_url": "https://www.courtlistener.com/opinion/10760195/state-of-arizona-v-ian-mitcham/",
+      "weight": "State — illustrative, non-binding",
+      "verdict": "VERIFIED",
+      "holding": "Arizona Supreme Court applies the independent-source exception: evidence discovered during/because of an unlawful search is admissible if also obtained independently from untainted activities.",
+      "proposition_checked": "State illustration of the independent-source proposition.",
+      "quotes": [
+        {
+          "text": "The \"independent source\" exception permits the admission of evidence discovered during or because of an unlawful search if the evidence was also obtained independently from activities that were tainted by the illegality.",
+          "pinpoint": "Mitcham, ¶ 34 (Ariz. 2024)",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "CITE CAVEAT: CL indexes this only by its Pacific cite 559 P.3d 1099 (Arizona Supreme Court). The captured parallel cite '258 Ariz. 435' is the official Arizona Reports cite, not yet indexed in CL (common state-reporter lag) — NOT a contradiction; case confirmed by name search + name-in-text ('STATE V. MITCHAM / Opinion of the Court'). DATE NUANCE: CL date_filed = 2024-12-17 (decided Dec. 2024); the shorthand '(2025)' likely reflects the Arizona Reports publication year — benign discrepancy. Cluster 10293607 -> lead opinion 10760195. State — illustrative, non-binding (persuasive only)."
+    },
+    {
+      "bluebook": "Utah v. Strieff, 579 U.S. 232 (2016)",
+      "opinion_id": 8137990,
+      "cluster_id": 8176208,
+      "cl_url": "https://www.courtlistener.com/opinion/8137990/utah-v-strieff/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "Attenuation: discovery of a valid pre-existing arrest warrant during an unlawful stop was an intervening circumstance that attenuated the taint; the evidence was admissible.",
+      "proposition_checked": "Discovery of a valid pre-existing arrest warrant during an unlawful stop attenuated the taint; evidence admissible.",
+      "quotes": [
+        {
+          "text": "Applying these factors, we hold that the evidence discovered on Strieff's person was admissible because the unlawful stop was sufficiently attenuated by the pre-existing arrest warrant. ... The outstanding arrest warrant for Strieff's arrest is a critical intervening circumstance that is wholly independent of the illegal stop.",
+          "pinpoint": "579 U.S. at 241",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "RECENT — resolved. Cluster 8176208 (auto-resolved from duplicate cluster 3214882) -> lead opinion 8137990; name 'Strieff' confirmed in text. Pinpoint converted from S.Ct. *2063 (136 S. Ct. at 2063) to U.S. Reports 579 U.S. at 241. Applies the Brown v. Illinois factors."
+    },
+    {
+      "bluebook": "Brown v. Illinois, 422 U.S. 590 (1975)",
+      "opinion_id": 109304,
+      "cluster_id": 109304,
+      "cl_url": "https://www.courtlistener.com/opinion/109304/brown-v-illinois/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "Sets out the attenuation factors: temporal proximity, intervening circumstances, and the purpose and flagrancy of the official misconduct (Miranda warnings alone do not purge the taint).",
+      "proposition_checked": "Attenuation factors: temporal proximity, intervening circumstances, and purpose/flagrancy of the official misconduct.",
+      "quotes": [
+        {
+          "text": "The temporal proximity of the arrest and the confession, the presence of intervening circumstances, and, particularly, the purpose and flagrancy of the official misconduct are all relevant.",
+          "pinpoint": "422 U.S. at 603-604",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Older case: cluster_id == opinion_id (109304). These are the canonical 'Brown factors' applied in Strieff."
+    },
+    {
+      "bluebook": "United States v. Leon, 468 U.S. 897 (1984)",
+      "opinion_id": 111262,
+      "cluster_id": 111262,
+      "cl_url": "https://www.courtlistener.com/opinion/111262/united-states-v-leon/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "Good-faith exception: evidence obtained by officers in objectively reasonable reliance on a search warrant later found unsupported by probable cause is admissible; suppression would not serve the rule's deterrent purpose. Good faith does NOT apply in four situations (468 U.S. at 923): (1) the magistrate was misled by a knowing/reckless false affidavit (Franks); (2) the magistrate wholly abandoned the neutral-and-detached judicial role (Lo-Ji Sales); (3) the affidavit was so lacking in indicia of probable cause as to render official belief in its existence entirely unreasonable; (4) the warrant was so facially deficient (failing to particularize place/things) that officers could not reasonably presume it valid (cf. Massachusetts v. Sheppard).",
+      "proposition_checked": "Objectively reasonable reliance on a later-invalidated warrant yields admissible evidence; good faith fails in four enumerated situations.",
+      "quotes": [
+        {
+          "text": "We conclude that the marginal or nonexistent benefits produced by suppressing evidence obtained in objectively reasonable reliance on a subsequently invalidated search warrant cannot justify the substantial costs of exclusion.",
+          "pinpoint": "468 U.S. at 922",
+          "confirmed": true
+        },
+        {
+          "text": "Suppression therefore remains an appropriate remedy if the magistrate or judge in issuing a warrant was misled by information in an affidavit that the affiant knew was false or would have known was false except for his reckless disregard of the truth. Franks v. Delaware, 438 U. S. 154 (1978). The exception we recognize today will also not apply in cases where the issuing magistrate wholly abandoned his judicial role in the manner condemned in Lo-Ji Sales, Inc. v. New York, 442 U. S. 319 (1979) ... Nor would an officer manifest objective good faith in relying on a warrant based on an affidavit \"so lacking in indicia of probable cause as to render official belief in its existence entirely unreasonable.\" ... Finally, depending on the circumstances of the particular case, a warrant may be so facially deficient — i. e., in failing to particularize the place to be searched or the things to be seized — that the executing officers cannot reasonably presume it to be valid.",
+          "pinpoint": "468 U.S. at 923",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "CITE CORRECTION: capture garbled this as '486 US 897' (both under good faith and again under bad faith); correct cite is 468 U.S. 897. Cluster==lead opinion 111262 (older case; sub-opinions are concurrences/dissents 9429766-9429769, lead text is 111262). The four-exceptions passage at *923 expressly names Franks, Lo-Ji Sales, and (via the facial-deficiency prong) Massachusetts v. Sheppard — anchoring the bad-faith-limits cases below."
+    },
+    {
+      "bluebook": "Massachusetts v. Sheppard, 468 U.S. 981 (1984)",
+      "opinion_id": 111263,
+      "cluster_id": 111263,
+      "cl_url": "https://www.courtlistener.com/opinion/111263/massachusetts-v-sheppard/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "Companion to Leon: where a warrant was technically/clerically defective in form (wrong pre-printed form) but officers reasonably relied on the issuing judge's assurances, the good-faith exception applies; the error was the judge's, not the officers'.",
+      "proposition_checked": "Good faith applies where the warrant was defective in form but officers reasonably relied on the magistrate.",
+      "quotes": [
+        {
+          "text": "In sum, the police conduct in this case clearly was objectively reasonable and largely error-free. An error of constitutional dimensions may have been committed with respect to the issuance of the warrant, but it was the judge, not the police officers, who made the critical mistake. \"[T]he exclusionary rule was adopted to deter unlawful searches by police, not to punish the errors of magistrates and judges.\"",
+          "pinpoint": "468 U.S. at 990",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Decided same day as Leon (argued in conjunction; the opinion cites 'Leon, ante, p. 897'). The internally referenced state decision is 'Commonwealth v. Sheppard'; the SCOTUS caption is 'Massachusetts v. Sheppard' (confirmed by name search). Older case: cluster_id == opinion_id (111263). Quote located at the Part-II/III conclusion (*990-991)."
+    },
+    {
+      "bluebook": "Arizona v. Evans, 514 U.S. 1 (1995)",
+      "opinion_id": 117905,
+      "cluster_id": 117905,
+      "cl_url": "https://www.courtlistener.com/opinion/117905/arizona-v-evans/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "The good-faith exception extends to evidence seized on a mistaken arrest record caused by clerical errors of court employees (here, a court clerk's failure to remove a quashed arrest warrant from the computer system); the arresting officer relied objectively reasonably on the police record.",
+      "proposition_checked": "Good faith covers evidence seized on a mistaken arrest record caused by clerical errors of COURT employees.",
+      "quotes": [
+        {
+          "text": "Application of the Leon framework supports a categorical exception to the exclusionary rule for clerical errors of court employees.",
+          "pinpoint": "514 U.S. at 16",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Matches the capture's 'invalid arrest warrant, Arizona v Evans' example. Older case: cluster_id == opinion_id (117905). The holding at *16 cites Leon at 916-922 and Sheppard at 990-991."
+    },
+    {
+      "bluebook": "Illinois v. Krull, 480 U.S. 340 (1987)",
+      "opinion_id": 111835,
+      "cluster_id": 111835,
+      "cl_url": "https://www.courtlistener.com/opinion/111835/illinois-v-krull/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "Good-faith reliance on a STATUTE later held unconstitutional does not trigger exclusion; excluding such evidence would have no deterrent effect on the officer, who cannot be expected to question a facially valid legislative judgment.",
+      "proposition_checked": "Good-faith reliance on a statute later held unconstitutional does not trigger exclusion.",
+      "quotes": [
+        {
+          "text": "The application of the exclusionary rule to suppress evidence obtained by an officer acting in objectively reasonable reliance on a statute would have as little deterrent effect on the officer's actions as would the exclusion of evidence when an officer acts in objectively reasonable reliance on a warrant. Unless a statute is clearly unconstitutional, an officer cannot be expected to question the judgment of the legislature that passed the law.",
+          "pinpoint": "480 U.S. at 349-350",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Extends Leon from warrants to statutes. Older case: cluster_id == opinion_id (111835)."
+    },
+    {
+      "bluebook": "Michigan v. DeFillippo, 443 U.S. 31 (1979)",
+      "opinion_id": 110127,
+      "cluster_id": 110127,
+      "cl_url": "https://www.courtlistener.com/opinion/110127/michigan-v-defillippo/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "An arrest based on a presumptively valid ordinance later declared unconstitutional was valid (supported by probable cause at the time), and the search incident to that arrest was valid; evidence is admissible. A prudent officer is not required to anticipate that a court would later hold the ordinance unconstitutional.",
+      "proposition_checked": "Arrest under an ordinance later declared unconstitutional was valid; evidence from the search incident to it is admissible.",
+      "quotes": [
+        {
+          "text": "At that time, of course, there was no controlling precedent that this ordinance was or was not constitutional, and hence the conduct observed violated a presumptively valid ordinance. A prudent officer, in the course of determining whether respondent had committed an offense under all the circumstances shown by this record, should not have been required to anticipate that a court would later hold the ordinance unconstitutional.",
+          "pinpoint": "443 U.S. at 37-38",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Pre-Leon (1979) but a foundational good-faith-style precursor relied on in Krull. Older case: cluster_id == opinion_id (110127)."
+    },
+    {
+      "bluebook": "United States v. Mathis, 767 F.3d 1264 (11th Cir. 2014)",
+      "opinion_id": 2736649,
+      "cluster_id": 2736649,
+      "cl_url": "https://www.courtlistener.com/opinion/2736649/united-states-v-arnold-maurice-mathis/",
+      "weight": "Circuit (11th) — persuasive",
+      "verdict": "VERIFIED",
+      "holding": "Even assuming the search warrant lacked probable cause, the Leon good-faith exception applied: the detective had an objectively reasonable belief in the existence of probable cause and acted in good faith in obtaining and executing the warrant, so the cell-phone evidence was not suppressed; denial of suppression affirmed.",
+      "proposition_checked": "Good-faith / objective reasonableness with arguable probable cause (capture: 'arguable pc, objective faith').",
+      "quotes": [
+        {
+          "text": "The record contains no indication Detective Vizcarrondo was dishonest or reckless in preparing her affidavit or that she could not have harbored an objectively reasonable belief in the existence of probable cause. Because the officers engaged in \"objectively reasonable law enforcement activity and ... acted in good faith when obtaining [the] search warrant ... the Leon good faith exception applies.\"",
+          "pinpoint": "767 F.3d at 1277",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "RESOLVED: capture 'United States v. Mathis (arguable pc, objective faith)' = United States v. Arnold Maurice Mathis, 767 F.3d 1264 (11th Cir. 2014); cluster==opinion 2736649. On-point good-faith/objective-reasonableness application (footnote 5 also recites Leon's four exceptions verbatim). Circuit (11th) — persuasive. Pinpoint capture would be at *1277."
+    },
+    {
+      "bluebook": "Almeida-Sanchez v. United States, 413 U.S. 266 (1973)",
+      "opinion_id": 108845,
+      "cluster_id": 108845,
+      "cl_url": "https://www.courtlistener.com/opinion/108845/almeida-sanchez-v-united-states/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED — but MISCATEGORIZED in capture (NOT a good-faith case)",
+      "holding": "A warrantless search of a vehicle by a roving Border Patrol on a California road at least 20 miles north of the Mexican border, without probable cause or consent, violated the Fourth Amendment. This is a roving-Border-Patrol / vehicle-search reasonableness holding — it is NOT a good-faith-exception case.",
+      "proposition_checked": "Whether this stands for a good-faith proposition (it does not); actual holding is roving-patrol search without PC/consent is unreasonable.",
+      "quotes": [
+        {
+          "text": "But the search of the petitioner's automobile by a roving patrol, on a California road that lies at all points at least 20 miles north of the Mexican border, was of a wholly different sort. In the absence of probable cause or consent, that search violated the petitioner's Fourth Amendment right to be free of \"unreasonable searches and seizures.\"",
+          "pinpoint": "413 U.S. at 273",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "MISCATEGORIZATION FLAG: the capture placed this under the good-faith exception; the actual holding has nothing to do with good faith. Writer should either drop it from the Exclusionary-Rule good-faith section or relocate it to a roving-Border-Patrol / vehicle-search context (cf. United States v. Martinez-Fuerte / United States v. Brignoni-Ponce line). Older case: cluster_id == opinion_id (108845)."
+    },
+    {
+      "bluebook": "Franks v. Delaware, 438 U.S. 154 (1978)",
+      "opinion_id": 109925,
+      "cluster_id": 109925,
+      "cl_url": "https://www.courtlistener.com/opinion/109925/franks-v-delaware/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "A warrant affidavit containing a knowing/intentional or reckless material falsehood may be challenged at a hearing on a substantial preliminary showing; if perjury/reckless disregard is established by a preponderance and the affidavit's remaining content is insufficient for probable cause, the warrant is voided and the fruits excluded. This is Leon's first good-faith limit ('lies and reckless info').",
+      "proposition_checked": "A knowing/reckless material falsehood in the affidavit can be challenged and defeats good faith.",
+      "quotes": [
+        {
+          "text": "We reverse, and we hold that, where the defendant makes a substantial preliminary showing that a false statement knowingly and intentionally, or with reckless disregard for the truth, was included by the affiant in the warrant affidavit, and if the allegedly false statement is necessary to the finding of probable cause, the Fourth Amendment requires that a hearing be held at the defendant's request. In the event that at that hearing the allegation of perjury or reckless disregard is established by the defendant by a preponderance of the evidence, and, with the affidavit's false material set to one side, the affidavit's remaining content is insufficient to establish probable cause, the search warrant must be voided and the fruits of the search excluded to the same extent as if probable cause was lacking on the face of the affidavit.",
+          "pinpoint": "438 U.S. at 155-156",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Leon's *923 four-exceptions passage cites Franks for the false-affidavit limit. Older case: cluster_id == opinion_id (109925)."
+    },
+    {
+      "bluebook": "Lo-Ji Sales, Inc. v. New York, 442 U.S. 319 (1979)",
+      "opinion_id": 110100,
+      "cluster_id": 110100,
+      "cl_url": "https://www.courtlistener.com/opinion/110100/lo-ji-sales-inc-v-new-york/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "A magistrate who abandons the neutral-and-detached role — here the Town Justice joined and effectively led the search party, conducting a generalized search and directing seizures — is not a valid warrant-issuer; he acted as an adjunct law-enforcement officer, not a judicial officer. This is Leon's second good-faith limit ('biased judge').",
+      "proposition_checked": "A magistrate who abandons the neutral-and-detached role is not a valid warrant-issuer.",
+      "quotes": [
+        {
+          "text": "We need not question the subjective belief of the Town Justice in the propriety of his actions, but the objective facts of record manifest an erosion of whatever neutral and detached posture existed at the outset. He allowed himself to become a member, if not the leader, of the search party which was essentially a police operation. Once in the store, he conducted a generalized search under authority of an invalid warrant; he was not acting as a judicial officer but as an adjunct law enforcement officer.",
+          "pinpoint": "442 U.S. at 326-327",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Leon's *923 four-exceptions passage cites Lo-Ji Sales for the abandoned-judicial-role limit. Older case: cluster_id == opinion_id (110100). Quote at *327."
+    },
+    {
+      "bluebook": "United States v. Leary, 846 F.2d 592 (10th Cir. 1988)",
+      "opinion_id": 505922,
+      "cluster_id": 505922,
+      "cl_url": "https://www.courtlistener.com/opinion/505922/united-states-v-richard-j-leary-and-fl-kleinberg-co/",
+      "weight": "Circuit (10th) — persuasive",
+      "verdict": "VERIFIED",
+      "holding": "A facially overbroad / general warrant (authorizing seizure of records 'relating to' violations of the export laws, offering no guidelines) is so facially deficient that reliance on it is not objectively reasonable; the Leon good-faith exception is unavailable and all evidence is suppressed. This illustrates Leon's fourth good-faith limit (facially deficient warrant).",
+      "proposition_checked": "A facially overbroad/general warrant is so deficient that good-faith reliance is unavailable.",
+      "quotes": [
+        {
+          "text": "We conclude that the government may not rely on the \"good faith\" exception in this case and that all evidence seized under the Kleinberg warrant should be suppressed. We find the warrant so facially deficient in its description of the items to be seized that the executing officers could not reasonably rely on it.",
+          "pinpoint": "846 F.2d at 605-606",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Full caption 'United States v. Richard J. Leary, and F.L. Kleinberg & Co.'; cluster==opinion 505922. CITE NOTE: capture pinpoint '846 F.2d 592, 594' points at the probable-cause discussion; the controlling good-faith-unavailable holding is at the *610 star-page (846 F.2d at 605-606 region). Circuit (10th) — persuasive."
+    },
+    {
+      "bluebook": "United States v. Jackson, 784 F.3d 1227 (8th Cir. 2015)",
+      "opinion_id": 2798587,
+      "cluster_id": 2798587,
+      "cl_url": "https://www.courtlistener.com/opinion/2798587/united-states-v-ac-jackson/",
+      "weight": "Circuit (8th) — persuasive",
+      "verdict": "VERIFIED — but CHARACTERIZATION CORRECTED (good faith APPLIED, not 'unavailable')",
+      "holding": "Although the warrant application failed to supply probable cause, the deputy acted in objectively reasonable good faith (affidavit reviewed/approved by the prosecutor; judge made inquiry beyond the affidavit before signing), so the Leon good-faith exception APPLIED and the evidence was admitted; denial of suppression AFFIRMED. The court rejected the defendant's 'so lacking in indicia of probable cause' and false-affidavit / abandoned-judicial-role arguments.",
+      "proposition_checked": "Capture framed this as 'facially invalid warrant / good-faith unavailable'; the actual holding is the OPPOSITE — good faith applied and evidence was admitted.",
+      "quotes": [
+        {
+          "text": "We find the actions of the deputy in executing the search warrant were taken in objectively reasonable good faith considering the deputy's knowledge and actions, the review and approval of the warrant application by the prosecutor, and the issuance of the warrant by Judge Shuller after the deputy responded to his specific questions.",
+          "pinpoint": "784 F.3d at 1232",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "COURT RESOLVED: 8th Circuit (full caption 'United States v. A.C. Jackson'); cluster==opinion 2798587. CHARACTERIZATION CORRECTION: capture's '784 F.3d 1227, 1231' pinpoint marks where the DEFENDANT raises the 'so lacking in indicia of probable cause' argument; the court REJECTED it and APPLIED Leon good faith (*1232), affirming. This is a good-faith-APPLIES illustration, NOT a good-faith-fails / facially-invalid-warrant case. Use accordingly or drop. Circuit (8th) — persuasive."
+    },
+    {
+      "bluebook": "United States v. Cruz / United States v. West / second bare 'United States v. Jackson' — UNVERIFIABLE as captioned",
+      "opinion_id": null,
+      "cluster_id": null,
+      "cl_url": null,
+      "weight": "UNVERIFIABLE",
+      "verdict": "UNVERIFIABLE / DROP",
+      "holding": "Three bare names with no reporter, pinpoint, or holding detail appear in the capture under the good-faith/bad-faith-warrant heading.",
+      "proposition_checked": "Existence of a specific on-point good-faith/bad-faith-warrant decision named Cruz, West, or a second Jackson.",
+      "quotes": [],
+      "name_confirmed_in_text": false,
+      "notes": "DO NOT ASSERT. Per RUNBOOK these are low-priority; with no reporter/pinpoint/holding to disambiguate among the very many federal 'Cruz', 'West', and 'Jackson' decisions, no specific on-point case can be tied down. The bad-faith / good-faith-limits cell is already fully covered by Leon (four exceptions), Franks (false affidavit), Lo-Ji Sales (abandoned judicial role), and Leary (facially overbroad warrant). Recommend the writer drop these three bare names."
+    },
+    {
+      "bluebook": "Immigration & Naturalization Service v. Lopez-Mendoza, 468 U.S. 1032 (1984)",
+      "opinion_id": 111265,
+      "cluster_id": 111265,
+      "cl_url": "https://www.courtlistener.com/opinion/111265/immigration-naturalization-service-v-lopez-mendoza/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "The exclusionary rule generally does NOT apply in civil deportation/removal proceedings: an admission of unlawful presence made after an allegedly unlawful arrest need not be excluded in a civil deportation hearing. Applying the Janis cost-benefit framework, the social costs of exclusion outweigh its limited deterrence value in that civil context.",
+      "proposition_checked": "Exclusionary rule generally does not apply in civil deportation/removal proceedings ('Non-Criminal Hearings').",
+      "quotes": [
+        {
+          "text": "This litigation requires us to decide whether an admission of unlawful presence in this country made subsequently to an allegedly unlawful arrest must be excluded as evidence in a civil deportation hearing. We hold that the exclusionary rule need not be applied in such a proceeding.",
+          "pinpoint": "468 U.S. at 1034-1035",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Capture's '468 U.S. 1032' cite is CORRECT (initial name-search miss was only because CL captions it 'Immigration & Naturalization Service v. Lopez-Mendoza' — resolved via citation+court=scotus search). Matches the capture's 'Non-Criminal Hearings' bullet. Older case: cluster_id == opinion_id (111265). Builds on United States v. Janis, 428 U.S. 433 (1976)."
+    },
+    {
+      "bluebook": "'Self-help doctrine' (as an exclusionary-rule exception) — UNCONFIRMED / OMIT",
+      "opinion_id": null,
+      "cluster_id": null,
+      "cl_url": null,
+      "weight": "UNCONFIRMED",
+      "verdict": "UNCONFIRMED — recommend OMIT",
+      "holding": "Capture lists a 'self-help doctrine' as an exclusionary-rule exception. No recognized Fourth-Amendment / exclusionary-rule exception by that name exists in federal case law.",
+      "proposition_checked": "Whether a recognized federal 'self-help' exclusionary-rule exception exists.",
+      "quotes": [],
+      "name_confirmed_in_text": false,
+      "notes": "FLAG: full-text SCOTUS search for a 'self-help' exclusionary-rule exception returned only unrelated 4A cases (Strieff, Collins, Lange, etc.) matching loose terms — none establishes a 'self-help' doctrine. No such recognized doctrine. Likely a garbled capture; the nearest real doctrine is the PRIVATE-SEARCH doctrine (Burdeau v. McDowell, 256 U.S. 465 (1921); United States v. Jacobsen, 466 U.S. 109 (1984)) — evidence found by a private party who then turns it over to police is admissible because the 4A does not reach private action. Offered only as a benign pointer for the writer to investigate; DO NOT assert 'self-help doctrine' as a recognized exception — omit it unless the writer can source it independently."
+    }
+  ],
+  "corrections": [
+    "Herring pinpoint: page captured the holding language; canonical U.S. Reports pinpoint is 555 U.S. at 144 (CL text shows S.Ct. *703).",
+    "Strieff pinpoint: holding is at 579 U.S. at 240-241 (136 S. Ct. at 2063), not at the page-232 first page.",
+    "Neugin characterization: this is a case where inevitable discovery did NOT apply (suppression REVERSED in defendant's favor) — use as a limits/counter-illustration, not an admit-the-evidence example.",
+    "State v. Mitcham: CL indexes only the Pacific cite 559 P.3d 1099; '258 Ariz. 435' is the (uncited-in-CL) official Arizona Reports parallel; decided 2024-12-17, so '(2025)' reflects reporter publication year, not the decision date.",
+    "'United States v. White (standing in stolen vehicle)' could not be verified and should not be asserted — replace with Rakas (controlling) and Byrd (rental-car contrast).",
+    "Leon CITE CORRECTION: capture garbled '486 US 897' (under both good faith and bad faith); the correct cite is United States v. Leon, 468 U.S. 897 (1984). Use 468, not 486.",
+    "Almeida-Sanchez MISCATEGORIZED: capture filed it under the good-faith exception; it is actually a roving-Border-Patrol vehicle-search case (search 20 mi north of the border without PC/consent held unreasonable, 413 U.S. at 273). It stands for NO good-faith proposition — drop it from the good-faith section or relocate to a roving-patrol/vehicle context.",
+    "United States v. Jackson, 784 F.3d 1227 — court resolved as 8th Cir. (2015), and characterization corrected: good faith APPLIED and the evidence was ADMITTED (denial of suppression affirmed). It is NOT a 'facially invalid warrant / good-faith unavailable' case. The capture pinpoint *1231 is where the defendant raises the losing 'so lacking in indicia' argument; holding is at 784 F.3d at 1232.",
+    "United States v. Mathis resolved = United States v. Arnold Maurice Mathis, 767 F.3d 1264 (11th Cir. 2014) — genuine on-point good-faith/objective-reasonableness application (capture 'arguable pc, objective faith'); pinpoint 767 F.3d at 1277.",
+    "United States v. Leary pinpoint: capture '846 F.2d 592, 594' marks the probable-cause discussion; the good-faith-unavailable holding is at 846 F.2d at 605-606 (CL star-page *610).",
+    "INS v. Lopez-Mendoza cite '468 U.S. 1032' is CORRECT; CL captions it 'Immigration & Naturalization Service v. Lopez-Mendoza' (name search by 'Lopez-Mendoza' alone does not surface it — resolve via citation + court=scotus).",
+    "'Self-help doctrine' is NOT a recognized exclusionary-rule exception — omit it. Nearest real doctrine is the private-search doctrine (Burdeau v. McDowell; United States v. Jacobsen), offered only as a pointer."
+  ],
+  "flags": [
+    "UNVERIFIABLE: 'United States v. White (standing in stolen vehicle)' — no such decision confirmed after name search + proposition full-text search across SCOTUS and all circuits. Not the 1971 wired-informant White. Controlling standing authority is Rakas v. Illinois, 439 U.S. 128 (1978); for the rental-car/authorized-driver contrast use Byrd v. United States, 584 U.S. 395 (2018) (opinion 4497658).",
+    "Byrd v. United States, 584 U.S. 395 (2018) verified in passing (cluster/opinion 4497658) as the recommended rental-car standing contrast — not separately quote-captured.",
+    "RECENT cases Herring, Strieff, and Mitcham required cluster->lead-opinion resolution; all names confirmed in returned text before quoting.",
+    "TIER: NEW tier (20 req/min) confirmed — 8 distinct uncached calls back-to-back with no throttle. 29 CL calls this chunk, no 429s.",
+    "EX-2 CHUNK: good-faith + bad-faith limits + other exceptions added (14 new entries). All SCOTUS/circuit cases verified by name+cite with a load-bearing verbatim quote and pinpoint; recent-ish circuit cases (Mathis 2014, Jackson 2015) had cluster_id == lead opinion id and case names confirmed in the returned text before quoting.",
+    "EX-2 KEY RESOLUTIONS: (1) Leon cite 486->468 corrected; (2) Almeida-Sanchez miscategorized (roving-Border-Patrol search, not good faith); (3) Jackson 784 F.3d 1227 = 8th Cir. 2015, good faith APPLIED (not 'unavailable'); (4) Mathis = 11th Cir. 2014 (767 F.3d 1264), on-point and persuasive; (5) bare Cruz/West/second-Jackson UNVERIFIABLE -> dropped; (6) 'self-help doctrine' UNCONFIRMED -> omit (nearest real doctrine = private-search, Burdeau/Jacobsen); (7) Lopez-Mendoza '468 U.S. 1032' confirmed correct (captioned 'Immigration & Naturalization Service v. Lopez-Mendoza').",
+    "TIER (EX-2): NEW ≥20/min tier reused (probe skipped per runbook); 35 CL calls this chunk, all 'ok', zero 429s/throttles. Paced ~1 call / 3.2s."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "page": "Federal Court System",
+  "slug": "federal-court-system",
+  "cases": [
+    {
+      "bluebook": "Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803)",
+      "opinion_id": 84759,
+      "cluster_id": 84759,
+      "cl_url": "https://www.courtlistener.com/opinion/84759/marbury-v-madison/",
+      "weight": "SCOTUS — binding",
+      "verdict": "VERIFIED",
+      "holding": "Establishes judicial review: it is the province and duty of the judiciary to say what the law is, and a law repugnant to the Constitution is void.",
+      "proposition_checked": "Establishes judicial review ('It is emphatically the province and duty of the judicial department to say what the law is.').",
+      "quotes": [
+        {
+          "text": "It is emphatically the province and duty of the judicial department to say what the law is. Those who apply the rule to particular cases, must of necessity expound and interpret that rule. If two laws conflict with each other, the courts must decide on the operation of each.",
+          "pinpoint": "5 U.S. (1 Cranch) at 177",
+          "confirmed": true
+        }
+      ],
+      "name_confirmed_in_text": true,
+      "notes": "Older case: cluster_id == opinion_id (84759); name confirmed (slug marbury-v-madison). Note: the captured/popular rendering 'Those who apply the USE to particular cases' is a common OCR/transcription glitch; the correct word is 'rule' ('Those who apply the rule to particular cases'). Quote located just before star-page *178."
+    }
+  ],
+  "corrections": [
+    "Marbury quote: the accurate text reads 'Those who apply the rule to particular cases' (some renderings show 'use' due to OCR error)."
+  ],
+  "flags": []
+}
