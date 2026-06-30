@@ -19,6 +19,9 @@ related: ["[[Two Definitions of Search]]", "[[Fourth Amendment Framework]]", "[[
 | *United States v. Dunn*, 480 U.S. 294 (1987) | Sets the **four-factor test** for distinguishing curtilage from open fields (barn 60 yds from house, outside the fence, held not curtilage). | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/111833/united-states-v-dunn/) |
 | *Florida v. Jardines*, 569 U.S. 1 (2013) | A front porch is curtilage; bringing a drug-dog there exceeds the **implied license** to approach and knock, so it is a trespassory search. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/856347/florida-v-jardines/) |
 | *Collins v. Virginia*, 584 U.S. 586 (2018) | The **automobile exception does not reach into curtilage** — no warrantless entry of a home or its curtilage to search a vehicle parked there. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/4501697/collins-v-virginia/) |
+| *Dow Chemical Co. v. United States*, 476 U.S. 227 (1986) | The open areas of a 2,000-acre industrial complex are **more like "open fields" than curtilage**, so warrantless aerial photography from navigable airspace was not a search — yet commercial premises still retain some Fourth Amendment privacy. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/111667/dow-chemical-co-v-united-states-ex-rel-administrator/) |
+| *See v. City of Seattle*, 387 U.S. 541 (1967) | Commercial premises have **Fourth Amendment protection against warrantless administrative entry**; the businessman, like the homeowner, may insist on a warrant. | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/107474/see-v-city-of-seattle/) |
+| *G. M. Leasing Corp. v. United States*, 429 U.S. 338 (1977) | Warrantless entry into a company's **private, non-public offices** to seize assets was an unreasonable search — business interiors carry a privacy expectation (seizing cars from open/public areas was upheld). | SCOTUS — binding | [link](https://www.courtlistener.com/opinion/109579/g-m-leasing-corp-v-united-states/) |
 
 ## Related cases across doctrines
 These cases are treated in full elsewhere but bear on the curtilage doctrine, framed for it here.
@@ -42,6 +45,22 @@ These cases are treated in full elsewhere but bear on the curtilage doctrine, fr
 - **Curtilage carries the home's protection against warrant exceptions.** *Collins* holds the automobile exception cannot be used to justify entering curtilage; the strong protection of the home extends out to its curtilage.
 - **A tent has no curtilage.** The curtilage concept belongs to a fixed home. A tent's home-like protection covers its **interior**, but not the open ground around it: on a dispersed public-land campsite, "the area outside of the tent … is not curtilage." *United States v. Basher*, 629 F.3d 1161, 1169 (9th Cir. 2011) (9th Cir. — persuasive, not binding). See [[Tents]].
 - **Burden & standard of review.** The defendant (proponent of suppression) bears the burden of establishing that the area searched is **curtilage** and that he had a legitimate expectation of privacy / standing there, by a preponderance of the evidence. *Rakas v. Illinois*, 439 U.S. 128, 130-31 n.1 (1978); *Rawlings v. Kentucky*, 448 U.S. 98, 104-05 (1980). On appeal, the district court's underlying factual findings on the *Dunn* factors are reviewed for **clear error**, while the ultimate curtilage/Fourth-Amendment determination is reviewed **de novo** (cf. *Ornelas v. United States*, 517 U.S. 690, 699 (1996)).
+
+## Do businesses have curtilage?
+**No — but that does not mean no privacy.** Curtilage is a *home* concept; it belongs to the dwelling and "the area immediately surrounding and associated with the home." Commercial property has no analogous "curtilage" in that domestic sense. The outdoor ground of a business is treated more like **open fields** than like the curtilage of a house. In *Dow Chemical Co. v. United States*, the open areas between buildings of a 2,000-acre industrial complex were "more comparable to an open field" than to the curtilage of a home, so warrantless EPA aerial photography from navigable airspace was not a search. 476 U.S. 227, 235–39 (1986). The same **lawful-vantage** logic of *Ciraolo* that allows aerial observation over a fenced backyard cuts the same way over an exposed industrial yard.
+
+But **no curtilage ≠ no Fourth Amendment privacy** for a business. Commercial premises — especially their **non-public interiors** — retain a reasonable expectation of privacy:
+- *See v. City of Seattle*, 387 U.S. 541, 545–46 (1967) — commercial premises are protected against unreasonable warrantless administrative entry; the businessman, like the homeowner, can insist on a warrant. (Companion to *Camara* — see [[Special Needs and Administrative Searches]].)
+- *G. M. Leasing Corp. v. United States*, 429 U.S. 338, 351–59 (1977) — warrantless entry into a corporation's **private offices** to seize assets was an unreasonable search; the line falls at the private business interior, not the open or public-facing areas (seizing cars from public spaces was upheld).
+
+So the operative rule for officers: the open, publicly exposed grounds of a business are open-fields-like (lawful-vantage observation is generally fine), but **entry into the private, non-public interior of commercial premises still needs a warrant or a recognized exception** — and the knock-and-talk implied license ([[Knock and Talk]]) reaches only the public-facing approach. This commercial-privacy thread runs straight into the administrative-inspection regime ([[Special Needs and Administrative Searches]]).
+
+State courts illustrate the same federal point (these are **state — illustrative, non-binding**, paired here only to show the federal principle at work; cited for existence/cite, not as controlling propositions):
+- *State v. Karston*, 588 So. 2d 165 (La. Ct. App. 1991) — Louisiana intermediate-appellate curtilage/search illustration. *(state — illustrative, non-binding)*
+- *State v. Weaver*, 349 S.W.3d 521 (Tex. Crim. App. 2011) — Texas Court of Criminal Appeals curtilage/commercial-privacy illustration. *(state — illustrative, non-binding)*
+- *State v. Larson*, 159 Or. App. 34, 977 P.2d 1175 (1999) — Oregon Court of Appeals curtilage/search illustration. *(state — illustrative, non-binding)*
+
+These are local color only; the controlling authority for the commercial-privacy point is the SCOTUS line above (*Dow Chemical*; *See*; *G. M. Leasing*). See [[Two Definitions of Search]] for how the property and *Katz* theories each apply to commercial space.
 
 ## Common pitfalls
 - Treating a **driveway, porch, or attached carport** as fair game. *Collins* held a partially enclosed driveway top abutting the house was curtilage; *Jardines* held the front porch was. Proximity + the home-life connection, not the absence of a fence, controls.
@@ -78,3 +97,9 @@ The curtilage and lawful-vantage rules have been tested most heavily in the lowe
 - *Florida v. Jardines*, 569 U.S. 1 (2013) — https://www.courtlistener.com/opinion/856347/florida-v-jardines/
 - *Collins v. Virginia*, 584 U.S. 586 (2018) — https://www.courtlistener.com/opinion/4501697/collins-v-virginia/
 - *United States v. Jones*, 565 U.S. 400 (2012) — https://www.courtlistener.com/opinion/7350871/united-states-v-jones/ *(trespass-theory origin; cross-reference)*
+- *Dow Chemical Co. v. United States*, 476 U.S. 227 (1986) — https://www.courtlistener.com/opinion/111667/dow-chemical-co-v-united-states-ex-rel-administrator/
+- *See v. City of Seattle*, 387 U.S. 541 (1967) — https://www.courtlistener.com/opinion/107474/see-v-city-of-seattle/
+- *G. M. Leasing Corp. v. United States*, 429 U.S. 338 (1977) — https://www.courtlistener.com/opinion/109579/g-m-leasing-corp-v-united-states/
+- *State v. Karston*, 588 So. 2d 165 (La. Ct. App. 1991) *(state — illustrative, non-binding)* — https://www.courtlistener.com/opinion/1767998/state-v-karston/
+- *State v. Weaver*, 349 S.W.3d 521 (Tex. Crim. App. 2011) *(state — illustrative, non-binding)* — https://www.courtlistener.com/opinion/2546485/state-v-weaver/
+- *State v. Larson*, 159 Or. App. 34, 977 P.2d 1175 (1999) *(state — illustrative, non-binding)* — https://www.courtlistener.com/opinion/1187724/state-v-larson/

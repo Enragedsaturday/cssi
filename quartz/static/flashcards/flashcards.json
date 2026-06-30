@@ -1,5 +1,5 @@
 {
- "version": "2026-06-25.3",
+ "version": "2026-06-27.1",
  "title": "CSSI — Search & Seizure",
  "cards": [
   {
@@ -7671,6 +7671,302 @@
    ]
   },
   {
+   "id": "curtilage-business-no-curtilage-42",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "Do businesses or commercial premises have \"curtilage\" the way a home does?",
+   "back": "No — curtilage is a home concept; commercial property has no analogous domestic \"curtilage,\" and the outdoor ground of a business is treated more like open fields than like the curtilage of a house.",
+   "tags": [
+    "curtilage",
+    "commercial",
+    "business",
+    "open-fields",
+    "holding"
+   ]
+  },
+  {
+   "id": "curtilage-business-no-curtilage-but-rep-43",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "Because a business has no curtilage, does that mean its premises have no Fourth Amendment privacy at all?",
+   "back": "No — no curtilage does not mean no privacy. Commercial premises, especially their non-public interiors, still retain a reasonable expectation of privacy.",
+   "tags": [
+    "curtilage",
+    "commercial",
+    "business",
+    "reasonable-expectation-of-privacy",
+    "nuance"
+   ]
+  },
+  {
+   "id": "curtilage-business-grounds-vs-interior-44",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "For a business, distinguish the Fourth Amendment treatment of its open outdoor grounds from its private interior.",
+   "back": "The open, publicly exposed grounds of a business are open-fields-like (lawful-vantage observation is generally fine), but entry into the private, non-public interior of commercial premises still needs a warrant or a recognized exception.",
+   "tags": [
+    "curtilage",
+    "commercial",
+    "business",
+    "distinction",
+    "interior"
+   ]
+  },
+  {
+   "id": "curtilage-dow-chemical-holding-45",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "What did Dow Chemical Co. v. United States (1986) hold about the open areas of a 2,000-acre industrial complex?",
+   "back": "Those open areas between buildings are more comparable to an open field than to the curtilage of a home, so warrantless EPA aerial photography from navigable airspace was not a search.",
+   "tags": [
+    "curtilage",
+    "dow-chemical",
+    "commercial",
+    "aerial",
+    "open-fields",
+    "holding"
+   ],
+   "cite": "Dow Chemical Co. v. United States, 476 U.S. 227, 235–39 (1986)",
+   "source": "https://www.courtlistener.com/opinion/111667/dow-chemical-co-v-united-states-ex-rel-administrator/"
+  },
+  {
+   "id": "curtilage-dow-chemical-retains-privacy-46",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "Did Dow Chemical hold that businesses have zero Fourth Amendment privacy?",
+   "back": "No — even though the industrial open areas were open-fields-like, the Court acknowledged that commercial premises still retain some Fourth Amendment privacy.",
+   "tags": [
+    "curtilage",
+    "dow-chemical",
+    "commercial",
+    "reasonable-expectation-of-privacy",
+    "nuance"
+   ],
+   "cite": "Dow Chemical Co. v. United States, 476 U.S. 227, 235–39 (1986)",
+   "source": "https://www.courtlistener.com/opinion/111667/dow-chemical-co-v-united-states-ex-rel-administrator/"
+  },
+  {
+   "id": "curtilage-dow-chemical-recognize-47",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "Which Supreme Court case held that the open areas of a large industrial complex are more like open fields than curtilage, allowing warrantless aerial photography?",
+   "back": "Dow Chemical Co. v. United States, 476 U.S. 227 (1986).",
+   "tags": [
+    "curtilage",
+    "dow-chemical",
+    "commercial",
+    "recognize-case"
+   ],
+   "cite": "Dow Chemical Co. v. United States, 476 U.S. 227 (1986)",
+   "source": "https://www.courtlistener.com/opinion/111667/dow-chemical-co-v-united-states-ex-rel-administrator/"
+  },
+  {
+   "id": "curtilage-see-seattle-holding-48",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "What did See v. City of Seattle (1967) hold about commercial premises and warrantless administrative entry?",
+   "back": "Commercial premises are protected by the Fourth Amendment against unreasonable warrantless administrative entry; the businessman, like the homeowner, may insist on a warrant.",
+   "tags": [
+    "curtilage",
+    "see-seattle",
+    "commercial",
+    "administrative",
+    "holding"
+   ],
+   "cite": "See v. City of Seattle, 387 U.S. 541, 545–46 (1967)",
+   "source": "https://www.courtlistener.com/opinion/107474/see-v-city-of-seattle/"
+  },
+  {
+   "id": "curtilage-see-seattle-businessman-homeowner-49",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "Under See v. City of Seattle, how does a businessman's right to demand a warrant before an administrative entry compare to a homeowner's?",
+   "back": "The businessman, like the homeowner, may insist on a warrant — commercial premises carry comparable protection against warrantless administrative entry.",
+   "tags": [
+    "curtilage",
+    "see-seattle",
+    "commercial",
+    "administrative"
+   ],
+   "cite": "See v. City of Seattle, 387 U.S. 541, 545–46 (1967)",
+   "source": "https://www.courtlistener.com/opinion/107474/see-v-city-of-seattle/"
+  },
+  {
+   "id": "curtilage-see-seattle-recognize-50",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "Which 1967 Supreme Court case (companion to Camara) held that commercial premises are protected against warrantless administrative entry?",
+   "back": "See v. City of Seattle, 387 U.S. 541 (1967).",
+   "tags": [
+    "curtilage",
+    "see-seattle",
+    "commercial",
+    "administrative",
+    "recognize-case"
+   ],
+   "cite": "See v. City of Seattle, 387 U.S. 541 (1967)",
+   "source": "https://www.courtlistener.com/opinion/107474/see-v-city-of-seattle/"
+  },
+  {
+   "id": "curtilage-gm-leasing-holding-51",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "What did G. M. Leasing Corp. v. United States (1977) hold about warrantless entry into a company's private, non-public offices?",
+   "back": "It was an unreasonable Fourth Amendment search — business interiors not open to the public carry a reasonable expectation of privacy.",
+   "tags": [
+    "curtilage",
+    "gm-leasing",
+    "commercial",
+    "interior",
+    "holding"
+   ],
+   "cite": "G. M. Leasing Corp. v. United States, 429 U.S. 338, 351–59 (1977)",
+   "source": "https://www.courtlistener.com/opinion/109579/g-m-leasing-corp-v-united-states/"
+  },
+  {
+   "id": "curtilage-gm-leasing-line-private-interior-52",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "In G. M. Leasing Corp., where did the Fourth Amendment line fall — given that seizing cars from public areas was upheld?",
+   "back": "The line falls at entry into the private business interior: seizing cars from open/public areas was upheld, but warrantless entry into the corporation's private offices was unreasonable.",
+   "tags": [
+    "curtilage",
+    "gm-leasing",
+    "commercial",
+    "interior",
+    "distinction"
+   ],
+   "cite": "G. M. Leasing Corp. v. United States, 429 U.S. 338, 351–59 (1977)",
+   "source": "https://www.courtlistener.com/opinion/109579/g-m-leasing-corp-v-united-states/"
+  },
+  {
+   "id": "curtilage-gm-leasing-recognize-53",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "Which case held that warrantless entry into a corporation's private offices to seize assets was an unreasonable search, while seizing cars from public areas was upheld?",
+   "back": "G. M. Leasing Corp. v. United States, 429 U.S. 338 (1977).",
+   "tags": [
+    "curtilage",
+    "gm-leasing",
+    "commercial",
+    "interior",
+    "recognize-case"
+   ],
+   "cite": "G. M. Leasing Corp. v. United States, 429 U.S. 338 (1977)",
+   "source": "https://www.courtlistener.com/opinion/109579/g-m-leasing-corp-v-united-states/"
+  },
+  {
+   "id": "curtilage-commercial-controlling-authority-54",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "What is the controlling federal authority for the point that a business has no curtilage yet its private areas can retain a reasonable expectation of privacy?",
+   "back": "The SCOTUS line: Dow Chemical (industrial open areas are open-fields-like), See v. City of Seattle, and G. M. Leasing Corp. (non-public business interiors carry a reasonable expectation of privacy).",
+   "tags": [
+    "curtilage",
+    "commercial",
+    "dow-chemical",
+    "see-seattle",
+    "gm-leasing",
+    "significance"
+   ]
+  },
+  {
+   "id": "curtilage-state-illustrations-55",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "The page cites State v. Karston, State v. Weaver, and State v. Larson on the commercial-privacy point — what weight do they carry?",
+   "back": "They are state — illustrative, non-binding decisions, cited only to show the federal principle (that private business areas can retain a reasonable expectation of privacy) at work; the controlling authority is the SCOTUS line (Dow Chemical; See; G. M. Leasing).",
+   "tags": [
+    "curtilage",
+    "commercial",
+    "state-illustrative",
+    "non-binding",
+    "karston",
+    "weaver",
+    "larson"
+   ]
+  },
+  {
+   "id": "curtilage-state-karston-56",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "Which state — illustrative, non-binding case is cited as a Louisiana curtilage/search illustration on the commercial-privacy point?",
+   "back": "State v. Karston (La. Ct. App. 1991) (state — illustrative, non-binding), paired with the controlling SCOTUS commercial-privacy line.",
+   "tags": [
+    "curtilage",
+    "karston",
+    "state-illustrative",
+    "non-binding",
+    "commercial"
+   ],
+   "cite": "State v. Karston, 588 So. 2d 165 (La. Ct. App. 1991)",
+   "source": "https://www.courtlistener.com/opinion/1767998/state-v-karston/"
+  },
+  {
+   "id": "curtilage-state-weaver-57",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "Which state — illustrative, non-binding case (decided by the Texas Court of Criminal Appeals) is cited as a curtilage/commercial-privacy illustration?",
+   "back": "State v. Weaver (Tex. Crim. App. 2011) (state — illustrative, non-binding), paired with the controlling SCOTUS commercial-privacy line.",
+   "tags": [
+    "curtilage",
+    "weaver",
+    "state-illustrative",
+    "non-binding",
+    "commercial"
+   ],
+   "cite": "State v. Weaver, 349 S.W.3d 521 (Tex. Crim. App. 2011)",
+   "source": "https://www.courtlistener.com/opinion/2546485/state-v-weaver/"
+  },
+  {
+   "id": "curtilage-state-larson-58",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "Which state — illustrative, non-binding case is cited as an Oregon Court of Appeals curtilage/search illustration on the commercial-privacy point?",
+   "back": "State v. Larson (Or. App. 1999) (state — illustrative, non-binding), paired with the controlling SCOTUS commercial-privacy line.",
+   "tags": [
+    "curtilage",
+    "larson",
+    "state-illustrative",
+    "non-binding",
+    "commercial"
+   ],
+   "cite": "State v. Larson, 159 Or. App. 34, 977 P.2d 1175 (1999)",
+   "source": "https://www.courtlistener.com/opinion/1187724/state-v-larson/"
+  },
+  {
+   "id": "curtilage-pitfall-business-yard-vs-interior-59",
+   "page": "curtilage",
+   "topic": "Curtilage",
+   "type": "qa",
+   "front": "Common pitfall: for officers, are the open grounds of a business and its private interior treated the same under the Fourth Amendment?",
+   "back": "No — the open, publicly exposed grounds are open-fields-like (lawful-vantage observation is generally fine), but entry into the private, non-public interior still needs a warrant or a recognized exception.",
+   "tags": [
+    "curtilage",
+    "commercial",
+    "business",
+    "pitfall",
+    "interior"
+   ]
+  },
+  {
    "id": "due-process-voluntariness-rule-01",
    "page": "due-process-voluntariness",
    "topic": "Due-Process Voluntariness of Confessions",
@@ -11389,6 +11685,484 @@
    ]
   },
   {
+   "id": "fourth-amendment-recalibration-thesis-01",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "What is the central thesis of the \"Fourth Amendment Recalibration\" lens (\"Fourth Amendment 2.0\")?",
+   "back": "The Fourth Amendment is not a fixed 1791 snapshot but a balance between government power and individual privacy that the Supreme Court must re-fit every time technology or society shifts the ground — the same constitutional text, recalibrated again and again to a changed world.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "thesis",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "fourth-amendment-recalibration-two-engines-02",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "What are the two engines that drive Fourth Amendment recalibration in the instructor's conceptual lens?",
+   "back": "(1) New surveillance and transport technology (which can expand or contract government power), and (2) incorporation against the states (the Amendment going from a federal-only restraint to a fully state-binding one).",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "two-engines",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "fourth-amendment-recalibration-tech-engine-direction-03",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "In the recalibration lens, does new technology always push government power in one direction?",
+   "back": "No. Technology has expanded government power (Carroll's auto exception; Olmstead's wiretap escaping the Amendment) and contracted it (Katz reclaiming the wiretap, Riley the phone, Carpenter location data). The metaphor is re-fitting the balance, not a one-way march.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "direction",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "fourth-amendment-recalibration-overruling-04",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "Why does \"recalibration\" of the Fourth Amendment often mean overruling rather than a gentle gloss?",
+   "back": "Sometimes the Court concludes the old rule simply no longer fits a changed technology and discards it. Olmstead's trespass theory was good law for roughly 40 years before Katz (1967) overruled it.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "overruling",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "fourth-amendment-recalibration-milam-facts-05",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "Which early, pre-Carroll Prohibition-era circuit decision on automobile search did the Supreme Court survey before recognizing the automobile exception?",
+   "back": "Milam v. United States (4th Cir. 1924) — a Fourth Circuit decision (persuasive, not binding) on warrantless automobile search for contraband liquor, part of the pre-Carroll circuit case law in the Carroll lineage.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "milam",
+    "automobile",
+    "persuasive"
+   ],
+   "cite": "Milam v. United States, 296 F. 629 (4th Cir. 1924)",
+   "source": "https://www.courtlistener.com/opinion/8849836/milam-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-milam-weight-06",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "What is the precedential weight of Milam v. United States, 296 F. 629 (4th Cir. 1924)?",
+   "back": "Circuit-persuasive only — it is a Fourth Circuit Court of Appeals decision, not Supreme Court authority. It matters as part of the pre-Carroll circuit case law surveyed in Carroll, not as a binding rule.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "milam",
+    "persuasive",
+    "weight"
+   ],
+   "cite": "Milam v. United States, 296 F. 629 (4th Cir. 1924)",
+   "source": "https://www.courtlistener.com/opinion/8849836/milam-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-carroll-holding-07",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "What did Carroll v. United States (1925) hold (the automobile exception)?",
+   "back": "With probable cause, a movable vehicle may be searched without a warrant because its mobility makes obtaining one impracticable — the Fourth Amendment re-fitted to the automobile and Prohibition enforcement.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "carroll",
+    "automobile-exception",
+    "holding"
+   ],
+   "cite": "Carroll v. United States, 267 U.S. 132, 149, 153-56 (1925)",
+   "source": "https://www.courtlistener.com/opinion/100567/carroll-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-carroll-direction-08",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "In the recalibration arc, which direction did Carroll v. United States (1925) push government power, and why?",
+   "back": "It expanded government power: the new transport technology (the automobile) justified warrantless searches, dispensing with the warrant requirement for movable vehicles.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "carroll",
+    "direction",
+    "expands"
+   ],
+   "cite": "Carroll v. United States, 267 U.S. 132 (1925)",
+   "source": "https://www.courtlistener.com/opinion/100567/carroll-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-carroll-pitfall-09",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "Common pitfall: does Carroll's automobile exception let officers search any vehicle on a hunch?",
+   "back": "No. The automobile exception still requires probable cause — it dispenses with the warrant, not with the cause. It is not a suspicion-free license to search any vehicle.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "carroll",
+    "automobile-exception",
+    "pitfall"
+   ],
+   "cite": "Carroll v. United States, 267 U.S. 132, 149, 153-56 (1925)",
+   "source": "https://www.courtlistener.com/opinion/100567/carroll-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-lee-holding-10",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "What did United States v. Lee (1927) hold about a Coast Guard officer's searchlight?",
+   "back": "Using a searchlight to illuminate a boat's deck on the high seas was not a search — it revealed only what was in open view. An early sense-enhancement-is-not-a-search case.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "lee",
+    "sense-enhancement",
+    "holding"
+   ],
+   "cite": "United States v. Lee, 274 U.S. 559, 563 (1927)",
+   "source": "https://www.courtlistener.com/opinion/101118/united-states-v-lee/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-lee-significance-11",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "Why does United States v. Lee (1927) matter in the recalibration arc — what doctrinal line does it seed?",
+   "back": "It is the seed of the sense-enhancement line that later flowers in Kyllo: it raises whether a device merely improves ordinary perception (open view, not a search) or pierces a protected space.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "lee",
+    "sense-enhancement",
+    "significance"
+   ],
+   "cite": "United States v. Lee, 274 U.S. 559, 563 (1927)",
+   "source": "https://www.courtlistener.com/opinion/101118/united-states-v-lee/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-lee-kyllo-thread-12",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "What single recalibration principle connects United States v. Lee (1927) to Kyllo (2001)?",
+   "back": "Does the device merely improve ordinary perception, or does it pierce a space the Amendment protects? A searchlight on open view was not a search (Lee); a thermal imager probing through a home's wall with technology not in general public use is a search (Kyllo).",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "lee",
+    "kyllo",
+    "sense-enhancement",
+    "distinction"
+   ]
+  },
+  {
+   "id": "fourth-amendment-recalibration-olmstead-holding-13",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "What did Olmstead v. United States (1928) hold about wiretapping?",
+   "back": "Wiretapping that involved no physical trespass into the premises and seized no tangible thing was not a Fourth Amendment search or seizure — the property/trespass theory of the Amendment (wiretap = no trespass = no search).",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "olmstead",
+    "wiretap",
+    "trespass",
+    "holding"
+   ],
+   "cite": "Olmstead v. United States, 277 U.S. 438, 464-66 (1928)",
+   "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-olmstead-overruled-14",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "Common pitfall: is Olmstead v. United States (1928) still good law for the rule that a wiretap is not a search?",
+   "back": "No. Olmstead governed for about 40 years but was overruled by Katz (1967). Quoting Olmstead for the proposition that a wiretap is not a search states the former rule.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "olmstead",
+    "katz",
+    "overruled",
+    "pitfall"
+   ],
+   "cite": "Olmstead v. United States, 277 U.S. 438 (1928)",
+   "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-olmstead-direction-15",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "In the recalibration arc, which direction did Olmstead v. United States (1928) push government power?",
+   "back": "It expanded government power: the new technology (the telephone wiretap) escaped the Fourth Amendment entirely under the trespass theory, leaving the surveillance unregulated.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "olmstead",
+    "direction",
+    "expands"
+   ],
+   "cite": "Olmstead v. United States, 277 U.S. 438 (1928)",
+   "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-olmstead-brandeis-16",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "Whose Olmstead opinion foreshadowed the later privacy turn the Fourth Amendment would take?",
+   "back": "Justice Brandeis's dissent in Olmstead (1928) foreshadowed the privacy approach that Katz (1967) would later adopt.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "olmstead",
+    "brandeis",
+    "privacy"
+   ],
+   "cite": "Olmstead v. United States, 277 U.S. 438 (1928)",
+   "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-wolf-holding-17",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "What did Wolf v. Colorado (1949) hold (incorporation, step one)?",
+   "back": "The substance/core of the Fourth Amendment binds the states through the Fourteenth Amendment's Due Process Clause — but it expressly declined to impose the federal exclusionary remedy on the states (states could choose their own).",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "wolf",
+    "incorporation",
+    "holding"
+   ],
+   "cite": "Wolf v. Colorado, 338 U.S. 25, 27-28, 33 (1949)",
+   "source": "https://www.courtlistener.com/opinion/104709/wolf-v-colorado/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-mapp-holding-18",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "What did Mapp v. Ohio (1961) hold (incorporation, step two)?",
+   "back": "The Fourth Amendment exclusionary rule applies to the states through the Fourteenth Amendment — evidence from an unconstitutional search or seizure is inadmissible in state court. It overruled Wolf on the remedy and completed incorporation.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "mapp",
+    "incorporation",
+    "exclusionary-rule",
+    "holding"
+   ],
+   "cite": "Mapp v. Ohio, 367 U.S. 643, 654-57, 660 (1961)",
+   "source": "https://www.courtlistener.com/opinion/106285/mapp-v-ohio/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-incorporation-two-step-19",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "Distinguish Wolf v. Colorado (1949) from Mapp v. Ohio (1961) in the incorporation two-step — exactly what did each incorporate against the states?",
+   "back": "Wolf (1949) incorporated the RIGHT — the substance of the Fourth Amendment — but imposed no federal exclusionary remedy. Mapp (1961) incorporated the REMEDY — the exclusionary rule — overruling Wolf on that point. So: 1949 = the right; 1961 = the remedy. Treating either case as doing both is a common error.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "wolf",
+    "mapp",
+    "incorporation",
+    "distinction"
+   ]
+  },
+  {
+   "id": "fourth-amendment-recalibration-incorporation-pitfall-20",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "Common pitfall: what is wrong with saying \"until 1949 the Fourth Amendment only applied to the federal government, and then it applied to the states\" as a single event?",
+   "back": "It collapses twelve years of doctrine. 1949 (Wolf) incorporated only the right against the states; the exclusionary remedy did not reach the states until 1961 (Mapp). Stating it as one event omits the Wolf-to-Mapp two-step and overruling.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "wolf",
+    "mapp",
+    "incorporation",
+    "pitfall"
+   ]
+  },
+  {
+   "id": "fourth-amendment-recalibration-incorporation-engine-21",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "How does the incorporation engine (Wolf → Mapp) differ from the technology engine in the recalibration lens?",
+   "back": "It runs on its own axis: instead of re-fitting the Amendment to a new device, it extends the Amendment from a federal-only restraint to a fully state-binding one — first the right (Wolf 1949), then the remedy (Mapp 1961).",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "incorporation",
+    "two-engines",
+    "doctrine"
+   ]
+  },
+  {
+   "id": "fourth-amendment-recalibration-katz-holding-22",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "What did Katz v. United States (1967) hold, and what famous phrase captures it?",
+   "back": "The Fourth Amendment \"protects people, not places\"; a search occurs when the government violates a person's reasonable expectation of privacy. It overruled Olmstead's trespass requirement.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "katz",
+    "reasonable-expectation-of-privacy",
+    "holding"
+   ],
+   "cite": "Katz v. United States, 389 U.S. 347, 351-53 (1967)",
+   "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-katz-rep-test-23",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "In Katz v. United States (1967), whose opinion supplies the two-part reasonable-expectation-of-privacy (REP) test?",
+   "back": "Justice Harlan's concurrence supplies the two-part reasonable-expectation-of-privacy test.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "katz",
+    "harlan",
+    "reasonable-expectation-of-privacy"
+   ],
+   "cite": "Katz v. United States, 389 U.S. 347, 361 (1967) (Harlan, J., concurring)",
+   "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-olmstead-to-katz-24",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "Describe the Olmstead → Katz recalibration: what theory of \"search\" replaced what, and by what mechanism?",
+   "back": "Recalibration by overruling: Katz (1967) replaced Olmstead's property/trespass theory (a search requires physical intrusion) with the privacy theory (a search occurs when the government invades a reasonable expectation of privacy). The same text, re-fitted from places to people.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "olmstead",
+    "katz",
+    "trespass",
+    "privacy",
+    "distinction"
+   ]
+  },
+  {
+   "id": "fourth-amendment-recalibration-katz-facts-25",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "Electronic eavesdropping on a public phone-booth call, with no physical entry into the booth, was held a Fourth Amendment search — which case?",
+   "back": "Katz v. United States (1967) — the absence of trespass did not defeat the search, because the Amendment protects a reasonable expectation of privacy, not just physical spaces.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "katz",
+    "facts-to-case"
+   ],
+   "cite": "Katz v. United States, 389 U.S. 347 (1967)",
+   "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-kyllo-oneliner-26",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "In the recalibration arc, what is the one-line significance of Kyllo v. United States (2001)? (Full treatment lives on the digital-surveillance page.)",
+   "back": "Thermal imaging of a home with technology not in general public use is a search — the modern recalibration of the sense-enhancement principle running from United States v. Lee.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "kyllo",
+    "sense-enhancement",
+    "cross-link"
+   ],
+   "cite": "Kyllo v. United States, 533 U.S. 27, 34-35, 40 (2001)",
+   "source": "https://www.courtlistener.com/opinion/118443/kyllo-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-riley-oneliner-27",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "In the recalibration arc, what is the one-line significance of Riley v. California (2014)?",
+   "back": "Police generally may not search a cell phone's data incident to arrest without a warrant — the search-incident-to-arrest exception does not reach the vast trove of data on a modern smartphone.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "riley",
+    "cell-phone",
+    "cross-link"
+   ],
+   "cite": "Riley v. California, 573 U.S. 373, 386, 393-403 (2014)",
+   "source": "https://www.courtlistener.com/opinion/2680439/riley-v-cal-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-riley-cite-pitfall-28",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "Common pitfall: what is the correct merits citation for Riley v. California (2014), and what must you avoid grabbing?",
+   "back": "Cite the merits opinion at 573 U.S. 373 (2014) (parallel 134 S. Ct. 2473). Do not cite the cert-stage orders (134 S. Ct. 999; 134 S. Ct. 1870) — those are different clusters, not the holding.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "riley",
+    "citation",
+    "pitfall"
+   ],
+   "cite": "Riley v. California, 573 U.S. 373 (2014)",
+   "source": "https://www.courtlistener.com/opinion/2680439/riley-v-cal-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-carpenter-oneliner-29",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "In the recalibration arc, what is the one-line significance of Carpenter v. United States (2018)? (Full treatment lives on the digital-surveillance page.)",
+   "back": "Acquiring cell-site location information (CSLI) is a search; the third-party doctrine does not extend to comprehensive digital location records — the current endpoint of the recalibration arc.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "carpenter",
+    "csli",
+    "cross-link"
+   ],
+   "cite": "Carpenter v. United States, 585 U.S. 296 (2018)",
+   "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+   "id": "fourth-amendment-recalibration-modern-crosslink-pitfall-30",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "qa",
+   "front": "On this conceptual recalibration page, how should Kyllo, Riley, and Carpenter be treated?",
+   "back": "As the modern beats of the arc — one-liners and cross-links, not full holdings. Their full doctrine lives on \"The Third-Party Doctrine and Digital Surveillance\" page; don't re-litigate them in full here.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "kyllo",
+    "riley",
+    "carpenter",
+    "cross-link",
+    "pitfall"
+   ]
+  },
+  {
+   "id": "fourth-amendment-recalibration-timeline-order-31",
+   "page": "fourth-amendment-recalibration",
+   "topic": "Fourth Amendment Recalibration",
+   "type": "cloze",
+   "front": "Recalibration timeline (technology + incorporation): Milam (1924) → Carroll (1925) → Lee (1927) → {{c1::Olmstead}} (1928) → Wolf (1949) → Mapp (1961) → {{c2::Katz}} (1967) → Kyllo (2001) → Riley (2014) → Carpenter (2018).",
+   "back": "c1 = Olmstead (wiretap = no trespass = no search); c2 = Katz (privacy / reasonable expectation of privacy), which overruled Olmstead.",
+   "tags": [
+    "fourth-amendment-recalibration",
+    "timeline",
+    "cloze"
+   ]
+  },
+  {
    "id": "instructor-development-nine-principles-01",
    "page": "instructor-development",
    "topic": "Instructor Development",
@@ -13410,6 +14184,202 @@
     "exclusionary-rule",
     "scope"
    ]
+  },
+  {
+   "id": "miranda-waiver-invocation-shatzer-misread-36",
+   "page": "miranda-waiver-invocation",
+   "topic": "Miranda Waiver and Invocation",
+   "type": "qa",
+   "front": "What does Maryland v. Shatzer's clock actually require — and what is the most common misreading of it?",
+   "back": "It requires a break in Miranda custody PLUS 14 days — not merely 14 days of waiting while the suspect stays in custody. The common misreading treats Shatzer as a 14-day waiting period that lets police re-approach a still-jailed, counsel-invoking suspect.",
+   "tags": [
+    "miranda-waiver-invocation",
+    "shatzer",
+    "edwards",
+    "break-in-custody",
+    "pitfall"
+   ],
+   "cite": "Maryland v. Shatzer, 559 U.S. 98 (2010)",
+   "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
+  },
+  {
+   "id": "miranda-waiver-invocation-shatzer-continuous-custody-37",
+   "page": "miranda-waiver-invocation",
+   "topic": "Miranda Waiver and Invocation",
+   "type": "qa",
+   "front": "Under Maryland v. Shatzer, does continuous pretrial detention give a suspect a break in Miranda custody?",
+   "back": "No — continuous pretrial detention is NOT a Shatzer break, because the coercive Miranda-custody pressure never lets up; Edwards still bars police-initiated re-questioning no matter how much time passes.",
+   "tags": [
+    "miranda-waiver-invocation",
+    "shatzer",
+    "edwards",
+    "break-in-custody",
+    "continuous-detention"
+   ],
+   "cite": "Maryland v. Shatzer, 559 U.S. 98 (2010)",
+   "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
+  },
+  {
+   "id": "miranda-waiver-invocation-shatzer-why-14-days-38",
+   "page": "miranda-waiver-invocation",
+   "topic": "Miranda Waiver and Invocation",
+   "type": "qa",
+   "front": "Why did Maryland v. Shatzer fix the break-in-custody period at 14 days?",
+   "back": "Because that span gives the suspect time \"to get reacclimated to his normal life, to consult with friends and counsel, and to shake off any residual coercive effects of his prior custody.\"",
+   "tags": [
+    "miranda-waiver-invocation",
+    "shatzer",
+    "edwards",
+    "quote",
+    "14-day-break"
+   ],
+   "cite": "Maryland v. Shatzer, 559 U.S. 98, 110-11 (2010)",
+   "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
+  },
+  {
+   "id": "miranda-waiver-invocation-shatzer-pitfall-waiting-39",
+   "page": "miranda-waiver-invocation",
+   "topic": "Miranda Waiver and Invocation",
+   "type": "qa",
+   "front": "Common pitfall: officers re-approach a jailed suspect who invoked counsel just because 14 days have passed. What does Maryland v. Shatzer actually require to lift the Edwards bar in custody?",
+   "back": "A genuine break in Miranda custody — e.g., release to the general prison population — and only then the 14 days. A suspect in continuous jail custody never gets that break, so the bar is not lifted.",
+   "tags": [
+    "miranda-waiver-invocation",
+    "shatzer",
+    "edwards",
+    "pitfall",
+    "break-in-custody"
+   ],
+   "cite": "Maryland v. Shatzer, 559 U.S. 98 (2010)",
+   "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
+  },
+  {
+   "id": "miranda-waiver-invocation-wint-holding-40",
+   "page": "miranda-waiver-invocation",
+   "topic": "Miranda Waiver and Invocation",
+   "type": "qa",
+   "front": "How did the New Jersey Supreme Court in State v. Wint (2018) — a non-binding, illustrative state decision — apply the Shatzer break-in-custody rule to continuous pretrial detention?",
+   "back": "It held that continuous pre-indictment pretrial detention is NOT a Shatzer break in custody, so a suspect held ~6 months after invoking counsel could not be reinterrogated; the result illustrates (it does not bind) the federal Shatzer/Edwards rule.",
+   "tags": [
+    "miranda-waiver-invocation",
+    "wint",
+    "shatzer",
+    "edwards",
+    "state-illustrative",
+    "non-binding"
+   ],
+   "cite": "State v. Wint, 236 N.J. 174, 198 A.3d 963 (2018)",
+   "source": "https://www.courtlistener.com/opinion/8267547/state-v-wint/"
+  },
+  {
+   "id": "miranda-waiver-invocation-wint-facts-41",
+   "page": "miranda-waiver-invocation",
+   "topic": "Miranda Waiver and Invocation",
+   "type": "qa",
+   "front": "Which non-binding state decision held that a defendant kept in ~6 months of continuous pre-indictment detention after invoking counsel got no Shatzer break, so out-of-state detectives' interrogation on an unrelated murder violated Edwards despite repeated fresh warnings?",
+   "back": "State v. Wint (N.J. 2018) — a New Jersey Supreme Court decision, persuasive/illustrative only, not binding federal authority.",
+   "tags": [
+    "miranda-waiver-invocation",
+    "wint",
+    "shatzer",
+    "edwards",
+    "state-illustrative",
+    "non-binding",
+    "name-that-case"
+   ],
+   "cite": "State v. Wint, 236 N.J. 174, 198 A.3d 963 (2018)",
+   "source": "https://www.courtlistener.com/opinion/8267547/state-v-wint/"
+  },
+  {
+   "id": "miranda-waiver-invocation-wint-fresh-warnings-42",
+   "page": "miranda-waiver-invocation",
+   "topic": "Miranda Waiver and Invocation",
+   "type": "qa",
+   "front": "In State v. Wint (N.J. 2018, non-binding illustration), did repeated fresh Miranda warnings cure the Edwards violation where the suspect remained in continuous detention after invoking counsel?",
+   "back": "No — repeated fresh warnings did not cure the Edwards violation, because continuous detention provided no Shatzer break in custody to lift the bar.",
+   "tags": [
+    "miranda-waiver-invocation",
+    "wint",
+    "edwards",
+    "shatzer",
+    "state-illustrative",
+    "non-binding"
+   ],
+   "cite": "State v. Wint, 236 N.J. 174, 198 A.3d 963 (2018)",
+   "source": "https://www.courtlistener.com/opinion/8267547/state-v-wint/"
+  },
+  {
+   "id": "miranda-waiver-invocation-davis-both-tracks-43",
+   "page": "miranda-waiver-invocation",
+   "topic": "Miranda Waiver and Invocation",
+   "type": "qa",
+   "front": "Does the Davis \"reasonable officer\" unambiguity requirement apply only to invocations of counsel, or to invocations of silence too?",
+   "back": "It polices entry to BOTH tracks: Davis (512 U.S. at 459) requires an unambiguous invocation of counsel, and Berghuis v. Thompkins imported the same standard into the silence track — neither track is triggered by an ambiguous invocation.",
+   "tags": [
+    "miranda-waiver-invocation",
+    "davis",
+    "thompkins",
+    "two-tracks",
+    "unambiguous",
+    "distinction"
+   ],
+   "cite": "Davis v. United States, 512 U.S. 452, 459 (1994)",
+   "source": "https://www.courtlistener.com/opinion/117863/davis-v-united-states/"
+  },
+  {
+   "id": "miranda-waiver-invocation-thompkins-imports-davis-44",
+   "page": "miranda-waiver-invocation",
+   "topic": "Miranda Waiver and Invocation",
+   "type": "cloze",
+   "front": "The same unambiguity gate guards both invocation tracks: {{c1::Davis}} requires an unambiguous invocation of counsel, and {{c2::Thompkins}} imported that standard into the silence track.",
+   "back": "Davis / Thompkins",
+   "tags": [
+    "miranda-waiver-invocation",
+    "davis",
+    "thompkins",
+    "two-tracks",
+    "unambiguous"
+   ],
+   "cite": "Berghuis v. Thompkins, 560 U.S. 370 (2010)",
+   "source": "https://www.courtlistener.com/opinion/147529/berghuis-v-thompkins/"
+  },
+  {
+   "id": "miranda-waiver-invocation-demesme-pitfall-45",
+   "page": "miranda-waiver-invocation",
+   "topic": "Miranda Waiver and Invocation",
+   "type": "qa",
+   "front": "Common pitfall (illustrated by the non-binding \"lawyer dog\" anecdote, State v. Demesme, La. 2017): how literally can courts apply Davis's ambiguity rule to a suspect's reference to counsel?",
+   "back": "Very literally — a Louisiana writ-denial concurrence treated \"why don't you just give me a lawyer dog cause this is not what's up\" as too ambiguous to invoke counsel under Davis. It is a one-justice, state, non-binding anecdote, not a merits holding.",
+   "tags": [
+    "miranda-waiver-invocation",
+    "demesme",
+    "davis",
+    "pitfall",
+    "counsel",
+    "state-illustrative",
+    "non-binding"
+   ],
+   "cite": "State v. Demesme, 228 So.3d 1206 (La. 2017)",
+   "source": "https://www.courtlistener.com/opinion/5035127/state-v-demesme/"
+  },
+  {
+   "id": "miranda-waiver-invocation-demesme-name-46",
+   "page": "miranda-waiver-invocation",
+   "topic": "Miranda Waiver and Invocation",
+   "type": "qa",
+   "front": "Which non-binding state case is the source of the \"lawyer dog\" anecdote, where a concurrence to a writ denial treated an equivocal request for counsel as too ambiguous to invoke under Davis?",
+   "back": "State v. Demesme (La. 2017) — a Louisiana Supreme Court writ-denial concurrence, illustrative and non-binding, not a merits holding.",
+   "tags": [
+    "miranda-waiver-invocation",
+    "demesme",
+    "davis",
+    "counsel",
+    "state-illustrative",
+    "non-binding",
+    "name-that-case"
+   ],
+   "cite": "State v. Demesme, 228 So.3d 1206 (La. 2017)",
+   "source": "https://www.courtlistener.com/opinion/5035127/state-v-demesme/"
   },
   {
    "id": "name-that-case-4a-supplement-soldal-01",
@@ -22155,6 +23125,261 @@
    ]
   },
   {
+   "id": "special-needs-administrative-searches-two-regimes-shared-root-44",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "qa",
+   "front": "The 'special needs' and 'administrative' search regimes diverge, but what single root do they share?",
+   "back": "Both rest on reasonableness without a traditional warrant on probable cause; they differ on WHAT is searched and WHAT substitutes for the warrant.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "two-regimes",
+    "doctrine",
+    "distinction"
+   ]
+  },
+  {
+   "id": "special-needs-administrative-searches-special-needs-definition-45",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "definition",
+   "front": "Define the 'special needs' regime (as distinct from the administrative-inspection regime).",
+   "back": "Searches of PERSONS serving a government interest beyond the normal need for law enforcement, where warrant/probable-cause is impracticable; the court drops warrant + PC and instead balances the government interest against the privacy intrusion.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "special-needs",
+    "definition",
+    "two-regimes"
+   ]
+  },
+  {
+   "id": "special-needs-administrative-searches-administrative-definition-46",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "definition",
+   "front": "Define the 'administrative' search regime (as distinct from the special-needs regime).",
+   "back": "Inspections of PREMISES (and closely regulated industries) to enforce a regulatory scheme (housing, fire, safety codes), not to gather criminal evidence; the default is an AREA WARRANT on neutral, legislatively fixed criteria - not 'no warrant.'",
+   "tags": [
+    "special-needs-administrative-searches",
+    "administrative",
+    "definition",
+    "two-regimes",
+    "area-warrant"
+   ]
+  },
+  {
+   "id": "special-needs-administrative-searches-special-needs-vs-administrative-47",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "qa",
+   "front": "Distinguish the 'special needs' regime from the 'administrative' regime on (a) what is searched and (b) what substitutes for the warrant.",
+   "back": "Special needs: searches of PERSONS; the warrant requirement is dropped entirely and replaced by reasonableness BALANCING (e.g., suspicionless testing). Administrative: inspections of PREMISES; the warrant is not eliminated but replaced by an AREA WARRANT on neutral legislative criteria.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "special-needs",
+    "administrative",
+    "distinction",
+    "two-regimes"
+   ]
+  },
+  {
+   "id": "special-needs-administrative-searches-special-needs-contexts-48",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "qa",
+   "front": "Which three context-clusters fall under the 'special needs' (searches-of-persons) regime?",
+   "back": "Schools (T.L.O.); employee/safety drug testing (Skinner, Von Raab); and probation/parole (Griffin, Knights, Samson). The Edmond purpose gate still governs each.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "special-needs",
+    "two-regimes",
+    "contexts"
+   ]
+  },
+  {
+   "id": "special-needs-administrative-searches-administrative-contexts-49",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "qa",
+   "front": "Which authorities anchor the 'administrative' (inspections-of-premises) regime, and what is its one narrow no-warrant exception?",
+   "back": "Area-warrant line: Camara (homes), See (commercial premises), Marshall v. Barlow's (OSHA workplaces). The narrow no-warrant carve-out is the closely-regulated-industry exception of New York v. Burger.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "administrative",
+    "two-regimes",
+    "camara",
+    "see",
+    "barlows",
+    "burger"
+   ]
+  },
+  {
+   "id": "special-needs-administrative-searches-special-needs-phrase-source-50",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "qa",
+   "front": "Who authored the phrase 'special needs, beyond the normal need for law enforcement,' and in which opinion?",
+   "back": "Justice Blackmun, in his CONCURRENCE in New Jersey v. T.L.O., 469 U.S. at 351 - not the majority.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "special-needs",
+    "tlo",
+    "blackmun",
+    "attribution"
+   ],
+   "cite": "New Jersey v. T.L.O., 469 U.S. 325, 351 (1985)",
+   "source": "https://www.courtlistener.com/opinion/111301/new-jersey-v-t-l-o/"
+  },
+  {
+   "id": "special-needs-administrative-searches-tlo-majority-vs-concurrence-51",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "qa",
+   "front": "In New Jersey v. T.L.O., what did the MAJORITY decide on, versus what did Justice Blackmun's concurrence add?",
+   "back": "The majority decided T.L.O. on a straight reasonableness rationale (justified at inception + reasonable in scope). Blackmun's concurrence supplied the 'special needs, beyond the normal need for law enforcement' formulation that later named the doctrine.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "tlo",
+    "blackmun",
+    "distinction",
+    "special-needs"
+   ],
+   "cite": "New Jersey v. T.L.O., 469 U.S. 325, 351 (1985)",
+   "source": "https://www.courtlistener.com/opinion/111301/new-jersey-v-t-l-o/"
+  },
+  {
+   "id": "special-needs-administrative-searches-pitfall-tlo-majority-miscredit-52",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "qa",
+   "front": "Common pitfall: what is wrong with crediting the 'special needs' label to the T.L.O. majority?",
+   "back": "The 'special needs, beyond the normal need for law enforcement' formulation is Justice Blackmun's CONCURRENCE (469 U.S. at 351); the majority decided T.L.O. on a straight reasonableness rationale. Students often miscredit it to the majority.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "pitfall",
+    "tlo",
+    "blackmun",
+    "special-needs"
+   ],
+   "cite": "New Jersey v. T.L.O., 469 U.S. 325, 351 (1985)",
+   "source": "https://www.courtlistener.com/opinion/111301/new-jersey-v-t-l-o/"
+  },
+  {
+   "id": "special-needs-administrative-searches-see-holding-53",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "qa",
+   "front": "What did See v. City of Seattle hold about administrative inspections of commercial premises?",
+   "back": "Camara's administrative-warrant rule extends to commercial premises: a business owner may insist on a warrant before an administrative inspection of non-public areas.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "see",
+    "administrative",
+    "commercial-premises",
+    "area-warrant"
+   ],
+   "cite": "See v. City of Seattle, 387 U.S. 541 (1967)",
+   "source": "https://www.courtlistener.com/opinion/107474/see-v-city-of-seattle/"
+  },
+  {
+   "id": "special-needs-administrative-searches-barlows-holding-54",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "qa",
+   "front": "What did Marshall v. Barlow's, Inc. hold about OSHA workplace inspections?",
+   "back": "OSHA may not conduct warrantless inspections of business premises; an administrative inspection warrant is generally required - subject to the narrow closely-regulated-industry carve-out.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "barlows",
+    "administrative",
+    "osha",
+    "area-warrant"
+   ],
+   "cite": "Marshall v. Barlow's, Inc., 436 U.S. 307 (1978)",
+   "source": "https://www.courtlistener.com/opinion/109866/marshall-v-barlows-inc/"
+  },
+  {
+   "id": "special-needs-administrative-searches-camara-see-barlows-arc-55",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "qa",
+   "front": "Trace the Camara -> See -> Barlow's arc: how far does the administrative area-warrant rule reach?",
+   "back": "Camara establishes the area-warrant rule for homes; See extends it to commercial premises; Marshall v. Barlow's applies it to OSHA workplace inspections. A warrant remains the default for an unconsented administrative entry.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "camara",
+    "see",
+    "barlows",
+    "administrative",
+    "area-warrant"
+   ]
+  },
+  {
+   "id": "special-needs-administrative-searches-burger-element1-56",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "cloze",
+   "front": "New York v. Burger element one: a {{c1::substantial government interest}} must inform the regulatory scheme under which the inspection is made.",
+   "back": "substantial government interest",
+   "tags": [
+    "special-needs-administrative-searches",
+    "burger",
+    "closely-regulated-industry",
+    "test"
+   ],
+   "cite": "New York v. Burger, 482 U.S. 691, 702-03 (1987)",
+   "source": "https://www.courtlistener.com/opinion/111927/new-york-v-burger/"
+  },
+  {
+   "id": "special-needs-administrative-searches-burger-element2-57",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "cloze",
+   "front": "New York v. Burger element two: warrantless inspection must be {{c1::necessary to further the regulatory scheme}}.",
+   "back": "necessary to further the regulatory scheme",
+   "tags": [
+    "special-needs-administrative-searches",
+    "burger",
+    "closely-regulated-industry",
+    "test"
+   ],
+   "cite": "New York v. Burger, 482 U.S. 691, 702-03 (1987)",
+   "source": "https://www.courtlistener.com/opinion/111927/new-york-v-burger/"
+  },
+  {
+   "id": "special-needs-administrative-searches-burger-element3-58",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "cloze",
+   "front": "New York v. Burger element three: the regulatory scheme must be a {{c1::constitutionally adequate substitute for a warrant}} - giving notice and limiting the inspectors' discretion in time, place, and scope.",
+   "back": "constitutionally adequate substitute for a warrant",
+   "tags": [
+    "special-needs-administrative-searches",
+    "burger",
+    "closely-regulated-industry",
+    "test",
+    "warrant-substitute"
+   ],
+   "cite": "New York v. Burger, 482 U.S. 691, 702-03 (1987)",
+   "source": "https://www.courtlistener.com/opinion/111927/new-york-v-burger/"
+  },
+  {
+   "id": "special-needs-administrative-searches-pitfall-closely-regulated-narrow-59",
+   "page": "special-needs-administrative-searches",
+   "topic": "Special Needs and Administrative Searches",
+   "type": "qa",
+   "front": "Common pitfall: why is it wrong to treat the closely-regulated-industry exception as the general administrative-inspection rule?",
+   "back": "Barlow's and Burger make the warrantless-inspection carve-out NARROW (junkyards/vehicle dismantlers, liquor, firearms, mines). Most businesses are not 'closely regulated,' so the default remains an administrative (area) warrant under Camara/See - a regulatory interest alone does not authorize warrantless entry.",
+   "tags": [
+    "special-needs-administrative-searches",
+    "pitfall",
+    "burger",
+    "barlows",
+    "closely-regulated-industry",
+    "administrative"
+   ]
+  },
+  {
    "id": "standing-to-challenge-a-search-rule-personal-01",
    "page": "standing-to-challenge-a-search",
    "topic": "Standing to Challenge a Search",
@@ -23416,6 +24641,581 @@
     "tiers",
     "sequence",
     "synthesis"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-rule-01",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "What is the federal third-party doctrine?",
+   "back": "A person has no reasonable expectation of privacy in information voluntarily turned over to a third party, so the government may obtain it without a warrant.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "third-party-doctrine",
+    "rule"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-twin-pillars-02",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Which two SCOTUS cases are the 'twin pillars' of the third-party doctrine?",
+   "back": "Smith v. Maryland (pen-register dialing) and United States v. Miller (bank records).",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "smith",
+    "miller",
+    "third-party-doctrine"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-smith-holding-03",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "In Smith v. Maryland, what did the Court hold about a pen register recording dialed phone numbers?",
+   "back": "Using a pen register to record dialed numbers is not a search; there is no reasonable expectation of privacy in numbers voluntarily conveyed to the phone company.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "smith",
+    "holding",
+    "pen-register"
+   ],
+   "cite": "Smith v. Maryland, 442 U.S. 735 (1979)",
+   "source": "https://www.courtlistener.com/opinion/110118/smith-v-maryland/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-smith-quote-04",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "cloze",
+   "front": "Smith v. Maryland: 'This Court consistently has held that a person has no legitimate expectation of privacy in information he ___ to third parties.'",
+   "back": "voluntarily turns over",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "smith",
+    "quote",
+    "third-party-doctrine"
+   ],
+   "cite": "Smith v. Maryland, 442 U.S. 735, 743-44 (1979)",
+   "source": "https://www.courtlistener.com/opinion/110118/smith-v-maryland/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-smith-facts-to-case-05",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Which SCOTUS case held that police use of a pen register to record the numbers dialed from a phone is not a search?",
+   "back": "Smith v. Maryland (1979) — the origin of the third-party doctrine.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "smith",
+    "facts-to-case",
+    "pen-register"
+   ],
+   "cite": "Smith v. Maryland, 442 U.S. 735 (1979)",
+   "source": "https://www.courtlistener.com/opinion/110118/smith-v-maryland/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-smith-significance-06",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Why does Smith v. Maryland matter to the third-party doctrine?",
+   "back": "It is the origin/articulation of the doctrine — the case that established no REP exists in information voluntarily conveyed to a third party.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "smith",
+    "significance",
+    "third-party-doctrine"
+   ],
+   "cite": "Smith v. Maryland, 442 U.S. 735 (1979)",
+   "source": "https://www.courtlistener.com/opinion/110118/smith-v-maryland/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-miller-holding-07",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "In United States v. Miller, what did the Court hold about a bank customer's records?",
+   "back": "Bank records are the bank's business records, not the customer's private papers; there is no reasonable expectation of privacy in information voluntarily conveyed to and exposed to the bank.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "miller",
+    "holding",
+    "bank-records"
+   ],
+   "cite": "United States v. Miller, 425 U.S. 435 (1976)",
+   "source": "https://www.courtlistener.com/opinion/109433/united-states-v-miller/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-miller-facts-to-case-08",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Which SCOTUS case held that a customer has no reasonable expectation of privacy in checks and deposit slips held by his bank?",
+   "back": "United States v. Miller (1976) — a foundational third-party-doctrine case (pre-Smith).",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "miller",
+    "facts-to-case",
+    "bank-records"
+   ],
+   "cite": "United States v. Miller, 425 U.S. 435 (1976)",
+   "source": "https://www.courtlistener.com/opinion/109433/united-states-v-miller/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-carpenter-holding-09",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "In Carpenter v. United States, what did the Court hold about government acquisition of historical cell-site location information (CSLI)?",
+   "back": "Acquiring historical CSLI is a Fourth Amendment search that requires a warrant.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "carpenter",
+    "holding",
+    "csli"
+   ],
+   "cite": "Carpenter v. United States, 585 U.S. 296 (2018)",
+   "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-carpenter-tpd-limit-10",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Per Carpenter, does the third-party doctrine reach the comprehensive, auto-generated record of movements that historical CSLI provides?",
+   "back": "No — Carpenter held the third-party doctrine does NOT extend to comprehensive, automatically generated location records like CSLI.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "carpenter",
+    "csli",
+    "third-party-doctrine"
+   ],
+   "cite": "Carpenter v. United States, 585 U.S. 296 (2018)",
+   "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-carpenter-narrow-11",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Did Carpenter v. United States overrule Smith v. Maryland or United States v. Miller?",
+   "back": "No. Carpenter is narrow — it did not disturb Smith/Miller, conventional surveillance, or ordinary business records; Smith and Miller remain good law.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "carpenter",
+    "smith",
+    "miller",
+    "narrow"
+   ],
+   "cite": "Carpenter v. United States, 585 U.S. 296 (2018)",
+   "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-carpenter-quote-12",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "cloze",
+   "front": "Carpenter described CSLI location records as ones that 'hold for many Americans the \"___.\"'",
+   "back": "privacies of life",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "carpenter",
+    "quote",
+    "csli"
+   ],
+   "cite": "Carpenter v. United States, 585 U.S. 296, 309-11 (2018)",
+   "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-carpenter-prongs-framing-13",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Are the 'Carpenter prongs' (new category of info; generated without meaningful voluntary choice; reveals the privacies of life) a holding the Court enumerated?",
+   "back": "No. The three prongs are the instructor's interpretive close-reading gloss, NOT a test the Court enumerated. Only the phrase 'the privacies of life' is the Court's own. Never present the prongs as a holding.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "carpenter",
+    "pitfall",
+    "instructor-framing"
+   ],
+   "cite": "Carpenter v. United States, 585 U.S. 296 (2018)",
+   "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-carpenter-prong1-14",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "As an interpretive gloss (not a holding), what is the first 'prong' the instructor uses to summarize Carpenter?",
+   "back": "A new category of information arising from the digital age — instructor framing, not language the Court enumerated.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "carpenter",
+    "instructor-framing"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-carpenter-prong2-15",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "As an interpretive gloss (not a holding), what is the second 'prong' the instructor uses to summarize Carpenter?",
+   "back": "Information generated without meaningful voluntary choice — instructor framing, not language the Court enumerated.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "carpenter",
+    "instructor-framing"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-carpenter-prong3-16",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "As an interpretive gloss (not a holding), what is the third 'prong' the instructor uses to summarize Carpenter — and which part is actually the Court's words?",
+   "back": "Information that reveals 'the privacies of life.' Only the phrase 'the privacies of life' is the Court's own language; the three-prong framing itself is interpretive gloss.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "carpenter",
+    "instructor-framing",
+    "quote"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-kyllo-holding-17",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "In Kyllo v. United States, what did the Court hold about thermal imaging of a home?",
+   "back": "Using a thermal imager (sense-enhancing technology not in general public use) to detect interior details that would otherwise require physical intrusion is a search, presumptively unreasonable without a warrant.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "kyllo",
+    "holding",
+    "sense-enhancing-tech"
+   ],
+   "cite": "Kyllo v. United States, 533 U.S. 27 (2001)",
+   "source": "https://www.courtlistener.com/opinion/118443/kyllo-v-united-states/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-kyllo-quote-18",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "cloze",
+   "front": "Kyllo: 'Where, as here, the Government uses a device that is ___, to explore details of the home that would previously have been unknowable without physical intrusion, the surveillance is a \"search\"...'",
+   "back": "not in general public use",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "kyllo",
+    "quote",
+    "sense-enhancing-tech"
+   ],
+   "cite": "Kyllo v. United States, 533 U.S. 27, 40 (2001)",
+   "source": "https://www.courtlistener.com/opinion/118443/kyllo-v-united-states/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-kyllo-line-19",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "What separate line does Kyllo draw for surveillance technology?",
+   "back": "Sense-enhancing technology 'not in general public use' used to expose the interior of a home is a search.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "kyllo",
+    "rule",
+    "sense-enhancing-tech"
+   ],
+   "cite": "Kyllo v. United States, 533 U.S. 27 (2001)",
+   "source": "https://www.courtlistener.com/opinion/118443/kyllo-v-united-states/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-newtech-unsettled-20",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "What is the status of applying Carpenter to newer surveillance tech (pole cameras, license-plate readers, drones)?",
+   "back": "Unsettled — there is no settled federal rule; lower courts divide. It is the open frontier of the doctrine.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "new-tech",
+    "unsettled",
+    "split"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-mosaic-dividing-line-21",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "What is the scale/mosaic dividing line for evaluating new surveillance tech under Carpenter?",
+   "back": "A few fixed cameras capturing public movement tend to stay on the Smith/Knotts (not-a-search) side; comprehensive, city-wide, persistent tracking pulls toward Carpenter (warrant required).",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "mosaic",
+    "scale",
+    "new-tech"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-hay-holding-22",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "In United States v. Hay (10th Cir. 2024), what did the court hold about ~2 months of pole-camera surveillance of a home's public-view exterior?",
+   "back": "It was not a search — the camera captured only what was visible to passersby from a public vantage, and the court held Carpenter did not abrogate its prior pole-camera precedent.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "hay",
+    "holding",
+    "pole-camera"
+   ],
+   "cite": "United States v. Hay, 95 F.4th 1304 (10th Cir. 2024)",
+   "source": "https://www.courtlistener.com/opinion/9485331/united-states-v-hay/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-hay-weight-23",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "How should United States v. Hay's pole-camera ruling be treated as authority?",
+   "back": "As one circuit's persuasive view, not a settled federal rule — pole-camera law is split and unsettled; circuits and state high courts divide on whether long-term pole-camera surveillance of a home is a search.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "hay",
+    "split",
+    "pole-camera",
+    "persuasive"
+   ],
+   "cite": "United States v. Hay, 95 F.4th 1304 (10th Cir. 2024)",
+   "source": "https://www.courtlistener.com/opinion/9485331/united-states-v-hay/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-porter-holding-24",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "In United States v. Porter (5th Cir. Mar. 17, 2026), what did the court hold about use of an automatic license-plate reader (ALPR)?",
+   "back": "Use of an ALPR for vehicle-location data was not a search, and the ALPR hit supplied reasonable suspicion for the stop. (Circuit — persuasive.)",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "porter",
+    "holding",
+    "alpr"
+   ],
+   "cite": "United States v. Porter, No. 25-60163 (5th Cir. Mar. 17, 2026)",
+   "source": "https://www.courtlistener.com/opinion/10810059/united-states-v-porter/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-porter-cite-pitfall-25",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "How must United States v. Porter (the ALPR case) be cited, and what cite must you avoid?",
+   "back": "Cite by docket: No. 25-60163 (5th Cir. Mar. 17, 2026). It is too recent for a confirmed F.4th reporter cite — never assert a reporter cite for it.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "porter",
+    "pitfall",
+    "cite"
+   ],
+   "cite": "United States v. Porter, No. 25-60163 (5th Cir. Mar. 17, 2026)",
+   "source": "https://www.courtlistener.com/opinion/10810059/united-states-v-porter/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-robinson-holding-26",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "In Robinson v. Commonwealth (Va. Ct. App. Apr. 7, 2026) (state — illustrative, non-binding), what did the court hold about a Flock ALPR camera network?",
+   "back": "A 172-camera Flock ALPR network was not a search — no REP in a vehicle's public movements, and it was not the 'near perfect surveillance' that triggered a warrant in Carpenter. (State — illustrative, non-binding.)",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "robinson",
+    "holding",
+    "alpr",
+    "state-illustrative"
+   ],
+   "cite": "Robinson v. Commonwealth (Va. Ct. App. Apr. 7, 2026)",
+   "source": "https://www.courtlistener.com/opinion/10838748/eddie-eugene-robinson-v-commonwealth-of-virginia/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-robinson-cite-pitfall-27",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "How must Robinson v. Commonwealth (the Flock ALPR case) be cited and weighted?",
+   "back": "Cite by court and date only — Va. Ct. App., Apr. 7, 2026 — as state, illustrative, non-binding. It is too recent for a confirmed S.E.2d reporter cite; never assert a reporter cite or a 2024 date for it.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "robinson",
+    "pitfall",
+    "cite",
+    "state-illustrative"
+   ],
+   "cite": "Robinson v. Commonwealth (Va. Ct. App. Apr. 7, 2026)",
+   "source": "https://www.courtlistener.com/opinion/10838748/eddie-eugene-robinson-v-commonwealth-of-virginia/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-lobs-holding-28",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "In Leaders of a Beautiful Struggle v. Baltimore Police Dep't (4th Cir. 2021, en banc), what did the court hold about a city-wide aerial wide-area surveillance program?",
+   "back": "The program tracking everyone's public movements required a warrant under Carpenter — the scale/mosaic counterpoint to the ALPR cases.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "leaders-of-a-beautiful-struggle",
+    "holding",
+    "mosaic",
+    "aerial"
+   ],
+   "cite": "Leaders of a Beautiful Struggle v. Baltimore Police Dep't, 2 F.4th 330 (4th Cir. 2021) (en banc)"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-alpr-vs-aerial-29",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Contrast the ALPR cases (Porter, Robinson) with Leaders of a Beautiful Struggle on the scale/mosaic line.",
+   "back": "The ALPR cases (limited camera capture of public movement) found no search; Leaders of a Beautiful Struggle (comprehensive city-wide aerial tracking) required a warrant — scale/persistence is the dividing line.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "distinction",
+    "mosaic",
+    "alpr",
+    "aerial"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-drones-no-scotus-30",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Is there a Supreme Court case directly governing police drone surveillance?",
+   "back": "No — there is no SCOTUS drone decision. Drone law is emerging, jurisdiction-dependent, and unsettled.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "drones",
+    "unsettled",
+    "new-tech"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-drones-analogues-31",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Which SCOTUS aerial-surveillance cases are the analogues for drones — and why might they not fit?",
+   "back": "The manned-aircraft lineage — Ciraolo, Riley, and Dow Chemical — is the bridge, but drones may not fit: they fly below navigable airspace, can hover/persist/zoom, and are cheap and pervasive, pulling toward Kyllo and Carpenter.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "drones",
+    "ciraolo",
+    "riley",
+    "dow",
+    "unsettled"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-ciraolo-holding-32",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "In California v. Ciraolo, what did the Court hold about naked-eye aerial observation of a fenced backyard from ~1,000 ft?",
+   "back": "It is not a search — the curtilage was knowingly exposed to any aircraft lawfully in public navigable airspace.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "ciraolo",
+    "holding",
+    "aerial"
+   ],
+   "cite": "California v. Ciraolo, 476 U.S. 207 (1986)",
+   "source": "https://www.courtlistener.com/opinion/111666/california-v-ciraolo/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-riley-holding-33",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "In Florida v. Riley, what did the plurality hold about naked-eye helicopter observation into curtilage at 400 ft?",
+   "back": "It was not a search (plurality), where the aircraft was in lawful, non-rare public airspace — the closest SCOTUS analogue for low-altitude drones.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "riley",
+    "holding",
+    "aerial",
+    "drones"
+   ],
+   "cite": "Florida v. Riley, 488 U.S. 445 (1989)",
+   "source": "https://www.courtlistener.com/opinion/112175/florida-v-riley/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-dow-holding-34",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "In Dow Chemical Co. v. United States, what did the Court hold about EPA aerial photography of an industrial complex with a commonly available camera?",
+   "back": "It was not a search; sense-enhancement by widely available technology over open commercial areas did not cross the line — the contrast to Kyllo's 'not in general public use.'",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "dow",
+    "holding",
+    "aerial",
+    "general-public-use"
+   ],
+   "cite": "Dow Chemical Co. v. United States, 476 U.S. 227 (1986)",
+   "source": "https://www.courtlistener.com/opinion/111667/dow-chemical-co-v-united-states-ex-rel-administrator/"
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-kyllo-vs-dow-35",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Distinguish Kyllo from Dow Chemical on the surveillance-technology line.",
+   "back": "Kyllo: tech 'not in general public use' exposing a home's interior is a search. Dow Chemical: a commonly available aerial camera over commercial premises is not a search.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "distinction",
+    "kyllo",
+    "dow",
+    "general-public-use"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-pitfall-overread-36",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "What is the pitfall of over-reading Carpenter?",
+   "back": "Treating it as a general repeal of the third-party doctrine. It is narrow — Smith and Miller remain good law, and it does not disturb conventional surveillance or ordinary business records.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "carpenter",
+    "pitfall",
+    "narrow"
+   ]
+  },
+  {
+   "id": "third-party-doctrine-digital-surveillance-pitfall-ciraolo-drones-37",
+   "page": "third-party-doctrine-digital-surveillance",
+   "topic": "The Third-Party Doctrine and Digital Surveillance",
+   "type": "qa",
+   "front": "Why is it a pitfall to treat Ciraolo/Riley as settled drone law?",
+   "back": "They predate drones and Carpenter; low, persistent, zoom-capable drones may not fit them cleanly. Drone law remains emerging and unsettled.",
+   "tags": [
+    "third-party-doctrine-digital-surveillance",
+    "pitfall",
+    "drones",
+    "ciraolo",
+    "riley",
+    "unsettled"
    ]
   },
   {

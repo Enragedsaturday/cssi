@@ -1,0 +1,321 @@
+[
+  {
+    "id": "fourth-amendment-recalibration-thesis-01",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "What is the central thesis of the \"Fourth Amendment Recalibration\" lens (\"Fourth Amendment 2.0\")?",
+    "back": "The Fourth Amendment is not a fixed 1791 snapshot but a balance between government power and individual privacy that the Supreme Court must re-fit every time technology or society shifts the ground — the same constitutional text, recalibrated again and again to a changed world.",
+    "tags": ["fourth-amendment-recalibration", "thesis", "doctrine"]
+  },
+  {
+    "id": "fourth-amendment-recalibration-two-engines-02",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "What are the two engines that drive Fourth Amendment recalibration in the instructor's conceptual lens?",
+    "back": "(1) New surveillance and transport technology (which can expand or contract government power), and (2) incorporation against the states (the Amendment going from a federal-only restraint to a fully state-binding one).",
+    "tags": ["fourth-amendment-recalibration", "two-engines", "doctrine"]
+  },
+  {
+    "id": "fourth-amendment-recalibration-tech-engine-direction-03",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "In the recalibration lens, does new technology always push government power in one direction?",
+    "back": "No. Technology has expanded government power (Carroll's auto exception; Olmstead's wiretap escaping the Amendment) and contracted it (Katz reclaiming the wiretap, Riley the phone, Carpenter location data). The metaphor is re-fitting the balance, not a one-way march.",
+    "tags": ["fourth-amendment-recalibration", "direction", "doctrine"]
+  },
+  {
+    "id": "fourth-amendment-recalibration-overruling-04",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "Why does \"recalibration\" of the Fourth Amendment often mean overruling rather than a gentle gloss?",
+    "back": "Sometimes the Court concludes the old rule simply no longer fits a changed technology and discards it. Olmstead's trespass theory was good law for roughly 40 years before Katz (1967) overruled it.",
+    "tags": ["fourth-amendment-recalibration", "overruling", "doctrine"]
+  },
+  {
+    "id": "fourth-amendment-recalibration-milam-facts-05",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "Which early, pre-Carroll Prohibition-era circuit decision on automobile search did the Supreme Court survey before recognizing the automobile exception?",
+    "back": "Milam v. United States (4th Cir. 1924) — a Fourth Circuit decision (persuasive, not binding) on warrantless automobile search for contraband liquor, part of the pre-Carroll circuit case law in the Carroll lineage.",
+    "tags": ["fourth-amendment-recalibration", "milam", "automobile", "persuasive"],
+    "cite": "Milam v. United States, 296 F. 629 (4th Cir. 1924)",
+    "source": "https://www.courtlistener.com/opinion/8849836/milam-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-milam-weight-06",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "What is the precedential weight of Milam v. United States, 296 F. 629 (4th Cir. 1924)?",
+    "back": "Circuit-persuasive only — it is a Fourth Circuit Court of Appeals decision, not Supreme Court authority. It matters as part of the pre-Carroll circuit case law surveyed in Carroll, not as a binding rule.",
+    "tags": ["fourth-amendment-recalibration", "milam", "persuasive", "weight"],
+    "cite": "Milam v. United States, 296 F. 629 (4th Cir. 1924)",
+    "source": "https://www.courtlistener.com/opinion/8849836/milam-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-carroll-holding-07",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "What did Carroll v. United States (1925) hold (the automobile exception)?",
+    "back": "With probable cause, a movable vehicle may be searched without a warrant because its mobility makes obtaining one impracticable — the Fourth Amendment re-fitted to the automobile and Prohibition enforcement.",
+    "tags": ["fourth-amendment-recalibration", "carroll", "automobile-exception", "holding"],
+    "cite": "Carroll v. United States, 267 U.S. 132, 149, 153-56 (1925)",
+    "source": "https://www.courtlistener.com/opinion/100567/carroll-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-carroll-direction-08",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "In the recalibration arc, which direction did Carroll v. United States (1925) push government power, and why?",
+    "back": "It expanded government power: the new transport technology (the automobile) justified warrantless searches, dispensing with the warrant requirement for movable vehicles.",
+    "tags": ["fourth-amendment-recalibration", "carroll", "direction", "expands"],
+    "cite": "Carroll v. United States, 267 U.S. 132 (1925)",
+    "source": "https://www.courtlistener.com/opinion/100567/carroll-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-carroll-pitfall-09",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "Common pitfall: does Carroll's automobile exception let officers search any vehicle on a hunch?",
+    "back": "No. The automobile exception still requires probable cause — it dispenses with the warrant, not with the cause. It is not a suspicion-free license to search any vehicle.",
+    "tags": ["fourth-amendment-recalibration", "carroll", "automobile-exception", "pitfall"],
+    "cite": "Carroll v. United States, 267 U.S. 132, 149, 153-56 (1925)",
+    "source": "https://www.courtlistener.com/opinion/100567/carroll-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-lee-holding-10",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "What did United States v. Lee (1927) hold about a Coast Guard officer's searchlight?",
+    "back": "Using a searchlight to illuminate a boat's deck on the high seas was not a search — it revealed only what was in open view. An early sense-enhancement-is-not-a-search case.",
+    "tags": ["fourth-amendment-recalibration", "lee", "sense-enhancement", "holding"],
+    "cite": "United States v. Lee, 274 U.S. 559, 563 (1927)",
+    "source": "https://www.courtlistener.com/opinion/101118/united-states-v-lee/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-lee-significance-11",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "Why does United States v. Lee (1927) matter in the recalibration arc — what doctrinal line does it seed?",
+    "back": "It is the seed of the sense-enhancement line that later flowers in Kyllo: it raises whether a device merely improves ordinary perception (open view, not a search) or pierces a protected space.",
+    "tags": ["fourth-amendment-recalibration", "lee", "sense-enhancement", "significance"],
+    "cite": "United States v. Lee, 274 U.S. 559, 563 (1927)",
+    "source": "https://www.courtlistener.com/opinion/101118/united-states-v-lee/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-lee-kyllo-thread-12",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "What single recalibration principle connects United States v. Lee (1927) to Kyllo (2001)?",
+    "back": "Does the device merely improve ordinary perception, or does it pierce a space the Amendment protects? A searchlight on open view was not a search (Lee); a thermal imager probing through a home's wall with technology not in general public use is a search (Kyllo).",
+    "tags": ["fourth-amendment-recalibration", "lee", "kyllo", "sense-enhancement", "distinction"]
+  },
+  {
+    "id": "fourth-amendment-recalibration-olmstead-holding-13",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "What did Olmstead v. United States (1928) hold about wiretapping?",
+    "back": "Wiretapping that involved no physical trespass into the premises and seized no tangible thing was not a Fourth Amendment search or seizure — the property/trespass theory of the Amendment (wiretap = no trespass = no search).",
+    "tags": ["fourth-amendment-recalibration", "olmstead", "wiretap", "trespass", "holding"],
+    "cite": "Olmstead v. United States, 277 U.S. 438, 464-66 (1928)",
+    "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-olmstead-overruled-14",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "Common pitfall: is Olmstead v. United States (1928) still good law for the rule that a wiretap is not a search?",
+    "back": "No. Olmstead governed for about 40 years but was overruled by Katz (1967). Quoting Olmstead for the proposition that a wiretap is not a search states the former rule.",
+    "tags": ["fourth-amendment-recalibration", "olmstead", "katz", "overruled", "pitfall"],
+    "cite": "Olmstead v. United States, 277 U.S. 438 (1928)",
+    "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-olmstead-direction-15",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "In the recalibration arc, which direction did Olmstead v. United States (1928) push government power?",
+    "back": "It expanded government power: the new technology (the telephone wiretap) escaped the Fourth Amendment entirely under the trespass theory, leaving the surveillance unregulated.",
+    "tags": ["fourth-amendment-recalibration", "olmstead", "direction", "expands"],
+    "cite": "Olmstead v. United States, 277 U.S. 438 (1928)",
+    "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-olmstead-brandeis-16",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "Whose Olmstead opinion foreshadowed the later privacy turn the Fourth Amendment would take?",
+    "back": "Justice Brandeis's dissent in Olmstead (1928) foreshadowed the privacy approach that Katz (1967) would later adopt.",
+    "tags": ["fourth-amendment-recalibration", "olmstead", "brandeis", "privacy"],
+    "cite": "Olmstead v. United States, 277 U.S. 438 (1928)",
+    "source": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-wolf-holding-17",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "What did Wolf v. Colorado (1949) hold (incorporation, step one)?",
+    "back": "The substance/core of the Fourth Amendment binds the states through the Fourteenth Amendment's Due Process Clause — but it expressly declined to impose the federal exclusionary remedy on the states (states could choose their own).",
+    "tags": ["fourth-amendment-recalibration", "wolf", "incorporation", "holding"],
+    "cite": "Wolf v. Colorado, 338 U.S. 25, 27-28, 33 (1949)",
+    "source": "https://www.courtlistener.com/opinion/104709/wolf-v-colorado/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-mapp-holding-18",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "What did Mapp v. Ohio (1961) hold (incorporation, step two)?",
+    "back": "The Fourth Amendment exclusionary rule applies to the states through the Fourteenth Amendment — evidence from an unconstitutional search or seizure is inadmissible in state court. It overruled Wolf on the remedy and completed incorporation.",
+    "tags": ["fourth-amendment-recalibration", "mapp", "incorporation", "exclusionary-rule", "holding"],
+    "cite": "Mapp v. Ohio, 367 U.S. 643, 654-57, 660 (1961)",
+    "source": "https://www.courtlistener.com/opinion/106285/mapp-v-ohio/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-incorporation-two-step-19",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "Distinguish Wolf v. Colorado (1949) from Mapp v. Ohio (1961) in the incorporation two-step — exactly what did each incorporate against the states?",
+    "back": "Wolf (1949) incorporated the RIGHT — the substance of the Fourth Amendment — but imposed no federal exclusionary remedy. Mapp (1961) incorporated the REMEDY — the exclusionary rule — overruling Wolf on that point. So: 1949 = the right; 1961 = the remedy. Treating either case as doing both is a common error.",
+    "tags": ["fourth-amendment-recalibration", "wolf", "mapp", "incorporation", "distinction"]
+  },
+  {
+    "id": "fourth-amendment-recalibration-incorporation-pitfall-20",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "Common pitfall: what is wrong with saying \"until 1949 the Fourth Amendment only applied to the federal government, and then it applied to the states\" as a single event?",
+    "back": "It collapses twelve years of doctrine. 1949 (Wolf) incorporated only the right against the states; the exclusionary remedy did not reach the states until 1961 (Mapp). Stating it as one event omits the Wolf-to-Mapp two-step and overruling.",
+    "tags": ["fourth-amendment-recalibration", "wolf", "mapp", "incorporation", "pitfall"]
+  },
+  {
+    "id": "fourth-amendment-recalibration-incorporation-engine-21",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "How does the incorporation engine (Wolf → Mapp) differ from the technology engine in the recalibration lens?",
+    "back": "It runs on its own axis: instead of re-fitting the Amendment to a new device, it extends the Amendment from a federal-only restraint to a fully state-binding one — first the right (Wolf 1949), then the remedy (Mapp 1961).",
+    "tags": ["fourth-amendment-recalibration", "incorporation", "two-engines", "doctrine"]
+  },
+  {
+    "id": "fourth-amendment-recalibration-katz-holding-22",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "What did Katz v. United States (1967) hold, and what famous phrase captures it?",
+    "back": "The Fourth Amendment \"protects people, not places\"; a search occurs when the government violates a person's reasonable expectation of privacy. It overruled Olmstead's trespass requirement.",
+    "tags": ["fourth-amendment-recalibration", "katz", "reasonable-expectation-of-privacy", "holding"],
+    "cite": "Katz v. United States, 389 U.S. 347, 351-53 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-katz-rep-test-23",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "In Katz v. United States (1967), whose opinion supplies the two-part reasonable-expectation-of-privacy (REP) test?",
+    "back": "Justice Harlan's concurrence supplies the two-part reasonable-expectation-of-privacy test.",
+    "tags": ["fourth-amendment-recalibration", "katz", "harlan", "reasonable-expectation-of-privacy"],
+    "cite": "Katz v. United States, 389 U.S. 347, 361 (1967) (Harlan, J., concurring)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-olmstead-to-katz-24",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "Describe the Olmstead → Katz recalibration: what theory of \"search\" replaced what, and by what mechanism?",
+    "back": "Recalibration by overruling: Katz (1967) replaced Olmstead's property/trespass theory (a search requires physical intrusion) with the privacy theory (a search occurs when the government invades a reasonable expectation of privacy). The same text, re-fitted from places to people.",
+    "tags": ["fourth-amendment-recalibration", "olmstead", "katz", "trespass", "privacy", "distinction"]
+  },
+  {
+    "id": "fourth-amendment-recalibration-katz-facts-25",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "Electronic eavesdropping on a public phone-booth call, with no physical entry into the booth, was held a Fourth Amendment search — which case?",
+    "back": "Katz v. United States (1967) — the absence of trespass did not defeat the search, because the Amendment protects a reasonable expectation of privacy, not just physical spaces.",
+    "tags": ["fourth-amendment-recalibration", "katz", "facts-to-case"],
+    "cite": "Katz v. United States, 389 U.S. 347 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107564/katz-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-kyllo-oneliner-26",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "In the recalibration arc, what is the one-line significance of Kyllo v. United States (2001)? (Full treatment lives on the digital-surveillance page.)",
+    "back": "Thermal imaging of a home with technology not in general public use is a search — the modern recalibration of the sense-enhancement principle running from United States v. Lee.",
+    "tags": ["fourth-amendment-recalibration", "kyllo", "sense-enhancement", "cross-link"],
+    "cite": "Kyllo v. United States, 533 U.S. 27, 34-35, 40 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118443/kyllo-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-riley-oneliner-27",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "In the recalibration arc, what is the one-line significance of Riley v. California (2014)?",
+    "back": "Police generally may not search a cell phone's data incident to arrest without a warrant — the search-incident-to-arrest exception does not reach the vast trove of data on a modern smartphone.",
+    "tags": ["fourth-amendment-recalibration", "riley", "cell-phone", "cross-link"],
+    "cite": "Riley v. California, 573 U.S. 373, 386, 393-403 (2014)",
+    "source": "https://www.courtlistener.com/opinion/2680439/riley-v-cal-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-riley-cite-pitfall-28",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "Common pitfall: what is the correct merits citation for Riley v. California (2014), and what must you avoid grabbing?",
+    "back": "Cite the merits opinion at 573 U.S. 373 (2014) (parallel 134 S. Ct. 2473). Do not cite the cert-stage orders (134 S. Ct. 999; 134 S. Ct. 1870) — those are different clusters, not the holding.",
+    "tags": ["fourth-amendment-recalibration", "riley", "citation", "pitfall"],
+    "cite": "Riley v. California, 573 U.S. 373 (2014)",
+    "source": "https://www.courtlistener.com/opinion/2680439/riley-v-cal-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-carpenter-oneliner-29",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "In the recalibration arc, what is the one-line significance of Carpenter v. United States (2018)? (Full treatment lives on the digital-surveillance page.)",
+    "back": "Acquiring cell-site location information (CSLI) is a search; the third-party doctrine does not extend to comprehensive digital location records — the current endpoint of the recalibration arc.",
+    "tags": ["fourth-amendment-recalibration", "carpenter", "csli", "cross-link"],
+    "cite": "Carpenter v. United States, 585 U.S. 296 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "fourth-amendment-recalibration-modern-crosslink-pitfall-30",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "qa",
+    "front": "On this conceptual recalibration page, how should Kyllo, Riley, and Carpenter be treated?",
+    "back": "As the modern beats of the arc — one-liners and cross-links, not full holdings. Their full doctrine lives on \"The Third-Party Doctrine and Digital Surveillance\" page; don't re-litigate them in full here.",
+    "tags": ["fourth-amendment-recalibration", "kyllo", "riley", "carpenter", "cross-link", "pitfall"]
+  },
+  {
+    "id": "fourth-amendment-recalibration-timeline-order-31",
+    "page": "fourth-amendment-recalibration",
+    "topic": "Fourth Amendment Recalibration",
+    "type": "cloze",
+    "front": "Recalibration timeline (technology + incorporation): Milam (1924) → Carroll (1925) → Lee (1927) → {{c1::Olmstead}} (1928) → Wolf (1949) → Mapp (1961) → {{c2::Katz}} (1967) → Kyllo (2001) → Riley (2014) → Carpenter (2018).",
+    "back": "c1 = Olmstead (wiretap = no trespass = no search); c2 = Katz (privacy / reasonable expectation of privacy), which overruled Olmstead.",
+    "tags": ["fourth-amendment-recalibration", "timeline", "cloze"]
+  }
+]

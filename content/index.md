@@ -3,7 +3,7 @@ type: index
 title: CSSI — Map of Content
 aliases:
   - "CSSI"
-updated: 2026-06-25
+updated: 2026-06-27
 ---
 
 # CSSI — Certified Search & Seizure Instructor
@@ -23,6 +23,8 @@ updated: 2026-06-25
 - [[Fourth Amendment Framework]] — the spine: what the Amendment protects, the **two definitions of "search,"** seizure of property and of persons, the **state-action / private-search** doctrine, and the four-step analysis sequence.
 - [[Fourth Amendment Analysis Checklist]] — the operational **checklist**: government action? → protected interest? → search or seizure? → standing? → reasonable (C.R.E.W.)?
 - [[Two Definitions of Search]] — the **two independent theories** of a search: **trespass** (Olmstead → Silverman → *Jones*) and **privacy** (*Katz* → *Carpenter*); either suffices.
+- [[The Third-Party Doctrine and Digital Surveillance]] — no reasonable expectation of privacy in information voluntarily shared with a third party (*Smith*, *Miller*), and *Carpenter*'s digital-age carve-out for comprehensive **cell-site location** data; the unsettled frontier of **pole cameras** (*Hay*), **ALPR**, and **drones** (bridged by *Ciraolo*/*Riley*) — scale-dependent and split.
+- [[Fourth Amendment Recalibration]] — the instructor's frame for how the Amendment is repeatedly re-fitted as technology and society change: the automobile (*Carroll*), the wiretap (*Olmstead* → *Katz*), **incorporation** against the states (*Wolf* 1949 → *Mapp* 1961), and the digital recalibrations (*Kyllo*, *Riley*, *Carpenter*).
 - [[Probable Cause and Reasonable Suspicion]] — the two **standards of proof**: PC (*Gates* totality, "fair probability") for arrests/searches/warrants and the lower **reasonable, articulable suspicion** for *Terry* stops; the hunch → RS → PC ladder; de novo review (*Ornelas*).
 - [[Collective Knowledge and the Fellow-Officer Rule]] — imputing the PC/RS quantum across officers: **vertical** reliance on a directive/bulletin (*Whiteley*) and **horizontal** pooling; the limit — no PC at the source means no valid action (*Whiteley*; *Hensley* extends it to *Terry* stops).
 - [[CREW]] — **C**onsent, **R**ecognized **E**xception, or **W**arrant — the three justifications at the reasonableness step.
@@ -77,4 +79,4 @@ updated: 2026-06-25
 - [[CREW]] — the C.R.E.W. mnemonic (also a framework page, above).
 
 ## Study
-- [[flashcards|Flashcards]] — a 1660-card spaced-repetition deck (FSRS) covering every case and doctrine on these pages: holdings, verbatim tests, key facts, distinctions, and pitfalls. Flip with **Space**, grade **1–4**; progress saves on your device.
+- [[flashcards|Flashcards]] — a 1773-card spaced-repetition deck (FSRS) covering every case and doctrine on these pages: holdings, verbatim tests, key facts, distinctions, and pitfalls. Flip with **Space**, grade **1–4**; progress saves on your device.

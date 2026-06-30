@@ -1,0 +1,382 @@
+[
+  {
+    "id": "third-party-doctrine-digital-surveillance-rule-01",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "What is the federal third-party doctrine?",
+    "back": "A person has no reasonable expectation of privacy in information voluntarily turned over to a third party, so the government may obtain it without a warrant.",
+    "tags": ["third-party-doctrine-digital-surveillance", "third-party-doctrine", "rule"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-twin-pillars-02",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Which two SCOTUS cases are the 'twin pillars' of the third-party doctrine?",
+    "back": "Smith v. Maryland (pen-register dialing) and United States v. Miller (bank records).",
+    "tags": ["third-party-doctrine-digital-surveillance", "smith", "miller", "third-party-doctrine"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-smith-holding-03",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "In Smith v. Maryland, what did the Court hold about a pen register recording dialed phone numbers?",
+    "back": "Using a pen register to record dialed numbers is not a search; there is no reasonable expectation of privacy in numbers voluntarily conveyed to the phone company.",
+    "tags": ["third-party-doctrine-digital-surveillance", "smith", "holding", "pen-register"],
+    "cite": "Smith v. Maryland, 442 U.S. 735 (1979)",
+    "source": "https://www.courtlistener.com/opinion/110118/smith-v-maryland/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-smith-quote-04",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "cloze",
+    "front": "Smith v. Maryland: 'This Court consistently has held that a person has no legitimate expectation of privacy in information he ___ to third parties.'",
+    "back": "voluntarily turns over",
+    "tags": ["third-party-doctrine-digital-surveillance", "smith", "quote", "third-party-doctrine"],
+    "cite": "Smith v. Maryland, 442 U.S. 735, 743-44 (1979)",
+    "source": "https://www.courtlistener.com/opinion/110118/smith-v-maryland/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-smith-facts-to-case-05",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Which SCOTUS case held that police use of a pen register to record the numbers dialed from a phone is not a search?",
+    "back": "Smith v. Maryland (1979) — the origin of the third-party doctrine.",
+    "tags": ["third-party-doctrine-digital-surveillance", "smith", "facts-to-case", "pen-register"],
+    "cite": "Smith v. Maryland, 442 U.S. 735 (1979)",
+    "source": "https://www.courtlistener.com/opinion/110118/smith-v-maryland/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-smith-significance-06",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Why does Smith v. Maryland matter to the third-party doctrine?",
+    "back": "It is the origin/articulation of the doctrine — the case that established no REP exists in information voluntarily conveyed to a third party.",
+    "tags": ["third-party-doctrine-digital-surveillance", "smith", "significance", "third-party-doctrine"],
+    "cite": "Smith v. Maryland, 442 U.S. 735 (1979)",
+    "source": "https://www.courtlistener.com/opinion/110118/smith-v-maryland/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-miller-holding-07",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "In United States v. Miller, what did the Court hold about a bank customer's records?",
+    "back": "Bank records are the bank's business records, not the customer's private papers; there is no reasonable expectation of privacy in information voluntarily conveyed to and exposed to the bank.",
+    "tags": ["third-party-doctrine-digital-surveillance", "miller", "holding", "bank-records"],
+    "cite": "United States v. Miller, 425 U.S. 435 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109433/united-states-v-miller/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-miller-facts-to-case-08",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Which SCOTUS case held that a customer has no reasonable expectation of privacy in checks and deposit slips held by his bank?",
+    "back": "United States v. Miller (1976) — a foundational third-party-doctrine case (pre-Smith).",
+    "tags": ["third-party-doctrine-digital-surveillance", "miller", "facts-to-case", "bank-records"],
+    "cite": "United States v. Miller, 425 U.S. 435 (1976)",
+    "source": "https://www.courtlistener.com/opinion/109433/united-states-v-miller/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-carpenter-holding-09",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "In Carpenter v. United States, what did the Court hold about government acquisition of historical cell-site location information (CSLI)?",
+    "back": "Acquiring historical CSLI is a Fourth Amendment search that requires a warrant.",
+    "tags": ["third-party-doctrine-digital-surveillance", "carpenter", "holding", "csli"],
+    "cite": "Carpenter v. United States, 585 U.S. 296 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-carpenter-tpd-limit-10",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Per Carpenter, does the third-party doctrine reach the comprehensive, auto-generated record of movements that historical CSLI provides?",
+    "back": "No — Carpenter held the third-party doctrine does NOT extend to comprehensive, automatically generated location records like CSLI.",
+    "tags": ["third-party-doctrine-digital-surveillance", "carpenter", "csli", "third-party-doctrine"],
+    "cite": "Carpenter v. United States, 585 U.S. 296 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-carpenter-narrow-11",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Did Carpenter v. United States overrule Smith v. Maryland or United States v. Miller?",
+    "back": "No. Carpenter is narrow — it did not disturb Smith/Miller, conventional surveillance, or ordinary business records; Smith and Miller remain good law.",
+    "tags": ["third-party-doctrine-digital-surveillance", "carpenter", "smith", "miller", "narrow"],
+    "cite": "Carpenter v. United States, 585 U.S. 296 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-carpenter-quote-12",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "cloze",
+    "front": "Carpenter described CSLI location records as ones that 'hold for many Americans the \"___.\"'",
+    "back": "privacies of life",
+    "tags": ["third-party-doctrine-digital-surveillance", "carpenter", "quote", "csli"],
+    "cite": "Carpenter v. United States, 585 U.S. 296, 309-11 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-carpenter-prongs-framing-13",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Are the 'Carpenter prongs' (new category of info; generated without meaningful voluntary choice; reveals the privacies of life) a holding the Court enumerated?",
+    "back": "No. The three prongs are the instructor's interpretive close-reading gloss, NOT a test the Court enumerated. Only the phrase 'the privacies of life' is the Court's own. Never present the prongs as a holding.",
+    "tags": ["third-party-doctrine-digital-surveillance", "carpenter", "pitfall", "instructor-framing"],
+    "cite": "Carpenter v. United States, 585 U.S. 296 (2018)",
+    "source": "https://www.courtlistener.com/opinion/4510032/carpenter-v-united-states/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-carpenter-prong1-14",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "As an interpretive gloss (not a holding), what is the first 'prong' the instructor uses to summarize Carpenter?",
+    "back": "A new category of information arising from the digital age — instructor framing, not language the Court enumerated.",
+    "tags": ["third-party-doctrine-digital-surveillance", "carpenter", "instructor-framing"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-carpenter-prong2-15",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "As an interpretive gloss (not a holding), what is the second 'prong' the instructor uses to summarize Carpenter?",
+    "back": "Information generated without meaningful voluntary choice — instructor framing, not language the Court enumerated.",
+    "tags": ["third-party-doctrine-digital-surveillance", "carpenter", "instructor-framing"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-carpenter-prong3-16",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "As an interpretive gloss (not a holding), what is the third 'prong' the instructor uses to summarize Carpenter — and which part is actually the Court's words?",
+    "back": "Information that reveals 'the privacies of life.' Only the phrase 'the privacies of life' is the Court's own language; the three-prong framing itself is interpretive gloss.",
+    "tags": ["third-party-doctrine-digital-surveillance", "carpenter", "instructor-framing", "quote"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-kyllo-holding-17",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "In Kyllo v. United States, what did the Court hold about thermal imaging of a home?",
+    "back": "Using a thermal imager (sense-enhancing technology not in general public use) to detect interior details that would otherwise require physical intrusion is a search, presumptively unreasonable without a warrant.",
+    "tags": ["third-party-doctrine-digital-surveillance", "kyllo", "holding", "sense-enhancing-tech"],
+    "cite": "Kyllo v. United States, 533 U.S. 27 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118443/kyllo-v-united-states/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-kyllo-quote-18",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "cloze",
+    "front": "Kyllo: 'Where, as here, the Government uses a device that is ___, to explore details of the home that would previously have been unknowable without physical intrusion, the surveillance is a \"search\"...'",
+    "back": "not in general public use",
+    "tags": ["third-party-doctrine-digital-surveillance", "kyllo", "quote", "sense-enhancing-tech"],
+    "cite": "Kyllo v. United States, 533 U.S. 27, 40 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118443/kyllo-v-united-states/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-kyllo-line-19",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "What separate line does Kyllo draw for surveillance technology?",
+    "back": "Sense-enhancing technology 'not in general public use' used to expose the interior of a home is a search.",
+    "tags": ["third-party-doctrine-digital-surveillance", "kyllo", "rule", "sense-enhancing-tech"],
+    "cite": "Kyllo v. United States, 533 U.S. 27 (2001)",
+    "source": "https://www.courtlistener.com/opinion/118443/kyllo-v-united-states/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-newtech-unsettled-20",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "What is the status of applying Carpenter to newer surveillance tech (pole cameras, license-plate readers, drones)?",
+    "back": "Unsettled — there is no settled federal rule; lower courts divide. It is the open frontier of the doctrine.",
+    "tags": ["third-party-doctrine-digital-surveillance", "new-tech", "unsettled", "split"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-mosaic-dividing-line-21",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "What is the scale/mosaic dividing line for evaluating new surveillance tech under Carpenter?",
+    "back": "A few fixed cameras capturing public movement tend to stay on the Smith/Knotts (not-a-search) side; comprehensive, city-wide, persistent tracking pulls toward Carpenter (warrant required).",
+    "tags": ["third-party-doctrine-digital-surveillance", "mosaic", "scale", "new-tech"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-hay-holding-22",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "In United States v. Hay (10th Cir. 2024), what did the court hold about ~2 months of pole-camera surveillance of a home's public-view exterior?",
+    "back": "It was not a search — the camera captured only what was visible to passersby from a public vantage, and the court held Carpenter did not abrogate its prior pole-camera precedent.",
+    "tags": ["third-party-doctrine-digital-surveillance", "hay", "holding", "pole-camera"],
+    "cite": "United States v. Hay, 95 F.4th 1304 (10th Cir. 2024)",
+    "source": "https://www.courtlistener.com/opinion/9485331/united-states-v-hay/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-hay-weight-23",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "How should United States v. Hay's pole-camera ruling be treated as authority?",
+    "back": "As one circuit's persuasive view, not a settled federal rule — pole-camera law is split and unsettled; circuits and state high courts divide on whether long-term pole-camera surveillance of a home is a search.",
+    "tags": ["third-party-doctrine-digital-surveillance", "hay", "split", "pole-camera", "persuasive"],
+    "cite": "United States v. Hay, 95 F.4th 1304 (10th Cir. 2024)",
+    "source": "https://www.courtlistener.com/opinion/9485331/united-states-v-hay/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-porter-holding-24",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "In United States v. Porter (5th Cir. Mar. 17, 2026), what did the court hold about use of an automatic license-plate reader (ALPR)?",
+    "back": "Use of an ALPR for vehicle-location data was not a search, and the ALPR hit supplied reasonable suspicion for the stop. (Circuit — persuasive.)",
+    "tags": ["third-party-doctrine-digital-surveillance", "porter", "holding", "alpr"],
+    "cite": "United States v. Porter, No. 25-60163 (5th Cir. Mar. 17, 2026)",
+    "source": "https://www.courtlistener.com/opinion/10810059/united-states-v-porter/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-porter-cite-pitfall-25",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "How must United States v. Porter (the ALPR case) be cited, and what cite must you avoid?",
+    "back": "Cite by docket: No. 25-60163 (5th Cir. Mar. 17, 2026). It is too recent for a confirmed F.4th reporter cite — never assert a reporter cite for it.",
+    "tags": ["third-party-doctrine-digital-surveillance", "porter", "pitfall", "cite"],
+    "cite": "United States v. Porter, No. 25-60163 (5th Cir. Mar. 17, 2026)",
+    "source": "https://www.courtlistener.com/opinion/10810059/united-states-v-porter/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-robinson-holding-26",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "In Robinson v. Commonwealth (Va. Ct. App. Apr. 7, 2026) (state — illustrative, non-binding), what did the court hold about a Flock ALPR camera network?",
+    "back": "A 172-camera Flock ALPR network was not a search — no REP in a vehicle's public movements, and it was not the 'near perfect surveillance' that triggered a warrant in Carpenter. (State — illustrative, non-binding.)",
+    "tags": ["third-party-doctrine-digital-surveillance", "robinson", "holding", "alpr", "state-illustrative"],
+    "cite": "Robinson v. Commonwealth (Va. Ct. App. Apr. 7, 2026)",
+    "source": "https://www.courtlistener.com/opinion/10838748/eddie-eugene-robinson-v-commonwealth-of-virginia/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-robinson-cite-pitfall-27",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "How must Robinson v. Commonwealth (the Flock ALPR case) be cited and weighted?",
+    "back": "Cite by court and date only — Va. Ct. App., Apr. 7, 2026 — as state, illustrative, non-binding. It is too recent for a confirmed S.E.2d reporter cite; never assert a reporter cite or a 2024 date for it.",
+    "tags": ["third-party-doctrine-digital-surveillance", "robinson", "pitfall", "cite", "state-illustrative"],
+    "cite": "Robinson v. Commonwealth (Va. Ct. App. Apr. 7, 2026)",
+    "source": "https://www.courtlistener.com/opinion/10838748/eddie-eugene-robinson-v-commonwealth-of-virginia/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-lobs-holding-28",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "In Leaders of a Beautiful Struggle v. Baltimore Police Dep't (4th Cir. 2021, en banc), what did the court hold about a city-wide aerial wide-area surveillance program?",
+    "back": "The program tracking everyone's public movements required a warrant under Carpenter — the scale/mosaic counterpoint to the ALPR cases.",
+    "tags": ["third-party-doctrine-digital-surveillance", "leaders-of-a-beautiful-struggle", "holding", "mosaic", "aerial"],
+    "cite": "Leaders of a Beautiful Struggle v. Baltimore Police Dep't, 2 F.4th 330 (4th Cir. 2021) (en banc)"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-alpr-vs-aerial-29",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Contrast the ALPR cases (Porter, Robinson) with Leaders of a Beautiful Struggle on the scale/mosaic line.",
+    "back": "The ALPR cases (limited camera capture of public movement) found no search; Leaders of a Beautiful Struggle (comprehensive city-wide aerial tracking) required a warrant — scale/persistence is the dividing line.",
+    "tags": ["third-party-doctrine-digital-surveillance", "distinction", "mosaic", "alpr", "aerial"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-drones-no-scotus-30",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Is there a Supreme Court case directly governing police drone surveillance?",
+    "back": "No — there is no SCOTUS drone decision. Drone law is emerging, jurisdiction-dependent, and unsettled.",
+    "tags": ["third-party-doctrine-digital-surveillance", "drones", "unsettled", "new-tech"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-drones-analogues-31",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Which SCOTUS aerial-surveillance cases are the analogues for drones — and why might they not fit?",
+    "back": "The manned-aircraft lineage — Ciraolo, Riley, and Dow Chemical — is the bridge, but drones may not fit: they fly below navigable airspace, can hover/persist/zoom, and are cheap and pervasive, pulling toward Kyllo and Carpenter.",
+    "tags": ["third-party-doctrine-digital-surveillance", "drones", "ciraolo", "riley", "dow", "unsettled"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-ciraolo-holding-32",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "In California v. Ciraolo, what did the Court hold about naked-eye aerial observation of a fenced backyard from ~1,000 ft?",
+    "back": "It is not a search — the curtilage was knowingly exposed to any aircraft lawfully in public navigable airspace.",
+    "tags": ["third-party-doctrine-digital-surveillance", "ciraolo", "holding", "aerial"],
+    "cite": "California v. Ciraolo, 476 U.S. 207 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111666/california-v-ciraolo/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-riley-holding-33",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "In Florida v. Riley, what did the plurality hold about naked-eye helicopter observation into curtilage at 400 ft?",
+    "back": "It was not a search (plurality), where the aircraft was in lawful, non-rare public airspace — the closest SCOTUS analogue for low-altitude drones.",
+    "tags": ["third-party-doctrine-digital-surveillance", "riley", "holding", "aerial", "drones"],
+    "cite": "Florida v. Riley, 488 U.S. 445 (1989)",
+    "source": "https://www.courtlistener.com/opinion/112175/florida-v-riley/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-dow-holding-34",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "In Dow Chemical Co. v. United States, what did the Court hold about EPA aerial photography of an industrial complex with a commonly available camera?",
+    "back": "It was not a search; sense-enhancement by widely available technology over open commercial areas did not cross the line — the contrast to Kyllo's 'not in general public use.'",
+    "tags": ["third-party-doctrine-digital-surveillance", "dow", "holding", "aerial", "general-public-use"],
+    "cite": "Dow Chemical Co. v. United States, 476 U.S. 227 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111667/dow-chemical-co-v-united-states-ex-rel-administrator/"
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-kyllo-vs-dow-35",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Distinguish Kyllo from Dow Chemical on the surveillance-technology line.",
+    "back": "Kyllo: tech 'not in general public use' exposing a home's interior is a search. Dow Chemical: a commonly available aerial camera over commercial premises is not a search.",
+    "tags": ["third-party-doctrine-digital-surveillance", "distinction", "kyllo", "dow", "general-public-use"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-pitfall-overread-36",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "What is the pitfall of over-reading Carpenter?",
+    "back": "Treating it as a general repeal of the third-party doctrine. It is narrow — Smith and Miller remain good law, and it does not disturb conventional surveillance or ordinary business records.",
+    "tags": ["third-party-doctrine-digital-surveillance", "carpenter", "pitfall", "narrow"]
+  },
+  {
+    "id": "third-party-doctrine-digital-surveillance-pitfall-ciraolo-drones-37",
+    "page": "third-party-doctrine-digital-surveillance",
+    "topic": "The Third-Party Doctrine and Digital Surveillance",
+    "type": "qa",
+    "front": "Why is it a pitfall to treat Ciraolo/Riley as settled drone law?",
+    "back": "They predate drones and Carpenter; low, persistent, zoom-capable drones may not fit them cleanly. Drone law remains emerging and unsettled.",
+    "tags": ["third-party-doctrine-digital-surveillance", "pitfall", "drones", "ciraolo", "riley", "unsettled"]
+  }
+]

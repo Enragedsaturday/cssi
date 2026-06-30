@@ -6,7 +6,11 @@
     "type": "qa",
     "front": "After Miranda warnings are given, what two responses can a suspect make, and what is the standard for a valid waiver?",
     "back": "He may waive his rights (the waiver must be knowing, intelligent, and voluntary, and may be express or inferred from conduct) or he may invoke them.",
-    "tags": ["miranda-waiver-invocation", "waiver", "core-rule"]
+    "tags": [
+      "miranda-waiver-invocation",
+      "waiver",
+      "core-rule"
+    ]
   },
   {
     "id": "miranda-waiver-invocation-two-tracks-02",
@@ -15,7 +19,13 @@
     "type": "qa",
     "front": "Invocation under Miranda runs on two distinct tracks with different rules. What are the two standards depending on which right is invoked?",
     "back": "Invoking COUNSEL triggers the Edwards bright-line bar on police-initiated re-questioning; invoking SILENCE only requires that police \"scrupulously honor\" the invocation.",
-    "tags": ["miranda-waiver-invocation", "two-tracks", "distinction", "edwards", "mosley"]
+    "tags": [
+      "miranda-waiver-invocation",
+      "two-tracks",
+      "distinction",
+      "edwards",
+      "mosley"
+    ]
   },
   {
     "id": "miranda-waiver-invocation-butler-holding-03",
@@ -24,7 +34,11 @@
     "type": "qa",
     "front": "What did the Supreme Court hold about Miranda waiver in North Carolina v. Butler (1979)?",
     "back": "A waiver need not be express; it may be inferred from the suspect's words and conduct. But silence alone is never enough, and the burden of proving waiver stays on the government.",
-    "tags": ["miranda-waiver-invocation", "butler", "implied-waiver"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "butler",
+      "implied-waiver"
+    ],
     "cite": "North Carolina v. Butler, 441 U.S. 369 (1979)",
     "source": "https://www.courtlistener.com/opinion/110065/north-carolina-v-butler/"
   },
@@ -35,7 +49,11 @@
     "type": "cloze",
     "front": "Under North Carolina v. Butler, a valid Miranda waiver may be {{c1::inferred from the suspect's words and conduct}}, but {{c2::silence alone}} is never enough.",
     "back": "inferred from the suspect's words and conduct / silence alone",
-    "tags": ["miranda-waiver-invocation", "butler", "implied-waiver"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "butler",
+      "implied-waiver"
+    ],
     "cite": "North Carolina v. Butler, 441 U.S. 369 (1979)",
     "source": "https://www.courtlistener.com/opinion/110065/north-carolina-v-butler/"
   },
@@ -46,7 +64,11 @@
     "type": "qa",
     "front": "Under North Carolina v. Butler, who bears the burden of proving a Miranda waiver?",
     "back": "The government bears the burden of proving the suspect waived his rights; it cannot be presumed from silence.",
-    "tags": ["miranda-waiver-invocation", "butler", "burden"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "butler",
+      "burden"
+    ],
     "cite": "North Carolina v. Butler, 441 U.S. 369 (1979)",
     "source": "https://www.courtlistener.com/opinion/110065/north-carolina-v-butler/"
   },
@@ -57,7 +79,12 @@
     "type": "qa",
     "front": "What bright-line rule does Edwards v. Arizona (1981) establish once a suspect invokes the right to counsel?",
     "back": "Police may not re-initiate interrogation until counsel has been made available, unless the accused himself initiates further communication.",
-    "tags": ["miranda-waiver-invocation", "edwards", "counsel", "bright-line"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "edwards",
+      "counsel",
+      "bright-line"
+    ],
     "cite": "Edwards v. Arizona, 451 U.S. 477 (1981)",
     "source": "https://www.courtlistener.com/opinion/110475/edwards-v-arizona/"
   },
@@ -68,7 +95,12 @@
     "type": "qa",
     "front": "Quote the Edwards v. Arizona rule on re-interrogation after an accused has invoked counsel.",
     "back": "\"[A]n accused ... having expressed his desire to deal with the police only through counsel, is not subject to further interrogation by the authorities until counsel has been made available to him, unless the accused himself initiates further communication, exchanges, or conversations with the police.\"",
-    "tags": ["miranda-waiver-invocation", "edwards", "counsel", "quote"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "edwards",
+      "counsel",
+      "quote"
+    ],
     "cite": "Edwards v. Arizona, 451 U.S. 477, 484-485 (1981)",
     "source": "https://www.courtlistener.com/opinion/110475/edwards-v-arizona/"
   },
@@ -79,7 +111,12 @@
     "type": "qa",
     "front": "Under Edwards v. Arizona, what is the one circumstance in which interrogation may resume after counsel has been invoked but before counsel is made available?",
     "back": "When the accused himself initiates further communication, exchanges, or conversations with the police.",
-    "tags": ["miranda-waiver-invocation", "edwards", "counsel", "initiation"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "edwards",
+      "counsel",
+      "initiation"
+    ],
     "cite": "Edwards v. Arizona, 451 U.S. 477 (1981)",
     "source": "https://www.courtlistener.com/opinion/110475/edwards-v-arizona/"
   },
@@ -90,7 +127,12 @@
     "type": "qa",
     "front": "What standard governs the admissibility of later statements after a suspect invokes the right to SILENCE, under Michigan v. Mosley (1975)?",
     "back": "Later statements are admissible if the police \"scrupulously honored\" the invocation of silence.",
-    "tags": ["miranda-waiver-invocation", "mosley", "silence", "scrupulously-honored"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "mosley",
+      "silence",
+      "scrupulously-honored"
+    ],
     "cite": "Michigan v. Mosley, 423 U.S. 96 (1975)",
     "source": "https://www.courtlistener.com/opinion/109336/michigan-v-mosley/"
   },
@@ -101,7 +143,12 @@
     "type": "qa",
     "front": "In Michigan v. Mosley, what facts showed the police had \"scrupulously honored\" the suspect's invocation of silence?",
     "back": "Questioning ceased, time passed, fresh Miranda warnings were given, and the second interrogation concerned a different crime.",
-    "tags": ["miranda-waiver-invocation", "mosley", "silence", "scrupulously-honored"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "mosley",
+      "silence",
+      "scrupulously-honored"
+    ],
     "cite": "Michigan v. Mosley, 423 U.S. 96 (1975)",
     "source": "https://www.courtlistener.com/opinion/109336/michigan-v-mosley/"
   },
@@ -112,7 +159,13 @@
     "type": "qa",
     "front": "What did Berghuis v. Thompkins (2010) hold about how the right to silence must be invoked?",
     "back": "Silence alone does not invoke the right; the right to remain silent must be invoked unambiguously. A suspect who answers a question after a long silence has impliedly waived the right.",
-    "tags": ["miranda-waiver-invocation", "thompkins", "silence", "unambiguous", "implied-waiver"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "thompkins",
+      "silence",
+      "unambiguous",
+      "implied-waiver"
+    ],
     "cite": "Berghuis v. Thompkins, 560 U.S. 370 (2010)",
     "source": "https://www.courtlistener.com/opinion/147529/berghuis-v-thompkins/"
   },
@@ -123,7 +176,12 @@
     "type": "qa",
     "front": "Under Berghuis v. Thompkins, what is the effect of a suspect staying largely silent through a long interrogation and then answering a question?",
     "back": "He has impliedly waived his right to remain silent; staying quiet neither invokes the right nor blocks a finding of waiver.",
-    "tags": ["miranda-waiver-invocation", "thompkins", "silence", "implied-waiver"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "thompkins",
+      "silence",
+      "implied-waiver"
+    ],
     "cite": "Berghuis v. Thompkins, 560 U.S. 370 (2010)",
     "source": "https://www.courtlistener.com/opinion/147529/berghuis-v-thompkins/"
   },
@@ -134,7 +192,12 @@
     "type": "qa",
     "front": "What did Arizona v. Roberson (1988) hold about the scope of the Edwards bar across different offenses?",
     "back": "The Edwards bar is NOT offense-specific — once counsel is invoked, police may not interrogate about any offense, including an unrelated one, and a second officer's ignorance of the invocation is no excuse.",
-    "tags": ["miranda-waiver-invocation", "roberson", "edwards", "not-offense-specific"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "roberson",
+      "edwards",
+      "not-offense-specific"
+    ],
     "cite": "Arizona v. Roberson, 486 U.S. 675 (1988)",
     "source": "https://www.courtlistener.com/opinion/112100/arizona-v-roberson/"
   },
@@ -145,7 +208,12 @@
     "type": "qa",
     "front": "Under Arizona v. Roberson, can a second, unaware officer bypass the Edwards bar by questioning a suspect who already invoked counsel?",
     "back": "No — a second officer's ignorance of the prior invocation is no excuse; the Edwards bar still applies.",
-    "tags": ["miranda-waiver-invocation", "roberson", "edwards", "second-officer"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "roberson",
+      "edwards",
+      "second-officer"
+    ],
     "cite": "Arizona v. Roberson, 486 U.S. 675 (1988)",
     "source": "https://www.courtlistener.com/opinion/112100/arizona-v-roberson/"
   },
@@ -156,7 +224,13 @@
     "type": "qa",
     "front": "How does the Fifth Amendment Edwards bar (Arizona v. Roberson) differ from the Sixth Amendment right to counsel on offense-specificity?",
     "back": "The Edwards/Fifth Amendment bar is NOT offense-specific — it blocks questioning on any offense. The Sixth Amendment right to counsel IS offense-specific.",
-    "tags": ["miranda-waiver-invocation", "roberson", "edwards", "sixth-amendment", "distinction"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "roberson",
+      "edwards",
+      "sixth-amendment",
+      "distinction"
+    ],
     "cite": "Arizona v. Roberson, 486 U.S. 675 (1988)",
     "source": "https://www.courtlistener.com/opinion/112100/arizona-v-roberson/"
   },
@@ -167,7 +241,12 @@
     "type": "qa",
     "front": "What did Minnick v. Mississippi (1990) hold about whether prior consultation with a lawyer satisfies Edwards?",
     "back": "Edwards is not satisfied merely because the suspect already consulted a lawyer; counsel must be PRESENT for police-initiated re-questioning.",
-    "tags": ["miranda-waiver-invocation", "minnick", "edwards", "counsel-present"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "minnick",
+      "edwards",
+      "counsel-present"
+    ],
     "cite": "Minnick v. Mississippi, 498 U.S. 146 (1990)",
     "source": "https://www.courtlistener.com/opinion/112513/minnick-v-mississippi/"
   },
@@ -178,7 +257,12 @@
     "type": "cloze",
     "front": "Under Minnick v. Mississippi, the Edwards bar is not lifted merely because the suspect consulted a lawyer; counsel must be {{c1::present}} for police-initiated re-questioning.",
     "back": "present",
-    "tags": ["miranda-waiver-invocation", "minnick", "edwards", "counsel-present"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "minnick",
+      "edwards",
+      "counsel-present"
+    ],
     "cite": "Minnick v. Mississippi, 498 U.S. 146 (1990)",
     "source": "https://www.courtlistener.com/opinion/112513/minnick-v-mississippi/"
   },
@@ -189,7 +273,12 @@
     "type": "qa",
     "front": "What did Maryland v. Shatzer (2010) hold ends Edwards protection?",
     "back": "A 14-day break in Miranda custody ends Edwards protection; after that, police may re-approach and seek a fresh waiver.",
-    "tags": ["miranda-waiver-invocation", "shatzer", "edwards", "14-day-break"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "shatzer",
+      "edwards",
+      "14-day-break"
+    ],
     "cite": "Maryland v. Shatzer, 559 U.S. 98 (2010)",
     "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
   },
@@ -200,7 +289,12 @@
     "type": "qa",
     "front": "Under Maryland v. Shatzer, does releasing a suspect back into the general prison population count as a break in Miranda custody?",
     "back": "Yes — release back into the general prison population is itself a break in custody, and a 14-day break ends Edwards protection.",
-    "tags": ["miranda-waiver-invocation", "shatzer", "edwards", "prison-population"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "shatzer",
+      "edwards",
+      "prison-population"
+    ],
     "cite": "Maryland v. Shatzer, 559 U.S. 98 (2010)",
     "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
   },
@@ -211,7 +305,12 @@
     "type": "cloze",
     "front": "Under Maryland v. Shatzer, a {{c1::14-day}} break in Miranda custody ends Edwards protection.",
     "back": "14-day",
-    "tags": ["miranda-waiver-invocation", "shatzer", "edwards", "14-day-break"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "shatzer",
+      "edwards",
+      "14-day-break"
+    ],
     "cite": "Maryland v. Shatzer, 559 U.S. 98 (2010)",
     "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
   },
@@ -222,7 +321,12 @@
     "type": "qa",
     "front": "What did Davis v. United States (1994) hold about an ambiguous reference to counsel?",
     "back": "Invocation of counsel must be unambiguous; an equivocal reference (\"maybe I should talk to a lawyer\") does not require police to stop questioning, and they need not even ask clarifying questions.",
-    "tags": ["miranda-waiver-invocation", "davis", "counsel", "unambiguous"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "davis",
+      "counsel",
+      "unambiguous"
+    ],
     "cite": "Davis v. United States, 512 U.S. 452 (1994)",
     "source": "https://www.courtlistener.com/opinion/117863/davis-v-united-states/"
   },
@@ -233,7 +337,12 @@
     "type": "qa",
     "front": "Quote the Davis v. United States rule on what an officer must do when a suspect makes an ambiguous reference to an attorney.",
     "back": "\"[I]f a suspect makes a reference to an attorney that is ambiguous or equivocal in that a reasonable officer in light of the circumstances would have understood only that the suspect might be invoking the right to counsel, our precedents do not require the cessation of questioning.\"",
-    "tags": ["miranda-waiver-invocation", "davis", "counsel", "quote"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "davis",
+      "counsel",
+      "quote"
+    ],
     "cite": "Davis v. United States, 512 U.S. 452, 459 (1994)",
     "source": "https://www.courtlistener.com/opinion/117863/davis-v-united-states/"
   },
@@ -244,7 +353,12 @@
     "type": "qa",
     "front": "Under Davis v. United States, are officers required to ask clarifying questions after an ambiguous reference to a lawyer?",
     "back": "No — officers are not required to ask clarifying questions (though doing so is good practice); they may keep questioning.",
-    "tags": ["miranda-waiver-invocation", "davis", "counsel", "clarifying-questions"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "davis",
+      "counsel",
+      "clarifying-questions"
+    ],
     "cite": "Davis v. United States, 512 U.S. 452 (1994)",
     "source": "https://www.courtlistener.com/opinion/117863/davis-v-united-states/"
   },
@@ -255,7 +369,12 @@
     "type": "qa",
     "front": "What did Oregon v. Elstad (1985) hold about a confession that follows an earlier un-warned statement?",
     "back": "An earlier un-warned but voluntary statement does not automatically taint a later confession; if the suspect is then properly Mirandized and waives, the second, warned statement is admissible.",
-    "tags": ["miranda-waiver-invocation", "elstad", "miranda-fruits", "voluntary"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "elstad",
+      "miranda-fruits",
+      "voluntary"
+    ],
     "cite": "Oregon v. Elstad, 470 U.S. 298 (1985)",
     "source": "https://www.courtlistener.com/opinion/111364/oregon-v-elstad/"
   },
@@ -266,7 +385,12 @@
     "type": "qa",
     "front": "Oregon v. Elstad's safe harbor depends on what quality of the earlier un-warned statement?",
     "back": "The earlier statement must have been voluntary in the due-process sense; actual coercion is a separate problem that the Elstad safe harbor does not cover.",
-    "tags": ["miranda-waiver-invocation", "elstad", "miranda-fruits", "voluntary"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "elstad",
+      "miranda-fruits",
+      "voluntary"
+    ],
     "cite": "Oregon v. Elstad, 470 U.S. 298 (1985)",
     "source": "https://www.courtlistener.com/opinion/111364/oregon-v-elstad/"
   },
@@ -277,7 +401,12 @@
     "type": "qa",
     "front": "What did United States v. Patane (2004) hold about physical evidence derived from an un-warned statement?",
     "back": "Physical fruits of an un-warned but voluntary statement are admissible.",
-    "tags": ["miranda-waiver-invocation", "patane", "miranda-fruits", "physical-evidence"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "patane",
+      "miranda-fruits",
+      "physical-evidence"
+    ],
     "cite": "United States v. Patane, 542 U.S. 630 (2004)",
     "source": "https://www.courtlistener.com/opinion/137003/united-states-v-patane/"
   },
@@ -288,7 +417,12 @@
     "type": "qa",
     "front": "Which Supreme Court case holds that the physical fruits of an un-warned but voluntary statement are admissible?",
     "back": "United States v. Patane (2004).",
-    "tags": ["miranda-waiver-invocation", "patane", "miranda-fruits", "name-that-case"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "patane",
+      "miranda-fruits",
+      "name-that-case"
+    ],
     "cite": "United States v. Patane, 542 U.S. 630 (2004)",
     "source": "https://www.courtlistener.com/opinion/137003/united-states-v-patane/"
   },
@@ -299,7 +433,12 @@
     "type": "qa",
     "front": "What did Missouri v. Seibert (2004) hold about the deliberate \"question-first, warn-later\" interrogation technique?",
     "back": "A deliberate \"question-first, warn-later\" two-step interrogation, designed to circumvent Miranda, is invalid; Elstad's safe harbor does not cover such bad-faith end-runs.",
-    "tags": ["miranda-waiver-invocation", "seibert", "two-step", "deliberate"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "seibert",
+      "two-step",
+      "deliberate"
+    ],
     "cite": "Missouri v. Seibert, 542 U.S. 600 (2004)",
     "source": "https://www.courtlistener.com/opinion/137002/missouri-v-seibert/"
   },
@@ -310,7 +449,13 @@
     "type": "qa",
     "front": "Distinguish Oregon v. Elstad from Missouri v. Seibert on the two-step interrogation.",
     "back": "Elstad gives a safe harbor where an earlier un-warned but voluntary statement does not taint a later warned confession; Seibert removes that safe harbor when the two-step was a DELIBERATE strategy to circumvent Miranda.",
-    "tags": ["miranda-waiver-invocation", "elstad", "seibert", "distinction", "two-step"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "elstad",
+      "seibert",
+      "distinction",
+      "two-step"
+    ],
     "cite": "Missouri v. Seibert, 542 U.S. 600 (2004)",
     "source": "https://www.courtlistener.com/opinion/137002/missouri-v-seibert/"
   },
@@ -321,7 +466,12 @@
     "type": "qa",
     "front": "What did Moran v. Burbine (1986) hold about a waiver when police concealed that an attorney was trying to reach the suspect?",
     "back": "The waiver is valid; events outside the suspect's knowledge do not bear on whether HE made a knowing, intelligent, and voluntary choice to waive.",
-    "tags": ["miranda-waiver-invocation", "burbine", "waiver", "police-candor"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "burbine",
+      "waiver",
+      "police-candor"
+    ],
     "cite": "Moran v. Burbine, 475 U.S. 412 (1986)",
     "source": "https://www.courtlistener.com/opinion/111614/moran-v-burbine/"
   },
@@ -332,7 +482,12 @@
     "type": "qa",
     "front": "What principle about Miranda waiver does Moran v. Burbine illustrate — what does waiver test?",
     "back": "Waiver tests the suspect's own knowledge, not the police's candor; events outside his awareness do not undermine his knowing, intelligent, and voluntary choice.",
-    "tags": ["miranda-waiver-invocation", "burbine", "waiver", "significance"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "burbine",
+      "waiver",
+      "significance"
+    ],
     "cite": "Moran v. Burbine, 475 U.S. 412 (1986)",
     "source": "https://www.courtlistener.com/opinion/111614/moran-v-burbine/"
   },
@@ -343,7 +498,12 @@
     "type": "qa",
     "front": "Common pitfall: an officer treats a suspect's mere silence as an invocation of the right to remain silent. Why is this wrong (per Berghuis v. Thompkins)?",
     "back": "Merely staying quiet neither invokes the right to silence nor blocks waiver; to stop questioning, the suspect must invoke unambiguously.",
-    "tags": ["miranda-waiver-invocation", "thompkins", "pitfall", "silence"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "thompkins",
+      "pitfall",
+      "silence"
+    ],
     "cite": "Berghuis v. Thompkins, 560 U.S. 370 (2010)",
     "source": "https://www.courtlistener.com/opinion/147529/berghuis-v-thompkins/"
   },
@@ -354,7 +514,12 @@
     "type": "qa",
     "front": "Common pitfall: an officer treats an ambiguous lawyer reference as an invocation and stops questioning. Why is that not required (per Davis v. United States)?",
     "back": "An ambiguous or equivocal reference does not invoke counsel; invocation must be unambiguous, so officers may keep questioning and need not stop or even clarify.",
-    "tags": ["miranda-waiver-invocation", "davis", "pitfall", "counsel"],
+    "tags": [
+      "miranda-waiver-invocation",
+      "davis",
+      "pitfall",
+      "counsel"
+    ],
     "cite": "Davis v. United States, 512 U.S. 452 (1994)",
     "source": "https://www.courtlistener.com/opinion/117863/davis-v-united-states/"
   },
@@ -365,7 +530,12 @@
     "type": "qa",
     "front": "Common pitfall: officers treat invoking silence and invoking counsel identically. What is the consequence?",
     "back": "They either over- or under-protect the suspect — invoking silence allows re-questioning if scrupulously honored (Mosley), while invoking counsel triggers the rigid, offense-blind Edwards bar.",
-    "tags": ["miranda-waiver-invocation", "pitfall", "two-tracks", "distinction"]
+    "tags": [
+      "miranda-waiver-invocation",
+      "pitfall",
+      "two-tracks",
+      "distinction"
+    ]
   },
   {
     "id": "miranda-waiver-invocation-fruit-scope-35",
@@ -374,6 +544,207 @@
     "type": "qa",
     "front": "Where does Fourth Amendment fruit-of-the-poisonous-tree analysis live, as distinguished from Miranda-statement fruits (Elstad/Patane/Seibert)?",
     "back": "Fourth Amendment fruit-of-the-poisonous-tree analysis is governed separately on The Exclusionary Rule; this page covers Miranda-statement fruits.",
-    "tags": ["miranda-waiver-invocation", "miranda-fruits", "exclusionary-rule", "scope"]
+    "tags": [
+      "miranda-waiver-invocation",
+      "miranda-fruits",
+      "exclusionary-rule",
+      "scope"
+    ]
+  },
+  {
+    "id": "miranda-waiver-invocation-shatzer-misread-36",
+    "page": "miranda-waiver-invocation",
+    "topic": "Miranda Waiver and Invocation",
+    "type": "qa",
+    "front": "What does Maryland v. Shatzer's clock actually require — and what is the most common misreading of it?",
+    "back": "It requires a break in Miranda custody PLUS 14 days — not merely 14 days of waiting while the suspect stays in custody. The common misreading treats Shatzer as a 14-day waiting period that lets police re-approach a still-jailed, counsel-invoking suspect.",
+    "tags": [
+      "miranda-waiver-invocation",
+      "shatzer",
+      "edwards",
+      "break-in-custody",
+      "pitfall"
+    ],
+    "cite": "Maryland v. Shatzer, 559 U.S. 98 (2010)",
+    "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
+  },
+  {
+    "id": "miranda-waiver-invocation-shatzer-continuous-custody-37",
+    "page": "miranda-waiver-invocation",
+    "topic": "Miranda Waiver and Invocation",
+    "type": "qa",
+    "front": "Under Maryland v. Shatzer, does continuous pretrial detention give a suspect a break in Miranda custody?",
+    "back": "No — continuous pretrial detention is NOT a Shatzer break, because the coercive Miranda-custody pressure never lets up; Edwards still bars police-initiated re-questioning no matter how much time passes.",
+    "tags": [
+      "miranda-waiver-invocation",
+      "shatzer",
+      "edwards",
+      "break-in-custody",
+      "continuous-detention"
+    ],
+    "cite": "Maryland v. Shatzer, 559 U.S. 98 (2010)",
+    "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
+  },
+  {
+    "id": "miranda-waiver-invocation-shatzer-why-14-days-38",
+    "page": "miranda-waiver-invocation",
+    "topic": "Miranda Waiver and Invocation",
+    "type": "qa",
+    "front": "Why did Maryland v. Shatzer fix the break-in-custody period at 14 days?",
+    "back": "Because that span gives the suspect time \"to get reacclimated to his normal life, to consult with friends and counsel, and to shake off any residual coercive effects of his prior custody.\"",
+    "tags": [
+      "miranda-waiver-invocation",
+      "shatzer",
+      "edwards",
+      "quote",
+      "14-day-break"
+    ],
+    "cite": "Maryland v. Shatzer, 559 U.S. 98, 110-11 (2010)",
+    "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
+  },
+  {
+    "id": "miranda-waiver-invocation-shatzer-pitfall-waiting-39",
+    "page": "miranda-waiver-invocation",
+    "topic": "Miranda Waiver and Invocation",
+    "type": "qa",
+    "front": "Common pitfall: officers re-approach a jailed suspect who invoked counsel just because 14 days have passed. What does Maryland v. Shatzer actually require to lift the Edwards bar in custody?",
+    "back": "A genuine break in Miranda custody — e.g., release to the general prison population — and only then the 14 days. A suspect in continuous jail custody never gets that break, so the bar is not lifted.",
+    "tags": [
+      "miranda-waiver-invocation",
+      "shatzer",
+      "edwards",
+      "pitfall",
+      "break-in-custody"
+    ],
+    "cite": "Maryland v. Shatzer, 559 U.S. 98 (2010)",
+    "source": "https://www.courtlistener.com/opinion/1734/maryland-v-shatzer/"
+  },
+  {
+    "id": "miranda-waiver-invocation-wint-holding-40",
+    "page": "miranda-waiver-invocation",
+    "topic": "Miranda Waiver and Invocation",
+    "type": "qa",
+    "front": "How did the New Jersey Supreme Court in State v. Wint (2018) — a non-binding, illustrative state decision — apply the Shatzer break-in-custody rule to continuous pretrial detention?",
+    "back": "It held that continuous pre-indictment pretrial detention is NOT a Shatzer break in custody, so a suspect held ~6 months after invoking counsel could not be reinterrogated; the result illustrates (it does not bind) the federal Shatzer/Edwards rule.",
+    "tags": [
+      "miranda-waiver-invocation",
+      "wint",
+      "shatzer",
+      "edwards",
+      "state-illustrative",
+      "non-binding"
+    ],
+    "cite": "State v. Wint, 236 N.J. 174, 198 A.3d 963 (2018)",
+    "source": "https://www.courtlistener.com/opinion/8267547/state-v-wint/"
+  },
+  {
+    "id": "miranda-waiver-invocation-wint-facts-41",
+    "page": "miranda-waiver-invocation",
+    "topic": "Miranda Waiver and Invocation",
+    "type": "qa",
+    "front": "Which non-binding state decision held that a defendant kept in ~6 months of continuous pre-indictment detention after invoking counsel got no Shatzer break, so out-of-state detectives' interrogation on an unrelated murder violated Edwards despite repeated fresh warnings?",
+    "back": "State v. Wint (N.J. 2018) — a New Jersey Supreme Court decision, persuasive/illustrative only, not binding federal authority.",
+    "tags": [
+      "miranda-waiver-invocation",
+      "wint",
+      "shatzer",
+      "edwards",
+      "state-illustrative",
+      "non-binding",
+      "name-that-case"
+    ],
+    "cite": "State v. Wint, 236 N.J. 174, 198 A.3d 963 (2018)",
+    "source": "https://www.courtlistener.com/opinion/8267547/state-v-wint/"
+  },
+  {
+    "id": "miranda-waiver-invocation-wint-fresh-warnings-42",
+    "page": "miranda-waiver-invocation",
+    "topic": "Miranda Waiver and Invocation",
+    "type": "qa",
+    "front": "In State v. Wint (N.J. 2018, non-binding illustration), did repeated fresh Miranda warnings cure the Edwards violation where the suspect remained in continuous detention after invoking counsel?",
+    "back": "No — repeated fresh warnings did not cure the Edwards violation, because continuous detention provided no Shatzer break in custody to lift the bar.",
+    "tags": [
+      "miranda-waiver-invocation",
+      "wint",
+      "edwards",
+      "shatzer",
+      "state-illustrative",
+      "non-binding"
+    ],
+    "cite": "State v. Wint, 236 N.J. 174, 198 A.3d 963 (2018)",
+    "source": "https://www.courtlistener.com/opinion/8267547/state-v-wint/"
+  },
+  {
+    "id": "miranda-waiver-invocation-davis-both-tracks-43",
+    "page": "miranda-waiver-invocation",
+    "topic": "Miranda Waiver and Invocation",
+    "type": "qa",
+    "front": "Does the Davis \"reasonable officer\" unambiguity requirement apply only to invocations of counsel, or to invocations of silence too?",
+    "back": "It polices entry to BOTH tracks: Davis (512 U.S. at 459) requires an unambiguous invocation of counsel, and Berghuis v. Thompkins imported the same standard into the silence track — neither track is triggered by an ambiguous invocation.",
+    "tags": [
+      "miranda-waiver-invocation",
+      "davis",
+      "thompkins",
+      "two-tracks",
+      "unambiguous",
+      "distinction"
+    ],
+    "cite": "Davis v. United States, 512 U.S. 452, 459 (1994)",
+    "source": "https://www.courtlistener.com/opinion/117863/davis-v-united-states/"
+  },
+  {
+    "id": "miranda-waiver-invocation-thompkins-imports-davis-44",
+    "page": "miranda-waiver-invocation",
+    "topic": "Miranda Waiver and Invocation",
+    "type": "cloze",
+    "front": "The same unambiguity gate guards both invocation tracks: {{c1::Davis}} requires an unambiguous invocation of counsel, and {{c2::Thompkins}} imported that standard into the silence track.",
+    "back": "Davis / Thompkins",
+    "tags": [
+      "miranda-waiver-invocation",
+      "davis",
+      "thompkins",
+      "two-tracks",
+      "unambiguous"
+    ],
+    "cite": "Berghuis v. Thompkins, 560 U.S. 370 (2010)",
+    "source": "https://www.courtlistener.com/opinion/147529/berghuis-v-thompkins/"
+  },
+  {
+    "id": "miranda-waiver-invocation-demesme-pitfall-45",
+    "page": "miranda-waiver-invocation",
+    "topic": "Miranda Waiver and Invocation",
+    "type": "qa",
+    "front": "Common pitfall (illustrated by the non-binding \"lawyer dog\" anecdote, State v. Demesme, La. 2017): how literally can courts apply Davis's ambiguity rule to a suspect's reference to counsel?",
+    "back": "Very literally — a Louisiana writ-denial concurrence treated \"why don't you just give me a lawyer dog cause this is not what's up\" as too ambiguous to invoke counsel under Davis. It is a one-justice, state, non-binding anecdote, not a merits holding.",
+    "tags": [
+      "miranda-waiver-invocation",
+      "demesme",
+      "davis",
+      "pitfall",
+      "counsel",
+      "state-illustrative",
+      "non-binding"
+    ],
+    "cite": "State v. Demesme, 228 So.3d 1206 (La. 2017)",
+    "source": "https://www.courtlistener.com/opinion/5035127/state-v-demesme/"
+  },
+  {
+    "id": "miranda-waiver-invocation-demesme-name-46",
+    "page": "miranda-waiver-invocation",
+    "topic": "Miranda Waiver and Invocation",
+    "type": "qa",
+    "front": "Which non-binding state case is the source of the \"lawyer dog\" anecdote, where a concurrence to a writ denial treated an equivocal request for counsel as too ambiguous to invoke under Davis?",
+    "back": "State v. Demesme (La. 2017) — a Louisiana Supreme Court writ-denial concurrence, illustrative and non-binding, not a merits holding.",
+    "tags": [
+      "miranda-waiver-invocation",
+      "demesme",
+      "davis",
+      "counsel",
+      "state-illustrative",
+      "non-binding",
+      "name-that-case"
+    ],
+    "cite": "State v. Demesme, 228 So.3d 1206 (La. 2017)",
+    "source": "https://www.courtlistener.com/opinion/5035127/state-v-demesme/"
   }
 ]

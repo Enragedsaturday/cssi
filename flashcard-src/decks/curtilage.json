@@ -433,5 +433,191 @@
     "front": "Why does the curtilage/open-fields line matter for suppression?",
     "back": "Same officer, same field of contraband — which side of the line the ground falls on decides whether the intrusion is a search and thus whether evidence is suppressed.",
     "tags": ["curtilage", "open-fields", "significance", "suppression"]
+  },
+  {
+    "id": "curtilage-business-no-curtilage-42",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "Do businesses or commercial premises have \"curtilage\" the way a home does?",
+    "back": "No — curtilage is a home concept; commercial property has no analogous domestic \"curtilage,\" and the outdoor ground of a business is treated more like open fields than like the curtilage of a house.",
+    "tags": ["curtilage", "commercial", "business", "open-fields", "holding"]
+  },
+  {
+    "id": "curtilage-business-no-curtilage-but-rep-43",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "Because a business has no curtilage, does that mean its premises have no Fourth Amendment privacy at all?",
+    "back": "No — no curtilage does not mean no privacy. Commercial premises, especially their non-public interiors, still retain a reasonable expectation of privacy.",
+    "tags": ["curtilage", "commercial", "business", "reasonable-expectation-of-privacy", "nuance"]
+  },
+  {
+    "id": "curtilage-business-grounds-vs-interior-44",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "For a business, distinguish the Fourth Amendment treatment of its open outdoor grounds from its private interior.",
+    "back": "The open, publicly exposed grounds of a business are open-fields-like (lawful-vantage observation is generally fine), but entry into the private, non-public interior of commercial premises still needs a warrant or a recognized exception.",
+    "tags": ["curtilage", "commercial", "business", "distinction", "interior"]
+  },
+  {
+    "id": "curtilage-dow-chemical-holding-45",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "What did Dow Chemical Co. v. United States (1986) hold about the open areas of a 2,000-acre industrial complex?",
+    "back": "Those open areas between buildings are more comparable to an open field than to the curtilage of a home, so warrantless EPA aerial photography from navigable airspace was not a search.",
+    "tags": ["curtilage", "dow-chemical", "commercial", "aerial", "open-fields", "holding"],
+    "cite": "Dow Chemical Co. v. United States, 476 U.S. 227, 235–39 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111667/dow-chemical-co-v-united-states-ex-rel-administrator/"
+  },
+  {
+    "id": "curtilage-dow-chemical-retains-privacy-46",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "Did Dow Chemical hold that businesses have zero Fourth Amendment privacy?",
+    "back": "No — even though the industrial open areas were open-fields-like, the Court acknowledged that commercial premises still retain some Fourth Amendment privacy.",
+    "tags": ["curtilage", "dow-chemical", "commercial", "reasonable-expectation-of-privacy", "nuance"],
+    "cite": "Dow Chemical Co. v. United States, 476 U.S. 227, 235–39 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111667/dow-chemical-co-v-united-states-ex-rel-administrator/"
+  },
+  {
+    "id": "curtilage-dow-chemical-recognize-47",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "Which Supreme Court case held that the open areas of a large industrial complex are more like open fields than curtilage, allowing warrantless aerial photography?",
+    "back": "Dow Chemical Co. v. United States, 476 U.S. 227 (1986).",
+    "tags": ["curtilage", "dow-chemical", "commercial", "recognize-case"],
+    "cite": "Dow Chemical Co. v. United States, 476 U.S. 227 (1986)",
+    "source": "https://www.courtlistener.com/opinion/111667/dow-chemical-co-v-united-states-ex-rel-administrator/"
+  },
+  {
+    "id": "curtilage-see-seattle-holding-48",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "What did See v. City of Seattle (1967) hold about commercial premises and warrantless administrative entry?",
+    "back": "Commercial premises are protected by the Fourth Amendment against unreasonable warrantless administrative entry; the businessman, like the homeowner, may insist on a warrant.",
+    "tags": ["curtilage", "see-seattle", "commercial", "administrative", "holding"],
+    "cite": "See v. City of Seattle, 387 U.S. 541, 545–46 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107474/see-v-city-of-seattle/"
+  },
+  {
+    "id": "curtilage-see-seattle-businessman-homeowner-49",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "Under See v. City of Seattle, how does a businessman's right to demand a warrant before an administrative entry compare to a homeowner's?",
+    "back": "The businessman, like the homeowner, may insist on a warrant — commercial premises carry comparable protection against warrantless administrative entry.",
+    "tags": ["curtilage", "see-seattle", "commercial", "administrative"],
+    "cite": "See v. City of Seattle, 387 U.S. 541, 545–46 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107474/see-v-city-of-seattle/"
+  },
+  {
+    "id": "curtilage-see-seattle-recognize-50",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "Which 1967 Supreme Court case (companion to Camara) held that commercial premises are protected against warrantless administrative entry?",
+    "back": "See v. City of Seattle, 387 U.S. 541 (1967).",
+    "tags": ["curtilage", "see-seattle", "commercial", "administrative", "recognize-case"],
+    "cite": "See v. City of Seattle, 387 U.S. 541 (1967)",
+    "source": "https://www.courtlistener.com/opinion/107474/see-v-city-of-seattle/"
+  },
+  {
+    "id": "curtilage-gm-leasing-holding-51",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "What did G. M. Leasing Corp. v. United States (1977) hold about warrantless entry into a company's private, non-public offices?",
+    "back": "It was an unreasonable Fourth Amendment search — business interiors not open to the public carry a reasonable expectation of privacy.",
+    "tags": ["curtilage", "gm-leasing", "commercial", "interior", "holding"],
+    "cite": "G. M. Leasing Corp. v. United States, 429 U.S. 338, 351–59 (1977)",
+    "source": "https://www.courtlistener.com/opinion/109579/g-m-leasing-corp-v-united-states/"
+  },
+  {
+    "id": "curtilage-gm-leasing-line-private-interior-52",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "In G. M. Leasing Corp., where did the Fourth Amendment line fall — given that seizing cars from public areas was upheld?",
+    "back": "The line falls at entry into the private business interior: seizing cars from open/public areas was upheld, but warrantless entry into the corporation's private offices was unreasonable.",
+    "tags": ["curtilage", "gm-leasing", "commercial", "interior", "distinction"],
+    "cite": "G. M. Leasing Corp. v. United States, 429 U.S. 338, 351–59 (1977)",
+    "source": "https://www.courtlistener.com/opinion/109579/g-m-leasing-corp-v-united-states/"
+  },
+  {
+    "id": "curtilage-gm-leasing-recognize-53",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "Which case held that warrantless entry into a corporation's private offices to seize assets was an unreasonable search, while seizing cars from public areas was upheld?",
+    "back": "G. M. Leasing Corp. v. United States, 429 U.S. 338 (1977).",
+    "tags": ["curtilage", "gm-leasing", "commercial", "interior", "recognize-case"],
+    "cite": "G. M. Leasing Corp. v. United States, 429 U.S. 338 (1977)",
+    "source": "https://www.courtlistener.com/opinion/109579/g-m-leasing-corp-v-united-states/"
+  },
+  {
+    "id": "curtilage-commercial-controlling-authority-54",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "What is the controlling federal authority for the point that a business has no curtilage yet its private areas can retain a reasonable expectation of privacy?",
+    "back": "The SCOTUS line: Dow Chemical (industrial open areas are open-fields-like), See v. City of Seattle, and G. M. Leasing Corp. (non-public business interiors carry a reasonable expectation of privacy).",
+    "tags": ["curtilage", "commercial", "dow-chemical", "see-seattle", "gm-leasing", "significance"]
+  },
+  {
+    "id": "curtilage-state-illustrations-55",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "The page cites State v. Karston, State v. Weaver, and State v. Larson on the commercial-privacy point — what weight do they carry?",
+    "back": "They are state — illustrative, non-binding decisions, cited only to show the federal principle (that private business areas can retain a reasonable expectation of privacy) at work; the controlling authority is the SCOTUS line (Dow Chemical; See; G. M. Leasing).",
+    "tags": ["curtilage", "commercial", "state-illustrative", "non-binding", "karston", "weaver", "larson"]
+  },
+  {
+    "id": "curtilage-state-karston-56",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "Which state — illustrative, non-binding case is cited as a Louisiana curtilage/search illustration on the commercial-privacy point?",
+    "back": "State v. Karston (La. Ct. App. 1991) (state — illustrative, non-binding), paired with the controlling SCOTUS commercial-privacy line.",
+    "tags": ["curtilage", "karston", "state-illustrative", "non-binding", "commercial"],
+    "cite": "State v. Karston, 588 So. 2d 165 (La. Ct. App. 1991)",
+    "source": "https://www.courtlistener.com/opinion/1767998/state-v-karston/"
+  },
+  {
+    "id": "curtilage-state-weaver-57",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "Which state — illustrative, non-binding case (decided by the Texas Court of Criminal Appeals) is cited as a curtilage/commercial-privacy illustration?",
+    "back": "State v. Weaver (Tex. Crim. App. 2011) (state — illustrative, non-binding), paired with the controlling SCOTUS commercial-privacy line.",
+    "tags": ["curtilage", "weaver", "state-illustrative", "non-binding", "commercial"],
+    "cite": "State v. Weaver, 349 S.W.3d 521 (Tex. Crim. App. 2011)",
+    "source": "https://www.courtlistener.com/opinion/2546485/state-v-weaver/"
+  },
+  {
+    "id": "curtilage-state-larson-58",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "Which state — illustrative, non-binding case is cited as an Oregon Court of Appeals curtilage/search illustration on the commercial-privacy point?",
+    "back": "State v. Larson (Or. App. 1999) (state — illustrative, non-binding), paired with the controlling SCOTUS commercial-privacy line.",
+    "tags": ["curtilage", "larson", "state-illustrative", "non-binding", "commercial"],
+    "cite": "State v. Larson, 159 Or. App. 34, 977 P.2d 1175 (1999)",
+    "source": "https://www.courtlistener.com/opinion/1187724/state-v-larson/"
+  },
+  {
+    "id": "curtilage-pitfall-business-yard-vs-interior-59",
+    "page": "curtilage",
+    "topic": "Curtilage",
+    "type": "qa",
+    "front": "Common pitfall: for officers, are the open grounds of a business and its private interior treated the same under the Fourth Amendment?",
+    "back": "No — the open, publicly exposed grounds are open-fields-like (lawful-vantage observation is generally fine), but entry into the private, non-public interior still needs a warrant or a recognized exception.",
+    "tags": ["curtilage", "commercial", "business", "pitfall", "interior"]
   }
 ]
