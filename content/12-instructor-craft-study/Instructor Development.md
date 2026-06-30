@@ -21,7 +21,7 @@ An effective CSSI instructor pairs genuine command of the material with a servic
 7. **Facts matter — change the facts, change the outcome.** This is the analytical habit that anchors every doctrine in the course: nothing is decided in the abstract; the facts drive the result.
 8. **Make good case law.** Teach officers to act so their conduct *produces* good, defensible precedent — not the "bad cases" that come back to haunt the field.
 9. **Help, help, help.** A service posture toward the students in the room and the officers in the field; you are here to help them get it right.
-10. **Predict questions and confusions.** Anticipate where the material will trip students up and what they will ask — and pre-empt it. Plan for the predictable confusions (the *Gant* vs. *Belton* muddle, custody-vs.-Terry, standing-vs.-the-merits) and surface them before the room has to; the instructor who has already mapped the hard turns keeps the class oriented and credible.
+10. **Predict questions and confusions.** Anticipate where the material will trip students up and what they will ask — and pre-empt it. Plan for the predictable confusions (the *[[Arizona v. Gant|Gant]]* vs. *[[New York v. Belton|Belton]]* muddle, custody-vs.-Terry, standing-vs.-the-merits) and surface them before the room has to; the instructor who has already mapped the hard turns keeps the class oriented and credible.
 
 ## Why it matters
 - **#7 is the engine of the whole course.** "Change the facts, change the outcome" is the same instinct the Fourth Amendment demands — reasoning from *probabilities, not possibilities* (see [[Three Golden Rules]]) and from the specific facts in front of you, never from generalities.

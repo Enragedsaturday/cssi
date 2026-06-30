@@ -20,8 +20,8 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 | S2 | IA folder restructure + aliases | ✅ done | committed e3f37ca; 44 moves, 0 broken links |
 | S3 | Platform/nav/UX + components | ✅ done | nav b713b2b + components 09cdca8; build ok. S9 flags: CaseBrowser live render, data-island scaling, slug-casing deep-link check |
 | S4 | Case pages (BIRAC) + index | ✅ done | 262 pages, 0 escalations; Case Index regen diff-clean, LINT-6 clean, build ok. Deep gate→S9. |
-| S5 | Missed-case ingest + concordance | ⏳ in progress | Phase A done; USER decisions in; Phase B ingesting |
-| S6 | Doctrine/narrative reformat | ⏳ blocked(S5) | caretaking split, Garrity page |
+| S5 | Missed-case ingest + concordance | ✅ done | 186 ingested (corpus 448), 8 brief-mentions, 0 regressions, Case Index 459 rows, build ok |
+| S6 | Doctrine/narrative reformat | ⏳ in progress | weave 448 cases into briefs; caretaking split; Garrity page; §6.2 change-list; sweeps |
 | S7+S8 | Research pages + glossary wiring | ⏳ blocked(S6) | anchorize-then-wire |
 | S9 | Verification + release gate | ⏳ blocked(S7+S8) | STOP before publish |
 

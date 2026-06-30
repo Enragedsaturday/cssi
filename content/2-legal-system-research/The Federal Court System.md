@@ -9,7 +9,7 @@ status: verified
 related: ["[[Legal Research and Case Citations]]", "[[Common Legal Terms]]", "[[Fourth Amendment Framework]]", "[[Fourth Amendment Analysis Checklist]]"]
 ---
 
-Every doctrine page in this wiki weights authority the same way: **SCOTUS binding, circuits persuasive (flag the splits), state cases illustrative only.** That hierarchy is not a house preference — it is how the federal judiciary actually works. This page is the reference that explains *why* a Ninth Circuit case binds in San Francisco but not in Dallas, why a district-court opinion settles nothing, and why a "circuit split" is a signal rather than a rule. Read it once, then lean on it whenever you decide how much a case is worth.
+Every doctrine page in this wiki weights authority the same way: **SCOTUS binding; a circuit holding binds only within its own circuit (Persuasive (outside circuit) elsewhere — splits flagged); state cases illustrative only (Persuasive — state, illustrative).** That hierarchy is not a house preference — it is how the federal judiciary actually works, and it is the spine of the wiki's six-tier authority lexicon (see [[Legal Research and Case Citations]]). This page is the reference that explains *why* a Ninth Circuit case binds in San Francisco but not in Dallas, why a district-court opinion settles nothing, and why a "circuit split" is a signal rather than a rule. Read it once, then lean on it whenever you decide how much a case is worth.
 
 ## The three-tier hierarchy
 
@@ -51,7 +51,7 @@ From those two rules, four operational facts follow:
 
 **Appointment and tenure.** Justices are **nominated by the President** and **confirmed by the Senate**. Under **Article III**, they hold office "during good Behaviour" — in practice, **lifetime tenure** absent resignation, retirement, or impeachment.
 
-**Authority — judicial review.** SCOTUS has the **ultimate authority to say what federal law and the Constitution mean.** That power, *judicial review*, was established in *Marbury v. Madison*, 5 U.S. (1 Cranch) 137 (1803):
+**Authority — judicial review.** SCOTUS has the **ultimate authority to say what federal law and the Constitution mean.** That power, *judicial review*, was established in *[[Marbury v. Madison]]*, 5 U.S. (1 Cranch) 137 (1803):
 
 > "It is emphatically the province and duty of the judicial department to say what the law is. Those who apply the rule to particular cases, must of necessity expound and interpret that rule. If two laws conflict with each other, the courts must decide on the operation of each."
 >
@@ -76,7 +76,7 @@ Because review is discretionary, a **denial of certiorari is not a ruling on the
 ## Common pitfalls
 
 - **Citing a district-court decision as if it were binding.** District opinions are persuasive only. One ruling — however well-reasoned — does not make a rule.
-- **Citing an out-of-circuit case as binding.** A sister circuit's holding is persuasive, not controlling. Confirm the case is from *your* circuit (or SCOTUS) before you teach a search from it.
+- **Citing an out-of-circuit case as binding.** A sister circuit's holding is persuasive only — it does not control your circuit. Confirm the case is from *your* circuit (or SCOTUS) before you teach a search from it.
 - **Treating a circuit split as settled law.** If the circuits disagree, there *is* no single federal answer yet — flag the split and say so, don't pick a side and present it as the rule.
 - **Assuming a state court must follow its regional circuit on federal questions.** It must follow **SCOTUS**, not the geographic court of appeals. Mixing this up blurs federal and state authority.
 - **Reading "cert denied" as an affirmance.** A denial of certiorari decides nothing on the merits and sets no precedent — it just means the lower court's decision stands. Don't cite it as Supreme Court approval.

@@ -14,7 +14,7 @@ related: ["[[Fourth Amendment Framework]]", "[[Fourth Amendment Analysis Checkli
 Once you have established that a **search or seizure occurred** and that the claimant has **standing**, the only remaining question is whether the government action was **reasonable**. **C.R.E.W.** is the field checklist for that last step — a search or seizure is reasonable when it rests on **at least one** of three justifications:
 
 - **C — Consent.** Voluntary consent by the person, or by a third party with **common authority** over the place or thing. Voluntariness is judged on the totality of the circumstances, and the search may not exceed the scope of the consent given.
-- **R — Recognized Exception.** One of the established exceptions to the warrant requirement (e.g., exigent circumstances, search incident to arrest, the automobile exception, plain view, inventory, *Terry* frisks). This is the **broad bucket** — the full catalog is developed later in the course.
+- **RE — Recognized Exception.** One of the established exceptions to the warrant requirement (e.g., exigent circumstances, search incident to arrest, the automobile exception, plain view, inventory, *Terry* frisks). This is the **broad bucket** — the full catalog is developed later in the course.
 - **W — Warrant.** A valid warrant: issued by a **neutral magistrate**, on **probable cause**, **particularly describing** the place to be searched and the things to be seized.
 
 If none of the three applies, the search or seizure is presumptively **unreasonable**, and its fruits are subject to suppression.
@@ -35,7 +35,7 @@ If none of the three applies, the search or seizure is presumptively **unreasona
 flowchart TD
   R{"Reasonable?<br/>(search/seizure + standing already established)"}
   R -->|C| CO["Consent<br/>voluntary · in scope · authority"]
-  R -->|R| RE["Recognized Exception<br/>(broad bucket — detailed later)"]
+  R -->|RE| RE["Recognized Exception<br/>(broad bucket — detailed later)"]
   R -->|W| WA["Warrant<br/>neutral magistrate · PC · particularity"]
   R -->|none| SUP["Presumptively unreasonable →<br/>suppress"]
 ```
