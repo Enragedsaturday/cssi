@@ -109,34 +109,34 @@
 | ✅ **United States v. Banks** | A 15–20 second wait after knock-and-announce before forcible entry was reasonable given destructible evidence. | [[The Warrant Requirement]] — Progeny | 1,2 | good-law |
 | ✅ **Los Angeles County v. Rettele** | Briefly detaining occupants while securing a residence during warrant execution is reasonable; QI. | [[Securing the Scene]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 2,3 | good-law |
 | ✅ **United States v. Van Leeuwen** | Temporarily detaining a mailed package on RS, pending a warrant, is reasonable. | [[Special Needs and Administrative Searches]] — Related; pairs with [[United States v. Place]] | 1 | good-law |
-| **Sgro v. United States** | A warrant must be executed promptly; staleness invalidates it (no re-dating without fresh PC). | [[The Warrant Requirement]] — Progeny (staleness) | 1 | good-law |
-| **Gooding v. United States** | Nighttime execution of a narcotics warrant was authorized under the governing statute on the showing made. | [[The Warrant Requirement]] — Related | 1 | good-law |
-| **Dalia v. United States** | A warrant authorizing electronic surveillance implicitly authorizes covert entry to install the device. | [[The Warrant Requirement]] — Progeny | 1 | good-law |
-| **Zurcher v. Stanford Daily** | A warrant may authorize a search of premises owned by a third party not suspected of crime (newspaper) on PC. | [[The Warrant Requirement]] — Progeny | 1 | good-law |
+| ✅ **Sgro v. United States** | A warrant must be executed promptly; staleness invalidates it (no re-dating without fresh PC). | [[The Warrant Requirement]] — Progeny (staleness) | 1 | good-law |
+| ✅ **Gooding v. United States** | Nighttime execution of a narcotics warrant was authorized under the governing statute on the showing made. | [[The Warrant Requirement]] — Related | 1 | good-law |
+| ✅ **Dalia v. United States** | A warrant authorizing electronic surveillance implicitly authorizes covert entry to install the device. | [[The Warrant Requirement]] — Progeny | 1 | good-law |
+| ✅ **Zurcher v. Stanford Daily** | A warrant may authorize a search of premises owned by a third party not suspected of crime (newspaper) on PC. | [[The Warrant Requirement]] — Progeny | 1 | good-law |
 
 ## Batch G — Consent · special needs / administrative / inspections · workplace REP (11)
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **Chapman v. United States (1961)** | A landlord cannot consent to a search of the tenant's premises. | [[Consent Searches]] — Progeny (third-party consent) | 5 | good-law |
-| **Stoner v. California** | A hotel clerk cannot consent to a search of a guest's room; apparent-authority limit. | [[Consent Searches]] — Progeny | 1,2 | good-law |
-| **Bumper v. North Carolina** | Consent is invalid when given in acquiescence to a false claim of lawful authority (false assertion of a warrant). | [[Consent Searches]] — Limiting | 1 | good-law |
-| **Lewis v. United States (1966)** | An undercover agent invited in for a drug buy does not conduct a 4A search; misplaced trust. | [[Consent Searches]] — Related; [[Two Definitions of Search]] | 1 | good-law |
-| **See v. City of Seattle** | Administrative inspections of commercial premises require a warrant (or recognized exception). Pairs with Camara. | [[Special Needs and Administrative Searches]] — Anchor; [[The Warrant Requirement]] | 3 | foundational |
-| **Marshall v. Barlow's Inc.** | OSHA warrantless workplace inspections violate the 4A absent consent or the pervasively-regulated-industry exception. | [[Special Needs and Administrative Searches]] — Progeny | 3 | good-law |
-| **Donovan v. Dewey** | Warrantless inspections of a pervasively regulated industry (mines) are reasonable under a comprehensive scheme. | [[Special Needs and Administrative Searches]] — Progeny | 3 | good-law |
-| **United States v. Biswell** | Warrantless inspection of a federally licensed firearms dealer is reasonable (pervasively regulated). Pairs with Burger. | [[Special Needs and Administrative Searches]] — Progeny | 3 | good-law |
-| **Safford Unified School District v. Redding** | A strip search of a middle-schooler for ibuprofen was unreasonable under T.L.O.; officials had QI. | [[Special Needs and Administrative Searches]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 3 | good-law |
-| **O'Connor v. Ortega** **[BL]** | A public employer's work-related, noninvestigatory search of an employee's office is judged by reasonableness, not warrant/PC. | [[Special Needs and Administrative Searches]] — Anchor (workplace REP); pairs with Quon | — | foundational |
-| **City of Ontario v. Quon** **[BL]** | A government employer's review of an employee's texts on a department pager was a reasonable work-related search. | [[Special Needs and Administrative Searches]] — Progeny (digital workplace REP) | — | good-law |
+| ✅ **Chapman v. United States (1961)** | A landlord cannot consent to a search of the tenant's premises. | [[Consent Searches]] — Progeny (third-party consent) | 5 | good-law |
+| ✅ **Stoner v. California** | A hotel clerk cannot consent to a search of a guest's room; apparent-authority limit. | [[Consent Searches]] — Progeny | 1,2 | good-law |
+| ✅ **Bumper v. North Carolina** | Consent is invalid when given in acquiescence to a false claim of lawful authority (false assertion of a warrant). | [[Consent Searches]] — Limiting | 1 | good-law |
+| ✅ **Lewis v. United States (1966)** | An undercover agent invited in for a drug buy does not conduct a 4A search; misplaced trust. | [[Two Definitions of Search]] — Related (home-by-holding); [[Consent Searches]] — Related | 1 | good-law |
+| ✅ **See v. City of Seattle** | Administrative inspections of commercial premises require a warrant (or recognized exception). Pairs with Camara. | [[Special Needs and Administrative Searches]] — Anchor; [[The Warrant Requirement]] | 3 | foundational |
+| ✅ **Marshall v. Barlow's Inc.** | OSHA warrantless workplace inspections violate the 4A absent consent or the pervasively-regulated-industry exception. | [[Special Needs and Administrative Searches]] — Progeny | 3 | good-law |
+| ✅ **Donovan v. Dewey** | Warrantless inspections of a pervasively regulated industry (mines) are reasonable under a comprehensive scheme. | [[Special Needs and Administrative Searches]] — Progeny | 3 | good-law |
+| ✅ **United States v. Biswell** | Warrantless inspection of a federally licensed firearms dealer is reasonable (pervasively regulated). Pairs with Burger. | [[Special Needs and Administrative Searches]] — Progeny | 3 | good-law |
+| ✅ **Safford Unified School District v. Redding** | A strip search of a middle-schooler for ibuprofen was unreasonable under T.L.O.; officials had QI. | [[Special Needs and Administrative Searches]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 3 | good-law |
+| ✅ **O'Connor v. Ortega** **[BL]** | A public employer's work-related, noninvestigatory search of an employee's office is judged by reasonableness, not warrant/PC. | [[Special Needs and Administrative Searches]] — Anchor (workplace REP); pairs with Quon | — | foundational |
+| ✅ **City of Ontario v. Quon** **[BL]** | A government employer's review of an employee's texts on a department pager was a reasonable work-related search. | [[Special Needs and Administrative Searches]] — Progeny (digital workplace REP) | — | good-law |
 
 ## Batch H — Exclusionary rule: origins · fruits · attenuation · good faith (10)
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **Elkins v. United States** | Abolished the 'silver-platter' doctrine; state-seized evidence is inadmissible in federal court. | [[The Exclusionary Rule]] — Historical/Anchor | 1,3 | foundational |
-| **Silverthorne Lumber Co. v. United States** | Origin of fruit-of-the-poisonous-tree; the gov't may not use illegally obtained evidence even indirectly. | [[The Exclusionary Rule]] — Anchor | 2,3 | foundational |
-| **Nardone v. United States** | Coined 'fruit of the poisonous tree'; recognized attenuation (taint dissipated). | [[The Exclusionary Rule]] — Anchor (attenuation) | 1,2 | foundational |
+| ✅ **Elkins v. United States** | Abolished the 'silver-platter' doctrine; state-seized evidence is inadmissible in federal court. | [[The Exclusionary Rule]] — Historical/Anchor | 1,3 | foundational |
+| ✅ **Silverthorne Lumber Co. v. United States** | Origin of fruit-of-the-poisonous-tree; the gov't may not use illegally obtained evidence even indirectly. | [[The Exclusionary Rule]] — Anchor | 2,3 | foundational |
+| ✅ **Nardone v. United States** | Coined 'fruit of the poisonous tree'; recognized attenuation (taint dissipated). | [[The Exclusionary Rule]] — Anchor (attenuation) | 1,2 | foundational |
 | **United States v. Ceccolini** | Live-witness testimony is less readily suppressed as a fruit; attenuation differs for witnesses. | [[The Exclusionary Rule]] — Progeny (attenuation) | 1,2 | good-law |
 | **United States v. Crews** | An in-court ID is not suppressible as fruit of an illegal arrest where the victim's knowledge has an independent source. | [[The Exclusionary Rule]] — Progeny; [[Eyewitness Identification]] | 1,2 | good-law |
 | **Dunaway v. New York** | Detention/transport for interrogation without PC is a seizure tantamount to arrest; the confession is its fruit. | [[Seizure of the Person]] — Progeny; [[The Exclusionary Rule]]; [[Miranda and Custodial Interrogation]] | 3 | good-law |
