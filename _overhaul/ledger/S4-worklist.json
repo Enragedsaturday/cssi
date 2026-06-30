@@ -917,7 +917,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/118414/ferguson-v-city-of-charleston/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 118414,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 55,
@@ -931,7 +934,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/2654534/fernandez-v-california/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 9798884,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 56,
@@ -945,7 +951,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112631/florida-v-bostick/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112631,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 57,
@@ -959,7 +968,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/820744/florida-v-harris/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 820744,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 58,
@@ -973,7 +985,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/118352/florida-v-jl/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 118352,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 59,
@@ -987,7 +1002,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/856347/florida-v-jardines/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 856347,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 60,
@@ -1001,7 +1019,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112595/florida-v-jimeno/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112595,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 61,
@@ -1016,7 +1037,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112412/florida-v-wells/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112412,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 62,
@@ -1031,7 +1055,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109925/franks-v-delaware/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109925,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 63,
@@ -1045,7 +1072,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/107913/frazier-v-cupp/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 107913,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 64,
@@ -1059,7 +1089,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/5273192/french-v-merrill/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 5100775,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 65,
@@ -1073,7 +1106,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/145669/georgia-v-randolph/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 145669,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 66,
@@ -1087,7 +1123,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/108471/giglio-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 108471,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 67,
@@ -1101,7 +1140,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/107487/gilbert-v-california/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 107487,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 68,
@@ -1115,7 +1157,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112257/graham-v-connor/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112257,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 69,
@@ -1129,7 +1174,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111959/griffin-v-wisconsin/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111959,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 70,
@@ -1143,7 +1191,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/131161/groh-v-ramirez/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 131161,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 71,
@@ -1157,7 +1208,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109437/hampton-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109437,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 72,
@@ -1171,7 +1225,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/110763/harlow-v-fitzgerald/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 110763,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 73,
@@ -1185,7 +1242,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/2760668/heien-v-north-carolina/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 9805193,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 74,
