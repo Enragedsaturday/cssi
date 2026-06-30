@@ -28,6 +28,7 @@ homes:
 related: ["[[Katz v. United States]]", "[[Rawlings v. Kentucky]]", "[[Minnesota v. Carter]]", "[[Byrd v. United States]]", "[[Brendlin v. California]]", "[[Jones v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "standing", "expectation-of-privacy", "passenger", "vehicle-search"]
+holding: "Fourth Amendment rights are personal; a defendant must show his own legitimate expectation of privacy was infringed and cannot…"
 ---
 
 # Rakas v. Illinois

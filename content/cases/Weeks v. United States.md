@@ -26,6 +26,7 @@ homes:
 related: ["[[Mapp v. Ohio]]", "[[Wong Sun v. United States]]", "[[United States v. Leon]]"]
 aliases: ["Weeks"]
 tags: ["case", "fourth-amendment", "exclusionary-rule", "warrantless-search", "origin"]
+holding: "Origin of the federal exclusionary rule: evidence obtained in violation of the Fourth Amendment is inadmissible against a defendant in…"
 ---
 
 # Weeks v. United States

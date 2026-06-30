@@ -26,6 +26,7 @@ homes:
 related: ["[[Skinner v. Railway Labor Executives' Association]]", "[[New Jersey v. T.L.O.]]", "[[Vernonia School District 47J v. Acton]]", "[[Chandler v. Miller]]"]
 aliases: ["Von Raab", "NTEU v. Von Raab"]
 tags: ["case", "fourth-amendment", "special-needs", "drug-testing", "administrative-search"]
+holding: "Suspicionless drug testing of Customs employees seeking drug-interdiction or firearm-carrying positions is reasonable under the…"
 ---
 
 # National Treasury Employees Union v. Von Raab

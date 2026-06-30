@@ -26,6 +26,7 @@ homes:
 related: ["[[Alabama v. White]]", "[[Florida v. J.L.]]", "[[Illinois v. Gates]]", "[[Terry v. Ohio]]"]
 aliases: ["Prado Navarette v. California"]
 tags: ["case", "fourth-amendment", "reasonable-suspicion", "anonymous-tip", "traffic-stop"]
+holding: "A 911 call reporting dangerous/reckless driving can supply reasonable suspicion for a stop when it bears adequate indicia of reliability…"
 ---
 
 # Navarette v. California

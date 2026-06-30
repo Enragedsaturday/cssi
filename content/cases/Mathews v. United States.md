@@ -26,6 +26,7 @@ homes:
 related: ["[[Sorrells v. United States]]", "[[Hampton v. United States]]", "[[Jacobson v. United States]]"]
 aliases: []
 tags: ["case", "entrapment", "affirmative-defense", "jury-instruction"]
+holding: "A defendant who denies one or more elements of the charged crime is nonetheless entitled to an entrapment instruction whenever there is…"
 ---
 
 # Mathews v. United States

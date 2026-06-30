@@ -28,6 +28,7 @@ homes:
 related: ["[[Aguilar v. Texas]]", "[[Spinelli v. United States]]", "[[Brinegar v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "probable-cause", "informants", "totality-of-the-circumstances", "warrant"]
+holding: "Probable cause from an informant's tip is judged by the **totality of the circumstances** — the issuing magistrate makes a practical,…"
 ---
 
 # Illinois v. Gates

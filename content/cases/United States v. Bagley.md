@@ -26,6 +26,7 @@ homes:
 related: ["[[Brady v. Maryland]]", "[[Giglio v. United States]]", "[[Kyles v. Whitley]]", "[[Strickler v. Greene]]", "[[Turner v. United States]]"]
 aliases: []
 tags: ["case", "due-process", "brady"]
+holding: "Set the unified MATERIALITY standard for Brady (covering no-request, general-request, and specific-request cases) and confirmed…"
 ---
 
 # United States v. Bagley

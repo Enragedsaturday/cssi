@@ -26,6 +26,7 @@ homes:
 related: ["[[Colorado v. Connelly]]", "[[Brown v. Mississippi]]", "[[Schneckloth v. Bustamonte]]"]
 aliases: []
 tags: ["case", "confessions", "voluntariness", "police-deception", "due-process", "totality"]
+holding: "Police misrepresentation (falsely telling a suspect his codefendant had confessed) did not render the confession involuntary; deception…"
 ---
 
 # Frazier v. Cupp

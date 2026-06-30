@@ -26,6 +26,7 @@ homes:
 related: ["[[Chimel v. California]]", "[[Arizona v. Gant]]", "[[Riley v. California]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "search-incident-to-arrest", "full-custody-arrest", "bright-line-rule"]
+holding: "A lawful custodial arrest categorically authorizes a full search of the arrestee's person; the search needs no additional justification…"
 ---
 
 # United States v. Robinson

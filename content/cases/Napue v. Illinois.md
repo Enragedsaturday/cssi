@@ -26,6 +26,7 @@ homes:
 related: ["[[Giglio v. United States]]", "[[Brady v. Maryland]]", "[[Mooney v. Holohan]]"]
 aliases: []
 tags: ["case", "due-process", "false-testimony", "brady-giglio", "credibility"]
+holding: "The State may not knowingly use false testimony to obtain a conviction, and that duty applies even when the false testimony goes only to…"
 ---
 
 # Napue v. Illinois

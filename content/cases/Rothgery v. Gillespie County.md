@@ -26,6 +26,7 @@ homes:
 related: ["[[Brewer v. Williams]]", "[[Patterson v. Illinois]]", "[[Kirby v. Illinois]]", "[[Michigan v. Jackson]]", "[[Montejo v. Louisiana]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel", "attachment", "initial-appearance"]
+holding: "A criminal defendant's initial appearance before a magistrate, where he learns the charge against him and his liberty is restricted,…"
 ---
 
 # Rothgery v. Gillespie County

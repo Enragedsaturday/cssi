@@ -26,6 +26,7 @@ homes:
 related: ["[[Brady v. Maryland]]", "[[Napue v. Illinois]]", "[[Benn v. Lambert]]"]
 aliases: ["Giglio v. US"]
 tags: ["case", "brady", "giglio", "impeachment", "disclosure", "witness-credibility"]
+holding: "Impeachment evidence falls within the Brady rule: nondisclosure of evidence affecting a key witness's credibility — including a promise…"
 ---
 
 # Giglio v. United States

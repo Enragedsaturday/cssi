@@ -26,6 +26,7 @@ homes:
 related: ["[[Michigan v. Summers]]", "[[Illinois v. McArthur]]", "[[Terry v. Ohio]]"]
 aliases: ["Bailey v. US"]
 tags: ["case", "fourth-amendment", "detention", "search-warrant", "securing-the-scene"]
+holding: "The detention authority recognized in Michigan v. Summers is limited to the immediate vicinity of the premises to be searched; it does…"
 ---
 
 # Bailey v. United States

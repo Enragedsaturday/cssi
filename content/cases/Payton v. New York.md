@@ -28,6 +28,7 @@ homes:
 related: ["[[United States v. Watson]]", "[[Steagald v. United States]]", "[[Maryland v. Buie]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "arrest-in-the-home", "arrest-warrant", "warrant-requirement", "threshold"]
+holding: "Warrantless, nonconsensual entry into a SUSPECT'S OWN home to make a routine felony arrest is presumptively unreasonable; an arrest…"
 ---
 
 # Payton v. New York

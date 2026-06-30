@@ -26,6 +26,7 @@ homes:
 related: ["[[Arizona v. Gant]]", "[[Chimel v. California]]", "[[Riley v. California]]", "[[Nix v. Williams]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "search-incident-to-arrest", "inevitable-discovery"]
+holding: "The government CONCEDED the warrantless search of Braxton's backpack was not a valid search incident to arrest, then relied on…"
 ---
 
 # United States v. Braxton

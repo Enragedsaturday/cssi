@@ -26,6 +26,7 @@ homes:
 related: ["[[McNeil v. Wisconsin]]", "[[Massiah v. United States]]", "[[Brewer v. Williams]]", "[[Montejo v. Louisiana]]", "[[Maine v. Moulton]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel"]
+holding: "The Sixth Amendment right to counsel is offense-specific; it attaches only to the charged offense and does not extend to other,…"
 ---
 
 # Texas v. Cobb

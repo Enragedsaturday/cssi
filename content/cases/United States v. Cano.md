@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Cotterman]]", "[[Riley v. California]]", "[[Carpenter v. United States]]"]
 aliases: ["United States v. Miguel Cano"]
 tags: ["case", "fourth-amendment", "border-search", "digital-privacy"]
+holding: "Manual border searches of a cell phone need no suspicion, but a *forensic* (Cellebrite-type) device search requires reasonable suspicion…"
 ---
 
 # United States v. Cano

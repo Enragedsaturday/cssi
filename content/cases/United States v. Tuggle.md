@@ -26,6 +26,7 @@ homes:
 related: ["[[California v. Ciraolo]]", "[[California v. Greenwood]]", "[[Carpenter v. United States]]", "[[United States v. Jones]]"]
 aliases: ["United States v. Tuggle (7th Cir. 2021)", "United States v. Travis Tuggle"]
 tags: ["case", "fourth-amendment", "plain-view", "pole-camera", "surveillance", "mosaic-theory", "seventh-circuit"]
+holding: "Long-term pole-camera surveillance of a home's exterior did not violate the Fourth Amendment under existing doctrine, BUT the court…"
 ---
 
 # United States v. Tuggle

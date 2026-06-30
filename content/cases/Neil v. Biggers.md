@@ -26,6 +26,7 @@ homes:
 related: ["[[Manson v. Brathwaite]]", "[[Stovall v. Denno]]", "[[Perry v. New Hampshire]]", "[[United States v. Wade]]"]
 aliases: []
 tags: ["case", "due-process", "eyewitness-identification", "reliability", "showup"]
+holding: "Even an unnecessarily suggestive identification is admissible if, under the totality of the circumstances, it is nonetheless reliable;…"
 ---
 
 # Neil v. Biggers

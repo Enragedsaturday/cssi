@@ -26,6 +26,7 @@ homes:
 related: ["[[Carroll v. United States]]", "[[California v. Acevedo]]", "[[Chambers v. Maroney]]", "[[United States v. Gastiaburo]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "automobile-exception", "container-search", "delayed-search", "probable-cause"]
+holding: "A warrantless search of packages lawfully removed from a vehicle on PC is not rendered unreasonable merely because officers delayed the…"
 ---
 
 # United States v. Johns

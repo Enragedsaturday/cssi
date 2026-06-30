@@ -26,6 +26,7 @@ homes:
 related: ["[[Chambers v. Maroney]]", "[[California v. Carney]]", "[[California v. Acevedo]]", "[[Collins v. Virginia]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "automobile-exception", "warrantless-search", "vehicle", "probable-cause"]
+holding: "Origin of the automobile exception: a vehicle may be searched without a warrant on probable cause because, unlike a fixed structure, it…"
 ---
 
 # Carroll v. United States

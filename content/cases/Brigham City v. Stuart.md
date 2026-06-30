@@ -28,6 +28,7 @@ homes:
 related: ["[[Michigan v. Fisher]]", "[[Mincey v. Arizona]]", "[[Caniglia v. Strom]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "emergency-aid", "exigent-circumstances", "warrantless-entry"]
+holding: "Emergency aid exception: police may enter a home without a warrant when they have an objectively reasonable basis to believe an occupant…"
 ---
 
 # Brigham City v. Stuart

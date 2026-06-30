@@ -28,6 +28,7 @@ homes:
 related: ["[[United States v. Cortez]]", "[[United States v. Arvizu]]", "[[Illinois v. Wardlow]]", "[[Florida v. J.L.]]", "[[Hiibel v. Sixth Judicial Dist. Court]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "terry-stop", "reasonable-suspicion"]
+holding: "An investigative stop and protective frisk require reasonable, articulable suspicion grounded in specific facts and rational inferences…"
 ---
 
 # Terry v. Ohio

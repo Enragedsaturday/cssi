@@ -26,6 +26,7 @@ homes:
 related: ["[[Carroll v. United States]]", "[[United States v. Ross]]", "[[California v. Carney]]"]
 aliases: ["United States v. Morley (11th Cir. 2024)"]
 tags: ["case", "fourth-amendment", "automobile-exception", "vehicle-search", "probable-cause", "eleventh-circuit"]
+holding: "Recites the modern two-element formulation of the automobile exception: a warrantless vehicle search is permitted if (1) the vehicle is…"
 ---
 
 # United States v. Morley

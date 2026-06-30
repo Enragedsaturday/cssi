@@ -28,6 +28,7 @@ homes:
 related: ["[[United States v. Watson]]", "[[Payton v. New York]]", "[[Lange v. California]]", "[[Hester v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "arrest-in-the-home", "hot-pursuit", "exigent-circumstances", "doorway", "public-place"]
+holding: "A suspect standing in her own doorway/threshold is in a 'public' place for Fourth Amendment purposes; she cannot defeat a lawful arrest…"
 ---
 
 # United States v. Santana

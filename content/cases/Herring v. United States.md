@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Leon]]", "[[Arizona v. Evans]]", "[[Mapp v. Ohio]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exclusionary-rule", "good-faith", "deterrence"]
+holding: "Suppression is warranted only where deterrence benefits outweigh costs; isolated, attenuated police negligence (a recordkeeping error)…"
 ---
 
 # Herring v. United States

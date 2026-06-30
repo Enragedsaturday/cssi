@@ -26,6 +26,7 @@ homes:
 related: ["[[Brady v. Maryland]]", "[[Giglio v. United States]]", "[[Strickler v. Greene]]", "[[Kyles v. Whitley]]", "[[United States v. Bagley]]"]
 aliases: []
 tags: ["case", "brady", "impeachment", "materiality", "due-process"]
+holding: "Modern *Brady* reversal: undisclosed impeachment of the sole eyewitness is material — conviction reversed."
 ---
 
 # Smith v. Cain

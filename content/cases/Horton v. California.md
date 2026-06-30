@@ -26,6 +26,7 @@ homes:
 related: ["[[Coolidge v. New Hampshire]]", "[[Arizona v. Hicks]]", "[[Texas v. Brown]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "plain-view", "seizure", "warrant"]
+holding: "Sets the modern plain-view SEIZURE test and DROPS the inadvertence requirement: a warrantless seizure of an item in plain view is lawful…"
 ---
 
 # Horton v. California

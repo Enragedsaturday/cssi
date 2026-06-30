@@ -26,6 +26,7 @@ homes:
 related: ["[[Bailey v. United States]]", "[[Muehler v. Mena]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "search-warrant", "detention", "securing-the-scene"]
+holding: "A warrant to search premises for contraband, founded on probable cause, implicitly carries the limited authority to detain the occupants…"
 ---
 
 # Michigan v. Summers

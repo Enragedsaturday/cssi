@@ -26,6 +26,7 @@ homes:
 related: ["[[Oregon v. Elstad]]", "[[Miranda v. Arizona]]", "[[Dickerson v. United States]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "two-step", "question-first", "waiver"]
+holding: "A deliberate \"question-first, warn-later\" two-step interrogation is invalid."
 ---
 
 # Missouri v. Seibert

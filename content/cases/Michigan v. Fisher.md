@@ -26,6 +26,7 @@ homes:
 related: ["[[Brigham City v. Stuart]]", "[[Mincey v. Arizona]]", "[[Caniglia v. Strom]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "emergency-aid", "warrantless-entry", "home", "per-curiam"]
+holding: "Applies Brigham City: emergency-aid entry upheld where it was objectively reasonable to believe an occupant was injured or about to be;…"
 ---
 
 # Michigan v. Fisher

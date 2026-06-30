@@ -26,6 +26,7 @@ homes:
 related: ["[[Davis v. United States]]", "[[North Carolina v. Butler]]", "[[Michigan v. Mosley]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "waiver", "invocation", "right-to-remain-silent"]
+holding: "The right to remain silent must be invoked UNAMBIGUOUSLY; merely staying silent does not invoke it, and a suspect who answers questions…"
 ---
 
 # Berghuis v. Thompkins

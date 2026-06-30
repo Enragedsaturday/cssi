@@ -26,6 +26,7 @@ homes:
 related: ["[[Katz v. United States]]", "[[United States v. Jones]]", "[[Berger v. New York]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "wiretap", "trespass", "overruled", "historical"]
+holding: "Wiretapping with no physical entry was not a search — pure property/trespass framing; overruled on the privacy point by *Katz* (property instinct later revived by *Jones*)."
 ---
 
 # Olmstead v. United States

@@ -26,6 +26,7 @@ homes:
 related: ["[[District of Columbia v. Wesby]]", "[[Graham v. Connor]]", "[[Harlow v. Fitzgerald]]", "[[Hope v. Pelzer]]"]
 aliases: ["Tahlequah v. Bond"]
 tags: ["case", "qualified-immunity", "section-1983", "excessive-force", "clearly-established-law", "per-curiam"]
+holding: "Courts must not define clearly established law at too high a level of generality; QI protects 'all but the plainly incompetent or those who knowingly violate the law.'"
 ---
 
 # City of Tahlequah v. Bond

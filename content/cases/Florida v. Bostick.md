@@ -26,6 +26,7 @@ homes:
 related: ["[[California v. Hodari D.]]", "[[United States v. Mendenhall]]", "[[Florida v. Royer]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "seizure", "consensual-encounter", "bus-sweep"]
+holding: "On a bus (where the passenger isn't free to leave regardless), the seizure question is whether a reasonable person would feel free to…"
 ---
 
 # Florida v. Bostick

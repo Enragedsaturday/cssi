@@ -26,6 +26,7 @@ homes:
 related: ["[[Illinois v. Gates]]", "[[Maryland v. Pringle]]", "[[Devenpeck v. Alford]]", "[[Brinegar v. United States]]"]
 aliases: ["DC v. Wesby"]
 tags: ["case", "fourth-amendment", "probable-cause", "totality-of-the-circumstances", "qualified-immunity"]
+holding: "Probable cause is a totality inquiry; courts must not divide-and-conquer the facts."
 ---
 
 # District of Columbia v. Wesby

@@ -26,6 +26,7 @@ homes:
 related: ["[[Edwards v. Arizona]]", "[[Arizona v. Roberson]]", "[[Minnick v. Mississippi]]", "[[Berghuis v. Thompkins]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "edwards-rule", "break-in-custody", "reinterrogation"]
+holding: "Edwards protection ends after a 14-day break in Miranda custody; once 14 days pass, police may re-approach and seek a fresh waiver.…"
 ---
 
 # Maryland v. Shatzer

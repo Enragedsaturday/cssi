@@ -26,6 +26,7 @@ homes:
 related: ["[[Arizona v. Gant]]", "[[Chimel v. California]]"]
 aliases: ["United States v. Howard Davis (4th Cir. 2021)"]
 tags: ["case", "fourth-amendment", "search-incident-to-arrest", "gant", "container-search", "reaching-distance", "fourth-circuit"]
+holding: "Gant's FIRST holding (the Chimel reachability/officer-safety prong) applies OUTSIDE the vehicle context — to non-vehicular containers…"
 ---
 
 # United States v. Howard Davis

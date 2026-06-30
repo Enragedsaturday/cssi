@@ -26,6 +26,7 @@ homes:
 related: ["[[City of Tahlequah v. Bond]]", "[[District of Columbia v. Wesby]]", "[[Saucier v. Katz]]", "[[Pearson v. Callahan]]", "[[Graham v. Connor]]"]
 aliases: []
 tags: ["case", "qualified-immunity", "section-1983", "excessive-force", "clearly-established", "per-curiam"]
+holding: "For QI, the plaintiff must identify a case that put the officer on notice that his specific conduct was unlawful, 'in light of the specific context of the case, not as a broad general proposition.'"
 ---
 
 # Rivas-Villegas v. Cortesluna

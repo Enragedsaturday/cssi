@@ -26,6 +26,7 @@ homes:
 related: ["[[Michigan v. Jackson]]", "[[Edwards v. Arizona]]", "[[McNeil v. Wisconsin]]", "[[Maryland v. Shatzer]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel", "waiver", "interrogation"]
+holding: "A defendant may validly waive his Sixth Amendment right to counsel during police-initiated interrogation even after counsel has been…"
 ---
 
 # Montejo v. Louisiana

@@ -26,6 +26,7 @@ homes:
 related: ["[[Illinois v. Rodriguez]]", "[[Georgia v. Randolph]]", "[[Fernandez v. California]]", "[[Schneckloth v. Bustamonte]]", "[[Frazier v. Cupp]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "consent-search", "third-party-consent", "common-authority", "joint-access"]
+holding: "COMMON AUTHORITY: consent of one who possesses common authority over premises or effects is valid against an absent, nonconsenting…"
 ---
 
 # United States v. Matlock

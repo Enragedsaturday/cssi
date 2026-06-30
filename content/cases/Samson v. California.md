@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Knights]]", "[[Griffin v. Wisconsin]]", "[[Board of Education v. Earls]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "parolee", "suspicionless-search", "diminished-privacy", "special-needs"]
+holding: "A suspicionless search of a parolee is reasonable; a parolee subject to a search condition has severely diminished privacy expectations,…"
 ---
 
 # Samson v. California

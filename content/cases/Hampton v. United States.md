@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Russell]]", "[[Sorrells v. United States]]", "[[Sherman v. United States]]"]
 aliases: ["Hampton v. US"]
 tags: ["case", "entrapment", "due-process", "predisposition", "outrageous-government-conduct"]
+holding: "Neither the entrapment defense nor the Due Process Clause bars conviction of a PREDISPOSED defendant even where a government agent…"
 ---
 
 # Hampton v. United States

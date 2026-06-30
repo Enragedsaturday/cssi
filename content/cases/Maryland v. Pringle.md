@@ -26,6 +26,7 @@ homes:
 related: ["[[Ybarra v. Illinois]]", "[[Illinois v. Gates]]", "[[Devenpeck v. Alford]]", "[[Brinegar v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "probable-cause", "arrest", "common-enterprise"]
+holding: "Where drugs and cash are found in a car and no occupant claims them, an officer has probable cause to arrest all the occupants on a…"
 ---
 
 # Maryland v. Pringle

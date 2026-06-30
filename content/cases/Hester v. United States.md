@@ -28,6 +28,7 @@ homes:
 related: ["[[Oliver v. United States]]", "[[United States v. Dunn]]", "[[California v. Greenwood]]", "[[Abel v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "open-fields", "curtilage", "abandonment"]
+holding: "Origin of the open-fields doctrine — 4A protection of 'persons, houses, papers, and effects' does not extend to open fields; and a fleeing suspect who drops containers abandons any 4A interest in them."
 ---
 
 # Hester v. United States

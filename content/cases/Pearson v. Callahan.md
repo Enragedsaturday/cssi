@@ -26,6 +26,7 @@ homes:
 related: ["[[Saucier v. Katz]]", "[[Harlow v. Fitzgerald]]", "[[Graham v. Connor]]", "[[Rivas-Villegas v. Cortesluna]]"]
 aliases: []
 tags: ["case", "qualified-immunity", "section-1983", "saucier-sequence", "clearly-established"]
+holding: "The Saucier two-step sequence, while often appropriate, is NO LONGER MANDATORY. Lower courts may exercise discretion over which prong…"
 ---
 
 # Pearson v. Callahan

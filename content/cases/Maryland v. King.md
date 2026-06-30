@@ -26,6 +26,7 @@ homes:
 related: ["[[Schmerber v. California]]", "[[Florence v. Board of Chosen Freeholders]]", "[[Skinner v. Railway Labor Executives Association]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "dna", "booking", "arrestee", "special-needs"]
+holding: "Taking a buccal (cheek) DNA swab from a person arrested for a serious offense and held in custody is a reasonable booking procedure…"
 ---
 
 # Maryland v. King

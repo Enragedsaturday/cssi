@@ -26,6 +26,7 @@ homes:
 related: ["[[Schneckloth v. Bustamonte]]", "[[Florida v. Bostick]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "consent-search", "voluntariness", "traffic-stop"]
+holding: "No-warning rule: officers need not tell a lawfully stopped motorist he is 'free to go' for his subsequent consent to search to be voluntary."
 ---
 
 # Ohio v. Robinette

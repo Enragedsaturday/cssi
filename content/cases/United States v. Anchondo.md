@@ -26,6 +26,7 @@ homes:
 related: ["[[Chimel v. California]]", "[[Rawlings v. Kentucky]]", "[[Arizona v. Gant]]"]
 aliases: ["United States v. Erick Anchondo"]
 tags: ["case", "fourth-amendment", "search-incident-to-arrest", "automobile"]
+holding: "ACTUAL holding: cocaine found on the defendant's body was the product of a lawful SEARCH INCIDENT TO ARREST, not the automobile…"
 ---
 
 # United States v. Anchondo

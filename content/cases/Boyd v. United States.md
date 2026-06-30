@@ -26,6 +26,7 @@ homes:
 related: ["[[Entick v. Carrington]]", "[[Warden v. Hayden]]", "[[Fisher v. United States]]"]
 aliases: ["Boyd v. US"]
 tags: ["case", "fourth-amendment", "common-law-origins", "fifth-amendment", "history"]
+holding: "Recounts the founding history and adopts *Entick v. Carrington* as 'the true and ultimate expression of constitutional law' embodied in the Fourth Amendment."
 ---
 
 # Boyd v. United States

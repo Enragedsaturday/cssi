@@ -26,6 +26,7 @@ homes:
 related: ["[[Tennessee v. Garner]]", "[[Scott v. Harris]]", "[[Kisela v. Hughes]]", "[[White v. Pauly]]"]
 aliases: []
 tags: ["case", "section-1983", "qualified-immunity", "excessive-force", "clearly-established"]
+holding: "'Clearly established' law must be particularized to the specific context — 'the dispositive question is whether the violative nature of particular conduct is clearly established.'"
 ---
 
 # Mullenix v. Luna

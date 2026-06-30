@@ -26,6 +26,7 @@ homes:
 related: ["[[Rakas v. Illinois]]", "[[Jones v. United States]]", "[[Rawlings v. Kentucky]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "standing", "automatic-standing", "possessory-offense", "expectation-of-privacy"]
+holding: "Abolished automatic standing; a defendant charged with a possessory crime must show that his own Fourth Amendment rights (a legitimate…"
 ---
 
 # United States v. Salvucci

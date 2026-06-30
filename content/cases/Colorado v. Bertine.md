@@ -28,6 +28,7 @@ homes:
 related: ["[[Illinois v. Lafayette]]", "[[Florida v. Wells]]", "[[South Dakota v. Opperman]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "inventory-search", "impoundment", "standardized-criteria", "closed-container"]
+holding: "Inventory searches (including opening closed containers) are permissible where police discretion is exercised according to standardized…"
 ---
 
 # Colorado v. Bertine

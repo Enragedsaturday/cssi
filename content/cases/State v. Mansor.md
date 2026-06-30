@@ -26,6 +26,7 @@ homes:
 related: ["[[Riley v. California]]", "[[Carpenter v. United States]]", "[[State v. Volle]]"]
 aliases: []
 tags: ["case", "state-constitution", "digital-search", "computer-warrant", "particularity", "oregon"]
+holding: "Decided under Article I, section 9 of the OREGON Constitution: the State may not USE information found in a computer search that the…"
 ---
 
 # State v. Mansor

@@ -26,6 +26,7 @@ homes:
 related: ["[[Terry v. Ohio]]", "[[Delaware v. Prouse]]", "[[United States v. Cortez]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "terry-stop", "collective-knowledge", "fellow-officer-rule", "wanted-flyer", "completed-crime"]
+holding: "Police may conduct a Terry investigatory stop in objective reliance on a wanted flyer or bulletin issued by another police department if…"
 ---
 
 # United States v. Hensley

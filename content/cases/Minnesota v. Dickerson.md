@@ -26,6 +26,7 @@ homes:
 related: ["[[Terry v. Ohio]]", "[[Horton v. California]]", "[[Arizona v. Hicks]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "plain-feel", "plain-view", "terry", "frisk"]
+holding: "Plain-feel corollary: contraband whose identity is immediately apparent by touch during a lawful *Terry* frisk may be seized — but not where the officer squeezed/manipulated it to ID it."
 ---
 
 # Minnesota v. Dickerson

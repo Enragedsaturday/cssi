@@ -26,6 +26,7 @@ homes:
 related: ["[[Massiah v. United States]]", "[[Kuhlmann v. Wilson]]", "[[Illinois v. Perkins]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel", "informants", "attachment"]
+holding: "A defendant has no Sixth Amendment claim when a government informant elicits statements **before** the right has attached; planting an informant raises no 6A problem pre-attachment."
 ---
 
 # Hoffa v. United States

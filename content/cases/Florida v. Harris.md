@@ -26,6 +26,7 @@ homes:
 related: ["[[Illinois v. Gates]]", "[[Florida v. Jardines]]", "[[District of Columbia v. Wesby]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "probable-cause", "drug-dog", "dog-sniff"]
+holding: "Whether a dog's alert furnishes probable cause is a totality-of-the-circumstances question; evidence of a dog's satisfactory performance…"
 ---
 
 # Florida v. Harris

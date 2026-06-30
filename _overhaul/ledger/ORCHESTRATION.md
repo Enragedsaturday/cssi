@@ -19,7 +19,7 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 | S1 | STANDARDS.md + LINT roster | ✅ done | committed ce6b5cd |
 | S2 | IA folder restructure + aliases | ✅ done | committed e3f37ca; 44 moves, 0 broken links |
 | S3 | Platform/nav/UX + components | ✅ done | nav b713b2b + components 09cdca8; build ok. S9 flags: CaseBrowser live render, data-island scaling, slug-casing deep-link check |
-| S4 | Case pages (BIRAC) + index | ⏳ in progress | 262 pages, serial-CL batches of ~15; batch tracker below |
+| S4 | Case pages (BIRAC) + index | ✅ done | 262 pages, 0 escalations; Case Index regen diff-clean, LINT-6 clean, build ok. Deep gate→S9. |
 | S5 | Missed-case ingest + concordance | ⏳ blocked(S4) | borderline → USER PAUSE |
 | S6 | Doctrine/narrative reformat | ⏳ blocked(S5) | caretaking split, Garrity page |
 | S7+S8 | Research pages + glossary wiring | ⏳ blocked(S6) | anchorize-then-wire |
@@ -42,7 +42,17 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 - batch 13: idx 234–253 — ✅ committed (19 pages + idx 252 skipped, 0 esc, ~67 CL calls). Splits flagged inline (Touset↔Cotterman, Tuggle); Sandoval lexicon fix; Morton N1 (ratio=good-faith, homed Plain View). **CONFIRMED: Thornton NOT in worklist → S5 MUST ingest (class-2 miss); Gant/Belton refs dangle until then.**
 - batch 14: idx 254–265 — ✅ committed (12 pages, 0 esc, ~37 CL calls). Weeks, Wong Sun, Whren, Warden v. Hayden, Houghton.
 - **✅ S4 GENERATION COMPLETE: 262/262 case pages, 0 escalations, no throttle.** All needs_page=true → authored; pending = idx 177/212/252 (flagged captions, correctly page-less).
-- S4 wrap-up: ⏳ Case Index regen (R10) + lint baseline + build validation, then free structural gate (deep legal re-verify deferred to S9 SR-1, to avoid redundant CL).
+- S4 wrap-up: ✅ Case Index regenerated (265 rows, diff-clean/idempotent, **LINT-6 clean, 0 blank treatment**), 262 pages enriched w/ `holding:`, `npx quartz build` SUCCEEDS (1214 files). Skinner alias break fixed. Scripts: `scripts/build_case_index.py`, `scripts/enrich_case_holdings.py`.
+- **S4 R12 deep gate DEFERRED to S9** (SR-1 re-verifies every case live anyway — avoids redundant CL). Generation self-verified + lint-baselined.
+
+### S4 deferred items (for S6/S9)
+- **LINT-2 (S9 CL gate):** 41 case-page quotes in Background/Issue/Application/Conclusion lack a nearby pinpoint → de-quote (record/affidavit phrasing) or CL-pin at S9. Plus: upgrade LINT-2 `PINCITE_RE` to recognize `¶`-paragraph pincites (8 false-positives, e.g. Carroll/Benn).
+- **Case Index holdings:** 215 one-liners are truncated with `…` (carried verbatim from the prior index) — optionally expand from each page's `## Rule` at S6/S9. Low priority.
+- **Case Index residual (inherited, verbatim):** 1 LINT-4 "persuasive, not binding" inside the US v. August holding cell; 1 LINT-2 in Davis holding — fix when regenerating holdings.
+
+### S5 candidate seed — 37 missing-case forward-refs surfaced by the S4 build (named-in-prose / class-2/3 misses)
+Arizona v. Johnson · Berger v. New York · Birchfield v. North Dakota · Brown v. Texas · California v. Beheler · Chapman v. California · City of Canton v. Harris · Donovan v. Dewey · Dunaway v. New York · Entick v. Carrington · Fisher v. United States · Florence v. Board of Chosen Freeholders · Florida v. Riley · Florida v. Royer · Hill v. California · Kisela v. Hughes · Kyllo v. United States · Los Angeles County v. Rettele · Marshall v. Barlow's Inc. · Mathis v. United States · Mooney v. Holohan · Pembaur v. City of Cincinnati · Safford Unified School District v. Redding · Schmerber v. California · See v. City of Seattle · Silverthorne Lumber Co. v. United States · Smith v. Maryland · Spinelli v. United States · Thornton v. United States · United States v. Biswell · United States v. Chadwick · United States v. Dunn · United States v. Janis · White v. Pauly · Wolf v. Colorado · Yarborough v. Alvarado · Ybarra v. Illinois
+(These are a SEED for S5's candidate pool — S5 still runs the full book-diff + named-in-prose + Thread-P union + field-relevance gate + dual-thread concordance.)
 
 ### S4 findings carried to S5/S6/S9 (gate)
 - **S5 class-2 ingest:** Thornton v. United States (Belton/Gant companion; dangling refs).

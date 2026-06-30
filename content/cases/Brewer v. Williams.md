@@ -26,6 +26,7 @@ homes:
 related: ["[[Massiah v. United States]]", "[[Nix v. Williams]]", "[[Kirby v. Illinois]]"]
 aliases: ["Brewer v. Williams (Williams I)"]
 tags: ["case", "sixth-amendment", "right-to-counsel", "deliberate-elicitation", "interrogation"]
+holding: "The detective's \"Christian burial speech\" was the functional equivalent of interrogation and deliberately elicited incriminating…"
 ---
 
 # Brewer v. Williams

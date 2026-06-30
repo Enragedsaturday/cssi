@@ -26,6 +26,7 @@ homes:
 related: ["[[Georgia v. Randolph]]", "[[Illinois v. Rodriguez]]", "[[United States v. Matlock]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "consent", "co-occupant", "third-party-consent"]
+holding: "Randolph is limited to a PHYSICALLY PRESENT objector. Once the objecting occupant is lawfully removed (e.g., by arrest), the remaining…"
 ---
 
 # Fernandez v. California

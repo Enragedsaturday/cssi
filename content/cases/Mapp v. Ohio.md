@@ -26,6 +26,7 @@ homes:
 related: ["[[Weeks v. United States]]", "[[Wolf v. Colorado]]", "[[United States v. Leon]]", "[[Herring v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exclusionary-rule", "incorporation", "fourteenth-amendment"]
+holding: "The exclusionary rule applies to the States through the Fourteenth Amendment."
 ---
 
 # Mapp v. Ohio

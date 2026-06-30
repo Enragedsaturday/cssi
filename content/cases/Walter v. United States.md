@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Jacobsen]]"]
 aliases: ["Walter v. US"]
 tags: ["case", "fourth-amendment", "private-search", "scope", "search-definition"]
+holding: "The government may not exceed the scope of a prior private search; the FBI's screening of films the private party had not viewed was a separate, unlawful search."
 ---
 
 # Walter v. United States

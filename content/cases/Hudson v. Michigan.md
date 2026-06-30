@@ -26,6 +26,7 @@ homes:
 related: ["[[Wilson v. Arkansas]]", "[[Richards v. Wisconsin]]", "[[Mapp v. Ohio]]", "[[United States v. Leon]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "knock-and-announce", "exclusionary-rule", "warrant"]
+holding: "A knock-and-announce violation does NOT require suppression of the evidence found inside; the interests protected by knock-and-announce…"
 ---
 
 # Hudson v. Michigan

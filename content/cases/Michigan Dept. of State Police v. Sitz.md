@@ -26,6 +26,7 @@ homes:
 related: ["[[City of Indianapolis v. Edmond]]", "[[Delaware v. Prouse]]", "[[Camara v. Municipal Court]]"]
 aliases: ["Michigan Department of State Police v. Sitz"]
 tags: ["case", "fourth-amendment", "checkpoint", "special-needs", "dui", "seizure"]
+holding: "Suspicionless sobriety (DUI) checkpoints are constitutional; the state's interest in combating drunk driving and the checkpoint's…"
 ---
 
 # Michigan Dept. of State Police v. Sitz

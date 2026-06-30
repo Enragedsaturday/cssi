@@ -26,6 +26,7 @@ homes:
 related: ["[[See v. City of Seattle]]", "[[City of Los Angeles v. Patel]]", "[[New York v. Burger]]"]
 aliases: ["Camara v. Municipal Court of City and County of San Francisco"]
 tags: ["case", "fourth-amendment", "administrative-search", "inspection", "warrant"]
+holding: "Administrative inspections of private property generally require a warrant, but it may be an \"area warrant\" issued on reasonable…"
 ---
 
 # Camara v. Municipal Court

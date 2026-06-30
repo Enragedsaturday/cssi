@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Ross]]", "[[California v. Acevedo]]", "[[Maryland v. Pringle]]"]
 aliases: ["Houghton"]
 tags: ["case", "fourth-amendment", "automobile-exception", "containers", "passengers", "probable-cause"]
+holding: "With PC to search a car, officers may search a passenger's belongings capable of concealing the object; a non-suspect passenger's ownership is no shield."
 ---
 
 # Wyoming v. Houghton

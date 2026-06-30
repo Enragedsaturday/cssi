@@ -26,6 +26,7 @@ homes:
 related: ["[[Miranda v. Arizona]]", "[[California v. Beheler]]", "[[Stansbury v. California]]", "[[Howes v. Fields]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "custody", "station-house"]
+holding: "A suspect who comes voluntarily to the station, is told he is not under arrest, and is free to leave is NOT in custody for Miranda —…"
 ---
 
 # Oregon v. Mathiason

@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Flores-Montano]]", "[[United States v. Martinez-Fuerte]]", "[[Almeida-Sanchez v. United States]]", "[[Terry v. Ohio]]", "[[United States v. Cortez]]"]
 aliases: ["United States v. Rosa Elvira Montoya de Hernandez"]
 tags: ["case", "fourth-amendment", "border-searches", "reasonable-suspicion", "alimentary-canal-smuggling", "detention"]
+holding: "The prolonged detention of a suspected alimentary-canal (balloon) smuggler at the border is reasonable when customs officers have…"
 ---
 
 # United States v. Montoya de Hernandez

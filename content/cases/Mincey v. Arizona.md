@@ -26,6 +26,7 @@ homes:
 related: ["[[Brigham City v. Stuart]]", "[[Michigan v. Fisher]]", "[[Caniglia v. Strom]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "emergency-aid", "exigent-circumstances", "warrantless-search", "home"]
+holding: "No 'murder scene' exception: the seriousness of the offense does not by itself create exigency. BUT police may make warrantless entries…"
 ---
 
 # Mincey v. Arizona

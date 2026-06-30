@@ -26,6 +26,7 @@ homes:
 related: ["[[Minnesota v. Olson]]", "[[Rakas v. Illinois]]", "[[Byrd v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "standing", "expectation-of-privacy", "home", "commercial"]
+holding: "A short-term visitor present in another's home for a purely commercial purpose (bagging drugs), with no prior relationship and no…"
 ---
 
 # Minnesota v. Carter

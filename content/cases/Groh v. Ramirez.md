@@ -26,6 +26,7 @@ homes:
 related: ["[[Maryland v. Garrison]]", "[[United States v. Leon]]", "[[Massachusetts v. Sheppard]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "warrant", "particularity", "qualified-immunity", "facial-invalidity"]
+holding: "A warrant that utterly **fails to describe the persons or things to be seized** is facially invalid under the Particularity Clause —…"
 ---
 
 # Groh v. Ramirez

@@ -26,6 +26,7 @@ homes:
 related: ["[[California v. Hodari D.]]", "[[Tennessee v. Garner]]", "[[Graham v. Connor]]", "[[Brendlin v. California]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "seizure"]
+holding: "Physical force applied with intent to restrain is a seizure at the moment of application, even if the person does not submit and is not subdued."
 ---
 
 # Torres v. Madrid

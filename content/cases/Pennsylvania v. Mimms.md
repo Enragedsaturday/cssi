@@ -26,6 +26,7 @@ homes:
 related: ["[[Maryland v. Wilson]]", "[[Terry v. Ohio]]", "[[Rodriguez v. United States]]", "[[Delaware v. Prouse]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "traffic-stops", "officer-safety", "order-out-of-vehicle", "per-curiam"]
+holding: "Once a vehicle is lawfully stopped for a traffic violation, an officer may order the driver out of the vehicle as a matter of course;…"
 ---
 
 # Pennsylvania v. Mimms

@@ -26,6 +26,7 @@ homes:
 related: ["[[Brady v. Maryland]]", "[[Giglio v. United States]]", "[[United States v. Bagley]]", "[[Smith v. Cain]]"]
 aliases: []
 tags: ["case", "brady", "exculpatory-evidence", "materiality", "disclosure"]
+holding: "Two load-bearing points: (1) materiality is assessed CUMULATIVELY — all suppressed evidence considered collectively, not item by item;…"
 ---
 
 # Kyles v. Whitley

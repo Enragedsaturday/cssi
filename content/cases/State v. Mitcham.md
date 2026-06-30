@@ -26,6 +26,7 @@ homes:
 related: ["[[Nix v. Williams]]", "[[Murray v. United States]]", "[[Segura v. United States]]", "[[Herring v. United States]]", "[[Utah v. Strieff]]"]
 aliases: ["State of Arizona v. Ian Mitcham"]
 tags: ["case", "exclusionary-rule", "inevitable-discovery", "independent-source", "dna", "arizona"]
+holding: "Arizona Supreme Court applies the independent-source exception: evidence discovered during/because of an unlawful search is admissible…"
 ---
 
 # State v. Mitcham

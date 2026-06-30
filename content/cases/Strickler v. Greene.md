@@ -26,6 +26,7 @@ homes:
 related: ["[[Brady v. Maryland]]", "[[Giglio v. United States]]", "[[Smith v. Cain]]", "[[Kyles v. Whitley]]", "[[United States v. Bagley]]"]
 aliases: []
 tags: ["case", "brady", "materiality", "suppression", "prejudice"]
+holding: "Canonical statement of the THREE Brady components: (1) the evidence must be favorable (exculpatory OR impeaching); (2) it must have been…"
 ---
 
 # Strickler v. Greene

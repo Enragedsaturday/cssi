@@ -26,6 +26,7 @@ homes:
 related: ["[[Carroll v. United States]]", "[[California v. Acevedo]]", "[[California v. Carney]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "automobile-exception", "warrantless-search", "vehicle", "station-house"]
+holding: "Where there was PC and mobility at the scene, officers may search the vehicle without a warrant later at the station house; immediate…"
 ---
 
 # Chambers v. Maroney

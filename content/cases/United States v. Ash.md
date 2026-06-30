@@ -26,6 +26,7 @@ homes:
 related: ["[[Kirby v. Illinois]]", "[[Gilbert v. California]]", "[[Manson v. Brathwaite]]", "[[Neil v. Biggers]]", "[[Stovall v. Denno]]"]
 aliases: ["United States v. Charles J. Ash, Jr."]
 tags: ["case", "sixth-amendment", "eyewitness-identification", "right-to-counsel"]
+holding: "The Sixth Amendment does not grant a right to counsel at a post-indictment photographic display (no trial-like confrontation, since the…"
 ---
 
 # United States v. Ash

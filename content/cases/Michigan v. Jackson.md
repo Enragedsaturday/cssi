@@ -26,6 +26,7 @@ homes:
 related: ["[[Montejo v. Louisiana]]", "[[Edwards v. Arizona]]", "[[McNeil v. Wisconsin]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel", "waiver", "overruled", "historical"]
+holding: "Held a post-appointment, police-initiated waiver of the Sixth Amendment right to counsel presumptively invalid — **overruled by *Montejo v. Louisiana* (2009)**; survives only as history."
 ---
 
 # Michigan v. Jackson

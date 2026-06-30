@@ -26,6 +26,7 @@ homes:
 related: ["[[California v. Ciraolo]]", "[[Arizona v. Hicks]]", "[[Katz v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "plain-view", "open-view", "expectation-of-privacy", "north-carolina"]
+holding: "A reasonable expectation of privacy in a building's interior is NOT eliminated by small (quarter-inch) cracks; an officer who must 'bend…"
 ---
 
 # State v. Tarantino

@@ -26,6 +26,7 @@ homes:
 related: ["[[Graham v. Connor]]", "[[Scott v. Harris]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "use-of-force", "deadly-force", "seizure"]
+holding: "Deadly force against an apparently unarmed, non-dangerous fleeing suspect is an unreasonable seizure; deadly force needs PC to believe the suspect poses a significant threat of death or serious injury."
 ---
 
 # Tennessee v. Garner

@@ -26,6 +26,7 @@ homes:
 related: ["[[Miranda v. Arizona]]", "[[Howes v. Fields]]", "[[J.D.B. v. North Carolina]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "custody", "traffic-stop", "interrogation"]
+holding: "(1) Miranda applies to ALL custodial interrogation regardless of the offense's severity — misdemeanors included; (2) the temporary,…"
 ---
 
 # Berkemer v. McCarty

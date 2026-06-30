@@ -26,6 +26,7 @@ homes:
 related: ["[[Massiah v. United States]]", "[[Maine v. Moulton]]", "[[United States v. Henry]]", "[[Brewer v. Williams]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel", "deliberate-elicitation", "jailhouse-informant"]
+holding: "A defendant does not make out a Sixth Amendment violation merely by showing an informant reported his statements; he must show the…"
 ---
 
 # Kuhlmann v. Wilson

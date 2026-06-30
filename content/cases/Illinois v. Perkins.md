@@ -26,6 +26,7 @@ homes:
 related: ["[[Miranda v. Arizona]]", "[[Hoffa v. United States]]", "[[Rhode Island v. Innis]]", "[[Berkemer v. McCarty]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "undercover", "custodial-interrogation"]
+holding: "Miranda warnings are not required when an undercover officer (or agent) posing as an inmate elicits statements from a suspect — because…"
 ---
 
 # Illinois v. Perkins

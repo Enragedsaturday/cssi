@@ -26,6 +26,7 @@ homes:
 related: ["[[Cady v. Dombrowski]]", "[[Brigham City v. Stuart]]", "[[Kentucky v. King]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "community-caretaking", "home", "warrantless-entry"]
+holding: "There is NO freestanding 'community caretaking' exception authorizing warrantless entry into the HOME. Cady's caretaking rationale was…"
 ---
 
 # Caniglia v. Strom

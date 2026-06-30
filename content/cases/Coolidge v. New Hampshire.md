@@ -28,6 +28,7 @@ homes:
 related: ["[[Horton v. California]]", "[[Arizona v. Hicks]]", "[[Texas v. Brown]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "plain-view", "warrant-requirement", "inadvertence", "immediately-apparent"]
+holding: "ORIGIN of the modern plain-view doctrine (Stewart plurality). Plain view justifies a warrantless seizure only where the incriminating…"
 ---
 
 # Coolidge v. New Hampshire

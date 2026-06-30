@@ -26,6 +26,7 @@ homes:
 related: ["[[Neil v. Biggers]]", "[[Stovall v. Denno]]", "[[United States v. Wade]]", "[[Perry v. New Hampshire]]"]
 aliases: []
 tags: ["case", "due-process", "eyewitness-identification", "suggestive-procedure", "reliability"]
+holding: "There is no per se rule excluding identifications from unnecessarily suggestive procedures; reliability is the linchpin, assessed under…"
 ---
 
 # Manson v. Brathwaite

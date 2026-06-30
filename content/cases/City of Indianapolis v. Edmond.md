@@ -26,6 +26,7 @@ homes:
 related: ["[[Illinois v. Lidster]]", "[[Delaware v. Prouse]]", "[[Ferguson v. City of Charleston]]"]
 aliases: ["Indianapolis v. Edmond"]
 tags: ["case", "fourth-amendment", "checkpoint", "roadblock", "special-needs", "programmatic-purpose"]
+holding: "A checkpoint program whose primary purpose is to detect ordinary criminal wrongdoing / general crime control (here, drug interdiction)…"
 ---
 
 # City of Indianapolis v. Edmond

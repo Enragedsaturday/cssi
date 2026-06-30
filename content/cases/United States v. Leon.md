@@ -28,6 +28,7 @@ homes:
 related: ["[[Massachusetts v. Sheppard]]", "[[Herring v. United States]]", "[[Davis v. United States]]", "[[Franks v. Delaware]]", "[[Illinois v. Gates]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exclusionary-rule", "good-faith-exception", "search-warrant", "deterrence"]
+holding: "Good-faith exception: evidence obtained by officers in objectively reasonable reliance on a search warrant later found unsupported by…"
 ---
 
 # United States v. Leon

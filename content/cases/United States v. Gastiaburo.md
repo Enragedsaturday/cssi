@@ -26,6 +26,7 @@ homes:
 related: ["[[California v. Acevedo]]", "[[Carroll v. United States]]", "[[United States v. Johns]]", "[[Chambers v. Maroney]]"]
 aliases: ["United States v. Gastiaburo (4th Cir. 1994)"]
 tags: ["case", "fourth-amendment", "automobile-exception", "impoundment", "delayed-search", "fourth-circuit"]
+holding: "The automobile exception is not subject to a temporal limit; a 38-day gap between the car's seizure and the warrantless search did not…"
 ---
 
 # United States v. Gastiaburo

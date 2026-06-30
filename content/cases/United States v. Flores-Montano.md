@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Montoya de Hernandez]]", "[[United States v. Martinez-Fuerte]]", "[[Carroll v. United States]]", "[[Almeida-Sanchez v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "border-searches", "vehicle-search", "gas-tank", "suspicionless-search"]
+holding: "The government's authority to conduct suspicionless searches of vehicles at the border includes disassembling and reassembling a gas…"
 ---
 
 # United States v. Flores-Montano

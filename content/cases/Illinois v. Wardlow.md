@@ -26,6 +26,7 @@ homes:
 related: ["[[Terry v. Ohio]]", "[[Florida v. J.L.]]", "[[Alabama v. White]]", "[[Brown v. Texas]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "reasonable-suspicion", "terry-stop", "flight", "high-crime-area"]
+holding: "Unprovoked headlong flight upon noticing police, combined with presence in a high-crime area, can furnish reasonable suspicion for a…"
 ---
 
 # Illinois v. Wardlow

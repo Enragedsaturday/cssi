@@ -26,6 +26,7 @@ homes:
 related: ["[[Katz v. United States]]", "[[United States v. Jones]]", "[[Olmstead v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "search", "trespass", "electronic-surveillance"]
+holding: "A 'spike mike' physically penetrating the wall into the house was a search — an unauthorized physical intrusion into a constitutionally protected area, not measured by 'technical trespass' niceties."
 ---
 
 # Silverman v. United States

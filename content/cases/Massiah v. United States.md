@@ -26,6 +26,7 @@ homes:
 related: ["[[Maine v. Moulton]]", "[[Kuhlmann v. Wilson]]", "[[Brewer v. Williams]]", "[[United States v. Henry]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel", "deliberate-elicitation", "post-indictment"]
+holding: "Once adversary proceedings have begun (here, post-indictment), the government violates the Sixth Amendment when it deliberately elicits…"
 ---
 
 # Massiah v. United States

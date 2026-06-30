@@ -26,6 +26,7 @@ homes:
 related: ["[[Brown v. Mississippi]]", "[[Chambers v. Florida]]", "[[Colorado v. Connelly]]"]
 aliases: []
 tags: ["case", "due-process", "confessions", "voluntariness", "interrogation"]
+holding: "Thirty-six hours of continuous, relay interrogation without sleep is \"inherently coercive,\" rendering the resulting confession…"
 ---
 
 # Ashcraft v. Tennessee

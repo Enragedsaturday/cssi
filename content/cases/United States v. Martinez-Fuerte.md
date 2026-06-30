@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Brignoni-Ponce]]", "[[Almeida-Sanchez v. United States]]", "[[Michigan Dept. of State Police v. Sitz]]", "[[City of Indianapolis v. Edmond]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "border-searches", "immigration-checkpoint", "fixed-checkpoint", "individualized-suspicion"]
+holding: "Brief stops at fixed/permanent interior immigration checkpoints are constitutional without any individualized suspicion; routine…"
 ---
 
 # United States v. Martinez-Fuerte

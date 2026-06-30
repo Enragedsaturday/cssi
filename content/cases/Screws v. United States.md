@@ -26,6 +26,7 @@ homes:
 related: ["[[Monroe v. Pape]]"]
 aliases: []
 tags: ["case", "civil-rights", "color-of-law", "section-242", "willfulness"]
+holding: "Construing 18 U.S.C. § 242 'willfully' — the criminal civil-rights statute requires a specific-intent (willful) deprivation of constitutional rights under color of law."
 ---
 
 # Screws v. United States

@@ -26,6 +26,7 @@ homes:
 related: ["[[Richards v. Wisconsin]]", "[[Hudson v. Michigan]]"]
 aliases: ["Wilson"]
 tags: ["case", "fourth-amendment", "knock-and-announce", "warrant-execution", "reasonableness"]
+holding: "The common-law **knock-and-announce** principle — that officers must announce their presence and authority before forcibly entering a…"
 ---
 
 # Wilson v. Arkansas

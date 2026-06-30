@@ -26,6 +26,7 @@ homes:
 related: ["[[Massiah v. United States]]", "[[Brewer v. Williams]]", "[[Kuhlmann v. Wilson]]", "[[Maine v. Moulton]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel", "jailhouse-informant", "deliberately-elicited", "massiah"]
+holding: "By intentionally creating a situation likely to induce the indicted defendant to make incriminating statements, the government (through…"
 ---
 
 # United States v. Henry

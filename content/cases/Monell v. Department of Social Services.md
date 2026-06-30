@@ -26,6 +26,7 @@ homes:
 related: ["[[Monroe v. Pape]]", "[[City of Canton v. Harris]]", "[[Pembaur v. City of Cincinnati]]"]
 aliases: ["Monell v. New York City Dept. of Social Servs.", "Monell v. Department of Social Services of the City of New York"]
 tags: ["case", "section-1983", "municipal-liability", "policy-or-custom", "respondeat-superior"]
+holding: "Local governments ARE 'persons' suable under § 1983, but ONLY when the constitutional injury is caused by the execution of an official…"
 ---
 
 # Monell v. Department of Social Services

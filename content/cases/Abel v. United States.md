@@ -26,6 +26,7 @@ homes:
 related: ["[[Hester v. United States]]", "[[California v. Greenwood]]"]
 aliases: ["Abel v. US"]
 tags: ["case", "fourth-amendment", "abandonment"]
+holding: "Items left in a hotel-room wastebasket after the guest paid up and **vacated** the room were abandoned ('bona vacantia'); their warrantless seizure was lawful."
 ---
 
 # Abel v. United States

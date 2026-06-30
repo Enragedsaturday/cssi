@@ -26,6 +26,7 @@ homes:
 related: ["[[Delaware v. Prouse]]", "[[Pennsylvania v. Mimms]]", "[[Heien v. North Carolina]]"]
 aliases: ["Whren"]
 tags: ["case", "fourth-amendment", "traffic-stops", "pretext", "probable-cause", "subjective-intent"]
+holding: "An officer's subjective motive is irrelevant to the Fourth Amendment validity of a traffic stop; a stop supported by an objective,…"
 ---
 
 # Whren v. United States

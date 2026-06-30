@@ -26,6 +26,7 @@ homes:
 related: ["[[Rakas v. Illinois]]", "[[Jones v. United States]]", "[[Brendlin v. California]]"]
 aliases: ["Byrd v. US"]
 tags: ["case", "fourth-amendment", "standing", "expectation-of-privacy", "rental-car"]
+holding: "A driver in lawful possession and control of a rental car generally has a reasonable expectation of privacy in it, even though he is not…"
 ---
 
 # Byrd v. United States

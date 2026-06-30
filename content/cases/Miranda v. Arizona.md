@@ -26,6 +26,7 @@ homes:
 related: ["[[Dickerson v. United States]]", "[[Berkemer v. McCarty]]", "[[Berghuis v. Thompkins]]", "[[Edwards v. Arizona]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "custodial-interrogation", "warnings", "self-incrimination"]
+holding: "Statements from custodial interrogation are inadmissible unless police first gave the warnings and the suspect knowingly, voluntarily…"
 ---
 
 # Miranda v. Arizona

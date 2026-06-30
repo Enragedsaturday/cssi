@@ -26,6 +26,7 @@ homes:
 related: ["[[Arizona v. Roberson]]", "[[Miranda v. Arizona]]", "[[Davis v. United States]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "invocation", "right-to-counsel", "reinitiation", "bright-line-rule"]
+holding: "Once an accused invokes his Fifth Amendment right to counsel, police may not reinitiate interrogation until counsel has been made…"
 ---
 
 # Edwards v. Arizona

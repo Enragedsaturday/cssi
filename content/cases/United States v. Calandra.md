@@ -26,6 +26,7 @@ homes:
 related: ["[[Mapp v. Ohio]]", "[[Herring v. United States]]", "[[Hudson v. Michigan]]", "[[Immigration & Naturalization Service v. Lopez-Mendoza]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exclusionary-rule"]
+holding: "The exclusionary rule is a judicially created deterrent remedy, not a personal constitutional right; it does not apply to grand-jury…"
 ---
 
 # United States v. Calandra

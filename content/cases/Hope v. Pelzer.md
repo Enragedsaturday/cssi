@@ -26,6 +26,7 @@ homes:
 related: ["[[Harlow v. Fitzgerald]]", "[[Saucier v. Katz]]", "[[City of Tahlequah v. Bond]]"]
 aliases: []
 tags: ["case", "section-1983", "qualified-immunity", "clearly-established-law", "fair-warning"]
+holding: "A right can be clearly established **without a factually identical case** — in an 'obvious case,' officials have fair warning even in novel circumstances (the QI 'obvious case' escape hatch)."
 ---
 
 # Hope v. Pelzer

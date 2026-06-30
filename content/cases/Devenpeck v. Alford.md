@@ -26,6 +26,7 @@ homes:
 related: ["[[Whren v. United States]]", "[[District of Columbia v. Wesby]]", "[[Brinegar v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "probable-cause", "arrest", "objective-standard", "closely-related-offense"]
+holding: "An arrest is lawful so long as the known facts give probable cause for SOME criminal offense; the offense need not be the one the…"
 ---
 
 # Devenpeck v. Alford

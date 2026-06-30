@@ -28,6 +28,7 @@ homes:
 related: ["[[New York v. Belton]]", "[[Chimel v. California]]", "[[Thornton v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "search-incident-to-arrest", "automobile", "vehicle-search"]
+holding: "Cabins Belton. A vehicle search incident to a recent occupant's arrest is permitted only when (1) the arrestee is unsecured and within…"
 ---
 
 # Arizona v. Gant

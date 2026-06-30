@@ -26,6 +26,7 @@ homes:
 related: ["[[Groh v. Ramirez]]", "[[Coolidge v. New Hampshire]]", "[[Warden v. Hayden]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "warrant", "particularity", "fifth-amendment", "business-records"]
+holding: "A particularized warrant to search for and seize a person's business records, and their introduction in evidence, does not violate the…"
 ---
 
 # Andresen v. Maryland

@@ -28,6 +28,7 @@ homes:
 related: ["[[United States v. Santana]]", "[[Welsh v. Wisconsin]]", "[[Kentucky v. King]]", "[[Payton v. New York]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exigent-circumstances", "hot-pursuit", "misdemeanor", "home-entry"]
+holding: "Pursuit of a fleeing MISDEMEANOR suspect does not categorically justify warrantless home entry; courts apply a case-by-case exigency…"
 ---
 
 # Lange v. California

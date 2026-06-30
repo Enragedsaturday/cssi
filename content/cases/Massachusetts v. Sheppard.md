@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Leon]]", "[[Illinois v. Krull]]", "[[Herring v. United States]]", "[[Davis v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exclusionary-rule", "good-faith", "warrant-defect", "leon"]
+holding: "Companion to Leon: where a warrant was technically/clerically defective in form (wrong pre-printed form) but officers reasonably relied…"
 ---
 
 # Massachusetts v. Sheppard

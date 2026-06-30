@@ -26,6 +26,7 @@ homes:
 related: ["[[Florida v. Wells]]", "[[Colorado v. Bertine]]", "[[Illinois v. Lafayette]]", "[[South Dakota v. Opperman]]", "[[Nix v. Williams]]"]
 aliases: ["United States v. Evans (10th Cir. 1991)", "United States v. Daryl Lee Evans"]
 tags: ["case", "fourth-amendment", "inventory-search", "search-incident-to-arrest", "standardized-criteria", "tenth-circuit"]
+holding: "UPHELD an inventory search of a carry-on bag (cocaine found in a container) conducted at a bus station: the officer followed the…"
 ---
 
 # United States v. Evans

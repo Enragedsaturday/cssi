@@ -26,6 +26,7 @@ homes:
 related: ["[[Pennsylvania v. Mimms]]", "[[Brendlin v. California]]", "[[Arizona v. Johnson]]", "[[Rodriguez v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "traffic-stops", "passengers", "officer-safety", "order-out"]
+holding: "Mimms extends to passengers: an officer making a lawful traffic stop may order the passengers, as well as the driver, out of the car…"
 ---
 
 # Maryland v. Wilson

@@ -26,6 +26,7 @@ homes:
 related: ["[[Schmerber v. California]]", "[[Mitchell v. Wisconsin]]", "[[Birchfield v. North Dakota]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exigent-circumstances", "blood-draw", "dui", "warrant"]
+holding: "The natural metabolization of alcohol is NOT a per se exigency justifying a warrantless DUI blood draw in every case; exigency must be…"
 ---
 
 # Missouri v. McNeely

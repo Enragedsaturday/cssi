@@ -26,6 +26,7 @@ homes:
 related: ["[[Nix v. Williams]]", "[[United States v. Neugin]]", "[[Murray v. United States]]"]
 aliases: ["United States v. Soto-Peguero (1st Cir. 2020)"]
 tags: ["case", "fourth-amendment", "exclusionary-rule", "inevitable-discovery", "search-warrant", "first-circuit"]
+holding: "Illustrative application of inevitable discovery: government met its burden (agent would have sought and obtained a warrant regardless),…"
 ---
 
 # United States v. Soto-Peguero

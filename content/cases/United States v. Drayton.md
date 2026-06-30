@@ -26,6 +26,7 @@ homes:
 related: ["[[Florida v. Bostick]]", "[[Schneckloth v. Bustamonte]]", "[[Ohio v. Robinette]]", "[[California v. Hodari D.]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "consent", "seizure"]
+holding: "A bus sweep with consent-to-search requests is not a seizure, and consent can be voluntary even though officers do not advise passengers…"
 ---
 
 # United States v. Drayton

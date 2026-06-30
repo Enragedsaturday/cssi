@@ -26,6 +26,7 @@ homes:
 related: ["[[Carroll v. United States]]", "[[Illinois v. Gates]]", "[[Maryland v. Pringle]]"]
 aliases: ["Brinegar v. US"]
 tags: ["case", "fourth-amendment", "probable-cause"]
+holding: "Classic probable-cause standard: practical, non-technical probabilities on which reasonable people act."
 ---
 
 # Brinegar v. United States

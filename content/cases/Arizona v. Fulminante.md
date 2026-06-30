@@ -26,6 +26,7 @@ homes:
 related: ["[[Colorado v. Connelly]]", "[[Chambers v. Florida]]", "[[Chapman v. California]]"]
 aliases: []
 tags: ["case", "due-process", "confessions", "voluntariness", "harmless-error"]
+holding: "The admission of an involuntary/coerced confession is a \"trial error\" subject to harmless-error analysis under Chapman, not automatic…"
 ---
 
 # Arizona v. Fulminante

@@ -26,6 +26,7 @@ homes:
 related: ["[[Terry v. Ohio]]", "[[United States v. Mendenhall]]", "[[Brendlin v. California]]"]
 aliases: ["California v. Hodari D", "Hodari D."]
 tags: ["case", "fourth-amendment", "seizure", "show-of-authority", "flight"]
+holding: "A show-of-authority seizure is not complete until the suspect submits; contraband discarded while still fleeing is not the fruit of a seizure."
 ---
 
 # California v. Hodari D.

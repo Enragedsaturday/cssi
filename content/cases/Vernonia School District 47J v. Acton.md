@@ -26,6 +26,7 @@ homes:
 related: ["[[Board of Education v. Earls]]", "[[New Jersey v. T.L.O.]]", "[[Skinner v. Railway Labor Executives' Ass'n]]", "[[National Treasury Employees Union v. Von Raab]]"]
 aliases: ["Vernonia v. Acton", "Acton"]
 tags: ["case", "fourth-amendment", "special-needs", "drug-testing", "schools", "student-athletes"]
+holding: "Suspicionless random drug testing of public-school student athletes is reasonable under the special-needs doctrine, given athletes'…"
 ---
 
 # Vernonia School District 47J v. Acton

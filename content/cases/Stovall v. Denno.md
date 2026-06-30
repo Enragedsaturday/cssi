@@ -26,6 +26,7 @@ homes:
 related: ["[[Gilbert v. California]]", "[[United States v. Wade]]", "[[Neil v. Biggers]]", "[[Manson v. Brathwaite]]"]
 aliases: []
 tags: ["case", "eyewitness-identification", "due-process", "suggestive-identification"]
+holding: "A confrontation that is unnecessarily suggestive and conducive to irreparable mistaken identification can violate due process;…"
 ---
 
 # Stovall v. Denno

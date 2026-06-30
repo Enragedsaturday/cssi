@@ -28,6 +28,7 @@ homes:
 related: ["[[Payton v. New York]]", "[[Lange v. California]]", "[[Kentucky v. King]]"]
 aliases: ["Welsh"]
 tags: ["case", "fourth-amendment", "exigent-circumstances", "arrest-in-the-home", "minor-offense", "dui"]
+holding: "The gravity of the underlying offense is a key factor in the exigency analysis; warrantless home entry for a MINOR offense should rarely…"
 ---
 
 # Welsh v. Wisconsin

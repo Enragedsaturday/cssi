@@ -28,6 +28,7 @@ homes:
 related: ["[[Arizona v. Gant]]", "[[Chimel v. California]]", "[[Thornton v. United States]]", "[[Davis v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "search-incident-to-arrest", "automobile", "vehicle-search"]
+holding: "Defines the SCOPE of a vehicle search incident to arrest: on a lawful custodial arrest of a vehicle occupant, police may search the…"
 ---
 
 # New York v. Belton

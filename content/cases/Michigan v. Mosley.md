@@ -26,6 +26,7 @@ homes:
 related: ["[[Miranda v. Arizona]]", "[[Edwards v. Arizona]]", "[[Berghuis v. Thompkins]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "right-to-silence", "invocation"]
+holding: "After a suspect invokes the right to SILENCE, later statements are admissible if police \"scrupulously honored\" the invocation — here,…"
 ---
 
 # Michigan v. Mosley

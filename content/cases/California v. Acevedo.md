@@ -26,6 +26,7 @@ homes:
 related: ["[[Carroll v. United States]]", "[[United States v. Ross]]", "[[United States v. Chadwick]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "automobile-exception", "containers", "probable-cause"]
+holding: "Unified rule for containers in vehicles: police may search a container in a car without a warrant where they have PC to believe it holds…"
 ---
 
 # California v. Acevedo

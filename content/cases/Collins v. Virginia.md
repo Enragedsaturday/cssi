@@ -26,6 +26,7 @@ homes:
 related: ["[[Carroll v. United States]]", "[[California v. Carney]]", "[[Florida v. Jardines]]", "[[Coolidge v. New Hampshire]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "automobile-exception", "curtilage", "home", "warrantless-search"]
+holding: "The automobile exception does NOT authorize a warrantless entry of a home or its curtilage to search a vehicle parked there. The…"
 ---
 
 # Collins v. Virginia

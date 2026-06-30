@@ -26,6 +26,7 @@ homes:
 related: ["[[Terry v. Ohio]]", "[[United States v. Cortez]]", "[[Illinois v. Wardlow]]", "[[Ornelas v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "reasonable-suspicion"]
+holding: "Reasonable suspicion is judged on the totality of the circumstances — the \"whole picture\" — and reviewing courts may NOT use a…"
 ---
 
 # United States v. Arvizu

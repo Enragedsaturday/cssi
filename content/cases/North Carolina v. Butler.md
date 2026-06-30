@@ -26,6 +26,7 @@ homes:
 related: ["[[Miranda v. Arizona]]", "[[Berghuis v. Thompkins]]", "[[Moran v. Burbine]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "waiver", "implied-waiver"]
+holding: "An express written or oral waiver is not required; a valid Miranda waiver may be inferred from the suspect's words and conduct — but…"
 ---
 
 # North Carolina v. Butler

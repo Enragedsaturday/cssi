@@ -26,6 +26,7 @@ homes:
 related: ["[[Terry v. Ohio]]", "[[United States v. Arvizu]]", "[[Navarette v. California]]", "[[Ornelas v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "reasonable-suspicion", "terry-stop"]
+holding: "Reasonable suspicion = a particularized and objective basis on the totality of the circumstances (the 'whole picture')."
 ---
 
 # United States v. Cortez

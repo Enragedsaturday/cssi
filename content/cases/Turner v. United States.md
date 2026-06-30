@@ -26,6 +26,7 @@ homes:
 related: ["[[Brady v. Maryland]]", "[[United States v. Bagley]]", "[[Kyles v. Whitley]]", "[[Strickler v. Greene]]", "[[Giglio v. United States]]"]
 aliases: []
 tags: ["case", "due-process", "brady"]
+holding: "Counterweight: *Brady* materiality is demanding and judged on the whole record; the suppression here was immaterial — no *Brady* violation."
 ---
 
 # Turner v. United States

@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Wade]]", "[[Stovall v. Denno]]", "[[Kirby v. Illinois]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel", "lineup", "eyewitness-identification", "per-se-exclusion"]
+holding: "Testimony that a witness identified the accused at an uncounseled post-indictment lineup must be excluded per se — a strict rule (no…"
 ---
 
 # Gilbert v. California

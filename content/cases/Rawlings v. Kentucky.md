@@ -26,6 +26,7 @@ homes:
 related: ["[[Rakas v. Illinois]]", "[[Katz v. United States]]", "[[United States v. Salvucci]]", "[[Byrd v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "standing", "expectation-of-privacy", "ownership", "consent"]
+holding: "Owning the items seized is not enough to challenge a search; a defendant must have a legitimate expectation of privacy in the PLACE…"
 ---
 
 # Rawlings v. Kentucky

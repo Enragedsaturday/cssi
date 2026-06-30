@@ -28,6 +28,7 @@ homes:
 related: ["[[United States v. Brignoni-Ponce]]", "[[United States v. Martinez-Fuerte]]", "[[Carroll v. United States]]"]
 aliases: ["Almeida-Sanchez v. US"]
 tags: ["case", "fourth-amendment", "border-searches", "automobile"]
+holding: "A warrantless search of a vehicle by a roving Border Patrol on a California road at least 20 miles north of the Mexican border, without…"
 ---
 
 # Almeida-Sanchez v. United States

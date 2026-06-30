@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Leon]]", "[[Massachusetts v. Sheppard]]", "[[Arizona v. Evans]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exclusionary-rule", "good-faith", "statute"]
+holding: "Good-faith reliance on a STATUTE later held unconstitutional does not trigger exclusion; excluding such evidence would have no deterrent…"
 ---
 
 # Illinois v. Krull

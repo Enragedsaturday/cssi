@@ -26,6 +26,7 @@ homes:
 related: ["[[Schneckloth v. Bustamonte]]", "[[United States v. Drayton]]", "[[United States v. Mendenhall]]", "[[United States v. Santana]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "consent-search", "voluntariness", "custody", "warrantless-arrest"]
+holding: "Custody alone does not render consent involuntary. The fact of being under arrest / in custody is ONE factor in the…"
 ---
 
 # United States v. Watson

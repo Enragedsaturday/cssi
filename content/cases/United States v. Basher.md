@@ -26,6 +26,7 @@ homes:
 related: ["[[Oliver v. United States]]", "[[California v. Ciraolo]]", "[[Katz v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "curtilage", "tents"]
+holding: "(9th Cir. — persuasive) Reaffirms privacy inside a tent ('comparable to a house, apartment, or hotel room'), but the area outside the tent in a dispersed public-land campsite is not curtilage."
 ---
 
 # United States v. Basher

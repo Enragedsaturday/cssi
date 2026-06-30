@@ -26,6 +26,7 @@ homes:
 related: ["[[Monell v. Department of Social Services]]", "[[Harlow v. Fitzgerald]]", "[[Graham v. Connor]]"]
 aliases: []
 tags: ["case", "section-1983", "under-color-of-law", "civil-rights", "federal-remedy"]
+holding: "Revived § 1983 as a real federal remedy: 'under color of' state law reaches the MISUSE of authority an officer possesses by virtue of…"
 ---
 
 # Monroe v. Pape

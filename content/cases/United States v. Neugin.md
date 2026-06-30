@@ -26,6 +26,7 @@ homes:
 related: ["[[Nix v. Williams]]", "[[Brigham City v. Stuart]]", "[[Horton v. California]]"]
 aliases: ["United States v. Neugin (10th Cir. 2020)"]
 tags: ["case", "fourth-amendment", "exclusionary-rule", "inevitable-discovery", "community-caretaking", "tenth-circuit"]
+holding: "Illustrative application of inevitable discovery where the exception did NOT apply: the chain to discovery was too speculative, so…"
 ---
 
 # United States v. Neugin

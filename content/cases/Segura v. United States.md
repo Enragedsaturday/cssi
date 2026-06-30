@@ -26,6 +26,7 @@ homes:
 related: ["[[Murray v. United States]]", "[[Nix v. Williams]]", "[[Illinois v. McArthur]]", "[[Wong Sun v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "independent-source", "exclusionary-rule", "securing-premises"]
+holding: "Evidence seized under a valid warrant is admissible even after an earlier illegal entry, where the warrant was supported wholly by…"
 ---
 
 # Segura v. United States

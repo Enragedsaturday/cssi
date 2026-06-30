@@ -26,6 +26,7 @@ homes:
 related: ["[[Edwards v. Arizona]]", "[[Michigan v. Jackson]]", "[[Montejo v. Louisiana]]", "[[Massiah v. United States]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel", "offense-specific", "miranda"]
+holding: "The Sixth Amendment right to counsel is offense-specific, and a 6A invocation is NOT an invocation of the Fifth Amendment *Miranda-Edwards* right to counsel; the two are distinct."
 ---
 
 # McNeil v. Wisconsin

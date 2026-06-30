@@ -26,6 +26,7 @@ homes:
 related: ["[[Miranda v. Arizona]]", "[[North Carolina v. Butler]]", "[[Edwards v. Arizona]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "waiver"]
+holding: "A Miranda waiver is valid even though police failed to tell the suspect that an attorney was trying to reach him; events outside the…"
 ---
 
 # Moran v. Burbine

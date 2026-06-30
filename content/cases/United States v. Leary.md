@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Leon]]", "[[Massachusetts v. Sheppard]]", "[[Coolidge v. New Hampshire]]", "[[Groh v. Ramirez]]"]
 aliases: ["United States v. Leary (10th Cir. 1988)", "United States v. Richard J. Leary"]
 tags: ["case", "fourth-amendment", "exclusionary-rule", "particularity", "general-warrant", "overbreadth", "good-faith-exception", "tenth-circuit"]
+holding: "A facially overbroad / general warrant (authorizing seizure of records 'relating to' violations of the export laws, offering no…"
 ---
 
 # United States v. Leary

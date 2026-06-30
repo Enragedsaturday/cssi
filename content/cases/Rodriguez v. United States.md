@@ -26,6 +26,7 @@ homes:
 related: ["[[Pennsylvania v. Mimms]]", "[[Delaware v. Prouse]]", "[[Berkemer v. McCarty]]"]
 aliases: ["Rodriguez v. United States (2015)"]
 tags: ["case", "fourth-amendment", "traffic-stops", "stop-duration", "dog-sniff", "mission"]
+holding: "A traffic stop may last no longer than necessary to complete the stop's 'mission' (addressing the violation and ordinary inquiries).…"
 ---
 
 # Rodriguez v. United States

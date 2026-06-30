@@ -26,6 +26,7 @@ homes:
 related: ["[[Miranda v. Arizona]]", "[[Brewer v. Williams]]", "[[Edwards v. Arizona]]", "[[Berkemer v. McCarty]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "interrogation", "functional-equivalent"]
+holding: "'Interrogation' under Miranda is not limited to express questioning. It also includes the 'functional equivalent' of express…"
 ---
 
 # Rhode Island v. Innis

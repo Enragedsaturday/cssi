@@ -26,6 +26,7 @@ homes:
 related: ["[[Brady v. Maryland]]", "[[Giglio v. United States]]", "[[Kyles v. Whitley]]"]
 aliases: ["Benn v. Lambert (9th Cir. 2002)"]
 tags: ["case", "brady", "giglio", "exculpatory-evidence", "impeachment", "ninth-circuit", "habeas"]
+holding: "Granted habeas relief: the prosecution suppressed BOTH material exculpatory evidence (expert evidence on the cause of the fire) AND…"
 ---
 
 # Benn v. Lambert

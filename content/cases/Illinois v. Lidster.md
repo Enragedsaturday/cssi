@@ -26,6 +26,7 @@ homes:
 related: ["[[City of Indianapolis v. Edmond]]", "[[Michigan Dept. of State Police v. Sitz]]", "[[Brown v. Texas]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "checkpoint", "special-needs", "information-seeking-stop"]
+holding: "An information-seeking checkpoint — stopping motorists to ask whether they witnessed an earlier crime committed by *someone else* — is…"
 ---
 
 # Illinois v. Lidster

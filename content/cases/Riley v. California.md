@@ -28,6 +28,7 @@ homes:
 related: ["[[United States v. Robinson]]", "[[Chimel v. California]]", "[[Arizona v. Gant]]", "[[Carpenter v. United States]]", "[[People v. Hughes]]"]
 aliases: ["Riley v. California (2014)", "United States v. Wurie"]
 tags: ["case", "fourth-amendment", "search-incident-to-arrest", "cell-phone", "digital-search", "warrant-requirement"]
+holding: "The Robinson bright-line search-incident rule does NOT extend to the digital contents of a cell phone seized incident to arrest.…"
 ---
 
 # Riley v. California

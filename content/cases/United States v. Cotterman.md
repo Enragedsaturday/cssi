@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Cano]]", "[[Riley v. California]]", "[[Carpenter v. United States]]"]
 aliases: ["United States v. Howard Cotterman"]
 tags: ["case", "fourth-amendment", "border-search", "digital-privacy"]
+holding: "A forensic (comprehensive) examination of an electronic device seized at the border requires reasonable suspicion; it is the…"
 ---
 
 # United States v. Cotterman

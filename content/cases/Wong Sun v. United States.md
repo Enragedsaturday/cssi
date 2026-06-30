@@ -26,6 +26,7 @@ homes:
 related: ["[[Brown v. Illinois]]", "[[Utah v. Strieff]]", "[[Nix v. Williams]]"]
 aliases: ["Wong Sun"]
 tags: ["case", "fourth-amendment", "exclusionary-rule", "fruit-of-the-poisonous-tree", "attenuation"]
+holding: "'Fruit of the poisonous tree': derivative evidence is suppressed if come at by exploitation of the primary illegality, not merely 'but…"
 ---
 
 # Wong Sun v. United States

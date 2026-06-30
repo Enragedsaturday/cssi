@@ -26,6 +26,7 @@ homes:
 related: ["[[Miranda v. Arizona]]", "[[Berkemer v. McCarty]]", "[[Berghuis v. Thompkins]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "constitutional-rule", "section-3501", "stare-decisis"]
+holding: "Miranda is a constitutional rule that Congress may not supersede by statute; § 3501 is unconstitutional and Miranda governs the…"
 ---
 
 # Dickerson v. United States

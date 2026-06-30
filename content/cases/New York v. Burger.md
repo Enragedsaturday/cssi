@@ -26,6 +26,7 @@ homes:
 related: ["[[Donovan v. Dewey]]", "[[Marshall v. Barlow's, Inc.]]", "[[United States v. Biswell]]", "[[Camara v. Municipal Court]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "administrative-search", "closely-regulated-business", "inspection"]
+holding: "A warrantless administrative inspection of a closely (pervasively) regulated business — here, an automobile junkyard — is reasonable if…"
 ---
 
 # New York v. Burger

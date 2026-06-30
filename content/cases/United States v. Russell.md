@@ -26,6 +26,7 @@ homes:
 related: ["[[Sorrells v. United States]]", "[[Sherman v. United States]]", "[[Hampton v. United States]]", "[[Jacobson v. United States]]"]
 aliases: []
 tags: ["case", "entrapment", "predisposition", "subjective-test", "outrageous-government-conduct", "due-process"]
+holding: "There is no entrapment where the defendant was predisposed, even though a government agent supplied a difficult-to-obtain but legal…"
 ---
 
 # United States v. Russell

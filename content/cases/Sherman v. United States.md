@@ -26,6 +26,7 @@ homes:
 related: ["[[Sorrells v. United States]]", "[[Hampton v. United States]]", "[[Jacobson v. United States]]", "[[Mathews v. United States]]"]
 aliases: []
 tags: ["case", "entrapment", "predisposition", "due-process"]
+holding: "Entrapment is established as a matter of law when the government, through its informant, implants the criminal design in an…"
 ---
 
 # Sherman v. United States

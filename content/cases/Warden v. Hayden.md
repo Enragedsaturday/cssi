@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Santana]]", "[[Kentucky v. King]]", "[[Welsh v. Wisconsin]]"]
 aliases: ["Warden, Maryland Penitentiary v. Hayden", "Hayden"]
 tags: ["case", "fourth-amendment", "exigent-circumstances", "hot-pursuit", "warrantless-entry"]
+holding: "Hot pursuit of a fleeing armed robber into a house is a valid warrantless entry and search where \"the exigencies of the situation made…"
 ---
 
 # Warden v. Hayden

@@ -26,6 +26,7 @@ homes:
 related: ["[[Coolidge v. New Hampshire]]", "[[Arizona v. Hicks]]", "[[Horton v. California]]", "[[Minnesota v. Dickerson]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "plain-view"]
+holding: "'Immediately apparent' means probable cause, not certainty ('an unhappy choice of words'); shining a flashlight into a car interior is not a search."
 ---
 
 # Texas v. Brown

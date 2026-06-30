@@ -26,6 +26,7 @@ homes:
 related: ["[[South Dakota v. Opperman]]", "[[Caniglia v. Strom]]", "[[Colorado v. Bertine]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "community-caretaking", "vehicle-search", "inventory"]
+holding: "Origin of the 'community caretaking' concept: police perform many noncriminal caretaking functions with VEHICLES (disabled cars,…"
 ---
 
 # Cady v. Dombrowski

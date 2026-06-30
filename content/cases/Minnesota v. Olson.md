@@ -26,6 +26,7 @@ homes:
 related: ["[[Minnesota v. Carter]]", "[[Rakas v. Illinois]]", "[[Jones v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "standing", "expectation-of-privacy", "overnight-guest", "home"]
+holding: "An overnight guest has a reasonable expectation of privacy in his host's home and therefore standing to challenge a warrantless entry to…"
 ---
 
 # Minnesota v. Olson

@@ -26,6 +26,7 @@ homes:
 related: ["[[Arizona v. Gant]]", "[[New York v. Belton]]", "[[Riley v. California]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "search-incident-to-arrest", "immediate-control", "warrantless-search"]
+holding: "Foundational scope of search incident to arrest: the arrestee's person and the area 'within his immediate control' — meaning the area…"
 ---
 
 # Chimel v. California

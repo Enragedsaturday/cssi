@@ -26,6 +26,7 @@ homes:
 related: ["[[Carroll v. United States]]", "[[United States v. Flores-Montano]]", "[[United States v. Montoya de Hernandez]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "border-searches", "international-mail", "customs", "reasonable-suspicion"]
+holding: "Routine searches at the international border (including incoming international mail) require neither a warrant nor probable cause; the…"
 ---
 
 # United States v. Ramsey

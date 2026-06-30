@@ -26,6 +26,7 @@ homes:
 related: ["[[Riley v. California]]", "[[Carpenter v. United States]]", "[[Horton v. California]]", "[[Coolidge v. New Hampshire]]"]
 aliases: ["People of Michigan v. Hughes", "People v Hughes", "People v. Hughes (Mich. 2020)"]
 tags: ["case", "fourth-amendment", "plain-view", "digital-search", "cell-phone", "warrant-scope", "michigan", "state-supreme"]
+holding: "Declines a per se rule that an officer may always review the ENTIRE contents of digital data seized under a warrant on the mere…"
 ---
 
 # People v. Hughes

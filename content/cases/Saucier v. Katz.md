@@ -26,6 +26,7 @@ homes:
 related: ["[[Pearson v. Callahan]]", "[[Harlow v. Fitzgerald]]", "[[Graham v. Connor]]", "[[Rivas-Villegas v. Cortesluna]]"]
 aliases: []
 tags: ["case", "qualified-immunity", "section-1983", "two-step-sequence", "clearly-established", "excessive-force"]
+holding: "Established the (then-mandatory) two-step qualified-immunity sequence: (1) taken in the light most favorable to the plaintiff, do the…"
 ---
 
 # Saucier v. Katz

@@ -26,6 +26,7 @@ homes:
 related: ["[[Katz v. United States]]", "[[Coolidge v. New Hampshire]]", "[[Payton v. New York]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "warrant", "neutral-magistrate", "probable-cause"]
+holding: "Probable-cause inferences must be drawn by a neutral and detached magistrate, not by the officer engaged in ferreting out crime."
 ---
 
 # Johnson v. United States

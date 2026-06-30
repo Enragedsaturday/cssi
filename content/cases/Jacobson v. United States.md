@@ -26,6 +26,7 @@ homes:
 related: ["[[Sorrells v. United States]]", "[[Sherman v. United States]]", "[[Hampton v. United States]]", "[[Mathews v. United States]]"]
 aliases: []
 tags: ["case", "entrapment", "predisposition", "inducement", "due-process"]
+holding: "Where the government induces the crime, it must prove the defendant was predisposed to commit it INDEPENDENT of, and PRIOR TO, the…"
 ---
 
 # Jacobson v. United States

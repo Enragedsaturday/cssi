@@ -26,6 +26,7 @@ homes:
 related: ["[[Saucier v. Katz]]", "[[Pearson v. Callahan]]", "[[City of Tahlequah v. Bond]]"]
 aliases: []
 tags: ["case", "qualified-immunity", "section-1983", "clearly-established-law", "objective-test"]
+holding: "Reformulated qualified immunity as a purely OBJECTIVE test: officials performing discretionary functions are shielded from civil damages…"
 ---
 
 # Harlow v. Fitzgerald

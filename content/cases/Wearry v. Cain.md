@@ -26,6 +26,7 @@ homes:
 related: ["[[Brady v. Maryland]]", "[[Kyles v. Whitley]]", "[[Smith v. Cain]]", "[[Giglio v. United States]]"]
 aliases: ["Wearry"]
 tags: ["case", "due-process", "brady", "materiality", "impeachment", "per-curiam"]
+holding: "Reaffirms cumulative *Brady* materiality: suppressed evidence assessed collectively undermined confidence in the verdict."
 ---
 
 # Wearry v. Cain

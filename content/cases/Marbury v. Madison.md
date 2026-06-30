@@ -26,6 +26,7 @@ homes:
 related: []
 aliases: []
 tags: ["case", "constitutional-law", "judicial-review", "federal-courts", "separation-of-powers"]
+holding: "Establishes judicial review: it is the province and duty of the judiciary to say what the law is, and a law repugnant to the…"
 ---
 
 # Marbury v. Madison

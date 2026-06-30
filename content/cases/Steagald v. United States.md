@@ -28,6 +28,7 @@ homes:
 related: ["[[Payton v. New York]]", "[[Bailey v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "arrest-warrant", "search-warrant", "third-party-home"]
+holding: "To search a THIRD PARTY'S home for the subject of an arrest warrant, police need a SEARCH warrant (absent exigency or consent); an…"
 ---
 
 # Steagald v. United States

@@ -26,6 +26,7 @@ homes:
 related: ["[[Carroll v. United States]]", "[[California v. Acevedo]]", "[[California v. Carney]]", "[[United States v. Morley]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "automobile-exception", "containers", "probable-cause", "vehicle-search"]
+holding: "When PC justifies the search of a lawfully stopped vehicle, it justifies a search of every part of the vehicle and every container…"
 ---
 
 # United States v. Ross

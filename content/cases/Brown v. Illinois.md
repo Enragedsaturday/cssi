@@ -26,6 +26,7 @@ homes:
 related: ["[[Wong Sun v. United States]]", "[[Utah v. Strieff]]", "[[Dunaway v. New York]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exclusionary-rule", "attenuation", "fruit-of-the-poisonous-tree"]
+holding: "Sets out the attenuation factors: temporal proximity, intervening circumstances, and the purpose and flagrancy of the official…"
 ---
 
 # Brown v. Illinois

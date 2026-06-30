@@ -26,6 +26,7 @@ homes:
 related: ["[[Terry v. Ohio]]", "[[Pennsylvania v. Mimms]]", "[[Maryland v. Wilson]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "terry", "protective-search", "vehicle", "weapons"]
+holding: "Terry's protective-frisk rationale extends to vehicles: on specific and articulable facts giving the officer a reasonable belief the…"
 ---
 
 # Michigan v. Long

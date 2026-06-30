@@ -26,6 +26,7 @@ homes:
 related: ["[[Manson v. Brathwaite]]", "[[Neil v. Biggers]]", "[[United States v. Wade]]", "[[Gilbert v. California]]"]
 aliases: []
 tags: ["case", "due-process", "eyewitness-identification", "suggestive-identification", "reliability"]
+holding: "The Due Process Clause requires a preliminary judicial screening of eyewitness-identification reliability ONLY when the suggestive…"
 ---
 
 # Perry v. New Hampshire

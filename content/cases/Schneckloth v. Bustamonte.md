@@ -26,6 +26,7 @@ homes:
 related: ["[[Florida v. Bostick]]", "[[United States v. Drayton]]", "[[Georgia v. Randolph]]", "[[Florida v. Jimeno]]", "[[Illinois v. Rodriguez]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "consent-searches", "voluntariness", "totality-of-circumstances"]
+holding: "The voluntariness of consent to search is a question of fact determined from the TOTALITY OF ALL THE CIRCUMSTANCES; the government need…"
 ---
 
 # Schneckloth v. Bustamonte

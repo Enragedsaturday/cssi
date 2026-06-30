@@ -28,6 +28,7 @@ homes:
 related: ["[[Illinois v. Gates]]", "[[United States v. Leon]]", "[[Groh v. Ramirez]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "warrant", "affidavit", "franks-hearing", "veracity"]
+holding: "A warrant affidavit containing a knowing/intentional or reckless material falsehood may be challenged at a hearing on a substantial…"
 ---
 
 # Franks v. Delaware

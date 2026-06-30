@@ -26,6 +26,7 @@ homes:
 related: ["[[Delaware v. Prouse]]", "[[Brendlin v. California]]", "[[Whren v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "traffic-stop", "reasonable-suspicion", "mistake-of-law"]
+holding: "A traffic stop is valid if based on an officer's objectively reasonable mistake of law (as well as a reasonable mistake of fact); a…"
 ---
 
 # Heien v. North Carolina

@@ -26,6 +26,7 @@ homes:
 related: ["[[Michigan v. Long]]", "[[Arizona v. Gant]]", "[[Terry v. Ohio]]"]
 aliases: ["United States v. Vinton (D.C. Cir. 2010)"]
 tags: ["case", "fourth-amendment", "traffic-stop", "protective-search", "michigan-v-long", "arizona-v-gant", "dc-circuit"]
+holding: "Gant's 'secured arrestee' limitation does not abate a Michigan v. Long protective (Terry) vehicle search: the protective-search…"
 ---
 
 # United States v. Vinton

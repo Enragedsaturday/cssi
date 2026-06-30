@@ -26,6 +26,7 @@ homes:
 related: ["[[Brown v. Mississippi]]", "[[Ashcraft v. Tennessee]]", "[[Colorado v. Connelly]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "due-process", "confessions", "voluntariness", "coercion"]
+holding: "Confessions extracted through prolonged, incommunicado interrogation of helpless prisoners were the product of compulsion and their use…"
 ---
 
 # Chambers v. Florida

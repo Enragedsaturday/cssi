@@ -26,6 +26,7 @@ homes:
 related: ["[[Murray v. United States]]", "[[Brewer v. Williams]]", "[[Segura v. United States]]", "[[Wong Sun v. United States]]"]
 aliases: []
 tags: ["case", "exclusionary-rule", "inevitable-discovery", "fruit-of-the-poisonous-tree"]
+holding: "Inevitable discovery: unlawfully obtained evidence is admissible if the prosecution proves by a preponderance it would inevitably have…"
 ---
 
 # Nix v. Williams

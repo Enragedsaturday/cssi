@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Matlock]]", "[[Georgia v. Randolph]]", "[[Fernandez v. California]]", "[[Schneckloth v. Bustamonte]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "consent", "apparent-authority", "third-party-consent"]
+holding: "APPARENT AUTHORITY: a warrantless entry on third-party consent is valid if officers REASONABLY (though mistakenly) believed the…"
 ---
 
 # Illinois v. Rodriguez

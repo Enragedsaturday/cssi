@@ -26,6 +26,7 @@ homes:
 related: ["[[Heien v. North Carolina]]", "[[City of Indianapolis v. Edmond]]", "[[Whren v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "traffic-stop", "reasonable-suspicion", "random-stop", "license-check"]
+holding: "Random, suspicionless stops of motorists to check license and registration are unreasonable under the Fourth Amendment; an officer needs…"
 ---
 
 # Delaware v. Prouse

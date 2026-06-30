@@ -26,6 +26,7 @@ homes:
 related: ["[[Riley v. California]]", "[[Carpenter v. United States]]", "[[State v. Mansor]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "digital-search", "computer-warrant", "particularity", "kansas"]
+holding: "Because relevant information may be stored anywhere on a digital device, a warrant ordinarily cannot prescribe in advance exactly how…"
 ---
 
 # State v. Volle

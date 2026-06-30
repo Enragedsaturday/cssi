@@ -26,6 +26,7 @@ homes:
 related: ["[[Riley v. California]]", "[[Carpenter v. United States]]", "[[United States v. Leon]]"]
 aliases: ["United States v. Morton (5th Cir. 2022)", "United States v. Morton (en banc)"]
 tags: ["case", "fourth-amendment", "plain-view", "digital-searches", "cell-phone", "good-faith-exception", "fifth-circuit"]
+holding: "En banc 5th Circuit (resolving on good-faith grounds) discusses the digital general-warrant problem and flags, in concurrence, that the…"
 ---
 
 # United States v. Morton

@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Knights]]", "[[Samson v. California]]", "[[New Jersey v. T.L.O.]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "special-needs", "probation", "warrantless-search", "reasonable-grounds"]
+holding: "A warrantless search of a probationer's home pursuant to a valid regulation is reasonable when supported by \"reasonable grounds\";…"
 ---
 
 # Griffin v. Wisconsin

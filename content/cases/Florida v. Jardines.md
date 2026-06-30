@@ -26,6 +26,7 @@ homes:
 related: ["[[Florida v. Harris]]", "[[United States v. Jones]]", "[[California v. Ciraolo]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "curtilage", "knock-and-talk", "dog-sniff", "trespass"]
+holding: "Bringing a drug dog onto the home's curtilage (the front porch) to investigate exceeded the implied license to approach and knock — a…"
 ---
 
 # Florida v. Jardines

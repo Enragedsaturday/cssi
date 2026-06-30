@@ -26,6 +26,7 @@ homes:
 related: ["[[Oregon v. Elstad]]", "[[Dickerson v. United States]]", "[[Missouri v. Seibert]]", "[[New York v. Quarles]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "self-incrimination", "physical-fruits", "fruit-of-the-poisonous-tree"]
+holding: "Physical fruits of an un-warned but voluntary statement are admissible."
 ---
 
 # United States v. Patane

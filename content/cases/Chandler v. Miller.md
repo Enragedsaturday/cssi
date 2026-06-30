@@ -26,6 +26,7 @@ homes:
 related: ["[[City of Indianapolis v. Edmond]]", "[[Ferguson v. City of Charleston]]", "[[Board of Education v. Earls]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "special-needs", "drug-testing", "suspicionless-search"]
+holding: "Georgia's suspicionless drug-testing requirement for candidates for state office is unconstitutional — there was no concrete, special…"
 ---
 
 # Chandler v. Miller

@@ -26,6 +26,7 @@ homes:
 related: ["[[Brown v. Mississippi]]", "[[Chambers v. Florida]]", "[[Ashcraft v. Tennessee]]", "[[Arizona v. Fulminante]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "due-process", "confessions", "voluntariness", "police-coercion", "state-action"]
+holding: "A confession is \"involuntary\" for due-process purposes only when there is COERCIVE POLICE ACTIVITY; a suspect's mental illness or…"
 ---
 
 # Colorado v. Connelly

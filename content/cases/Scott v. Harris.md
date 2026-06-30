@@ -26,6 +26,7 @@ homes:
 related: ["[[Tennessee v. Garner]]", "[[Graham v. Connor]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "use-of-force", "seizure", "section-1983"]
+holding: "*Garner* is not a rigid separate test but 'simply an application' of *Graham* reasonableness — no 'magical on/off switch'; ramming a fleeing motorist who endangered the public was reasonable."
 ---
 
 # Scott v. Harris

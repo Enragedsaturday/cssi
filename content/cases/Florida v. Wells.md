@@ -28,6 +28,7 @@ homes:
 related: ["[[Colorado v. Bertine]]", "[[Illinois v. Lafayette]]", "[[South Dakota v. Opperman]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "inventory-search", "standardized-criteria", "impoundment"]
+holding: "An inventory search must not be a ruse for general rummaging to discover incriminating evidence; standardized criteria or established…"
 ---
 
 # Florida v. Wells

@@ -26,6 +26,7 @@ homes:
 related: ["[[Graham v. Connor]]", "[[Monell v. Department of Social Services]]", "[[Pearson v. Callahan]]"]
 aliases: ["Lamar Wright v. City of Euclid", "Wright v. Euclid"]
 tags: ["case", "section-1983", "qualified-immunity", "excessive-force", "false-arrest", "municipal-liability", "sixth-circuit"]
+holding: "The Sixth Circuit REVERSED summary judgment / denial of qualified immunity on multiple Fourth Amendment § 1983 claims: excessive force…"
 ---
 
 # Wright v. City of Euclid

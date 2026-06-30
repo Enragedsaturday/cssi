@@ -28,6 +28,7 @@ homes:
 related: ["[[Colorado v. Bertine]]", "[[Florida v. Wells]]", "[[Cady v. Dombrowski]]", "[[Illinois v. Lafayette]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "inventory", "impoundment", "administrative-search"]
+holding: "An inventory search of a lawfully impounded vehicle conducted pursuant to standard police procedures, and not as a pretext concealing an…"
 ---
 
 # South Dakota v. Opperman

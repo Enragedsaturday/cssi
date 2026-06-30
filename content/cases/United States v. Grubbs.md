@@ -26,6 +26,7 @@ homes:
 related: ["[[Illinois v. Gates]]", "[[Groh v. Ramirez]]", "[[Massachusetts v. Sheppard]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "warrant-requirement", "anticipatory-warrant", "triggering-condition", "particularity"]
+holding: "**Anticipatory warrants** — warrants that take effect only upon a future 'triggering condition' — are not categorically…"
 ---
 
 # United States v. Grubbs

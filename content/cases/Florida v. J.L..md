@@ -26,6 +26,7 @@ homes:
 related: ["[[Alabama v. White]]", "[[Terry v. Ohio]]", "[[Illinois v. Gates]]"]
 aliases: ["Florida v. JL"]
 tags: ["case", "fourth-amendment", "reasonable-suspicion", "anonymous-tip", "stop-and-frisk"]
+holding: "A bare anonymous tip that a person is carrying a gun, without more, is NOT reasonable suspicion for a stop and frisk; an accurate…"
 ---
 
 # Florida v. J.L.

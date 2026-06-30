@@ -26,6 +26,7 @@ homes:
 related: ["[[Terry v. Ohio]]", "[[Michigan v. Long]]", "[[Chimel v. California]]", "[[Payton v. New York]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "protective-sweep", "officer-safety", "arrest-in-the-home"]
+holding: "Protective sweep incident to an in-home arrest: (1) without probable cause or reasonable suspicion, officers may as a precaution look in…"
 ---
 
 # Maryland v. Buie

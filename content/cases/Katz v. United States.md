@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Jones]]", "[[Carpenter v. United States]]", "[[Rakas v. Illinois]]", "[[Smith v. Maryland]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "reasonable-expectation-of-privacy", "search", "standing"]
+holding: "Electronic eavesdropping that invades a justified expectation of privacy is a search even with no physical trespass; overruled…"
 ---
 
 # Katz v. United States

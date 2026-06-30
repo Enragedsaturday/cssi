@@ -26,6 +26,7 @@ homes:
 related: ["[[Nix v. Williams]]", "[[Silverthorne Lumber Co. v. United States]]", "[[Segura v. United States]]", "[[Wong Sun v. United States]]"]
 aliases: []
 tags: ["case", "exclusionary-rule", "independent-source", "fruit-of-the-poisonous-tree"]
+holding: "Independent source: evidence first observed during an unlawful entry is admissible if later acquired through a genuinely independent…"
 ---
 
 # Murray v. United States

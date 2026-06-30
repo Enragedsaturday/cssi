@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Leon]]", "[[Massachusetts v. Sheppard]]", "[[Herring v. United States]]"]
 aliases: ["United States v. A.C. Jackson", "United States v. Jackson (8th Cir. 2015)"]
 tags: ["case", "fourth-amendment", "exclusionary-rule", "good-faith-exception", "leon", "search-warrant", "eighth-circuit"]
+holding: "Although the warrant application failed to supply probable cause, the deputy acted in objectively reasonable good faith (affidavit…"
 ---
 
 # United States v. Jackson

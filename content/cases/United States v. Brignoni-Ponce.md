@@ -26,6 +26,7 @@ homes:
 related: ["[[Almeida-Sanchez v. United States]]", "[[Terry v. Ohio]]", "[[Delaware v. Prouse]]", "[[United States v. Cortez]]"]
 aliases: ["United States v. Felix Humberto Brignoni-Ponce"]
 tags: ["case", "fourth-amendment", "border-search", "reasonable-suspicion"]
+holding: "A roving Border Patrol may stop a vehicle near the border to question occupants only on reasonable suspicion, based on specific…"
 ---
 
 # United States v. Brignoni-Ponce

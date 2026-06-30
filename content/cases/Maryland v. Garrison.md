@@ -26,6 +26,7 @@ homes:
 related: ["[[Hill v. California]]", "[[Groh v. Ramirez]]", "[[Andresen v. Maryland]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "warrant-requirement", "particularity", "reasonable-mistake", "overbroad-warrant"]
+holding: "A warrant's validity is judged on the information reasonably available to officers when they sought it; a reasonable, good-faith mistake…"
 ---
 
 # Maryland v. Garrison

@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Ramsey]]", "[[United States v. Cotterman]]", "[[United States v. Flores-Montano]]", "[[Riley v. California]]"]
 aliases: ["United States v. Touset (11th Cir. 2018)", "United States v. Karl Touset"]
 tags: ["case", "fourth-amendment", "border-searches", "forensic-search", "electronic-devices", "eleventh-circuit", "circuit-split"]
+holding: "The Fourth Amendment requires no suspicion — not even reasonable suspicion — for a forensic search of an electronic device at the…"
 ---
 
 # United States v. Touset

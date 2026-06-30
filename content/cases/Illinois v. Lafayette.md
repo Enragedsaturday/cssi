@@ -26,6 +26,7 @@ homes:
 related: ["[[South Dakota v. Opperman]]", "[[Colorado v. Bertine]]", "[[Florida v. Wells]]", "[[Chimel v. California]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "inventory-search", "booking", "search-incident-to-arrest"]
+holding: "As part of the routine booking/incarceration process (a stationhouse inventory), police may search any container or article in an…"
 ---
 
 # Illinois v. Lafayette

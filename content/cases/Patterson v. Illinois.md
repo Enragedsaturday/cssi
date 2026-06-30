@@ -26,6 +26,7 @@ homes:
 related: ["[[Brewer v. Williams]]", "[[Rothgery v. Gillespie County]]", "[[Michigan v. Jackson]]", "[[Edwards v. Arizona]]", "[[Montejo v. Louisiana]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel", "waiver", "post-indictment", "miranda"]
+holding: "An accused may knowingly and intelligently waive the Sixth Amendment right to counsel for post-indictment questioning through the…"
 ---
 
 # Patterson v. Illinois

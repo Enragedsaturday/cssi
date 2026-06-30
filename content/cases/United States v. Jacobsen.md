@@ -26,6 +26,7 @@ homes:
 related: ["[[Katz v. United States]]", "[[Carpenter v. United States]]", "[[United States v. Jones]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "search-definition", "seizure-definition", "private-search-doctrine", "field-test", "government-action"]
+holding: "Defines a property seizure; the Amendment reaches only government action — once a private party exposes contents, a government inspection within that scope invades no remaining privacy (private-search doctrine)."
 ---
 
 # United States v. Jacobsen

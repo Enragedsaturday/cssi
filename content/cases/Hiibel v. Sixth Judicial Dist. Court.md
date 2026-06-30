@@ -26,6 +26,7 @@ homes:
 related: ["[[Terry v. Ohio]]", "[[Berkemer v. McCarty]]", "[[Brown v. Texas]]"]
 aliases: ["Hiibel v. Sixth Judicial District Court of Nevada", "Hiibel v. Sixth Judicial District Court of Nevada, Humboldt County"]
 tags: ["case", "fourth-amendment", "terry-stop", "stop-and-identify", "reasonable-suspicion"]
+holding: "A state stop-and-identify law compelling a suspect to give his name during a valid *Terry* stop is consistent with the Fourth Amendment."
 ---
 
 # Hiibel v. Sixth Judicial Dist. Court

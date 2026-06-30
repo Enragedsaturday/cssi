@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Janis]]", "[[United States v. Calandra]]", "[[Mapp v. Ohio]]"]
 aliases: ["INS v. Lopez-Mendoza"]
 tags: ["case", "fourth-amendment", "exclusionary-rule", "deportation", "civil-proceedings"]
+holding: "The exclusionary rule generally does NOT apply in civil deportation/removal proceedings: an admission of unlawful presence made after an…"
 ---
 
 # Immigration & Naturalization Service v. Lopez-Mendoza

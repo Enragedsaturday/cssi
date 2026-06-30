@@ -26,6 +26,7 @@ homes:
 related: ["[[Terry v. Ohio]]", "[[United States v. Cortez]]", "[[United States v. Arvizu]]", "[[Illinois v. Wardlow]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "terry-stop", "reasonable-suspicion", "totality-of-the-circumstances", "drug-courier-profile"]
+holding: "Factors each individually consistent with innocence can, taken together, amount to reasonable suspicion."
 ---
 
 # United States v. Sokolow

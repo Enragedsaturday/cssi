@@ -26,6 +26,7 @@ homes:
 related: ["[[Edwards v. Arizona]]", "[[Berghuis v. Thompkins]]", "[[Arizona v. Roberson]]"]
 aliases: ["Davis v. United States (1994)"]
 tags: ["case", "fifth-amendment", "miranda", "invocation", "right-to-counsel", "ambiguous-request"]
+holding: "A suspect must invoke the right to counsel UNAMBIGUOUSLY; an equivocal or ambiguous reference (\"maybe I should talk to a lawyer\") does…"
 ---
 
 # Davis v. United States

@@ -26,6 +26,7 @@ homes:
 related: ["[[Illinois v. Gates]]", "[[Brinegar v. United States]]", "[[Terry v. Ohio]]", "[[Devenpeck v. Alford]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "probable-cause", "reasonable-suspicion", "standard-of-review", "de-novo"]
+holding: "Appellate review of determinations of reasonable suspicion and probable cause to make a warrantless search/stop is de novo (historical…"
 ---
 
 # Ornelas v. United States

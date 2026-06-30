@@ -26,6 +26,7 @@ homes:
 related: ["[[Brown v. Mississippi]]", "[[Chambers v. Florida]]", "[[Ashcraft v. Tennessee]]", "[[Colorado v. Connelly]]"]
 aliases: []
 tags: ["case", "confession", "voluntariness", "due-process"]
+holding: "A confession produced by psychological pressure — here a friend's feigned distress plus persistent overnight questioning of a suspect…"
 ---
 
 # Spano v. New York

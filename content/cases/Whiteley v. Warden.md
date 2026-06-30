@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Hensley]]", "[[Herring v. United States]]", "[[Mapp v. Ohio]]"]
 aliases: ["Whiteley v. Warden, Wyoming State Penitentiary", "Whiteley"]
 tags: ["case", "fourth-amendment", "collective-knowledge", "fellow-officer-rule", "probable-cause", "radio-bulletin"]
+holding: "An officer may act on the strength of a police radio bulletin and assume the issuing officer had probable cause. But where the issuing…"
 ---
 
 # Whiteley v. Warden

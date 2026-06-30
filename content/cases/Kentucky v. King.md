@@ -30,6 +30,7 @@ homes:
 related: ["[[Brigham City v. Stuart]]", "[[Lange v. California]]", "[[Payton v. New York]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exigent-circumstances", "police-created-exigency", "destruction-of-evidence"]
+holding: "The exigent-circumstances rule applies even where police 'created' the exigency, SO LONG AS the police did not create it by engaging or…"
 ---
 
 # Kentucky v. King

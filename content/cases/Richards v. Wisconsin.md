@@ -26,6 +26,7 @@ homes:
 related: ["[[Wilson v. Arkansas]]", "[[Hudson v. Michigan]]", "[[Maryland v. Buie]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "knock-and-announce", "no-knock", "reasonable-suspicion", "warrant-execution"]
+holding: "There is **no blanket exception** to knock-and-announce for entire categories of crime (e.g., felony drug cases); the no-knock decision…"
 ---
 
 # Richards v. Wisconsin

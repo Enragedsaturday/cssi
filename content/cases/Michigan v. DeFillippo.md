@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Leon]]", "[[Illinois v. Krull]]", "[[Herring v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exclusionary-rule", "probable-cause", "arrest", "good-faith"]
+holding: "An arrest based on a presumptively valid ordinance later declared unconstitutional was valid (supported by probable cause at the time),…"
 ---
 
 # Michigan v. DeFillippo

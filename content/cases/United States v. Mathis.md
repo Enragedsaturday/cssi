@@ -26,6 +26,7 @@ homes:
 related: ["[[United States v. Leon]]", "[[Massachusetts v. Sheppard]]", "[[United States v. Jackson]]", "[[Riley v. California]]"]
 aliases: ["United States v. Mathis (11th Cir. 2014)", "United States v. Arnold Maurice Mathis"]
 tags: ["case", "fourth-amendment", "exclusionary-rule", "good-faith-exception", "leon", "phone-search", "eleventh-circuit"]
+holding: "Even assuming the search warrant lacked probable cause, the Leon good-faith exception applied: the detective had an objectively…"
 ---
 
 # United States v. Mathis

@@ -26,6 +26,7 @@ homes:
 related: ["[[Michigan v. Summers]]", "[[Bailey v. United States]]", "[[Los Angeles County v. Rettele]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "detention", "search-warrant", "handcuffs"]
+holding: "Officers executing a search warrant for weapons at a gang house may detain occupants in handcuffs for the entire duration of the search…"
 ---
 
 # Muehler v. Mena

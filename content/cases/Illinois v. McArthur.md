@@ -26,6 +26,7 @@ homes:
 related: ["[[Michigan v. Summers]]", "[[Segura v. United States]]", "[[Bailey v. United States]]", "[[Welsh v. Wisconsin]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "securing-the-scene", "temporary-seizure", "exigent-circumstances", "warrant"]
+holding: "Where police have probable cause to believe a home contains contraband, they may reasonably impose a temporary restraint on a resident —…"
 ---
 
 # Illinois v. McArthur

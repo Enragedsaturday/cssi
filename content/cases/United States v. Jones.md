@@ -26,6 +26,7 @@ homes:
 related: ["[[Katz v. United States]]", "[[Carpenter v. United States]]", "[[Florida v. Jardines]]", "[[Olmstead v. United States]]", "[[United States v. Jacobsen]]"]
 aliases: ["United States v. Jones (2012)", "United States v. Antoine Jones"]
 tags: ["case", "fourth-amendment", "search-definition", "trespass-theory", "gps-tracking", "physical-intrusion"]
+holding: "Installing a GPS tracker on a vehicle and monitoring it was a search under the revived trespass theory — physical intrusion on an 'effect' to obtain information; the controlling modern trespass-search case."
 ---
 
 # United States v. Jones

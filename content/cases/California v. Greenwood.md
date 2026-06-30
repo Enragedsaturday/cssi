@@ -26,6 +26,7 @@ homes:
 related: ["[[Abel v. United States]]", "[[Katz v. United States]]", "[[California v. Ciraolo]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "abandonment", "garbage", "expectation-of-privacy"]
+holding: "No reasonable expectation of privacy in garbage bags left for collection at the curb, outside the curtilage; warrantless search/seizure of curbside trash does not violate the 4A."
 ---
 
 # California v. Greenwood

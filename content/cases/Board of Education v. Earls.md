@@ -26,6 +26,7 @@ homes:
 related: ["[[Vernonia School District 47J v. Acton]]", "[[New Jersey v. T.L.O.]]", "[[Skinner v. Railway Labor Executives' Assn.]]"]
 aliases: ["Board of Education of Independent School District No. 92 of Pottawatomie County v. Earls", "Earls"]
 tags: ["case", "fourth-amendment", "special-needs", "drug-testing", "schools"]
+holding: "Suspicionless drug testing of all students participating in competitive extracurricular activities is a reasonable special-needs search."
 ---
 
 # Board of Education v. Earls

@@ -26,6 +26,7 @@ homes:
 related: ["[[Gilbert v. California]]", "[[Kirby v. Illinois]]", "[[United States v. Ash]]", "[[Stovall v. Denno]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "eyewitness-identification", "lineup", "right-to-counsel", "critical-stage"]
+holding: "A post-indictment lineup is a critical stage of the prosecution at which the accused has a Sixth Amendment right to counsel; counsel's…"
 ---
 
 # United States v. Wade

@@ -26,6 +26,7 @@ homes:
 related: ["[[Brown v. Illinois]]", "[[Segura v. United States]]", "[[Herring v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "exclusionary-rule", "attenuation", "fruit-of-the-poisonous-tree", "arrest-warrant"]
+holding: "Attenuation: discovery of a valid pre-existing arrest warrant during an unlawful stop was an intervening circumstance that attenuated…"
 ---
 
 # Utah v. Strieff

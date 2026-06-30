@@ -26,6 +26,7 @@ homes:
 related: ["[[Griffin v. Wisconsin]]", "[[Samson v. California]]", "[[United States v. Cortez]]", "[[Terry v. Ohio]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "probation-search", "reasonable-suspicion", "search-condition", "general-balancing"]
+holding: "A warrantless search of a probationer subject to a search condition, supported by reasonable suspicion, is reasonable under the Fourth…"
 ---
 
 # United States v. Knights

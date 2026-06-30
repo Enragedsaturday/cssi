@@ -26,6 +26,7 @@ homes:
 related: ["[[Miranda v. Arizona]]", "[[Berkemer v. McCarty]]", "[[Howes v. Fields]]", "[[Rhode Island v. Innis]]"]
 aliases: []
 tags: ["case", "fifth-amendment", "miranda", "custody", "custodial-interrogation"]
+holding: "Miranda warnings were required where four officers questioned a suspect under arrest in his own bedroom in the early morning; custody…"
 ---
 
 # Orozco v. Texas

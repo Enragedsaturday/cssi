@@ -24,8 +24,9 @@ homes:
   - page: "[[Special Needs and Administrative Searches]]"
     role: "Key — Anchor"
 related: ["[[National Treasury Employees Union v. Von Raab]]", "[[Vernonia School District 47J v. Acton]]", "[[Board of Education v. Earls]]", "[[Griffin v. Wisconsin]]", "[[Ferguson v. City of Charleston]]"]
-aliases: ["Skinner v. Railway Labor Executives' Assn."]
+aliases: ["Skinner v. Railway Labor Executives' Assn.", "Skinner v. Railway Labor Executives' Association", "Skinner v. Railway Labor Executives Association"]
 tags: ["case", "fourth-amendment", "special-needs", "drug-testing", "administrative-search"]
+holding: "Suspicionless drug/alcohol testing of railway employees after accidents is reasonable under the special-needs doctrine."
 ---
 
 # Skinner v. Railway Labor Executives' Ass'n

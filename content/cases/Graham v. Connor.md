@@ -26,6 +26,7 @@ homes:
 related: ["[[Tennessee v. Garner]]", "[[Scott v. Harris]]", "[[Saucier v. Katz]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "excessive-force", "section-1983", "objective-reasonableness", "seizure"]
+holding: "Excessive-force § 1983 claims arising from an arrest, stop, or other seizure are analyzed under the Fourth Amendment's 'objective…"
 ---
 
 # Graham v. Connor

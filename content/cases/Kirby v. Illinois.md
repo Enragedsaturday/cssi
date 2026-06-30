@@ -28,6 +28,7 @@ homes:
 related: ["[[United States v. Wade]]", "[[Gilbert v. California]]", "[[Massiah v. United States]]", "[[Rothgery v. Gillespie County]]"]
 aliases: []
 tags: ["case", "sixth-amendment", "right-to-counsel", "attachment", "eyewitness-identification", "showup"]
+holding: "The Sixth Amendment right to counsel attaches only at or after the initiation of adversary judicial criminal proceedings (formal charge,…"
 ---
 
 # Kirby v. Illinois

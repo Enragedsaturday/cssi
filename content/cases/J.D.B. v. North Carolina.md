@@ -26,6 +26,7 @@ homes:
 related: ["[[Yarborough v. Alvarado]]", "[[Berkemer v. McCarty]]", "[[Miranda v. Arizona]]", "[[Stansbury v. California]]"]
 aliases: ["In re J.D.B."]
 tags: ["case", "fifth-amendment", "miranda", "custody", "juveniles", "age"]
+holding: "A child's age is a relevant factor in the Miranda custody analysis when it was known to or objectively apparent to the officer — because…"
 ---
 
 # J.D.B. v. North Carolina

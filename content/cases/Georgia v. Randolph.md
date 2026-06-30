@@ -26,6 +26,7 @@ homes:
 related: ["[[Fernandez v. California]]", "[[Illinois v. Rodriguez]]", "[[United States v. Matlock]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "consent", "co-occupant", "third-party-consent", "present-objector"]
+holding: "A PHYSICALLY PRESENT co-occupant's express refusal to consent prevails over another occupant's consent, rendering the warrantless search…"
 ---
 
 # Georgia v. Randolph

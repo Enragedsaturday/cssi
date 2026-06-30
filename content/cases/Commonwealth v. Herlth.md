@@ -26,6 +26,7 @@ homes:
 related: ["[[Horton v. California]]", "[[Arizona v. Hicks]]", "[[Coolidge v. New Hampshire]]", "[[Caniglia v. Strom]]"]
 aliases: ["Com. v. Herlth", "Commonwealth v. Herlth (Pa. Super. 2026)"]
 tags: ["case", "fourth-amendment", "plain-view", "immediately-apparent", "closed-container", "pennsylvania", "state-appellate"]
+holding: "A closed, opaque shoebox with a one-inch manufacturer's hole, inside a residence, retains a reasonable expectation of privacy; a trooper…"
 ---
 
 # Commonwealth v. Herlth

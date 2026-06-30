@@ -26,6 +26,7 @@ homes:
 related: ["[[Berkemer v. McCarty]]", "[[Howes v. Fields]]"]
 aliases: []
 tags: ["case", "miranda", "custody", "objective-test"]
+holding: "Custody is determined by the objective circumstances of the interrogation, not by the subjective, undisclosed views of the officer or…"
 ---
 
 # Stansbury v. California

@@ -26,6 +26,7 @@ homes:
 related: ["[[City of Indianapolis v. Edmond]]", "[[Chandler v. Miller]]", "[[Board of Education v. Earls]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "special-needs", "drug-testing", "programmatic-purpose"]
+holding: "Covertly drug-testing pregnant patients and reporting results to law enforcement is an unreasonable search; the special-needs exception…"
 ---
 
 # Ferguson v. City of Charleston

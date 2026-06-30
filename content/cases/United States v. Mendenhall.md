@@ -26,6 +26,7 @@ homes:
 related: ["[[Terry v. Ohio]]", "[[Florida v. Bostick]]", "[[California v. Hodari D.]]", "[[United States v. Drayton]]", "[[Schneckloth v. Bustamonte]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "seizure-of-the-person", "free-to-leave", "consensual-encounter", "drug-courier-profile"]
+holding: "The 'free to leave' benchmark: a person is seized only if, under all the circumstances, a reasonable person would not have believed himself free to leave."
 ---
 
 # United States v. Mendenhall

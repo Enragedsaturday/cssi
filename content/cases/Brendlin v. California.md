@@ -26,6 +26,7 @@ homes:
 related: ["[[Rakas v. Illinois]]", "[[Delaware v. Prouse]]", "[[California v. Hodari D.]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "standing", "traffic-stop", "seizure", "passenger"]
+holding: "When a vehicle is stopped, a passenger is seized just as the driver is, and so may challenge the constitutionality of the stop."
 ---
 
 # Brendlin v. California
