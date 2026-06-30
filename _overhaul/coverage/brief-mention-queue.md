@@ -31,3 +31,34 @@
 ---
 
 > **Demotion is reversible.** Any of these may be promoted to a full page if the Case-Index confirm surfaces unexpected current importance or field relevance. Conversely, none of these is *dropped* — each survives as an indexed, doctrine-anchored history note.
+
+---
+
+## ✅ Case-Index confirm — VERIFIED (S5 closeout, 2026-06-30)
+
+Light CourtListener pass (single serial lane; one batched `analyze_citations` call, 14/14 cites verified — the 8 brief-mentions + the 4 live overruling anchors). Identity + cite + treatment confirmed for each; **no `content/cases/` page created** for any (index-row + S6 history-note only). The eyecite name-cross-check WARNINGs were artifacts of inline-prose party attribution; every reporter cite resolved to the correct canonical cluster.
+
+| Case | Cite (confirmed) | CL cluster | Treatment (confirmed) | Overruling / live anchor (verified) | S6 home page | ✅ |
+|---|---|---|---|---|---|---|
+| **Trupiano v. United States** | 334 U.S. 699 (1948) | 104576 | ⛔ overruled / dead law | abrogated by *Rabinowitz* 339 U.S. 56 (1950); SITA line superseded by *Chimel* 395 U.S. 752 (1969) | [[Search Incident to Arrest]] | ✅ |
+| **Frank v. Maryland** | 359 U.S. 360 (1959) | 105880 | ⛔ overruled / dead law | overruled by *Camara* 387 U.S. 523 (1967) + *See v. City of Seattle* 387 U.S. 541 (1967) | [[Special Needs and Administrative Searches]] | ✅ |
+| **Arkansas v. Sanders** | 442 U.S. 753 (1979) | 110119 | ⛔ overruled / dead law | overruled by *California v. Acevedo* 500 U.S. 565 (1991) | [[Automobile Exception]] | ✅ |
+| **Robbins v. California** | 453 U.S. 420 (1981) | 110558 | ⛔ overruled / dead law | overruled by *United States v. Ross* 456 U.S. 798 (1982) | [[Automobile Exception]] | ✅ |
+| **United States v. Verdugo-Urquidez** | 494 U.S. 259 (1990) | 112382 | good (810 citing) | — (good law; foreign-search niche) | [[Fourth Amendment Framework]] | ✅ |
+| **Wyman v. James** | 400 U.S. 309 (1971) | 108223 | good (427 citing) | — (good law; welfare-admin niche) | [[Special Needs and Administrative Searches]] | ✅ |
+| **G. M. Leasing Corp. v. United States** | 429 U.S. 338 (1977) | 109579 | good (680 citing) | — (good law; IRS tax-levy niche) | [[The Warrant Requirement]] | ✅ |
+| **A Quantity of Copies of Books v. Kansas** | 378 U.S. 205 (1964) | 106878 | good (503 citing) | — (good law; 1A obscenity overlay) | [[The Warrant Requirement]] | ✅ |
+
+**S6 handoff:** add a one-line labeled-history sentence on each home doctrine page above (the 4 minors as dead-law-superseded-by-anchor; the 4 borderlines as good-law-but-niche). No BIRAC pages.
+
+<!-- CASE-INDEX-EXPORT (machine-readable; parsed by scripts/build_case_index.py — 5 cols, no pipes inside cells) -->
+| Case | Holding | Treatment | Home | CourtListener |
+|---|---|---|---|---|
+| Trupiano v. United States | A warrant must be obtained where practicable even incident to a lawful arrest (dead law; the SITA line is taught through Chimel). | overruled | [[Search Incident to Arrest]] | https://www.courtlistener.com/opinion/104576/trupiano-v-united-states/ |
+| Frank v. Maryland | A warrantless administrative health inspection of a dwelling does not violate the Fourth Amendment (dead law; superseded by Camara/See). | overruled | [[Special Needs and Administrative Searches]] | https://www.courtlistener.com/opinion/105880/frank-v-maryland/ |
+| Arkansas v. Sanders | A warrant is required to search luggage taken from a car (the Chadwick-Sanders rule; collapsed for cars by Acevedo). | overruled | [[Automobile Exception]] | https://www.courtlistener.com/opinion/110119/arkansas-v-sanders/ |
+| Robbins v. California | A warrant is required for closed containers found in a car (swept away by Ross one year later). | overruled | [[Automobile Exception]] | https://www.courtlistener.com/opinion/110558/robbins-v-california/ |
+| United States v. Verdugo-Urquidez | The Fourth Amendment does not protect a nonresident alien against a search of property abroad; 'the people' means those with a substantial connection to the U.S. | good | [[Fourth Amendment Framework]] | https://www.courtlistener.com/opinion/112382/united-states-v-verdugo-urquidez/ |
+| Wyman v. James | A caseworker's home visit as a condition of welfare benefits is not a Fourth Amendment search requiring a warrant. | good | [[Special Needs and Administrative Searches]] | https://www.courtlistener.com/opinion/108223/wyman-v-james/ |
+| G. M. Leasing Corp. v. United States | Warrantless entry of business offices to seize property for a tax levy violated the Fourth Amendment; seizing the taxpayer's cars from public areas did not. | good | [[The Warrant Requirement]] | https://www.courtlistener.com/opinion/109579/g-m-leasing-corp-v-united-states/ |
+| A Quantity of Copies of Books v. Kansas | Seizing allegedly obscene books requires a prior adversarial hearing (heightened procedure for First-Amendment-sensitive seizures). | good | [[The Warrant Requirement]] | https://www.courtlistener.com/opinion/106878/a-quantity-of-copies-of-books-v-kansas/ |

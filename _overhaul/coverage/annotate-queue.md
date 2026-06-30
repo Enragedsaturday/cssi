@@ -3,6 +3,8 @@
 > The two **frontier-not-run (Diag-class 7)** clusters from `borderline.md`. Per **R6 (controlling-only inclusion)** and **Decision 2**, these get **no standalone pages**. Instead each cluster becomes a **split annotation** on its home doctrine page (S6), with circuits named, surfacing the live circuit conflict officers face. A standalone page is created later **only** for any holding the user later designates *controlling-in-circuit*.
 >
 > **Cluster count: 2 · Case count: 8.** Identity, current vitality, and en-banc/cert status to confirm at the Phase-B web-first → CL pass.
+>
+> **✅ S5-confirmed ready for S6 (2026-06-30).** Both annotation targets are live doctrine pages ([[The Third-Party Doctrine and Digital Surveillance]]; [[Border Searches]] + [[Plain View Doctrine]]); circuits are named per case; **no standalone pages** are to be created (per R6 / Decision 2) unless the user later designates a holding controlling-in-circuit. These 8 cases are the partition's `annotate-cluster` bucket — accounted for in `prior-reconciliation.md`, not omitted.
 
 ## Cluster 1 — Geofence warrants & long-term pole-camera surveillance (post-Carpenter)
 

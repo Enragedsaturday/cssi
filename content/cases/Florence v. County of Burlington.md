@@ -26,7 +26,7 @@ homes:
   - page: "[[Special Needs and Administrative Searches]]"
     role: "Related (cross-doctrine)"
 related: ["[[Illinois v. Lafayette]]", "[[Maryland v. King]]", "[[Atwater v. City of Lago Vista]]"]
-aliases: ["Florence v. Board of Chosen Freeholders of County of Burlington"]
+aliases: ["Florence v. Board of Chosen Freeholders of County of Burlington", "Florence v. Board of Chosen Freeholders"]
 tags: ["case", "fourth-amendment", "jail-search", "strip-search", "booking", "special-needs"]
 holding: "Jail officials may conduct a close visual strip search of every arrestee admitted to the general population without reasonable suspicion, regardless of the minor nature of the offense; the Fourth and Fourteenth Amendments do not require an exception for minor offenders."
 ---

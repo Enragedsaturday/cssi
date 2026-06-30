@@ -41,6 +41,8 @@ import _common as c  # noqa: E402
 
 INDEX = os.path.join(REPO, "content", "2-legal-system-research", "Case Index.md")
 CASES_GLOB = os.path.join(REPO, "content", "cases", "*.md")
+BRIEF_QUEUE = os.path.join(REPO, "_overhaul", "coverage", "brief-mention-queue.md")
+EXPORT_MARK = "CASE-INDEX-EXPORT"
 
 TABLE_HEADER = "| Case | Holding | Good law | Home page(s) | CourtListener |"
 TABLE_SEP = "|---|---|---|---|---|"
@@ -117,6 +119,44 @@ def flagged_rows(existing_lines):
     return out
 
 
+def brief_rows():
+    """Append the 8 brief-mention exception rows (no `content/cases/` page)
+    from the machine-readable CASE-INDEX-EXPORT table in
+    `brief-mention-queue.md`. These are S5-demoted cases that earn a
+    Case-Index row + an S6 home-page history note but NO BIRAC page.
+
+    Each emitted row: an italic case LABEL (no [[wikilink]] — there is no
+    page to link) tagged 'brief-mention — no page'; the one-line holding; the
+    treatment glyph (N13 — never blank); the home-doctrine wikilink; and the
+    CourtListener opinion link. Deterministic -> idempotent.
+    """
+    out = []
+    if not os.path.exists(BRIEF_QUEUE):
+        return out
+    lines = c.read_text(BRIEF_QUEUE).split("\n")
+    start = next((i for i, ln in enumerate(lines) if EXPORT_MARK in ln), None)
+    if start is None:
+        return out
+    in_table = False
+    for ln in lines[start + 1:]:
+        s = ln.strip()
+        if s.startswith("|"):
+            in_table = True
+            if s.startswith("|---") or s.lower().startswith("| case "):
+                continue
+            cells = [x.strip() for x in s.split("|")[1:-1]]
+            if len(cells) != 5:
+                continue
+            case, holding, status, home, url = cells
+            glyph = STATUS_LABEL.get(status.lower(), status or "good")
+            cl = "[opinion](%s)" % url if url.startswith("http") else "—"
+            label = "*%s — brief-mention (no page)*" % case
+            out.append((sortkey(case), [label, holding, glyph, home, cl]))
+        elif in_table:
+            break
+    return out
+
+
 def build():
     lines = c.read_text(INDEX).split("\n")
     # preamble = everything before the table header row
@@ -126,19 +166,22 @@ def build():
         raise RuntimeError("table header not found in Case Index.md")
     preamble = lines[:hdr_idx]
 
-    rows = page_rows() + flagged_rows(lines)
+    briefs = brief_rows()
+    rows = page_rows() + flagged_rows(lines) + briefs
     rows.sort(key=lambda r: r[0])
 
     body = [TABLE_HEADER, TABLE_SEP]
     for _key, cells in rows:
         body.append("| %s | %s | %s | %s | %s |" % tuple(cells))
 
+    nbrief = sum(1 for _k, cells in rows
+                 if "brief-mention (no page)" in cells[0])
     return "\n".join(preamble + body) + "\n", len(rows), \
-        sum(1 for _k, cells in rows if cells[2] == FLAG_LABEL)
+        sum(1 for _k, cells in rows if cells[2] == FLAG_LABEL), nbrief
 
 
 def main():
-    out, nrows, nflag = build()
+    out, nrows, nflag, nbrief = build()
     if "--check" in sys.argv[1:]:
         cur = c.read_text(INDEX) if os.path.exists(INDEX) else ""
         if cur == out:
@@ -154,7 +197,8 @@ def main():
                  and len(ln.split("|")) == 7
                  and ln.split("|")[3].strip() == "")
     print("wrote %s" % os.path.relpath(INDEX, REPO))
-    print("rows: %d  (linked: %d, flagged: %d)" % (nrows, nrows - nflag, nflag))
+    print("rows: %d  (linked: %d, brief-mention: %d, flagged: %d)"
+          % (nrows, nrows - nflag - nbrief, nbrief, nflag))
     print("blank Good-law cells: %d" % blanks)
 
 
