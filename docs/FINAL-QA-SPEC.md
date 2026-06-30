@@ -1,3 +1,16 @@
+> ## ⊘ SUPERSEDED — authority transferred to `docs/STANDARDS.md`
+>
+> **This document is superseded by [`docs/STANDARDS.md`](./STANDARDS.md)** (SR-3 supremacy).
+> Its authority has been **absorbed** into STANDARDS.md: the §0 adversarial self-critique and
+> the §3 **D1–D12** reviewer dimensions are carried forward there (now extended to **D1–D14**),
+> and the §2 find→adjudicate→fix machine is adopted there verbatim.
+>
+> This file is **retained for historical reference only.** On any conflict,
+> **`docs/STANDARDS.md` governs.** Do not treat anything below as current authority —
+> consult STANDARDS.md instead.
+
+---
+
 # CSSI — Final QA & Hardening Pass (SPEC)
 
 *A definitive, exhaustive accuracy + completeness + framing + shepardize pass over the whole CSSI wiki, run in a fresh context. Spec-driven, orchestrator-led, serial-CL, with a true adjudication layer. Author: prior build orchestrator. The build that produced the current state shipped at commit `496c225` (42 pages incl. Case Index; deck v2026-06-25.2 @ 1643 cards; ~506 CL calls to date).*
