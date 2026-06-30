@@ -58,3 +58,45 @@
 1782801392 · search_document · ok · Berkemer · misdemeanor holding p.434
 1782801392 · search_document · ok · Berkemer · 'not in custody...' 0 results
 1782801392 · search_document · ok · Berkemer · traffic-stop-not-custody holding p.440
+1782803373 · analyze_citations · ok · [S4 batch2 idx16-33] · 18/18 verified, all clusters confirmed (name-match warnings are eyecite off-by-one on run-on text)
+1782803373 · get_endpoint_item/clusters · ok · Byrd v. United States · cluster 4497658 → opinion 4274911
+1782803373 · get_endpoint_item/clusters · ok · Caniglia v. Strom · cluster 4883694 → opinion 4687473
+1782803373 · search_document · ok · Board of Education v. Earls · holding p.838 / no-individualized-suspicion p.837
+1782803373 · read_document · ok · Board of Education v. Earls · chunk4 (star-pagination *837-*839)
+1782803373 · search_document · ok · Boyd v. United States · 'true and ultimate expression of constitutional law' p.626-627
+1782803373 · search_document · ok · Brady v. Maryland · 'irrespective of...good faith or bad faith' (no marker in window)
+1782803373 · read_document · ok · Brady v. Maryland · chunk4 (*88 follows holding → p.87)
+1782803373 · search_document · ok · Brendlin v. California · passenger-seized holding p.251 (label *252 opens Part I)
+1782803373 · search_document · ok · Brewer v. Williams · deliberate-elicitation p.399
+1782803373 · search_document · ok · Brewer v. Williams · right-attaches rule statement (page resolved below)
+1782803373 · read_document · ok · Brewer v. Williams · chunk9 (no marker)
+1782803373 · read_document · ok · Brewer v. Williams · chunk8 (*398 → rule statement p.398)
+1782803373 · search_document · ok · Brigham City v. Stuart · 'objectively reasonable basis' holding p.400
+1782803373 · search_document · ok · Brigham City v. Stuart · 'An action is reasonable...state of mind' 0 results (phrasing variant)
+1782803373 · search_document · ok · Brigham City v. Stuart · 'subjective motivation is irrelevant' (page resolved below)
+1782803373 · read_document · ok · Brigham City v. Stuart · chunk6 (no marker)
+1782803373 · search_document · ok · Brigham City v. Stuart · '*404' marker pos 11965 precedes quote, no intervening marker → p.404
+1782803373 · search_document · ok · Brinegar v. United States · 'factual and practical considerations' p.175 / reasonable-caution def p.175-176
+1782803373 · search_document · ok · Brown v. Illinois · '...are all relevant' 0 results (phrasing variant)
+1782803373 · search_document · ok · Brown v. Illinois · attenuation factors p.603-604 (*604 mid-list)
+1782803373 · search_document · ok · Brown v. Mississippi · 'rack and torture chamber' 0 results (not in CL text)
+1782803373 · search_document · ok · Brown v. Mississippi · 'more revolting to the sense of justice' p.286 (label *287 follows)
+1782803373 · search_document · ok · Byrd v. United States · 'will not defeat...' 0 results (slip-op formatting)
+1782803373 · search_document · ok · Byrd v. United States · 'lawful possession or control of a rental car' 0 results (slip-op formatting)
+1782803373 · search_document · ok · Byrd v. United States · holding 'Court now holds...general rule' slip op. (opinion) p.2
+1782803373 · search_document · ok · Cady v. Dombrowski · community-caretaking definition p.441 (between *441/*442)
+1782803373 · search_document · ok · Cady v. Dombrowski · 'vulnerable to intrusion by vandals' holding p.448 (precedes *449)
+1782803373 · search_document · ok · California v. Acevedo · 'one rule to govern all automobile searches' p.580 (precedes *581)
+1782803373 · search_document · ok · California v. Carney · two justifications p.392-393 (*393 splits)
+1782803373 · search_document · ok · California v. Ciraolo · naked-eye 1,000 ft holding p.215 (between *215/*216)
+1782803373 · search_document · ok · California v. Greenwood · 'readily accessible to animals...' 0 results (footnote superscripts)
+1782803373 · search_document · ok · California v. Greenwood · 'exposed their garbage...' holding p.40 (after *40)
+1782803373 · search_document · ok · California v. Hodari D. · 'or, where that is absent' 0 results (italics tags)
+1782803373 · search_document · ok · California v. Hodari D. · 'submission to the assertion of authority' 0 results (italics tags)
+1782803373 · search_document · ok · California v. Hodari D. · 'seizure occurs even though...does not yield' p.626 (between *626/*627)
+1782803373 · search_document · ok · Camara v. Municipal Court · area-inspection PC p.538 (label *538/*539)
+1782803373 · search_document · ok · Camara v. Municipal Court · 'traditional safeguards' warrant-requirement p.534 (label *534)
+1782803373 · search_document · ok · Caniglia v. Strom · 'goes beyond anything this Court has recognized' slip op.3 / Cady-vehicle-not-home slip op.4
+1782803373 · search_document · ok · Caniglia v. Strom · 'creates a standalone doctrine that justifies...' 0 results (phrasing variant)
+1782803373 · search_document · ok · Caniglia v. Strom · 'standalone doctrine that justifies warrantless searches' 0 results (phrasing variant)
+1782803373 · search_document · ok · Caniglia v. Strom · 'The question today is whether' 0 results (phrasing variant)

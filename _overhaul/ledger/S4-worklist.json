@@ -268,7 +268,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/121171/board-of-education-of-independent-school-district-no-92-of-pottawatomie/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 121171,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 17,
@@ -282,7 +285,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 91573,
+    "treatment_status": "limited",
+    "identity_checked": true
   },
   {
     "idx": 18,
@@ -296,7 +302,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/106598/brady-v-maryland/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 106598,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 19,
@@ -310,7 +319,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/145712/brendlin-v-california/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 145712,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 20,
@@ -324,7 +336,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109624/brewer-v-williams/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109624,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 21,
@@ -339,7 +354,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/145654/brigham-city-v-stuart/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 145654,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 22,
@@ -353,7 +371,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/104716/brinegar-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 104716,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 23,
@@ -367,7 +388,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109304/brown-v-illinois/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109304,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 24,
@@ -381,7 +405,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/102604/brown-v-mississippi/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 102604,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 25,
@@ -395,7 +422,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/4497658/byrd-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 4274911,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 26,
@@ -409,7 +439,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/108850/cady-v-dombrowski/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 108850,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 27,
@@ -423,7 +456,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112608/california-v-acevedo/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112608,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 28,
@@ -437,7 +473,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111423/california-v-carney/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111423,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 29,
@@ -451,7 +490,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111666/california-v-ciraolo/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111666,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 30,
@@ -465,7 +507,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112067/california-v-greenwood/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112067,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 31,
@@ -479,7 +524,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112579/california-v-hodari-d/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112579,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 32,
@@ -493,7 +541,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/107473/camara-v-municipal-court-of-city-and-county-of-san-francisco/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 107473,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 33,
@@ -507,7 +558,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/4883694/caniglia-v-strom/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 4687473,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 34,
