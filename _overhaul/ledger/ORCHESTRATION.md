@@ -34,8 +34,9 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 - batch 5: idx 74–93 — ✅ committed (20 pages, 0 escalations, 51 CL calls). Gates=PC anchor; Herring US-pinpoint cross-confirmed; parallel_cite left blank where unconfirmed.
 - batch 6: idx 94–113 — ✅ committed (20 pages, 0 esc, 36 CL calls). Jones(1960) overruled→Historical; Pringle=131150; corrected 2 CL OCR artifacts; SR-5 concordance bonus (Lo-Ji).
 - batch 7: idx 114–133 — ✅ committed (20 pages, 0 esc, 29 CL calls). Michigan v. Jackson L6-resolved→opinion 111622, overruled→Historical (spot-checked = excellent); Miranda=107252; Monroe v. Pape limited.
-- batch 8: idx 134–153 — ⏳ running (20 cases)
-- **133/262 case pages done (~51%, past halfway)**
+- batch 8: idx 134–153 — ✅ committed (20 pages, 0 esc, 47 CL calls). D5 coherence: Montejo↔Jackson, Belton limited→Gant, Olmstead overruled→Katz, Elstad limited→Seibert all align.
+- batch 9: idx 154–173 — ⏳ running (20 cases)
+- **153/262 case pages done (~58%)**
 - pinpoint-pagination caveats to revisit at gate/S9: Gant star-pag; Bailey/Berghuis slip-op; Benn paragraph-nums (idx 8/12/13/14)
 
 ## Artifact locations

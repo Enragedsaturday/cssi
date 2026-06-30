@@ -2286,7 +2286,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/145873/montejo-v-louisiana/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 145873,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 135,
@@ -2300,7 +2303,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111614/moran-v-burbine/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111614,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 136,
@@ -2314,7 +2320,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/142878/muehler-v-mena/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 142878,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 137,
@@ -2328,7 +2337,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/3153112/mullenix-v-luna/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 3153112,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 138,
@@ -2342,7 +2354,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112136/murray-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112136,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 139,
@@ -2356,7 +2371,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/105912/napue-v-illinois/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 105912,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 140,
@@ -2370,7 +2388,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112220/national-treasury-employees-union-v-von-raab/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112220,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 141,
@@ -2384,7 +2405,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/2670795/prado-navarette-v-california/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 2670795,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 142,
@@ -2398,7 +2422,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/108639/neil-v-biggers/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 108639,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 143,
@@ -2412,7 +2439,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111301/new-jersey-v-t-l-o/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111301,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 144,
@@ -2427,7 +2457,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/110559/new-york-v-belton/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 110559,
+    "treatment_status": "limited",
+    "identity_checked": true
   },
   {
     "idx": 145,
@@ -2441,7 +2474,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111927/new-york-v-burger/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111927,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 146,
@@ -2455,7 +2491,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111214/new-york-v-quarles/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111214,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 147,
@@ -2469,7 +2508,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111204/nix-v-williams/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111204,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 148,
@@ -2483,7 +2525,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/110065/north-carolina-v-butler/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 110065,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 149,
@@ -2497,7 +2542,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/118066/ohio-v-robinette/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 118066,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 150,
@@ -2511,7 +2559,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111146/oliver-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111146,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 151,
@@ -2525,7 +2576,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/101320/olmstead-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 101320,
+    "treatment_status": "overruled",
+    "identity_checked": true
   },
   {
     "idx": 152,
@@ -2539,7 +2593,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111364/oregon-v-elstad/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111364,
+    "treatment_status": "limited",
+    "identity_checked": true
   },
   {
     "idx": 153,
@@ -2553,7 +2610,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109587/oregon-v-mathiason/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109587,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 154,
