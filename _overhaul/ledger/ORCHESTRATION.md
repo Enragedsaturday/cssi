@@ -39,9 +39,16 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 - batch 10: idx 174–193 — ✅ committed (19 pages + idx 177 skipped, 0 esc, ~47 CL calls). L3 traps caught (Mansor cluster→wrong doc, resolved). **SR-5 finding:** Mitcham prior="independent-source" vs live="inevitable discovery" → authored to LIVE; flag for S5/S9 concordance.
 - batch 11: idx 194–213 — ✅ committed (19 pages + idx 212 skipped, 0 esc, ~50 CL calls). N2 corrections (August/Basher → Binding in-circuit). **N1 findings for S6/gate:** Anchondo (ratio=SITA, homed Auto-Exc) + Braxton (ratio=inevitable-discovery, homed SITA) — re-home decision.
 - batch 12: idx 214–233 — ✅ committed (20 pages, 0 esc, ~80 CL calls). Survived ~12min CL MCP outage (502s, not throttle) + recovered. L3 trap caught: Gastiaburo URL→unrelated case, resolved. Leon, Matlock, US v. Jones 2012.
-- NOTE: committed pages forward-ref [[Thornton v. United States]] (Gant/Belton related) — Thornton in batch 13/14 range or an S5 class-2 miss (Belton/Gant-without-Thornton is the S5·R4 ex). Confirm at S4 end.
-- batch 13: idx 234–253 — ⏳ running (~19 cases; idx 252 stolen-vehicle White = needs_page=false, skip)
-- **231/262 case pages done (~88%)**
+- batch 13: idx 234–253 — ✅ committed (19 pages + idx 252 skipped, 0 esc, ~67 CL calls). Splits flagged inline (Touset↔Cotterman, Tuggle); Sandoval lexicon fix; Morton N1 (ratio=good-faith, homed Plain View). **CONFIRMED: Thornton NOT in worklist → S5 MUST ingest (class-2 miss); Gant/Belton refs dangle until then.**
+- batch 14: idx 254–265 — ⏳ running (FINAL, ~11 cases)
+- **250/262 case pages done (~95%)**
+
+### S4 findings carried to S5/S6/S9 (gate)
+- **S5 class-2 ingest:** Thornton v. United States (Belton/Gant companion; dangling refs).
+- **N1 re-home decisions (S6/gate):** Anchondo (ratio=SITA, homed Auto-Exc); Braxton (ratio=inevitable-discovery, homed SITA); Morton (ratio=good-faith, homed Plain View via concurrence dicta).
+- **SR-5 concordance findings:** Mitcham (prior=independent-source vs live=inevitable-discovery — authored live).
+- **Pinpoint provenance to spot-check at S9/D8:** slip-op + S.Ct.-only + paragraph-pinpoint cases (Carpenter, Riley, Saucier, Torres, Touset, Strieff, Mansor, et al.) — verbatim-confirmed; only the page provenance is reporter-derived in some.
+- Note: verified-cases-catalog.json holds only key/cite/url (no holdings) → generation was live-derived (strong SR-1). Richer prior holdings for S5 Thread-P are in prior-manifests/spec/*.spec.md.
 - pinpoint-pagination caveats to revisit at gate/S9: Gant star-pag; Bailey/Berghuis slip-op; Benn paragraph-nums (idx 8/12/13/14)
 
 ## Artifact locations

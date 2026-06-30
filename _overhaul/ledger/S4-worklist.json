@@ -3988,7 +3988,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/9498175/united-states-v-derrick-alfondso-morley/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 9964788,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 235,
@@ -4002,7 +4005,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/7859188/united-states-v-morton/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 7803054,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 236,
@@ -4016,7 +4022,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/4750564/united-states-v-neugin/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 4530911,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 237,
@@ -4030,7 +4039,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/137003/united-states-v-patane/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 137003,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 238,
@@ -4044,7 +4056,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109675/united-states-v-ramsey/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109675,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 239,
@@ -4058,7 +4073,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/108893/united-states-v-robinson/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 108893,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 240,
@@ -4072,7 +4090,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/110719/united-states-v-ross/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 110719,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 241,
@@ -4086,7 +4107,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/108768/united-states-v-russell/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 108768,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 242,
@@ -4100,7 +4124,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/110325/united-states-v-salvucci/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 110325,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 243,
@@ -4114,7 +4141,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/767260/united-states-v-rodrigo-sandoval/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 767260,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 244,
@@ -4129,7 +4159,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109504/united-states-v-santana/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109504,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 245,
@@ -4143,7 +4176,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112239/united-states-v-sokolow/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112239,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 246,
@@ -4157,7 +4193,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/4798028/united-states-v-soto-peguero/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 4578375,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 247,
@@ -4171,7 +4210,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/4500452/united-states-v-karl-touset/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 4277705,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 248,
@@ -4185,7 +4227,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/4899735/united-states-v-travis-tuggle/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 4703514,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 249,
@@ -4199,7 +4244,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/187527/united-states-v-vinton/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 187527,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 250,
@@ -4213,7 +4261,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/107486/united-states-v-wade/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 107486,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 251,
@@ -4227,7 +4278,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109352/united-states-v-watson/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109352,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 252,
@@ -4255,7 +4309,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/8176208/utah-v-strieff/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 8137990,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 254,
