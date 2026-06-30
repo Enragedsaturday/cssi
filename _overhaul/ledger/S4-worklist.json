@@ -11,7 +11,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/106021/abel-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 106021,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 2,
@@ -25,7 +28,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/106865/aguilar-v-texas/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 106865,
+    "treatment_status": "abrogated",
+    "identity_checked": true
   },
   {
     "idx": 3,
@@ -39,7 +45,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112454/alabama-v-white/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112454,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 4,
@@ -54,7 +63,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/108845/almeida-sanchez-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 108845,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 5,
@@ -68,7 +80,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109522/andresen-v-maryland/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109522,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 6,
@@ -82,7 +97,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/117905/arizona-v-evans/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 117905,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 7,
@@ -96,7 +114,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112566/arizona-v-fulminante/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112566,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 8,
@@ -111,7 +132,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/145887/arizona-v-gant/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 145887,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 9,
@@ -125,7 +149,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111834/arizona-v-hicks/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111834,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 10,
@@ -139,7 +166,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112100/arizona-v-roberson/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112100,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 11,
@@ -153,7 +183,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/103981/ashcraft-v-tennessee/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 103981,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 12,
@@ -167,7 +200,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/820749/bailey-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 820749,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 13,
@@ -181,7 +217,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/776954/gary-benn-v-john-lambert-superintendent-of-the-washington-state/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 776954,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 14,
@@ -195,7 +234,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/147529/berghuis-v-thompkins/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 147529,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 15,
@@ -209,7 +251,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111249/berkemer-v-mccarty/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111249,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 16,

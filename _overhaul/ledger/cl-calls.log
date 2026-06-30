@@ -8,3 +8,53 @@
 1782797225 · search · ok · Brigham City v. Stuart · 4 results
 1782797287 · search · ok · Carpenter v. United States (2018 SCOTUS, court=scotus filter) · 2 results (cluster 4510032)
 1782797287 · search_document · ok · Carpenter identity check opinion_id=4287285 · 149 matches 'Carpenter'
+1782800010 · get_endpoint_item/clusters · ok · Abel v. United States (cluster 106021 → opinion 106021)
+1782800010 · search_document · ok · Abel v. United States · abandonment holding p.241 (1 sub-op 502)
+1782800010 · read_document · ok · Abel v. United States · star-pagination chunk6
+1782800010 · get_endpoint_item/clusters · ok · Aguilar v. Texas (cluster 106865 → opinion 106865)
+1782800010 · search_document · ok · Aguilar v. Texas · two-prong test p.114-115
+1782800010 · get_endpoint_item/clusters · ok · Alabama v. White (cluster 112454 → opinion 112454)
+1782800010 · search_document · ok · Alabama v. White · close-case/totality p.332
+1782800010 · search_document · ok · Alabama v. White · RS-standard p.330
+1782800010 · read_document · ok · Alabama v. White · star-pagination chunk1
+1782800264 · get_endpoint_item/clusters · ok · Almeida-Sanchez v. United States (cluster 108845 → opinion 108845)
+1782800264 · search_document · ok · Almeida-Sanchez · functional-equivalent p.272 / roving-patrol holding p.273
+1782800264 · get_endpoint_item/clusters · ok · Andresen v. Maryland (cluster 109522 → opinion 109522)
+1782800264 · search_document · ok · Andresen · 5A voluntarily-committed p.473
+1782800264 · search_document · ok · Andresen · particularity 'other fruits' p.478-480
+1782800264 · read_document · ok · Andresen · chunk4 (Warden/Hayden p.483-485)
+1782800264 · read_document · ok · Andresen · chunk3 (5A holding p.477 / particularity p.480-482)
+1782800705 · get_endpoint_item/clusters · ok · Arizona v. Evans (cluster 117905 → opinion 117905)
+1782800705 · search_document · ok · Arizona v. Evans · court-employees holding p.14,16
+1782800705 · get_endpoint_item/clusters · ok · Arizona v. Fulminante (cluster 112566 → opinion 112566)
+1782800705 · search_document · ok · Arizona v. Fulminante · harmless-error/trial-error p.303,309
+1782800705 · search_document · ok · Arizona v. Fulminante · coercion/credible-threat p.287
+1782800705 · read_document · ok · Arizona v. Fulminante · chunk2 (coercion p.287-288)
+1782800705 · get_endpoint_item/clusters · ok · Arizona v. Gant (cluster 145887 → opinion 145887)
+1782800705 · search_document · ok · Arizona v. Gant · two-part holding S.Ct.1723 / U.S.351
+1782800705 · get_endpoint_item/clusters · ok · Arizona v. Hicks (cluster 111834 → opinion 111834)
+1782800705 · search_document · ok · Arizona v. Hicks · moving=search p.324-325
+1782800705 · search_document · ok · Arizona v. Hicks · PC-required holding p.326
+1782800985 · get_endpoint_item/clusters · ok · Arizona v. Roberson (cluster 112100 → opinion 112100)
+1782800985 · search_document · ok · Arizona v. Roberson · Edwards-not-offense-specific p.683-684
+1782800985 · get_endpoint_item/clusters · ok · Ashcraft v. Tennessee (cluster 103981 → opinion 103981)
+1782800985 · search_document · ok · Ashcraft v. Tennessee · inherently-coercive p.154-155
+1782800985 · get_endpoint_item/clusters · ok · Bailey v. United States (cluster 820749 → opinion 820749)
+1782800985 · search_document · ok · Bailey v. United States · immediate-vicinity (slip op., syllabus + p.11)
+1782800985 · search_document · ok · Bailey v. United States · 'detention incident...' 0 results
+1782800985 · search_document · ok · Bailey v. United States · spatial-constraint holding slip op.13
+1782801392 · get_endpoint_item/clusters · ok · Benn v. Lambert (cluster 776954 → opinion 776954)
+1782801392 · search_document · ok · Benn v. Lambert · impeachment-Brady ¶58
+1782801392 · search_document · ok · Benn v. Lambert · 'components of a true Brady' 0 results
+1782801392 · read_document · ok · Benn v. Lambert · chunk0 (paragraph-numbered, no F.3d star pages)
+1782801392 · search_document · ok · Benn v. Lambert · Brady three-element standard
+1782801392 · get_endpoint_item/clusters · ok · Berghuis v. Thompkins (cluster 147529 → opinion 147529)
+1782801392 · search_document · ok · Berghuis · invocation (syllabus + body)
+1782801392 · search_document · ok · Berghuis · 'Here he did neither' p.382
+1782801392 · search_document · ok · Berghuis · 'waives...uncoerced' 0 results (slip hyphenation)
+1782801392 · search_document · ok · Berghuis · 'has not invoked his Miranda rights' 0 results (slip hyphenation)
+1782801392 · search_document · ok · Berghuis · uncoerced-statement waiver holding slip op.17
+1782801392 · get_endpoint_item/clusters · ok · Berkemer v. McCarty (cluster 111249 → opinion 111249)
+1782801392 · search_document · ok · Berkemer · misdemeanor holding p.434
+1782801392 · search_document · ok · Berkemer · 'not in custody...' 0 results
+1782801392 · search_document · ok · Berkemer · traffic-stop-not-custody holding p.440

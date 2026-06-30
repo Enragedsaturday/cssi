@@ -18,12 +18,16 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 | — | CL tier probe | ✅ done | **TIER=NEW (≥20/min), MCP auth OK**, cluster→opinion gotcha validated → PROCEED |
 | S1 | STANDARDS.md + LINT roster | ✅ done | committed ce6b5cd |
 | S2 | IA folder restructure + aliases | ✅ done | committed e3f37ca; 44 moves, 0 broken links |
-| S3 | Platform/nav/UX + components | ⏳ in progress | SPLIT: S3-nav first (unblocks S4), S3-components parallel w/ S4 |
-| S4 | Case pages (BIRAC) + index | ⏳ blocked(S3-nav,probe) | HEAVY CL serial; runs ∥ S3-components |
+| S3 | Platform/nav/UX + components | ✅ done | nav b713b2b + components 09cdca8; build ok. S9 flags: CaseBrowser live render, data-island scaling, slug-casing deep-link check |
+| S4 | Case pages (BIRAC) + index | ⏳ in progress | 262 pages, serial-CL batches of ~15; batch tracker below |
 | S5 | Missed-case ingest + concordance | ⏳ blocked(S4) | borderline → USER PAUSE |
 | S6 | Doctrine/narrative reformat | ⏳ blocked(S5) | caretaking split, Garrity page |
 | S7+S8 | Research pages + glossary wiring | ⏳ blocked(S6) | anchorize-then-wire |
 | S9 | Verification + release gate | ⏳ blocked(S7+S8) | STOP before publish |
+
+## S4 batch tracker (262 pages, idx order, ~15/batch → ~18 batches; serial CL ONE at a time)
+- Resumable: each batch updates `S4-worklist.json` status (pending→authored|escalated); skip already-authored. Commit after each batch.
+- batch 1: idx 1–15 — ⏳ running
 
 ## Artifact locations
 - Orchestration: `_overhaul/ledger/` (this file, `cl-calls.log`).
