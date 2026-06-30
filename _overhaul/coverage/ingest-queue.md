@@ -165,29 +165,29 @@
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
 | ✅ **Malloy v. Hogan** | The 5A privilege against self-incrimination applies to the states via the 14A. | [[Due-Process Voluntariness of Confessions]] — Anchor; [[Miranda and Custodial Interrogation]] | 1 | foundational |
-| **Corley v. United States** | McNabb-Mallory prompt-presentment survives 18 U.S.C. 3501; confessions during unreasonable delay are suppressible (federal). | [[Due-Process Voluntariness of Confessions]] — Progeny; [[Miranda and Custodial Interrogation]] | 1 | good-law |
-| **Rogers v. Richmond** | Confession voluntariness turns on coercion, not on the truth/reliability of the confession. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1 | good-law |
-| **Lynumn v. Illinois** | A confession induced by threats to take the suspect's children/benefits is involuntary. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1,2 | good-law |
-| **Beecher v. Alabama** | A confession extracted at gunpoint, wounded and drugged, is involuntary. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1,2 | good-law |
-| **Haynes v. Washington** | Incommunicado detention plus promises/coercion rendered a confession involuntary. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1,2 | good-law |
-| **Townsend v. Sain** | A confession produced by a truth-serum/drug given without the suspect's knowledge is involuntary. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1,2 | good-law |
-| **Lego v. Twomey** | The prosecution must prove voluntariness by a preponderance of the evidence. | [[Due-Process Voluntariness of Confessions]] — Progeny | 3 | good-law |
-| **Mallory v. United States** | Unreasonable presentment delay renders a confession inadmissible (the 'Mallory' half of McNabb-Mallory; federal). | [[Due-Process Voluntariness of Confessions]] — Anchor; pairs with Corley/McNabb | 2 | foundational |
-| **McNabb v. United States** | Confessions during unlawful detention/presentment delay are inadmissible in federal court (the 'McNabb' half). | [[Due-Process Voluntariness of Confessions]] — Anchor; pairs with Mallory/Corley | 2 | foundational |
+| ✅ **Corley v. United States** | McNabb-Mallory prompt-presentment survives 18 U.S.C. 3501; confessions during unreasonable delay are suppressible (federal). | [[Due-Process Voluntariness of Confessions]] — Progeny; [[Miranda and Custodial Interrogation]] | 1 | good-law |
+| ✅ **Rogers v. Richmond** | Confession voluntariness turns on coercion, not on the truth/reliability of the confession. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1 | good-law |
+| ✅ **Lynumn v. Illinois** | A confession induced by threats to take the suspect's children/benefits is involuntary. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1,2 | good-law |
+| ✅ **Beecher v. Alabama** | A confession extracted at gunpoint, wounded and drugged, is involuntary. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1,2 | good-law |
+| ✅ **Haynes v. Washington** | Incommunicado detention plus promises/coercion rendered a confession involuntary. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1,2 | good-law |
+| ✅ **Townsend v. Sain** | A confession produced by a truth-serum/drug given without the suspect's knowledge is involuntary. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1,2 | good-law |
+| ✅ **Lego v. Twomey** | The prosecution must prove voluntariness by a preponderance of the evidence. | [[Due-Process Voluntariness of Confessions]] — Progeny | 3 | good-law |
+| ✅ **Mallory v. United States** | Unreasonable presentment delay renders a confession inadmissible (the 'Mallory' half of McNabb-Mallory; federal). | [[Due-Process Voluntariness of Confessions]] — Anchor; pairs with Corley/McNabb | 2 | foundational |
+| ✅ **McNabb v. United States** | Confessions during unlawful detention/presentment delay are inadmissible in federal court (the 'McNabb' half). | [[Due-Process Voluntariness of Confessions]] — Anchor; pairs with Mallory/Corley | 2 | foundational |
 
 ## Batch K — Miranda: custody · interrogation · warning adequacy · §1983 overlay (13)
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **Florida v. Powell** | Miranda warnings need not be verbatim; a warning reasonably conveying counsel rights is adequate. | [[Miranda and Custodial Interrogation]] — Progeny | 1 | good-law |
-| **Arizona v. Mauro** | Letting a suspect's wife speak with him in an officer's presence (recorded) is not interrogation. | [[Miranda and Custodial Interrogation]] — Progeny (interrogation) | 1,2 | good-law |
-| **Pennsylvania v. Bruder** | Per curiam: ordinary roadside DUI questioning during a traffic stop is non-custodial (applies Berkemer). | [[Miranda and Custodial Interrogation]] — Related | 2 | good-law |
-| **Beckwith v. United States** | An IRS interview in a private home was non-custodial; Miranda turns on custody, not investigative focus. | [[Miranda and Custodial Interrogation]] — Progeny (custody) | 1,2 | good-law |
-| **Mathis v. United States (1968)** | Miranda applies to a prison inmate questioned about an unrelated matter. | [[Miranda and Custodial Interrogation]] — Progeny (custody) | 3,5 | good-law |
-| **California v. Beheler** | Per curiam: a suspect who voluntarily comes to the station and is free to leave is not in custody. | [[Miranda and Custodial Interrogation]] — Progeny (custody) | 3 | good-law |
-| **Thompson v. Keohane** | Custody is an objective inquiry (reasonable person free to terminate and leave); a mixed question for habeas. | [[Miranda and Custodial Interrogation]] — Progeny (custody) | 1 | good-law |
-| **Yarborough v. Alvarado** | A suspect's age/prior history are not part of the objective Miranda custody test (AEDPA deference). | [[Miranda and Custodial Interrogation]] — Progeny (custody); pairs with J.D.B. | 3 | good-law |
-| **Pennsylvania v. Muniz** | Slurred-speech/sobriety responses are non-testimonial, but a testimonial question (the 'sixth birthday') needs Miranda — routine-booking exception. | [[Miranda and Custodial Interrogation]] — Progeny | 1 | good-law |
+| ✅ **Florida v. Powell** | Miranda warnings need not be verbatim; a warning reasonably conveying counsel rights is adequate. | [[Miranda and Custodial Interrogation]] — Progeny | 1 | good-law |
+| ✅ **Arizona v. Mauro** | Letting a suspect's wife speak with him in an officer's presence (recorded) is not interrogation. | [[Miranda and Custodial Interrogation]] — Progeny (interrogation) | 1,2 | good-law |
+| ✅ **Pennsylvania v. Bruder** | Per curiam: ordinary roadside DUI questioning during a traffic stop is non-custodial (applies Berkemer). | [[Miranda and Custodial Interrogation]] — Related | 2 | good-law |
+| ✅ **Beckwith v. United States** | An IRS interview in a private home was non-custodial; Miranda turns on custody, not investigative focus. | [[Miranda and Custodial Interrogation]] — Progeny (custody) | 1,2 | good-law |
+| ✅ **Mathis v. United States (1968)** | Miranda applies to a prison inmate questioned about an unrelated matter. | [[Miranda and Custodial Interrogation]] — Progeny (custody) | 3,5 | good-law |
+| ✅ **California v. Beheler** | Per curiam: a suspect who voluntarily comes to the station and is free to leave is not in custody. | [[Miranda and Custodial Interrogation]] — Progeny (custody) | 3 | good-law |
+| ✅ **Thompson v. Keohane** | Custody is an objective inquiry (reasonable person free to terminate and leave); a mixed question for habeas. | [[Miranda and Custodial Interrogation]] — Progeny (custody) | 1 | good-law |
+| ✅ **Yarborough v. Alvarado** | A suspect's age/prior history are not part of the objective Miranda custody test (AEDPA deference). | [[Miranda and Custodial Interrogation]] — Progeny (custody); pairs with J.D.B. | 3 | good-law |
+| ✅ **Pennsylvania v. Muniz** | Slurred-speech/sobriety responses are non-testimonial, but a testimonial question (the 'sixth birthday') needs Miranda — routine-booking exception. | [[Miranda and Custodial Interrogation]] — Progeny | 1 | good-law |
 | **California v. Prysock** | Per curiam: Miranda warnings need not follow an exact script if they convey the rights' substance. | [[Miranda and Custodial Interrogation]] — Related (warning adequacy) | 2 | good-law |
 | **Duckworth v. Eagan** | A warning that counsel will be appointed 'if and when you go to court' did not render the advice inadequate. | [[Miranda and Custodial Interrogation]] — Progeny (warning adequacy) | 1 | good-law |
 | **Chavez v. Martinez** | Coercive questioning never used in a criminal case does not by itself violate the 5A (no § 1983 5A claim absent use). | [[Miranda and Custodial Interrogation]] — Progeny; [[Section 1983 Liability and Qualified Immunity]]; [[Due-Process Voluntariness of Confessions]] | 1,7 | good-law |
