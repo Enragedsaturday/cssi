@@ -1,0 +1,27 @@
+@use "../../styles/variables.scss" as *;
+
+// S3 · R4 #4 — clickable deep-link nodes in doctrine flowcharts (mermaid).
+code.mermaid {
+  svg a.flowchart-node-link,
+  svg .flowchart-clickable {
+    cursor: pointer;
+  }
+
+  // make deep-linkable nodes legible as interactive
+  svg a.flowchart-node-link {
+    text-decoration: none;
+
+    & > * {
+      transition: filter 0.1s ease;
+    }
+
+    &:hover > * {
+      filter: brightness(0.95);
+    }
+
+    // underline the node label text on hover to signal it's a link
+    &:hover text {
+      text-decoration: underline;
+    }
+  }
+}

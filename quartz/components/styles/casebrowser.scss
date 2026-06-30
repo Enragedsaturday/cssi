@@ -1,0 +1,156 @@
+@use "../../styles/variables.scss" as *;
+
+// S3 · R4 #5 — faceted case browser.
+.casebrowser {
+  margin: 1rem 0;
+
+  .casebrowser-toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.6rem;
+    margin-bottom: 0.8rem;
+
+    .casebrowser-search {
+      flex: 1 1 16rem;
+      max-width: 24rem;
+      font-family: inherit;
+      font-size: 0.9rem;
+      padding: 0.4rem 0.6rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 0.4rem;
+      background: var(--light);
+      color: var(--dark);
+    }
+
+    .casebrowser-count {
+      font-size: 0.82rem;
+      color: var(--gray);
+    }
+
+    .casebrowser-indexlink {
+      margin-left: auto;
+      font-size: 0.85rem;
+    }
+  }
+
+  .casebrowser-facets {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-bottom: 1rem;
+
+    .casebrowser-facet {
+      border: 1px solid var(--lightgray);
+      border-radius: 0.4rem;
+      padding: 0.4rem 0.7rem 0.6rem;
+      margin: 0;
+      min-width: 9rem;
+
+      & > legend {
+        font-size: 0.78rem;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        color: var(--gray);
+        font-weight: $semiBoldWeight;
+        padding: 0 0.3rem;
+      }
+
+      .casebrowser-option {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+        font-size: 0.85rem;
+        line-height: 1.7;
+        cursor: pointer;
+
+        & > input {
+          margin: 0;
+        }
+      }
+    }
+  }
+
+  .casebrowser-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: 0.7rem;
+  }
+
+  .casebrowser-card {
+    border: 1px solid var(--lightgray);
+    border-radius: 0.5rem;
+    padding: 0.7rem 0.85rem;
+    background: var(--light);
+
+    .casebrowser-card-title {
+      font-weight: $semiBoldWeight;
+      font-size: 0.95rem;
+    }
+
+    .casebrowser-card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.4rem 0.6rem;
+      margin-top: 0.25rem;
+      font-size: 0.78rem;
+      color: var(--gray);
+
+      .casebrowser-treat {
+        padding: 0.02rem 0.4rem;
+        border-radius: 0.8rem;
+        font-weight: $semiBoldWeight;
+
+        &.treatment-good {
+          color: #1a7f37;
+          background: rgba(26, 127, 55, 0.12);
+        }
+        &.treatment-criticized {
+          color: #9a6700;
+          background: rgba(154, 103, 0, 0.12);
+        }
+        &.treatment-limited,
+        &.treatment-abrogated {
+          color: #bc4c00;
+          background: rgba(188, 76, 0, 0.12);
+        }
+        &.treatment-overruled {
+          color: #cf222e;
+          background: rgba(207, 34, 46, 0.12);
+        }
+        &.treatment-unknown {
+          color: var(--gray);
+          background: var(--lightgray);
+        }
+      }
+    }
+
+    .casebrowser-card-homes {
+      margin-top: 0.4rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+
+      .casebrowser-home-tag {
+        font-size: 0.72rem;
+        color: var(--darkgray);
+        background: var(--highlight);
+        border-radius: 0.3rem;
+        padding: 0.05rem 0.4rem;
+
+        & > em {
+          color: var(--gray);
+        }
+      }
+    }
+  }
+
+  .casebrowser-empty {
+    color: var(--gray);
+    font-style: italic;
+  }
+}

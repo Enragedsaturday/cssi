@@ -23,6 +23,11 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import TreatmentBadge from "./TreatmentBadge"
+import CaseTable from "./CaseTable"
+import DoctrineFlowchart from "./DoctrineFlowchart"
+import CaseBrowser from "./CaseBrowser"
+import CrossRefPanel from "./CrossRefPanel"
 
 export {
   ArticleTitle,
@@ -50,4 +55,9 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  TreatmentBadge,
+  CaseTable,
+  DoctrineFlowchart,
+  CaseBrowser,
+  CrossRefPanel,
 }

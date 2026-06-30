@@ -1,0 +1,60 @@
+@use "../../styles/variables.scss" as *;
+
+// S3 · R4 #6 — cross-reference panel (sidebar). Mirrors Backlinks styling so it sits
+// naturally in the right rail.
+.crossref-panel {
+  flex-direction: column;
+
+  & > h3 {
+    font-size: 1rem;
+    margin: 0 0 0.4rem 0;
+  }
+
+  .crossref-section {
+    margin: 0 0 0.7rem 0;
+
+    & > h4 {
+      font-size: 0.82rem;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      color: var(--gray);
+      margin: 0 0 0.25rem 0;
+      font-weight: $semiBoldWeight;
+    }
+
+    & > ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      & > li {
+        margin: 0.15rem 0;
+        line-height: 1.4;
+
+        & > a {
+          background-color: transparent;
+        }
+      }
+    }
+  }
+
+  .crossref-role {
+    display: inline-block;
+    margin-left: 0.4rem;
+    font-size: 0.72rem;
+    color: var(--gray);
+    font-style: italic;
+  }
+
+  .crossref-unresolved {
+    color: var(--darkgray);
+  }
+
+  .crossref-negative > h4 {
+    color: #cf222e;
+  }
+}
+
+:root[saved-theme="dark"] .crossref-panel .crossref-negative > h4 {
+  color: #f85149;
+}

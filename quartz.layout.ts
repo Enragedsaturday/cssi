@@ -45,7 +45,21 @@ const categoryExplorer = Component.Explorer({
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  // S3 · R4/R5 — case-data component layer (progressive enhancement over portable
+  // markdown + frontmatter). These self-gate and degrade safely on every page type:
+  //   • CaseTable      — emits a hidden case-index data island ONLY on pages with a
+  //                      table; its script enhances any GFM table that has a Case/Name
+  //                      column into a sortable/filterable view. JS off ⇒ static table.
+  //   • DoctrineFlowchart — renders nothing; its script makes mermaid `click` nodes
+  //                      SPA-safe deep-links. JS off ⇒ static mermaid diagram.
+  //   • CaseBrowser    — renders its faceted UI ONLY on a page with frontmatter
+  //                      `type: case-browser` (or `caseBrowser: true`); else null.
+  //                      JS off ⇒ static list of case links + Case Index link.
+  afterBody: [
+    Component.CaseTable(),
+    Component.DoctrineFlowchart(),
+    Component.CaseBrowser(),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -62,6 +76,9 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
+    // S3 · R4 #1 — treatment + authority-weight badges (case pages only; degrades to
+    // the plain-markdown header line already on the page).
+    Component.TreatmentBadge(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
@@ -84,6 +101,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    // S3 · R4 #6 — cross-reference panel (case pages only; multi-homing N6 + related +
+    // limited/abrogated/overruled-by, from frontmatter). Degrades to nothing.
+    Component.CrossRefPanel(),
   ],
 }
 
