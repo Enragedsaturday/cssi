@@ -31,8 +31,9 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 - batch 2: idx 16–33 — ✅ committed b50167e (18 pages, 0 escalations, 42 CL calls). Caveat: Boyd "limited" call to reviewer-confirm; provisional roles reconcile in S6.
 - batch 3: idx 34–53 — ✅ committed (20 pages, 0 escalations, 49 CL calls). Caveats: Coolidge limited→Horton; Carroll/Devenpeck paragraph-pinpoints; Patel/Herlth caption normalization.
 - batch 4: idx 54–73 — ✅ committed (20 pages, 0 escalations, 48 CL calls). Jardines=856347; Fernandez↔Randolph N4 coherence tagged both pages (D5).
-- batch 5: idx 74–93 — ⏳ running (20 cases)
-- **73/262 case pages done**
+- batch 5: idx 74–93 — ✅ committed (20 pages, 0 escalations, 51 CL calls). Gates=PC anchor; Herring US-pinpoint cross-confirmed; parallel_cite left blank where unconfirmed.
+- batch 6: idx 94–113 — ⏳ running (20 cases)
+- **93/262 case pages done (~35%)**
 - pinpoint-pagination caveats to revisit at gate/S9: Gant star-pag; Bailey/Berghuis slip-op; Benn paragraph-nums (idx 8/12/13/14)
 
 ## Artifact locations
