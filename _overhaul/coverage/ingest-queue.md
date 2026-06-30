@@ -86,29 +86,29 @@
 | ✅ **Go-Bart Importing Co. v. United States** | A SITA may not become a general exploratory search of the premises (early SITA limit; principle survives in Chimel). | [[Search Incident to Arrest]] — Historical | 1 | foundational |
 | ✅ **Agnello v. United States** | SITA cannot extend to the arrestee's home several blocks away (early SITA limit; survives in Chimel). | [[Search Incident to Arrest]] — Historical | 1 | foundational |
 | ✅ **Shipley v. California** | Per curiam: police may not search a home as 'incident' to an arrest made outside it. | [[Search Incident to Arrest]] — Related | 2 | good-law |
-| **Vale v. Louisiana** | An arrest on the front steps does not justify a warrantless search of the house; SITA limited to the area of arrest. | [[Search Incident to Arrest]] — Limiting; [[Arrest in the Home]] | 1,2 | good-law |
-| **United States v. Edwards** | SITA may extend in time — clothing taken from a jailed arrestee the next morning was valid. | [[Search Incident to Arrest]] — Progeny | 1 | good-law |
-| **Virginia v. Moore** | An arrest on PC is reasonable under the 4A even if it violates state arrest law; SITA follows. | [[Search Incident to Arrest]] — Progeny; [[Seizure of the Person]]; [[The Exclusionary Rule]] | 1 | good-law |
-| **Florence v. County of Burlington** | Jail-intake strip/visual body-cavity searches of all arrestees are reasonable without individualized suspicion. | [[Search Incident to Arrest]] — Progeny; [[Special Needs and Administrative Searches]] | 3 | good-law |
-| **Preston v. United States** | No SITA of a vehicle after the arrestee is in custody and the car is towed (too remote in time/place). | [[Search Incident to Arrest]] — Historical; [[Automobile Exception]] | 1 | good-law |
-| **Knowles v. Iowa** | Issuing a citation (no custodial arrest) does not authorize a SITA. | [[Search Incident to Arrest]] — Limiting; [[Traffic Stops]] | 2 | good-law |
+| ✅ **Vale v. Louisiana** | An arrest on the front steps does not justify a warrantless search of the house; SITA limited to the area of arrest. | [[Search Incident to Arrest]] — Limiting; [[Arrest in the Home]] | 1,2 | good-law |
+| ✅ **United States v. Edwards** | SITA may extend in time — clothing taken from a jailed arrestee the next morning was valid. | [[Search Incident to Arrest]] — Progeny | 1 | good-law |
+| ✅ **Virginia v. Moore** | An arrest on PC is reasonable under the 4A even if it violates state arrest law; SITA follows. | [[Search Incident to Arrest]] — Progeny; [[Seizure of the Person]]; [[The Exclusionary Rule]] | 1 | good-law |
+| ✅ **Florence v. County of Burlington** | Jail-intake strip/visual body-cavity searches of all arrestees are reasonable without individualized suspicion. | [[Search Incident to Arrest]] — Progeny; [[Special Needs and Administrative Searches]] | 3 | good-law |
+| ✅ **Preston v. United States** | No SITA of a vehicle after the arrestee is in custody and the car is towed (too remote in time/place). | [[Search Incident to Arrest]] — Historical; [[Automobile Exception]] | 1 | good-law |
+| ✅ **Knowles v. Iowa** | Issuing a citation (no custodial arrest) does not authorize a SITA. | [[Search Incident to Arrest]] — Limiting; [[Traffic Stops]] | 2 | good-law |
 
 ## Batch F — Warrants: affidavit · particularity · neutral magistrate · execution · knock-and-announce · securing the scene (16)
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **Byars v. United States** | Federal agents participating in a state search are bound by federal standards; a conclusory-affidavit warrant is invalid. | [[The Warrant Requirement]] — Historical; [[The Exclusionary Rule]] | 1 | foundational |
-| **Winston v. Lee** | Court-ordered surgery to recover a bullet is unreasonable even with a warrant where intrusion outweighs need (Schmerber balancing). | [[The Warrant Requirement]] — Limiting; [[Search Incident to Arrest]] | 1,2 | good-law |
-| **United States v. Ventresca** | Warrant affidavits are read commonsensically; doubtful cases favor the warrant. | [[The Warrant Requirement]] — Progeny; [[Probable Cause and Reasonable Suspicion]] | 1 | good-law |
-| **United States v. Harris (1971)** | An informant's statement against penal interest bears on reliability for PC. | [[Probable Cause and Reasonable Suspicion]] — Progeny; [[The Warrant Requirement]] | 2,5 | good-law |
-| **Connally v. Georgia** | A magistrate paid only when a warrant issues is not neutral and detached; such warrants are void. | [[The Warrant Requirement]] — Progeny; pairs with Lo-Ji Sales | 1 | good-law |
-| **Stanford v. Texas** | Warrants for expressive books/papers demand scrupulous particularity; general warrant void. | [[The Warrant Requirement]] — Progeny | 1 | good-law |
-| **Steele v. United States** | Particularity of place is satisfied if the description lets the officer locate it with reasonable effort. | [[The Warrant Requirement]] — Progeny | 1 | good-law |
-| **Sabbath v. United States** | 'Breaking' for knock-and-announce includes opening a closed but unlocked door. | [[The Warrant Requirement]] — Progeny; [[Arrest in the Home]] | 1,2 | good-law |
-| **United States v. Ramirez** | A no-knock entry with property damage is reasonable on RS of danger/destruction. | [[The Warrant Requirement]] — Progeny; [[Knock and Talk]] | 1,2 | good-law |
-| **United States v. Banks** | A 15–20 second wait after knock-and-announce before forcible entry was reasonable given destructible evidence. | [[The Warrant Requirement]] — Progeny | 1,2 | good-law |
-| **Los Angeles County v. Rettele** | Briefly detaining occupants while securing a residence during warrant execution is reasonable; QI. | [[Securing the Scene]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 2,3 | good-law |
-| **United States v. Van Leeuwen** | Temporarily detaining a mailed package on RS, pending a warrant, is reasonable. | [[Special Needs and Administrative Searches]] — Related; pairs with [[United States v. Place]] | 1 | good-law |
+| ✅ **Byars v. United States** | Federal agents participating in a state search are bound by federal standards; a conclusory-affidavit warrant is invalid. | [[The Warrant Requirement]] — Historical; [[The Exclusionary Rule]] | 1 | foundational |
+| ✅ **Winston v. Lee** | Court-ordered surgery to recover a bullet is unreasonable even with a warrant where intrusion outweighs need (Schmerber balancing). | [[The Warrant Requirement]] — Limiting; [[Search Incident to Arrest]] | 1,2 | good-law |
+| ✅ **United States v. Ventresca** | Warrant affidavits are read commonsensically; doubtful cases favor the warrant. | [[The Warrant Requirement]] — Progeny; [[Probable Cause and Reasonable Suspicion]] | 1 | good-law |
+| ✅ **United States v. Harris (1971)** | An informant's statement against penal interest bears on reliability for PC. | [[Probable Cause and Reasonable Suspicion]] — Progeny; [[The Warrant Requirement]] | 2,5 | good-law |
+| ✅ **Connally v. Georgia** | A magistrate paid only when a warrant issues is not neutral and detached; such warrants are void. | [[The Warrant Requirement]] — Progeny; pairs with Lo-Ji Sales | 1 | good-law |
+| ✅ **Stanford v. Texas** | Warrants for expressive books/papers demand scrupulous particularity; general warrant void. | [[The Warrant Requirement]] — Progeny | 1 | good-law |
+| ✅ **Steele v. United States** | Particularity of place is satisfied if the description lets the officer locate it with reasonable effort. | [[The Warrant Requirement]] — Progeny | 1 | good-law |
+| ✅ **Sabbath v. United States** | 'Breaking' for knock-and-announce includes opening a closed but unlocked door. | [[The Warrant Requirement]] — Progeny; [[Arrest in the Home]] | 1,2 | good-law |
+| ✅ **United States v. Ramirez** | A no-knock entry with property damage is reasonable on RS of danger/destruction. | [[The Warrant Requirement]] — Progeny; [[Knock and Talk]] | 1,2 | good-law |
+| ✅ **United States v. Banks** | A 15–20 second wait after knock-and-announce before forcible entry was reasonable given destructible evidence. | [[The Warrant Requirement]] — Progeny | 1,2 | good-law |
+| ✅ **Los Angeles County v. Rettele** | Briefly detaining occupants while securing a residence during warrant execution is reasonable; QI. | [[Securing the Scene]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 2,3 | good-law |
+| ✅ **United States v. Van Leeuwen** | Temporarily detaining a mailed package on RS, pending a warrant, is reasonable. | [[Special Needs and Administrative Searches]] — Related; pairs with [[United States v. Place]] | 1 | good-law |
 | **Sgro v. United States** | A warrant must be executed promptly; staleness invalidates it (no re-dating without fresh PC). | [[The Warrant Requirement]] — Progeny (staleness) | 1 | good-law |
 | **Gooding v. United States** | Nighttime execution of a narcotics warrant was authorized under the governing statute on the showing made. | [[The Warrant Requirement]] — Related | 1 | good-law |
 | **Dalia v. United States** | A warrant authorizing electronic surveillance implicitly authorizes covert entry to install the device. | [[The Warrant Requirement]] — Progeny | 1 | good-law |
