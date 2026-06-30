@@ -12,29 +12,29 @@
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **Gouled v. United States** | Mere-evidence rule (seize only contraband/fruits/instrumentalities) — abandoned by Warden v. Hayden; surreptitious entry by ruse is unreasonable. | [[Two Definitions of Search]] — Historical; [[Warden v. Hayden]] companion | 2,3 | foil |
-| **Dow Chemical Co. v. United States** | Precision aerial photography of an industrial complex's open areas is not a search; industrial curtilage gets less protection. | [[Curtilage]] — Related; [[Two Definitions of Search]] | 2,3 | good-law |
-| **Florida v. Riley** | Naked-eye observation from a helicopter at 400 ft is not a search (lawful public airspace). | [[Curtilage]] — Progeny (Ciraolo line); [[The Third-Party Doctrine and Digital Surveillance]] | 2,3 | good-law |
-| **Illinois v. Andreas** | Reopening a container after a lawful controlled delivery is not a new search where REP was already extinguished. | [[Plain View Doctrine]] — Related | 1 | good-law |
-| **United States v. Karo** | Monitoring a beeper inside a residence is a search requiring a warrant (reveals interior facts). Pairs with Knotts. | [[The Third-Party Doctrine and Digital Surveillance]] — Anchor/Progeny; [[Two Definitions of Search]] | 2 | foundational |
-| **United States v. Knotts** | Beeper tracking of a vehicle on public roads is not a search (no REP in public movements). Anchor pair with Karo. | [[The Third-Party Doctrine and Digital Surveillance]] — Anchor; [[Two Definitions of Search]] | 2 | foundational |
-| **Bond v. United States (2000)** | Physically manipulating a bus passenger's soft luggage is a search; travelers retain REP against exploratory squeezing. | [[Two Definitions of Search]] — Progeny; [[Abandonment]] | 1 | good-law |
-| **United States v. Place** | A dog sniff of luggage in public is not a search (sui generis); a 90-min luggage seizure exceeded Terry. Dog-sniff anchor. | [[Two Definitions of Search]] — Anchor (dog-sniff); [[Terry Stops and Reasonable Suspicion]] — Limiting (duration) | 2,3 | foundational |
-| **Soldal v. Cook County** | A property 'seizure' = meaningful interference with a possessory interest; 4A protects possessory interests independent of privacy. | [[Two Definitions of Search]] — Anchor (seizure of property); [[Seizure of the Person]] | 1,3 | foundational |
-| **Maryland v. Macon** | An undercover purchase of obscene magazines from a public store is neither a search nor a seizure. | [[Two Definitions of Search]] — Related; [[Consent Searches]] | 1 | good-law |
-| **New York v. Class** | Reaching into a stopped car to move papers obscuring the VIN is reasonable (no REP in a public VIN). | [[Two Definitions of Search]] — Related; [[Traffic Stops]] | 1 | good-law |
-| **Berger v. New York** | NY's broad eavesdropping statute lacked particularity; set 4A standards for wiretap warrants. | [[The Third-Party Doctrine and Digital Surveillance]] — Historical/Anchor; [[Two Definitions of Search]] | 3 | foundational |
-| **Hudson v. Palmer** **[BL]** | A prisoner has no reasonable expectation of privacy in his cell. | [[Two Definitions of Search]] — Related (REP boundary) | — | good-law |
+| ✅ **Gouled v. United States** | Mere-evidence rule (seize only contraband/fruits/instrumentalities) — abandoned by Warden v. Hayden; surreptitious entry by ruse is unreasonable. | [[Two Definitions of Search]] — Historical; [[Warden v. Hayden]] companion | 2,3 | foil |
+| ✅ **Dow Chemical Co. v. United States** | Precision aerial photography of an industrial complex's open areas is not a search; industrial curtilage gets less protection. | [[Curtilage]] — Related; [[Two Definitions of Search]] | 2,3 | good-law |
+| ✅ **Florida v. Riley** | Naked-eye observation from a helicopter at 400 ft is not a search (lawful public airspace). | [[Curtilage]] — Progeny (Ciraolo line); [[The Third-Party Doctrine and Digital Surveillance]] | 2,3 | good-law |
+| ✅ **Illinois v. Andreas** | Reopening a container after a lawful controlled delivery is not a new search where REP was already extinguished. | [[Plain View Doctrine]] — Related | 1 | good-law |
+| ✅ **United States v. Karo** | Monitoring a beeper inside a residence is a search requiring a warrant (reveals interior facts). Pairs with Knotts. | [[The Third-Party Doctrine and Digital Surveillance]] — Anchor/Progeny; [[Two Definitions of Search]] | 2 | foundational |
+| ✅ **United States v. Knotts** | Beeper tracking of a vehicle on public roads is not a search (no REP in public movements). Anchor pair with Karo. | [[The Third-Party Doctrine and Digital Surveillance]] — Anchor; [[Two Definitions of Search]] | 2 | foundational |
+| ✅ **Bond v. United States (2000)** | Physically manipulating a bus passenger's soft luggage is a search; travelers retain REP against exploratory squeezing. | [[Two Definitions of Search]] — Progeny; [[Abandonment]] | 1 | good-law |
+| ✅ **United States v. Place** | A dog sniff of luggage in public is not a search (sui generis); a 90-min luggage seizure exceeded Terry. Dog-sniff anchor. | [[Two Definitions of Search]] — Anchor (dog-sniff); [[Terry Stops and Reasonable Suspicion]] — Limiting (duration) | 2,3 | foundational |
+| ✅ **Soldal v. Cook County** | A property 'seizure' = meaningful interference with a possessory interest; 4A protects possessory interests independent of privacy. | [[Two Definitions of Search]] — Anchor (seizure of property); [[Seizure of the Person]] | 1,3 | foundational |
+| ✅ **Maryland v. Macon** | An undercover purchase of obscene magazines from a public store is neither a search nor a seizure. | [[Two Definitions of Search]] — Related; [[Consent Searches]] | 1 | good-law |
+| ✅ **New York v. Class** | Reaching into a stopped car to move papers obscuring the VIN is reasonable (no REP in a public VIN). | [[Two Definitions of Search]] — Related; [[Traffic Stops]] | 1 | good-law |
+| ✅ **Berger v. New York** | NY's broad eavesdropping statute lacked particularity; set 4A standards for wiretap warrants. | [[The Third-Party Doctrine and Digital Surveillance]] — Historical/Anchor; [[Two Definitions of Search]] | 3 | foundational |
+| ✅ **Hudson v. Palmer** **[BL]** | A prisoner has no reasonable expectation of privacy in his cell. | [[Two Definitions of Search]] — Related (REP boundary) | — | good-law |
 
 ## Batch B — Terry · stops · PC/RS · traffic · stop-and-identify (15)
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **Davis v. Mississippi** | Investigative detention/transport for fingerprinting without PC is unreasonable; dragnet detentions barred. | [[Seizure of the Person]] — Limiting; [[Terry Stops and Reasonable Suspicion]] | 1 | good-law |
-| **Florida v. Royer** | A consensual encounter escalates to de facto arrest needing PC when police hold ID/ticket and confine the suspect; least-intrusive-means. | [[Seizure of the Person]] — Progeny; [[Terry Stops and Reasonable Suspicion]] | 3 | good-law |
-| **United States v. Sharpe** | A 20-min Terry detention was reasonable; no rigid time limit — diligence is the test. | [[Terry Stops and Reasonable Suspicion]] — Progeny (duration) | 1,2 | good-law |
-| **Illinois v. Caballes** | A dog sniff during a lawful traffic stop needs no independent suspicion if it doesn't prolong the stop. Pairs with Rodriguez. | [[Traffic Stops]] — Anchor; [[Two Definitions of Search]] | 2,3 | good-law |
-| **Hayes v. Florida** | Transporting a suspect to the station for fingerprinting without consent/PC is an arrest requiring PC. Pairs with Davis. | [[Seizure of the Person]] — Limiting | 1,2 | good-law |
+| ✅ **Davis v. Mississippi** | Investigative detention/transport for fingerprinting without PC is unreasonable; dragnet detentions barred. | [[Seizure of the Person]] — Limiting; [[Terry Stops and Reasonable Suspicion]] | 1 | good-law |
+| ✅ **Florida v. Royer** | A consensual encounter escalates to de facto arrest needing PC when police hold ID/ticket and confine the suspect; least-intrusive-means. | [[Seizure of the Person]] — Progeny; [[Terry Stops and Reasonable Suspicion]] | 3 | good-law |
+| ✅ **United States v. Sharpe** | A 20-min Terry detention was reasonable; no rigid time limit — diligence is the test. | [[Terry Stops and Reasonable Suspicion]] — Progeny (duration) | 1,2 | good-law |
+| ✅ **Illinois v. Caballes** | A dog sniff during a lawful traffic stop needs no independent suspicion if it doesn't prolong the stop. Pairs with Rodriguez. | [[Traffic Stops]] — Anchor; [[Two Definitions of Search]] | 2,3 | good-law |
+| ✅ **Hayes v. Florida** | Transporting a suspect to the station for fingerprinting without consent/PC is an arrest requiring PC. Pairs with Davis. | [[Seizure of the Person]] — Limiting | 1,2 | good-law |
 | **Kansas v. Glover** | An officer may stop on RS from learning the registered owner's license is revoked (absent info the owner isn't driving). | [[Traffic Stops]] — Progeny; [[Probable Cause and Reasonable Suspicion]] | 1,6 | good-law |
 | **Henry v. United States (1959)** | PC for a warrantless arrest is judged at the moment of arrest; mere package movement did not supply PC. | [[Probable Cause and Reasonable Suspicion]] — Anchor | 5 | foundational |
 | **Draper v. United States** | A reliable informant's detailed tip, corroborated by police, can establish PC to arrest. | [[Probable Cause and Reasonable Suspicion]] — Progeny | 1,2 | good-law |
