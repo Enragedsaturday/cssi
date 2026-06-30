@@ -27,7 +27,9 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 
 ## S4 batch tracker (262 pages, idx order, ~15/batch → ~18 batches; serial CL ONE at a time)
 - Resumable: each batch updates `S4-worklist.json` status (pending→authored|escalated); skip already-authored. Commit after each batch.
-- batch 1: idx 1–15 — ⏳ running
+- batch 1: idx 1–15 — ✅ committed 133fcab (15 pages, 0 escalations, ~50 CL calls, no throttle; Gant spot-check = instructor-grade)
+- batch 2: idx 16–33 — ⏳ running (18 cases)
+- pinpoint-pagination caveats to revisit at gate/S9: Gant star-pag; Bailey/Berghuis slip-op; Benn paragraph-nums (idx 8/12/13/14)
 
 ## Artifact locations
 - Orchestration: `_overhaul/ledger/` (this file, `cl-calls.log`).
