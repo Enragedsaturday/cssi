@@ -239,20 +239,20 @@
 | ✅ **Kingsley v. Hendrickson** | A pretrial detainee's excessive-force claim uses an objective-reasonableness standard (14A), no subjective-intent requirement. | [[Use of Force]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 1 | good-law |
 | ✅ **Barnes v. Felix** | Excessive-force reasonableness uses the totality of circumstances; no 'moment of the threat' rule ignoring the lead-up. (2025.) | [[Use of Force]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 6 | good-law |
 | ✅ **County of Sacramento v. Lewis** | A high-speed-pursuit death is analyzed under 14A substantive due process ('shocks the conscience'), not the 4A, absent a seizure. | [[Use of Force]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 1,2 | good-law |
-| **Brosseau v. Haugen** | Per curiam: QI for shooting a fleeing suspect in a vehicle; the law was not clearly established. | [[Use of Force]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 2,3 | good-law |
-| **Kisela v. Hughes** | Per curiam: QI for shooting a woman holding a knife; force QI must be defined at a high level of specificity. | [[Use of Force]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 3,6 | good-law |
-| **Banks v. Dretke** | A Brady violation occurred where the State withheld that a key witness was a paid informant; due diligence does not excuse suppression. | [[Brady and Giglio]] — Progeny | 1,2 | good-law |
-| **United States v. Agurs** | Defines Brady materiality where the defense made no specific request; obviously exculpatory evidence must be disclosed. | [[Brady and Giglio]] — Progeny | 2,3 | good-law |
-| **Cone v. Bell** | Brady applies to sentencing-relevant evidence; state procedural rulings did not excuse suppression. | [[Brady and Giglio]] — Progeny | 2,3 | good-law |
-| **Glossip v. Oklahoma** | Recent Napue/Brady ruling: failure to correct false testimony warranted relief. (2025.) | [[Brady and Giglio]] — Progeny | 6 | good-law |
-| **Mooney v. Holohan** | Knowing prosecutorial use of perjured testimony violates due process (the Napue/Brady precursor). | [[Brady and Giglio]] — Historical/Anchor | 3 | foundational |
+| ✅ **Brosseau v. Haugen** | Per curiam: QI for shooting a fleeing suspect in a vehicle; the law was not clearly established. | [[Use of Force]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 2,3 | good-law |
+| ✅ **Kisela v. Hughes** | Per curiam: QI for shooting a woman holding a knife; force QI must be defined at a high level of specificity. | [[Use of Force]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 3,6 | good-law |
+| ✅ **Banks v. Dretke** | A Brady violation occurred where the State withheld that a key witness was a paid informant; due diligence does not excuse suppression. | [[Brady and Giglio]] — Progeny | 1,2 | good-law |
+| ✅ **United States v. Agurs** | Defines Brady materiality where the defense made no specific request; obviously exculpatory evidence must be disclosed. | [[Brady and Giglio]] — Progeny | 2,3 | good-law |
+| ✅ **Cone v. Bell** | Brady applies to sentencing-relevant evidence; state procedural rulings did not excuse suppression. | [[Brady and Giglio]] — Progeny | 2,3 | good-law |
+| ✅ **Glossip v. Oklahoma** | Recent Napue/Brady ruling: failure to correct false testimony warranted relief. (2025.) | [[Brady and Giglio]] — Progeny | 6 | good-law |
+| ✅ **Mooney v. Holohan** | Knowing prosecutorial use of perjured testimony violates due process (the Napue/Brady precursor). | [[Brady and Giglio]] — Historical/Anchor | 3 | foundational |
 
 ## Batch O — Common-law origins (2)
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **Entick v. Carrington** | Landmark English case condemning general warrants/ransacking; a foundational source of the 4A. | [[Common Law Origins]] — Historical/Anchor | 3 | foundational |
-| **Wilkes v. Wood** | English general-warrant case awarding damages for an unlawful ransack; foundational to the 4A. | [[Common Law Origins]] — Historical | 3 | foundational |
+| ✅ **Entick v. Carrington** | Landmark English case condemning general warrants/ransacking; a foundational source of the 4A. | [[Common Law Origins]] — Historical/Anchor | 3 | foundational |
+| ✅ **Wilkes v. Wood** | English general-warrant case awarding damages for an unlawful ransack; foundational to the 4A. | [[Common Law Origins]] — Historical | 3 | foundational |
 
 ---
 
