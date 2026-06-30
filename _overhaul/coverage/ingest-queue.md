@@ -188,29 +188,29 @@
 | ✅ **Thompson v. Keohane** | Custody is an objective inquiry (reasonable person free to terminate and leave); a mixed question for habeas. | [[Miranda and Custodial Interrogation]] — Progeny (custody) | 1 | good-law |
 | ✅ **Yarborough v. Alvarado** | A suspect's age/prior history are not part of the objective Miranda custody test (AEDPA deference). | [[Miranda and Custodial Interrogation]] — Progeny (custody); pairs with J.D.B. | 3 | good-law |
 | ✅ **Pennsylvania v. Muniz** | Slurred-speech/sobriety responses are non-testimonial, but a testimonial question (the 'sixth birthday') needs Miranda — routine-booking exception. | [[Miranda and Custodial Interrogation]] — Progeny | 1 | good-law |
-| **California v. Prysock** | Per curiam: Miranda warnings need not follow an exact script if they convey the rights' substance. | [[Miranda and Custodial Interrogation]] — Related (warning adequacy) | 2 | good-law |
-| **Duckworth v. Eagan** | A warning that counsel will be appointed 'if and when you go to court' did not render the advice inadequate. | [[Miranda and Custodial Interrogation]] — Progeny (warning adequacy) | 1 | good-law |
-| **Chavez v. Martinez** | Coercive questioning never used in a criminal case does not by itself violate the 5A (no § 1983 5A claim absent use). | [[Miranda and Custodial Interrogation]] — Progeny; [[Section 1983 Liability and Qualified Immunity]]; [[Due-Process Voluntariness of Confessions]] | 1,7 | good-law |
-| **Vega v. Tekoh** | A Miranda violation is not itself a deprivation of a constitutional right actionable under § 1983. | [[Miranda and Custodial Interrogation]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 6 | good-law |
+| ✅ **California v. Prysock** | Per curiam: Miranda warnings need not follow an exact script if they convey the rights' substance. | [[Miranda and Custodial Interrogation]] — Related (warning adequacy) | 2 | good-law |
+| ✅ **Duckworth v. Eagan** | A warning that counsel will be appointed 'if and when you go to court' did not render the advice inadequate. | [[Miranda and Custodial Interrogation]] — Progeny (warning adequacy) | 1 | good-law |
+| ✅ **Chavez v. Martinez** | Coercive questioning never used in a criminal case does not by itself violate the 5A (no § 1983 5A claim absent use). | [[Miranda and Custodial Interrogation]] — Progeny; [[Section 1983 Liability and Qualified Immunity]]; [[Due-Process Voluntariness of Confessions]] | 1,7 | good-law |
+| ✅ **Vega v. Tekoh** | A Miranda violation is not itself a deprivation of a constitutional right actionable under § 1983. | [[Miranda and Custodial Interrogation]] — Progeny; [[Section 1983 Liability and Qualified Immunity]] | 6 | good-law |
 
 ## Batch L — Miranda waiver/invocation · right to silence · 6A counsel · eyewitness ID (14)
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **Doyle v. Ohio** | Using post-Miranda silence to impeach violates due process (warnings carry an implicit no-penalty assurance). | [[Miranda Waiver and Invocation]] — Progeny | 2 | good-law |
-| **Smith v. Illinois** | Once a suspect unambiguously requests counsel, post-request responses may not cast doubt on the invocation. | [[Miranda Waiver and Invocation]] — Progeny (invocation) | 2,5 | good-law |
-| **Oregon v. Bradshaw** | After invoking counsel, a suspect 'initiates' only by an inquiry evincing a desire to discuss the investigation (Edwards two-step). | [[Miranda Waiver and Invocation]] — Progeny (Edwards) | 2 | good-law |
-| **Colorado v. Spring** | A valid Miranda waiver does not require knowing every subject the interrogation will cover. | [[Miranda Waiver and Invocation]] — Progeny (waiver) | 1 | good-law |
-| **Connecticut v. Barrett** | A suspect may make a limited invocation (refuse written statement while agreeing to talk); courts honor the scope. | [[Miranda Waiver and Invocation]] — Progeny (invocation) | 1,2 | good-law |
-| **Bobby v. Dixon** | Per curiam: applies Elstad/Seibert — a later Mirandized confession was admissible (no deliberate two-step). | [[Miranda Waiver and Invocation]] — Related | 2 | good-law |
-| **Michigan v. Tucker** | The 'fruits' of a mere prophylactic Miranda violation (a witness) are admissible where the statement was voluntary. | [[Miranda Waiver and Invocation]] — Progeny; pairs with [[United States v. Patane]] | 3 | good-law |
-| **Harris v. New York** | A statement taken in violation of Miranda, but voluntary, may impeach a defendant who testifies. | [[Miranda Waiver and Invocation]] — Limiting; [[The Exclusionary Rule]] | 2,5 | good-law |
-| **Salinas v. Texas** **[BL]** | Pre-custody, pre-Miranda silence is not protected unless the suspect expressly invokes the 5A; prosecutors may then comment. | [[Miranda Waiver and Invocation]] — Progeny (invocation) | — | good-law |
-| **Fare v. Michael C.** | A juvenile's request for his probation officer is not a per se Miranda invocation; waiver judged by totality. | [[Miranda Waiver and Invocation]] — Progeny | 1 | good-law |
-| **United States v. Gouveia** | The 6A right to counsel does not attach before adversary judicial proceedings begin. | [[Sixth Amendment Right to Counsel]] — Progeny (attachment) | 1,2 | good-law |
-| **Fellers v. United States** | Deliberate elicitation from an indicted defendant outside counsel's presence violates the 6A (Massiah), independent of Miranda. | [[Sixth Amendment Right to Counsel]] — Progeny (Massiah line) | 1,2 | good-law |
-| **Escobedo v. Illinois** | Pre-Miranda: denying a suspect's request to consult retained counsel during interrogation violated the 6A; statements suppressed. | [[Sixth Amendment Right to Counsel]] — Historical; [[Miranda and Custodial Interrogation]] | 1,3 | foundational |
-| **Foster v. California** | A lineup so suggestive it virtually guaranteed ID violated due process (the rare ID due-process reversal). | [[Eyewitness Identification]] — Progeny | 1,2 | good-law |
+| ✅ **Doyle v. Ohio** | Using post-Miranda silence to impeach violates due process (warnings carry an implicit no-penalty assurance). | [[Miranda Waiver and Invocation]] — Progeny | 2 | good-law |
+| ✅ **Smith v. Illinois** | Once a suspect unambiguously requests counsel, post-request responses may not cast doubt on the invocation. | [[Miranda Waiver and Invocation]] — Progeny (invocation) | 2,5 | good-law |
+| ✅ **Oregon v. Bradshaw** | After invoking counsel, a suspect 'initiates' only by an inquiry evincing a desire to discuss the investigation (Edwards two-step). | [[Miranda Waiver and Invocation]] — Progeny (Edwards) | 2 | good-law |
+| ✅ **Colorado v. Spring** | A valid Miranda waiver does not require knowing every subject the interrogation will cover. | [[Miranda Waiver and Invocation]] — Progeny (waiver) | 1 | good-law |
+| ✅ **Connecticut v. Barrett** | A suspect may make a limited invocation (refuse written statement while agreeing to talk); courts honor the scope. | [[Miranda Waiver and Invocation]] — Progeny (invocation) | 1,2 | good-law |
+| ✅ **Bobby v. Dixon** | Per curiam: applies Elstad/Seibert — a later Mirandized confession was admissible (no deliberate two-step). | [[Miranda Waiver and Invocation]] — Related | 2 | good-law |
+| ✅ **Michigan v. Tucker** | The 'fruits' of a mere prophylactic Miranda violation (a witness) are admissible where the statement was voluntary. | [[Miranda Waiver and Invocation]] — Progeny; pairs with [[United States v. Patane]] | 3 | good-law |
+| ✅ **Harris v. New York** | A statement taken in violation of Miranda, but voluntary, may impeach a defendant who testifies. | [[Miranda Waiver and Invocation]] — Limiting; [[The Exclusionary Rule]] | 2,5 | good-law |
+| ✅ **Salinas v. Texas** **[BL]** | Pre-custody, pre-Miranda silence is not protected unless the suspect expressly invokes the 5A; prosecutors may then comment. | [[Miranda Waiver and Invocation]] — Progeny (invocation) | — | good-law |
+| ✅ **Fare v. Michael C.** | A juvenile's request for his probation officer is not a per se Miranda invocation; waiver judged by totality. | [[Miranda Waiver and Invocation]] — Progeny | 1 | good-law |
+| ✅ **United States v. Gouveia** | The 6A right to counsel does not attach before adversary judicial proceedings begin. | [[Sixth Amendment Right to Counsel]] — Progeny (attachment) | 1,2 | good-law |
+| ✅ **Fellers v. United States** | Deliberate elicitation from an indicted defendant outside counsel's presence violates the 6A (Massiah), independent of Miranda. | [[Sixth Amendment Right to Counsel]] — Progeny (Massiah line) | 1,2 | good-law |
+| ✅ **Escobedo v. Illinois** | Pre-Miranda: denying a suspect's request to consult retained counsel during interrogation violated the 6A; statements suppressed. | [[Sixth Amendment Right to Counsel]] — Historical; [[Miranda and Custodial Interrogation]] | 1,3 | foundational |
+| ✅ **Foster v. California** | A lineup so suggestive it virtually guaranteed ID violated due process (the rare ID due-process reversal). | [[Eyewitness Identification]] — Progeny | 1,2 | good-law |
 
 ## Batch M — § 1983 · Monell · qualified immunity · Bivens · color of law (13)
 
