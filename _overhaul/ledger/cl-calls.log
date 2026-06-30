@@ -100,3 +100,41 @@
 1782803373 · search_document · ok · Caniglia v. Strom · 'creates a standalone doctrine that justifies...' 0 results (phrasing variant)
 1782803373 · search_document · ok · Caniglia v. Strom · 'standalone doctrine that justifies warrantless searches' 0 results (phrasing variant)
 1782803373 · search_document · ok · Caniglia v. Strom · 'The question today is whether' 0 results (phrasing variant)
+# ===== S4 batch 3 (idx 34–53) — single serial CL lane; NEW tier (~20/min), no old-5/min throttle (49 calls, 0 × 429) =====
+1782889773 · analyze_citations · ok · [batch idx34-43] · 10/10 verified (Carpenter…Collins); Patel 576 U.S. 409 AMBIGUOUS → used cluster 2810524; Tahlequah auto-resolved (other 5292018)
+1782889773 · analyze_citations · ok · [batch idx44-53 SCOTUS] · 9/9 verified (Bertine…Edwards); Wesby auto-resolved (other 4460853/4460811)
+1782889773 · get_endpoint_item · ok · clusters · Carpenter v. United States · cluster 4510032 → lead opinion 4287285 (L3)
+1782889773 · get_endpoint_item · ok · clusters · Los Angeles v. Patel · cluster 2810524 → opinion 2810524 (case_name "Los Angeles v. Patel")
+1782889773 · get_endpoint_item · ok · clusters · City of Tahlequah v. Bond · cluster 5290448 → lead opinion 5118994
+1782889773 · get_endpoint_item · ok · clusters · Collins v. Virginia · cluster 4501697 → lead opinion 4278950
+1782889773 · get_endpoint_item · ok · clusters · District of Columbia v. Wesby · cluster 4460854 → lead opinion 4238107
+1782889773 · get_endpoint_item · ok · clusters · Com. v. Herlth, J. · cluster 10870804 → lead opinion 11338267 (2026 Pa. Super. 114, 2026-06-05)
+1782889773 · search_document · ok · Carpenter v. United States · 'legitimate expectation...record of his physical movements' (2 phrasing variants 0-result first); holding confirmed
+1782889773 · read_document · ok · Carpenter v. United States · chunk5 — \f12 page break follows holding → slip op., at 11
+1782889773 · search_document · ok · Carroll v. United States · 'quickly moved out of the locality or jurisdiction' ¶37 (CL paragraph-numbered, no U.S. star pages)
+1782889773 · search_document · ok · Chambers v. Florida · 'compulsion' *239; 'shall send any accused to his death' located
+1782889773 · read_document · ok · Chambers v. Florida · chunk2 — *240/*241 → 'meaningless symbol' p.240; 'havens of refuge' p.241
+1782889773 · search_document · ok · Chambers v. Maroney · 'either course is reasonable under the Fourth Amendment' *52
+1782889773 · search_document · ok · Chandler v. Miller · 'symbol's sake' p.322 (precedes *323); 'public safety is not genuinely in jeopardy' p.323 (§III)
+1782889773 · search_document · ok · Chimel v. California · 'grab a weapon or evidentiary items' + 'within his immediate control' holding
+1782889773 · read_document · ok · Chimel v. California · chunk3 — *763 → holding + room/drawers limit p.763
+1782889773 · search_document · ok · City of Indianapolis v. Edmond · 'primary purpose was to detect...ordinary criminal wrongdoing' p.41 (1 phrasing variant 0-result); '...program contravenes' *42
+1782889773 · search_document · ok · Los Angeles v. Patel · 'neutral decisionmaker' (precompliance-review variant 0-result first)
+1782889773 · read_document · ok · Los Angeles v. Patel · chunk4 — \f10/\f11 → precompliance holding slip op. 10; 'hotel owner...neutral decisionmaker' slip op. 11
+1782889773 · search_document · ok · City of Tahlequah v. Bond · 'level of generality' / 'plainly incompetent' (per curiam; 'too high a level' variant 0-result first)
+1782889773 · read_document · ok · City of Tahlequah v. Bond · chunk0 — \f markers → both QI statements slip op. 3
+1782889773 · search_document · ok · Collins v. Virginia · 'curtilage in order to search a vehicle' — Part IV conclusion slip op. 14 (1 phrasing variant 0-result)
+1782889773 · search_document · ok · Colorado v. Bertine · 'inventory procedures administered in good faith satisfy the Fourth Amendment' holding
+1782889773 · read_document · ok · Colorado v. Bertine · chunk2 — *375 + concurrence 'ante, at 374, n.6' → holding p.374, standardized-discretion p.375
+1782889773 · search_document · ok · Colorado v. Connelly · 'coercive police activity is a necessary predicate' holding
+1782889773 · read_document · ok · Colorado v. Connelly · chunk2 — *167 → holding p.167
+1782889773 · search_document · ok · Coolidge v. New Hampshire · 'immediately apparent...evidence before them' *467 follows → plain-view passage p.466 ('plain view alone' variant 0-result first)
+1782889773 · search_document · ok · Davis v. United States · 'reasonable police officer in the circumstances would understand...request for an attorney' holding
+1782889773 · read_document · ok · Davis v. United States · chunk2 — *460 follows → unambiguous-invocation holding p.459
+1782889773 · search_document · ok · Delaware v. Prouse · 'articulable and reasonable suspicion that a motorist is unlicensed' Part VII p.663 (cross-confirmed by Edmond's Prouse-663 cite)
+1782889773 · search_document · ok · Devenpeck v. Alford · 'subjective reason for making the arrest need not be the criminal offense' p.153 (verified cite 543 U.S. 153-55; CL paragraph-id text)
+1782889773 · search_document · ok · Dickerson v. United States · 'constitutional rule that Congress may not supersede legislatively' p.444 (precedes *445 Scalia dissent)
+1782889773 · search_document · ok · District of Columbia v. Wesby · 'excessively technical dissection' + 'in isolation...totality' slip op. 11 (\f...11 precedes)
+1782889773 · search_document · ok · Commonwealth v. Herlth · 'immediately apparent' — 3-part plain-view test slip op. 26
+1782889773 · read_document · ok · Commonwealth v. Herlth · chunk8+chunk9 — slip pages → 2nd-prong holding (shoebox innocuous) slip op. 29; 'tiniest crack or perforation' + final holding slip op. 31
+1782889773 · search_document · ok · Edwards v. Arizona · 'until counsel has been made available' *485 mid-quote → reinitiation-bar holding p.484-85

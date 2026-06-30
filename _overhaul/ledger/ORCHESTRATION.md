@@ -29,8 +29,9 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 - Resumable: each batch updates `S4-worklist.json` status (pending→authored|escalated); skip already-authored. Commit after each batch.
 - batch 1: idx 1–15 — ✅ committed 133fcab (15 pages, 0 escalations, ~50 CL calls, no throttle; Gant spot-check = instructor-grade)
 - batch 2: idx 16–33 — ✅ committed b50167e (18 pages, 0 escalations, 42 CL calls). Caveat: Boyd "limited" call to reviewer-confirm; provisional roles reconcile in S6.
-- batch 3: idx 34–53 — ⏳ running (20 cases)
-- **33/262 case pages done**
+- batch 3: idx 34–53 — ✅ committed (20 pages, 0 escalations, 49 CL calls). Caveats: Coolidge limited→Horton; Carroll/Devenpeck paragraph-pinpoints; Patel/Herlth caption normalization.
+- batch 4: idx 54–73 — ⏳ running (20 cases)
+- **53/262 case pages done**
 - pinpoint-pagination caveats to revisit at gate/S9: Gant star-pag; Bailey/Berghuis slip-op; Benn paragraph-nums (idx 8/12/13/14)
 
 ## Artifact locations
