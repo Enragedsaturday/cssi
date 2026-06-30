@@ -137,34 +137,34 @@
 | ✅ **Elkins v. United States** | Abolished the 'silver-platter' doctrine; state-seized evidence is inadmissible in federal court. | [[The Exclusionary Rule]] — Historical/Anchor | 1,3 | foundational |
 | ✅ **Silverthorne Lumber Co. v. United States** | Origin of fruit-of-the-poisonous-tree; the gov't may not use illegally obtained evidence even indirectly. | [[The Exclusionary Rule]] — Anchor | 2,3 | foundational |
 | ✅ **Nardone v. United States** | Coined 'fruit of the poisonous tree'; recognized attenuation (taint dissipated). | [[The Exclusionary Rule]] — Anchor (attenuation) | 1,2 | foundational |
-| **United States v. Ceccolini** | Live-witness testimony is less readily suppressed as a fruit; attenuation differs for witnesses. | [[The Exclusionary Rule]] — Progeny (attenuation) | 1,2 | good-law |
-| **United States v. Crews** | An in-court ID is not suppressible as fruit of an illegal arrest where the victim's knowledge has an independent source. | [[The Exclusionary Rule]] — Progeny; [[Eyewitness Identification]] | 1,2 | good-law |
-| **Dunaway v. New York** | Detention/transport for interrogation without PC is a seizure tantamount to arrest; the confession is its fruit. | [[Seizure of the Person]] — Progeny; [[The Exclusionary Rule]]; [[Miranda and Custodial Interrogation]] | 3 | good-law |
-| **Taylor v. Alabama** | A confession after an illegal warrantless arrest was not attenuated and must be suppressed (Brown v. Illinois factors). | [[The Exclusionary Rule]] — Progeny (attenuation); [[Due-Process Voluntariness of Confessions]] | 2 | good-law |
-| **Kaupp v. Texas** | Per curiam: removing a 17-yr-old from bed at night to the station was an illegal arrest; the confession was its fruit. | [[Seizure of the Person]] — Progeny; [[The Exclusionary Rule]]; [[Miranda and Custodial Interrogation]] | 2 | good-law |
-| **Wolf v. Colorado** | The 4A binds the states via the 14A, but the exclusionary rule was not yet required of states (overruled on remedy by Mapp). | [[The Exclusionary Rule]] — Historical (overruled by Mapp on remedy) | 3 | foil |
-| **Davis v. United States (2011)** | Good-faith bars suppression where police relied on binding appellate precedent later overruled (Belton/Gant). | [[The Exclusionary Rule]] — Progeny (good faith) | 5 | good-law |
+| ✅ **United States v. Ceccolini** | Live-witness testimony is less readily suppressed as a fruit; attenuation differs for witnesses. | [[The Exclusionary Rule]] — Progeny (attenuation) | 1,2 | good-law |
+| ✅ **United States v. Crews** | An in-court ID is not suppressible as fruit of an illegal arrest where the victim's knowledge has an independent source. | [[The Exclusionary Rule]] — Progeny; [[Eyewitness Identification]] | 1,2 | good-law |
+| ✅ **Dunaway v. New York** | Detention/transport for interrogation without PC is a seizure tantamount to arrest; the confession is its fruit. | [[Seizure of the Person]] — Progeny; [[The Exclusionary Rule]]; [[Miranda and Custodial Interrogation]] | 3 | good-law |
+| ✅ **Taylor v. Alabama** | A confession after an illegal warrantless arrest was not attenuated and must be suppressed (Brown v. Illinois factors). | [[The Exclusionary Rule]] — Progeny (attenuation); [[Due-Process Voluntariness of Confessions]] | 2 | good-law |
+| ✅ **Kaupp v. Texas** | Per curiam: removing a 17-yr-old from bed at night to the station was an illegal arrest; the confession was its fruit. | [[Seizure of the Person]] — Progeny; [[The Exclusionary Rule]]; [[Miranda and Custodial Interrogation]] | 2 | good-law |
+| ✅ **Wolf v. Colorado** | The 4A binds the states via the 14A, but the exclusionary rule was not yet required of states (overruled on remedy by Mapp). | [[The Exclusionary Rule]] — Historical (overruled by Mapp on remedy) | 3 | foil |
+| ✅ **Davis v. United States (2011)** | Good-faith bars suppression where police relied on binding appellate precedent later overruled (Belton/Gant). | [[The Exclusionary Rule]] — Progeny (good faith) | 5 | good-law |
 
 ## Batch I — Standing · exclusionary limits · impeachment exception (10)
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **United States v. Payner** | Courts may not use supervisory power to suppress evidence for a defendant lacking 4A standing. | [[Standing to Challenge a Search]] — Progeny | 1,2 | good-law |
-| **United States v. Padilla** | The 'coconspirator exception' to standing is rejected; standing rests on a personal privacy/possessory interest. | [[Standing to Challenge a Search]] — Progeny | 1,2 | good-law |
-| **Alderman v. United States** | Only those whose own 4A rights were violated may suppress; co-defendant/target standing rejected. | [[Standing to Challenge a Search]] — Anchor | 3 | foundational |
-| **Mancusi v. DeForte** | An employee can have a REP in a shared office (standing). | [[Standing to Challenge a Search]] — Progeny | 1 | good-law |
-| **Simmons v. United States** | Suppression-hearing testimony to establish standing can't be used against the defendant at trial; photo-array suggestiveness standard. | [[Standing to Challenge a Search]] — Related; [[Eyewitness Identification]] | 1,2 | good-law |
-| **Walder v. United States** | Illegally seized evidence may be used to impeach a defendant who testifies and opens the door. | [[The Exclusionary Rule]] — Related (impeachment exception) | 1,2 | good-law |
-| **United States v. Havens** | The impeachment exception extends to statements first elicited on cross reasonably suggested by direct. | [[The Exclusionary Rule]] — Progeny (impeachment) | 2 | good-law |
-| **James v. Illinois** | The impeachment exception does not extend to defense witnesses other than the defendant. | [[The Exclusionary Rule]] — Limiting (impeachment) | 2 | good-law |
-| **Pennsylvania Board of Probation and Parole v. Scott** | The exclusionary rule does not apply at parole-revocation hearings. | [[The Exclusionary Rule]] — Limiting; [[Special Needs and Administrative Searches]] | 1 | good-law |
-| **United States v. Janis** | The exclusionary rule does not apply in a federal civil (tax) proceeding (cost-benefit limit). | [[The Exclusionary Rule]] — Limiting | 3 | good-law |
+| ✅ **United States v. Payner** | Courts may not use supervisory power to suppress evidence for a defendant lacking 4A standing. | [[Standing to Challenge a Search]] — Progeny | 1,2 | good-law |
+| ✅ **United States v. Padilla** | The 'coconspirator exception' to standing is rejected; standing rests on a personal privacy/possessory interest. | [[Standing to Challenge a Search]] — Progeny | 1,2 | good-law |
+| ✅ **Alderman v. United States** | Only those whose own 4A rights were violated may suppress; co-defendant/target standing rejected. | [[Standing to Challenge a Search]] — Anchor | 3 | foundational |
+| ✅ **Mancusi v. DeForte** | An employee can have a REP in a shared office (standing). | [[Standing to Challenge a Search]] — Progeny | 1 | good-law |
+| ✅ **Simmons v. United States** | Suppression-hearing testimony to establish standing can't be used against the defendant at trial; photo-array suggestiveness standard. | [[Standing to Challenge a Search]] — Related; [[Eyewitness Identification]] | 1,2 | good-law |
+| ✅ **Walder v. United States** | Illegally seized evidence may be used to impeach a defendant who testifies and opens the door. | [[The Exclusionary Rule]] — Related (impeachment exception) | 1,2 | good-law |
+| ✅ **United States v. Havens** | The impeachment exception extends to statements first elicited on cross reasonably suggested by direct. | [[The Exclusionary Rule]] — Progeny (impeachment) | 2 | good-law |
+| ✅ **James v. Illinois** | The impeachment exception does not extend to defense witnesses other than the defendant. | [[The Exclusionary Rule]] — Limiting (impeachment) | 2 | good-law |
+| ✅ **Pennsylvania Board of Probation and Parole v. Scott** | The exclusionary rule does not apply at parole-revocation hearings. | [[The Exclusionary Rule]] — Limiting; [[Special Needs and Administrative Searches]] | 1 | good-law |
+| ✅ **United States v. Janis** | The exclusionary rule does not apply in a federal civil (tax) proceeding (cost-benefit limit). | [[The Exclusionary Rule]] — Limiting | 3 | good-law |
 
 ## Batch J — Confessions: 5A incorporation · voluntariness · McNabb-Mallory (10)
 
 | Case | Holding / ratio | Proposed home(s) + role | Diag | Tier-reason |
 |---|---|---|---|---|
-| **Malloy v. Hogan** | The 5A privilege against self-incrimination applies to the states via the 14A. | [[Due-Process Voluntariness of Confessions]] — Anchor; [[Miranda and Custodial Interrogation]] | 1 | foundational |
+| ✅ **Malloy v. Hogan** | The 5A privilege against self-incrimination applies to the states via the 14A. | [[Due-Process Voluntariness of Confessions]] — Anchor; [[Miranda and Custodial Interrogation]] | 1 | foundational |
 | **Corley v. United States** | McNabb-Mallory prompt-presentment survives 18 U.S.C. 3501; confessions during unreasonable delay are suppressible (federal). | [[Due-Process Voluntariness of Confessions]] — Progeny; [[Miranda and Custodial Interrogation]] | 1 | good-law |
 | **Rogers v. Richmond** | Confession voluntariness turns on coercion, not on the truth/reliability of the confession. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1 | good-law |
 | **Lynumn v. Illinois** | A confession induced by threats to take the suspect's children/benefits is involuntary. | [[Due-Process Voluntariness of Confessions]] — Progeny | 1,2 | good-law |
