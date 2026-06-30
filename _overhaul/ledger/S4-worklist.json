@@ -1946,7 +1946,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112012/mathews-v-united-states/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112012,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 115,
@@ -1960,7 +1963,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112622/mcneil-v-wisconsin/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112622,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 116,
@@ -1974,7 +1980,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112459/michigan-department-of-state-police-v-sitz/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112459,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 117,
@@ -1988,7 +1997,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/110127/michigan-v-defillippo/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 110127,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 118,
@@ -2002,7 +2014,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/1755/michigan-v-fisher/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 1755,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 119,
@@ -2016,7 +2031,10 @@
     ],
     "cl_url": "",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111622,
+    "treatment_status": "overruled",
+    "identity_checked": true
   },
   {
     "idx": 120,
@@ -2030,7 +2048,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/111020/michigan-v-long/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 111020,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 121,
@@ -2044,7 +2065,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109336/michigan-v-mosley/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109336,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 122,
@@ -2058,7 +2082,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/110534/michigan-v-summers/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 110534,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 123,
@@ -2072,7 +2099,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109905/mincey-v-arizona/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109905,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 124,
@@ -2086,7 +2116,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/118249/minnesota-v-carter/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 118249,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 125,
@@ -2100,7 +2133,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112873/minnesota-v-dickerson/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112873,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 126,
@@ -2114,7 +2150,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112416/minnesota-v-olson/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112416,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 127,
@@ -2128,7 +2167,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/112513/minnick-v-mississippi/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 112513,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 128,
@@ -2142,7 +2184,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/107252/miranda-v-arizona/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 107252,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 129,
@@ -2156,7 +2201,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/858288/missouri-v-mcneely/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 858288,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 130,
@@ -2170,7 +2218,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/137002/missouri-v-seibert/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 137002,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 131,
@@ -2184,7 +2235,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/9231242/mitchell-v-wisconsin/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 9226047,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 132,
@@ -2198,7 +2252,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/109881/monell-v-new-york-city-dept-of-social-servs/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 109881,
+    "treatment_status": "good",
+    "identity_checked": true
   },
   {
     "idx": 133,
@@ -2212,7 +2269,10 @@
     ],
     "cl_url": "https://www.courtlistener.com/opinion/106170/monroe-v-pape/",
     "needs_page": true,
-    "status": "pending"
+    "status": "authored",
+    "opinion_id": 106170,
+    "treatment_status": "limited",
+    "identity_checked": true
   },
   {
     "idx": 134,
