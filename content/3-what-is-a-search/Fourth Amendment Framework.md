@@ -48,7 +48,7 @@ These cases are treated in full elsewhere but bear directly on the Fourth Amendm
   2. **Re-examination needs "virtual certainty."** Reopening or re-inspecting is permissible where there is "a virtual certainty that nothing else of significance" would be revealed beyond what the private party already disclosed. *Jacobsen*, 466 U.S. at 119.
   3. **Lawful right of access.** The officer must already have a lawful right of access to the item the private party searched.
 - **Bill of Rights codified pre-existing rights.** The framing that the Amendment's "right of the people" was a *pre-existing* liberty, not a newly minted one, is reflected in *District of Columbia v. Heller*, 554 U.S. 570, 592 (2008) *(Second Amendment — cited only for the framing that the Bill of Rights was "widely understood to codify a pre-existing right, rather than to fashion a new one"; not Fourth Amendment authority).*
-- **Right to be let alone.** The privacy lineage traces to Justice Brandeis's *Olmstead* dissent — developed in [[Two Definitions of Search]], not here.
+- **Right to be let alone.** The privacy lineage traces to Justice Brandeis's *Olmstead* [[Common Legal Terms#dissenting-opinion|dissent]] — developed in [[Two Definitions of Search]], not here.
 
 ## Common pitfalls
 - **Skipping the threshold.** If no search or seizure occurred, there is nothing to justify — and no suppression remedy. Work the sequence in order; don't jump to warrant exceptions.

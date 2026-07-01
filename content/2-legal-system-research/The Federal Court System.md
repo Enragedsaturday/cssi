@@ -28,7 +28,7 @@ For suppression work, the circuit you care about is the **regional** one over th
 
 ## Binding vs. persuasive: stare decisis
 
-*Stare decisis* — "to stand by things decided" — is the rule that courts follow prior decisions. It runs in two directions, and getting them straight is the whole game.
+*[[Common Legal Terms#stare-decisis|Stare decisis]]* — "to stand by things decided" — is the rule that courts follow prior decisions. It runs in two directions, and getting them straight is the whole game.
 
 **Vertical stare decisis (up the ladder).** A court is bound by the courts *above it in its own line*:
 
