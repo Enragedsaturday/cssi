@@ -13,7 +13,7 @@ related:
   - "[[Plain View Doctrine]]"
   - "[[Securing the Scene]]"
   - "[[Arrest in the Home]]"
-  - "[[Legal Research and Case Citations]]"
+  - "[[Reading and Citing Cases]]"
 ---
 
 # The Warrant Requirement

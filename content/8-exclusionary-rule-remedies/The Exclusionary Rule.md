@@ -17,7 +17,7 @@ related:
   - "[[Two Definitions of Search]]"
   - "[[Fourth Amendment Analysis Checklist]]"
   - "[[Section 1983 Liability and Qualified Immunity]]"
-  - "[[Legal Research and Case Citations]]"
+  - "[[Reading and Citing Cases]]"
 ---
 
 # The Exclusionary Rule

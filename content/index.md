@@ -15,7 +15,9 @@ updated: 2026-06-30
 
 ## 2 · Legal System, Research & Reference
 - [[The Federal Court System]] — the three-tier hierarchy (district → **13 courts of appeals** → SCOTUS); **vertical vs. horizontal stare decisis**; binding vs. persuasive and the **circuit split**; SCOTUS composition, **certiorari** and the **rule of four**; judicial review (*Marbury*).
-- [[Legal Research and Case Citations]] — how to **read a Bluebook citation**, published vs. unpublished opinions, and how to **research case law for free** (CourtListener, Google Scholar, Justia) and verify it is still good law.
+- [[Reading and Citing Cases]] — how to **read a Bluebook citation** left-to-right, federal *and* state conventions (prosecuting-party names, regional reporters, neutral cites), published vs. unpublished, and a quick-reference glossary of **citation & posture terms**.
+- [[Legal Research Tools]] — how to **research case law for free** (CourtListener → Google Scholar → Justia, plus the full free backbone), with a flagged low-cost subsection and a **currency-stamped** tool table.
+- [[Verifying Good Law]] — how to **shepardize by hand** with free citators and confirm a case is still good law before you teach from it.
 - [[Common Legal Terms]] — a working **glossary** of the Latin and procedural terms an instructor needs (*mens rea*, *habeas corpus*, *prima facie*, dicta vs. holding, *stare decisis*, *voir dire*, …).
 - [[Case Index]] — the **master case glossary**: every verified case → cite · one-line holding · good-law flag · CourtListener link · home page. The router for "which page is *X* on?" and for "Name That Case" study.
 
