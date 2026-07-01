@@ -21,8 +21,6 @@ courtlistener:
   opinion_id: 111282
   identity_checked: true
 homes:
-  - page: "[[Community Caretaking and Emergency Aid]]"
-    role: "Related (cross-doctrine)"
   - page: "[[Securing the Scene]]"
     role: "Related (cross-doctrine)"
 related: ["[[Mincey v. Arizona]]", "[[Flippo v. West Virginia]]", "[[Michigan v. Tyler]]"]
@@ -58,7 +56,6 @@ Reversed and remanded (per curiam). A recent homicide does not, by itself, justi
 - No negative treatment. *Thompson* reaffirms [[Mincey v. Arizona]] and is reaffirmed in turn by [[Flippo v. West Virginia]] (no general "crime-scene exception"); it parallels the post-fire warrant rule of [[Michigan v. Tyler]].
 
 ## Appears on
-- [[Community Caretaking and Emergency Aid]] — *Related (cross-doctrine)*
 - [[Securing the Scene]] — *Related (cross-doctrine)*
 
 ## Sources

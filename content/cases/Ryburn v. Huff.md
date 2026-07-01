@@ -21,7 +21,7 @@ courtlistener:
   opinion_id: 622303
   identity_checked: true
 homes:
-  - page: "[[Community Caretaking and Emergency Aid]]"
+  - page: "[[Emergency Aid]]"
     role: "Key — Progeny / Refinement"
   - page: "[[Section 1983 Liability and Qualified Immunity]]"
     role: "Related (cross-doctrine)"
@@ -58,7 +58,7 @@ Reversed and remanded for entry of judgment for the officers (per curiam). A war
 - No negative treatment. *Ryburn* applies the emergency-aid/exigency line of [[Brigham City v. Stuart]] and [[Michigan v. Fisher]] and the qualified-immunity "reasonable officer on the scene" standard of [[Graham v. Connor]]; it is consistent with the later home-entry caretaking limit of [[Caniglia v. Strom]] (welfare entries must route through emergency aid / exigency).
 
 ## Appears on
-- [[Community Caretaking and Emergency Aid]] — *Key — Progeny / Refinement*
+- [[Emergency Aid]] — *Key — Progeny / Refinement*
 - [[Section 1983 Liability and Qualified Immunity]] — *Related (cross-doctrine)*
 
 ## Sources

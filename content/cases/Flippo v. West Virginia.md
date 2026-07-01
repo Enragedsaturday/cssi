@@ -21,8 +21,6 @@ courtlistener:
   opinion_id: 1854815
   identity_checked: true
 homes:
-  - page: "[[Community Caretaking and Emergency Aid]]"
-    role: "Related (cross-doctrine)"
   - page: "[[Securing the Scene]]"
     role: "Related (cross-doctrine)"
 related: ["[[Mincey v. Arizona]]", "[[Thompson v. Louisiana]]", "[[Michigan v. Tyler]]", "[[Michigan v. Clifford]]"]
@@ -58,7 +56,6 @@ Reversed and remanded (per curiam). There is no general crime-scene exception; t
 - No negative treatment. *Flippo* reaffirms [[Mincey v. Arizona]] and [[Thompson v. Louisiana]] and is consistent with the fire-scene warrant rules of [[Michigan v. Tyler]] and [[Michigan v. Clifford]].
 
 ## Appears on
-- [[Community Caretaking and Emergency Aid]] — *Related (cross-doctrine)*
 - [[Securing the Scene]] — *Related (cross-doctrine)*
 
 ## Sources

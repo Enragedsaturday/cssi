@@ -21,7 +21,7 @@ courtlistener:
   opinion_id: 145654
   identity_checked: true
 homes:
-  - page: "[[Community Caretaking and Emergency Aid]]"
+  - page: "[[Emergency Aid]]"
     role: "Key — Anchor"
   - page: "[[Exigent Circumstances and Hot Pursuit]]"
     role: "Related (cross-doctrine)"
@@ -59,7 +59,7 @@ The warrantless entry was reasonable; the Utah Supreme Court's suppression was r
 - [[Caniglia v. Strom]] (no *freestanding* community-caretaking entry into a home) leaves *Brigham City*'s emergency-aid rule undisturbed.
 
 ## Appears on
-- [[Community Caretaking and Emergency Aid]] — *Key — Anchor*
+- [[Emergency Aid]] — *Key — Anchor*
 - [[Exigent Circumstances and Hot Pursuit]] — *Related (cross-doctrine)*
 
 ## Sources

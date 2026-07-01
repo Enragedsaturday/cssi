@@ -15,7 +15,7 @@ treatment:
   status: limited
   as_of: 2026-06-30
   note: "Boyd's holding that compelling production of private papers violates the Fourth/Fifth Amendments, and its 'mere evidence' rule, have been abandoned (Warden v. Hayden) and sharply limited (Fisher v. United States). Boyd's account of Entick v. Carrington as the historical foundation of the Fourth Amendment — the proposition for which it is cited here — remains good law and is frequently cited."
-  by: ["[[Warden v. Hayden]]", "[[Fisher v. United States]]"]
+  by: ["[[Warden v. Hayden]]"]
 courtlistener:
   opinion_url: "https://www.courtlistener.com/opinion/91573/boyd-v-united-states/"
   opinion_id: 91573
@@ -23,7 +23,7 @@ courtlistener:
 homes:
   - page: "[[Common Law Origins]]"
     role: "Key — Anchor"
-related: ["[[Entick v. Carrington]]", "[[Warden v. Hayden]]", "[[Fisher v. United States]]"]
+related: ["[[Entick v. Carrington]]", "[[Warden v. Hayden]]"]
 aliases: ["Boyd v. US"]
 tags: ["case", "fourth-amendment", "common-law-origins", "fifth-amendment", "history"]
 holding: "Recounts the founding history and adopts *Entick v. Carrington* as 'the true and ultimate expression of constitutional law' embodied in the Fourth Amendment."
@@ -55,7 +55,7 @@ The compelled production violated the Fourth and Fifth Amendments. As a matter o
 
 ## Treatment & subsequent history
 - **Status:** limited *(as of 2026-06-30)* — **Binding — SCOTUS**.
-- **Limited by** [[Fisher v. United States]] (compelled production of papers analyzed under act-of-production doctrine, not Boyd's broad Fourth/Fifth Amendment convertibility) and **abandoned in part by** [[Warden v. Hayden]] (rejecting the "mere evidence" rule).
+- **Limited by** *Fisher v. United States* (compelled production of papers analyzed under act-of-production doctrine, not Boyd's broad Fourth/Fifth Amendment convertibility) and **abandoned in part by** [[Warden v. Hayden]] (rejecting the "mere evidence" rule).
 - The portion for which this page cites *Boyd* — its adoption of [[Entick v. Carrington]] as the historical expression of the Fourth Amendment — remains good law and is regularly invoked.
 
 ## Appears on

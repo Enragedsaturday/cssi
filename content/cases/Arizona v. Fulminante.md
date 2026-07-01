@@ -23,7 +23,7 @@ courtlistener:
 homes:
   - page: "[[Due-Process Voluntariness of Confessions]]"
     role: "Key — Progeny / Refinement"
-related: ["[[Colorado v. Connelly]]", "[[Chambers v. Florida]]", "[[Chapman v. California]]"]
+related: ["[[Colorado v. Connelly]]", "[[Chambers v. Florida]]"]
 aliases: []
 tags: ["case", "due-process", "confessions", "voluntariness", "harmless-error"]
 holding: "The admission of an involuntary/coerced confession is a \"trial error\" subject to harmless-error analysis under Chapman, not automatic…"
@@ -53,7 +53,7 @@ The confession was coerced; harmless-error analysis applies to coerced confessio
 
 ## Treatment & subsequent history
 - **Status:** good *(as of 2026-06-30)* — **Binding — SCOTUS**.
-- No negative treatment. *Fulminante* is the seminal modern statement that (a) a credible threat of violence can coerce a confession (mental coercion suffices), and (b) the erroneous admission of a coerced confession is "trial error" reviewable for harmlessness under [[Chapman v. California]], in contrast to "structural defects" that defy harmless-error analysis.
+- No negative treatment. *Fulminante* is the seminal modern statement that (a) a credible threat of violence can coerce a confession (mental coercion suffices), and (b) the erroneous admission of a coerced confession is "trial error" reviewable for harmlessness under *Chapman v. California*, in contrast to "structural defects" that defy harmless-error analysis.
 
 ## Appears on
 - [[Due-Process Voluntariness of Confessions]] — *Key — Progeny / Refinement*

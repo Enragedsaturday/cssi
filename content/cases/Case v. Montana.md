@@ -21,7 +21,7 @@ courtlistener:
   opinion_id: 11240920
   identity_checked: true
 homes:
-  - page: "[[Community Caretaking and Emergency Aid]]"
+  - page: "[[Emergency Aid]]"
     role: "Key — Progeny / Refinement"
 related: ["[[Brigham City v. Stuart]]", "[[Caniglia v. Strom]]", "[[Michigan v. Fisher]]", "[[Mincey v. Arizona]]", "[[Ohio v. Robinette]]"]
 aliases: []
@@ -60,7 +60,7 @@ Affirmed (the judgment, though not all the reasoning, of the Montana Supreme Cou
 - *Case* reaffirms and clarifies [[Brigham City v. Stuart]], rejecting both a *Terry*-style reasonable-suspicion gloss and a probable-cause gloss on the emergency-aid standard. It is consistent with [[Caniglia v. Strom]] (no freestanding community-caretaking home entry — welfare entries must route through emergency aid) and applies the totality-of-the-circumstances approach reaffirmed in [[Ohio v. Robinette]].
 
 ## Appears on
-- [[Community Caretaking and Emergency Aid]] — *Key — Progeny / Refinement*
+- [[Emergency Aid]] — *Key — Progeny / Refinement*
 
 ## Sources
 - *Case v. Montana*, 607 U.S. ___ (2026) (No. 24-624) — https://www.courtlistener.com/opinion/10774335/case-v-montana/ — pinpoints: slip op. at 7, 8, 9, 10–11. Below: *State v. Case*, 417 Mont. 354, 553 P.3d 985 (2024), affirmed.

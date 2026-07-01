@@ -21,7 +21,7 @@ courtlistener:
   opinion_id: 4687473
   identity_checked: true
 homes:
-  - page: "[[Community Caretaking and Emergency Aid]]"
+  - page: "[[Emergency Aid]]"
     role: "Key — Progeny / Refinement"
 related: ["[[Cady v. Dombrowski]]", "[[Brigham City v. Stuart]]", "[[Kentucky v. King]]"]
 aliases: []
@@ -56,7 +56,7 @@ There is no standalone community-caretaking exception for the home; the judgment
 - No negative treatment. *Caniglia* **cabins** [[Cady v. Dombrowski]] to the vehicle context and leaves intact the home-entry exceptions of emergency aid and exigency ([[Brigham City v. Stuart]]; [[Kentucky v. King]]).
 
 ## Appears on
-- [[Community Caretaking and Emergency Aid]] — *Key — Progeny / Refinement*
+- [[Emergency Aid]] — *Key — Progeny / Refinement*
 
 ## Sources
 - *Caniglia v. Strom*, 593 U.S. 194 (2021) — https://www.courtlistener.com/opinion/4883694/caniglia-v-strom/ — pinpoints: slip op., at 3, 4 (CL carries the slip opinion; cluster 4883694 → opinion 4687473).

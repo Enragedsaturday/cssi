@@ -21,7 +21,7 @@ courtlistener:
   opinion_id: 111057
   identity_checked: true
 homes:
-  - page: "[[Community Caretaking and Emergency Aid]]"
+  - page: "[[Emergency Aid]]"
     role: "Key — Limiting"
   - page: "[[Special Needs and Administrative Searches]]"
     role: "Related (cross-doctrine)"
@@ -60,7 +60,7 @@ The post-fire warrantless searches violated the Fourth Amendment. *Clifford* ref
 - **Refines** [[Michigan v. Tyler]] by drawing the line at the end of the fire-fighting exigency and dividing post-fire searches into administrative (cause/origin) and criminal (evidence) warrant tracks. Parallels the no-crime-scene-exception rule of [[Mincey v. Arizona]]; the administrative-warrant standard traces to [[Camara v. Municipal Court]].
 
 ## Appears on
-- [[Community Caretaking and Emergency Aid]] — *Key — Limiting*
+- [[Emergency Aid]] — *Key — Limiting*
 - [[Special Needs and Administrative Searches]] — *Related (cross-doctrine)*
 
 ## Sources

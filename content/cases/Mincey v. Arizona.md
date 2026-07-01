@@ -21,7 +21,7 @@ courtlistener:
   opinion_id: 109905
   identity_checked: true
 homes:
-  - page: "[[Community Caretaking and Emergency Aid]]"
+  - page: "[[Emergency Aid]]"
     role: "Key — Progeny / Refinement"
 related: ["[[Brigham City v. Stuart]]", "[[Michigan v. Fisher]]", "[[Caniglia v. Strom]]"]
 aliases: []
@@ -54,7 +54,7 @@ Reversed in relevant part; the warrantless four-day "murder scene" search was un
 - No negative treatment. The emergency-aid principle recognized in *Mincey* was later restated and applied as an objective inquiry in [[Brigham City v. Stuart]] and [[Michigan v. Fisher]].
 
 ## Appears on
-- [[Community Caretaking and Emergency Aid]] — *Key — Progeny / Refinement*
+- [[Emergency Aid]] — *Key — Progeny / Refinement*
 
 ## Sources
 - *Mincey v. Arizona*, 437 U.S. 385 (1978) — https://www.courtlistener.com/opinion/109905/mincey-v-arizona/ — pinpoints: 392, 393.

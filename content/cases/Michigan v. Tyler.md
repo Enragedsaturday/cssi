@@ -21,7 +21,7 @@ courtlistener:
   opinion_id: 109874
   identity_checked: true
 homes:
-  - page: "[[Community Caretaking and Emergency Aid]]"
+  - page: "[[Emergency Aid]]"
     role: "Key — Progeny / Refinement"
   - page: "[[Special Needs and Administrative Searches]]"
     role: "Related (cross-doctrine)"
@@ -60,7 +60,7 @@ Affirmed. The fire-fighting entry and same-morning continuation were lawful; the
 - **Refined by** [[Michigan v. Clifford]] — once the blaze is out and the scene secured, a later investigative search requires an administrative warrant (or, on probable cause of arson, a criminal warrant). *Tyler* draws the administrative-warrant standard from [[Camara v. Municipal Court]] and runs parallel to the homicide-scene rule of [[Mincey v. Arizona]].
 
 ## Appears on
-- [[Community Caretaking and Emergency Aid]] — *Key — Progeny / Refinement*
+- [[Emergency Aid]] — *Key — Progeny / Refinement*
 - [[Special Needs and Administrative Searches]] — *Related (cross-doctrine)*
 
 ## Sources
