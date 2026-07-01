@@ -125,5 +125,3 @@ flowchart TD
 - *State v. Karston*, 588 So. 2d 165 (La. Ct. App. 1991) *(persuasive — state, illustrative)* — https://www.courtlistener.com/opinion/1767998/state-v-karston/
 - *State v. Weaver*, 349 S.W.3d 521 (Tex. Crim. App. 2011) *(persuasive — state, illustrative)* — https://www.courtlistener.com/opinion/2546485/state-v-weaver/
 - *State v. Larson*, 159 Or. App. 34, 977 P.2d 1175 (1999) *(persuasive — state, illustrative)* — https://www.courtlistener.com/opinion/1187724/state-v-larson/
-</content>
-</invoke>

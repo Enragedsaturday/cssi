@@ -133,5 +133,3 @@ flowchart TD
 - [Fellers v. United States, 540 U.S. 519 (2004)](https://www.courtlistener.com/opinion/131158/fellers-v-united-states/) — pinpoint: 524
 - [Rothgery v. Gillespie County, 554 U.S. 191 (2008)](https://www.courtlistener.com/opinion/145785/rothgery-v-gillespie-county/) — pinpoint: 213
 - [Montejo v. Louisiana, 556 U.S. 778 (2009)](https://www.courtlistener.com/opinion/145873/montejo-v-louisiana/) — pinpoint: 797
-</content>
-</invoke>

@@ -1,0 +1,16 @@
+
+==============================================================================
+CSSI LINT roster — non-CL dry run (LINT-1 excluded; serial CL gate only)
+==============================================================================
+LINT     checks                                        total  high   med   low
+------------------------------------------------------------------------------
+LINT-2   quote/pinpoint (L1)                             260     0   260     0
+LINT-3   structure / no-SCOTUS-in-recent-dev (N5/N8)       2     0     0     2
+LINT-4   authority lexicon (N2)                          173     2   171     0
+LINT-5   link-every-case + wikilink resolution (N7)     2403     0  2403     0
+LINT-6   treatment-status presence (N13)                   0     0     0     0
+LINT-7   glossary wiring (N11, auto half)                  0     0     0     0
+LINT-8   guardrails (D6)                                   1     0     1     0
+------------------------------------------------------------------------------
+TOTAL                                                   2839     2  2835     2
+==============================================================================

@@ -116,5 +116,3 @@ flowchart TD
 - [Chavez v. Martinez, 538 U.S. 760 (2003)](https://www.courtlistener.com/opinion/127927/chavez-v-martinez/)
 - [Corley v. United States, 556 U.S. 303 (2009)](https://www.courtlistener.com/opinion/145888/corley-v-united-states/)
 - [United States v. Young (10th Cir. 2020)](https://www.courtlistener.com/opinion/4766220/united-states-v-young/)
-</content>
-</invoke>

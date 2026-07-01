@@ -155,4 +155,3 @@ flowchart TD
 - [United States v. Williams, 435 F.3d 1148 (9th Cir. 2006)](https://www.courtlistener.com/opinion/793121/united-states-v-tashiri-wayne-williams/) *(circuit — no case page)*
 - [State v. Wint, 236 N.J. 174, 198 A.3d 963 (2018)](https://www.courtlistener.com/opinion/8267547/state-v-wint/) *(Persuasive — state, illustrative; no case page)*
 - [State v. Demesme, 228 So. 3d 1206 (La. 2017)](https://www.courtlistener.com/opinion/5035127/state-v-demesme/) *(Persuasive — state, illustrative; no case page)*
-```

@@ -87,5 +87,3 @@ flowchart TD
 - *United States v. Porter*, No. 25-60163 (5th Cir. Mar. 17, 2026) — https://www.courtlistener.com/opinion/10810059/united-states-v-porter/
 - *Robinson v. Commonwealth* (Va. Ct. App. Apr. 7, 2026) — https://www.courtlistener.com/opinion/10838748/eddie-eugene-robinson-v-commonwealth-of-virginia/
 - *Leaders of a Beautiful Struggle v. Baltimore Police Dep't*, 2 F.4th 330 (4th Cir. 2021) (en banc) — CourtListener URL not verified in this pass (no-CL); confirm at the serial-CL gate.
-</content>
-</invoke>
