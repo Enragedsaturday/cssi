@@ -23,7 +23,8 @@ Governed by `docs/STANDARDS.md` (S1, SR-3). **Resume from this file, not from sc
 | S5 | Missed-case ingest + concordance | ✅ done | 186 ingested (corpus 448), 8 brief-mentions, 0 regressions, Case Index 459 rows, build ok |
 | S6 | Doctrine/narrative reformat | ✅ done | 33 doctrine + 8 narrative pages brief-first (6 parallel waves); caretaking split; Garrity page; §6.5 resolutions; LINT-4 highs 99→1, LINT-3 13→0; +8 circuit pre-ingest (corpus 456). Handoff: `S6-to-S9-handoff.md`. |
 | S7+S8 | Research pages + glossary wiring | ✅ done | S8 3-page split + 10 term anchors + tool table (corrections); S7 glossary→37 anchors + 5 additions; 105 term-links wired (LINT-7 clean). S8-term tail→S9 R9. |
-| S9 | Verification + release gate | ⏳ in progress | whole-corpus verify; then STOP before publish → served brief + go-ahead |
+| S9 | Verification + release gate | ✅ done | release gate PASS (21/21); Case Index 468 rows; commit 1ed93d0; `_run/FINAL-S9-REPORT.md` |
+| ✅ | **PUBLISHED** | ✅ live | user go-ahead "push it" → `main` @ 1ed93d0 → Vercel prod `dpl_3spMGN…` READY; `cssi-search-and-seizure.vercel.app` live-verified (see publish record below) |
 
 ## S4 batch tracker (262 pages, idx order, ~15/batch → ~18 batches; serial CL ONE at a time)
 - Resumable: each batch updates `S4-worklist.json` status (pending→authored|escalated); skip already-authored. Commit after each batch.
@@ -77,6 +78,11 @@ Arizona v. Johnson · Berger v. New York · Birchfield v. North Dakota · Brown 
 - S9: `_run/` (S9-LEDGER.json, assertion-inventory.json, thread-P.json, s9-concordance.json, findings/adjudications, FINAL-S9-REPORT.md).
 - Escalations: `_review-needed/{cases,coverage}/<slug>.md`.
 - Lint scripts: `scripts/lint/`.
+
+## ✅ PUBLISH RECORD (2026-06-30) — overhaul live on production
+- User gave go-ahead ("push it"). Sequence: pushed `overhaul/build` → origin (preview build), fast-forwarded `main` (0-divergence, ff-only) → pushed `main` @ `1ed93d0`. Vercel prod deploy `dpl_3spMGNpqAf8jYF9okMB9n9LjYJot` built ~90s → **READY**, alias `cssi-search-and-seizure.vercel.app` flipped (aliasError null). `main` in sync with origin/main. **NEVER ran redeploy.sh.**
+- **Live-verified:** homepage 200 · Case Index 200 · case pages (Boyd/Chatrie/Fulminante) 200 · Chatrie page carries "609 U.S." + "2026" (fresh SCOTUS geofence holding live) · Community-Caretaking split page 200 · Curtilage reformatted page 200 · study app `/flashcards` 200 · frozen deck `/static/flashcards/flashcards.json` 200 (1773 cards, unchanged — non-breakage confirmed).
+- **Still owed (separate runs):** (1) page-derived flashcard rebuild (decks frozen by design, carry stale content); (2) 2 corrupted-CL-object backfill tickets (Chatrie 10881683, Zorn 10813527 — SCOTUS cases web-two-keyed, only CL permalinks deferred); (3) cssi-ingest + redeploy.sh rework for content/-canonical (U6-S9); (4) one-line LINT-3 precision tweak to clear the Chatrie-descriptor false-positive. See `_run/FINAL-S9-REPORT.md` §9.
 
 ## CL reference (validated by probe 2026-06-30)
 - Tier NEW (≥20/min); pace <20/min (~1 call/3.2s); cached opinion reads are free.
