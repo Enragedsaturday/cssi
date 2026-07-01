@@ -11,6 +11,8 @@ status: verified
 related: ["[[Section 1983 Liability and Qualified Immunity]]", "[[Seizure of the Person]]", "[[Fourth Amendment Framework]]", "[[Three Golden Rules]]", "[[Fourth Amendment Analysis Checklist]]"]
 ---
 
+# Use of Force
+
 ## The Brief
 
 **Field-decisive question:** *Was this force objectively reasonable under the [[Common Legal Terms#totality-of-the-circumstances|totality of the circumstances]] — judged from the perspective of a reasonable officer on the scene, not with 20/20 hindsight?*

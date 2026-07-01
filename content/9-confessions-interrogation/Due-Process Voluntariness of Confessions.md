@@ -15,12 +15,6 @@ related:
 # Due-Process Voluntariness of Confessions
 
 ## The Brief
-<!-- S6-REFORMAT FLAGS (route through R13 find→adjudicate→fix / SR-1 live-verify at EXECUTE; NO CL calls made here — all case content restated from CL-verified content/cases/* pages):
-  (1) N9 field-decisive question + the synthesized 3-element framing (coercion · causation · will-overborne) are AUTHORED teaching, grounded in Connelly (state-action) + Rogers (coercion-not-reliability). Instructor-review (SR-2) pending.
-  (2) The McNabb-Mallory prompt-presentment overlay (McNabb / Mallory / Corley · §3501) is NEWLY ADDED doctrinal cross-material on this page — a federal-court evidentiary rule, NOT a constitutional command; framed here as the prompt-presentment companion to voluntariness (grounded in Corley's own treatment note).
-  (3) Malloy v. Hogan incorporation framing and Chavez v. Martinez (Related, cross-doctrine) are newly woven from their verified case pages.
-  Page-less cases kept plain text (no wikilink): Chapman v. California (harmless-error standard); United States v. Young (10th Cir. 2020, recent-developments).
--->
 
 **Field-decisive question:** *Was this confession voluntary — or did coercion overbear the suspect's will?*
 
@@ -71,7 +65,7 @@ These cases are treated in full on other doctrine pages but bear directly on due
 | Case | Relevance to due-process voluntariness | Primary treatment | Weight | Treatment | CL |
 |------|----------------------------------------|-------------------|--------|-----------|----|
 | [[Chavez v. Martinez]], 538 U.S. 760 (2003) | Coercive police questioning that produces **no statement used against the suspect in a criminal case** is not itself a completed Fifth Amendment violation; any remedy for the coercion lies (if at all) in **substantive due process** — the doctrinal seam between compelled-statement and due-process voluntariness analysis. | [[Miranda and Custodial Interrogation]] | Binding — SCOTUS | good · 2026-06-30 | [opinion](https://www.courtlistener.com/opinion/127927/chavez-v-martinez/) |
-| [[Oregon v. Elstad]], 470 U.S. 298 (1985) | Voluntariness is freestanding: an initial un-warned but *actually voluntary* statement does not coerce or taint a later warned confession — only genuine coercion (not a mere Miranda omission) triggers the due-process bar. | [[Miranda Waiver and Invocation]] | Binding — SCOTUS | good · 2026-06-30 | [opinion](https://www.courtlistener.com/opinion/111364/oregon-v-elstad/) |
+| [[Oregon v. Elstad]], 470 U.S. 298 (1985) | Voluntariness is freestanding: an initial un-warned but *actually voluntary* statement does not coerce or taint a later warned confession — only genuine coercion (not a mere Miranda omission) triggers the due-process bar. | [[Miranda Waiver and Invocation]] | Binding — SCOTUS | limited · 2026-06-30 — limited by [[Missouri v. Seibert]] | [opinion](https://www.courtlistener.com/opinion/111364/oregon-v-elstad/) |
 | [[United States v. Patane]], 542 U.S. 630 (2004) | An un-warned but voluntary statement involves no due-process coercion; physical fruit is admissible because there was no compelled/involuntary statement, only a prophylactic Miranda lapse. | [[Miranda Waiver and Invocation]] | Binding — SCOTUS | good · 2026-06-30 | [opinion](https://www.courtlistener.com/opinion/137003/united-states-v-patane/) |
 | [[Missouri v. Seibert]], 542 U.S. 600 (2004) | A question-first / warn-later case decided on **Miranda** prophylactic grounds — offered only as an instructive parallel to the due-process concern with intentionally undermining free choice; the two tests remain doctrinally distinct. | [[Miranda Waiver and Invocation]] | Binding — SCOTUS | good · 2026-06-30 | [opinion](https://www.courtlistener.com/opinion/137002/missouri-v-seibert/) |
 | [[Schneckloth v. Bustamonte]], 412 U.S. 218 (1973) | The canonical statement of the **totality-of-the-circumstances** test this doctrine uses: consent voluntariness is judged by the same framework the Court built from the due-process confession cases (*Brown*, *Chambers*, *Ashcraft*, *Spano*). | [[Consent Searches]] | Binding — SCOTUS | good · 2026-06-30 | [opinion](https://www.courtlistener.com/opinion/108800/schneckloth-v-bustamonte/) |

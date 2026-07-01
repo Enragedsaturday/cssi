@@ -59,4 +59,4 @@ The "No Trespassing" signs did not revoke the implied knock-and-talk license, th
 - [[Knock and Talk]] — *Illustrates a circuit split*
 
 ## Sources
-- *United States v. Carloss*, 818 F.3d 988 (10th Cir. 2016) — https://www.courtlistener.com/opinion/3184928/united-states-v-carloss/ — pinpoints given as slip-opinion pages (slip op., at 1-2, 10-11); CourtListener carries the slip opinion (cluster 3184928 → opinion 3184893); Gorsuch, J., dissenting.
+- *United States v. Carloss*, 818 F.3d 988 (10th Cir. 2016) — https://www.courtlistener.com/opinion/3184928/united-states-v-carloss/ — pinpoints given as slip-opinion pages (slip op., at 1-2, 10-11); CourtListener carries the slip opinion (cluster 3184928 → opinion 3184893). The pinpoints above are to the majority opinion; Gorsuch, J., dissented separately.

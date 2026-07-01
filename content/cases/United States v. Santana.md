@@ -14,7 +14,7 @@ authority_weight: "Binding — SCOTUS"
 treatment:
   status: good
   as_of: 2026-06-30
-  note: ""
+  note: "Hot-pursuit reading for misdemeanor pursuits limited by Lange v. California (2021) — no longer categorical; the threshold/public-place and felony hot-pursuit holdings are intact."
   by: []
 courtlistener:
   opinion_url: "https://www.courtlistener.com/opinion/109504/united-states-v-santana/"
@@ -25,6 +25,8 @@ homes:
     role: "Key — Anchor"
   - page: "[[Exigent Circumstances and Hot Pursuit]]"
     role: "Key — Anchor"
+  - page: "[[Curtilage]]"
+    role: "Related — threshold/public-place line"
 related: ["[[United States v. Watson]]", "[[Payton v. New York]]", "[[Lange v. California]]", "[[Hester v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "arrest-in-the-home", "hot-pursuit", "exigent-circumstances", "doorway", "public-place"]

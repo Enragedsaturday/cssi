@@ -15,13 +15,6 @@ related:
 # Sixth Amendment Right to Counsel
 
 ## The Brief
-<!-- S6-REFORMAT FLAGS (route through R13 find→adjudicate→fix / SR-1 live-verify at EXECUTE; NO CL calls made here — all case content restated from CL-verified content/cases/* pages):
-  (1) N9 field-decisive question + the two-stage "attachment → deliberate elicitation" framing are AUTHORED teaching, grounded in Kirby/Rothgery (attachment) + Massiah/Fellers (deliberate-elicitation ≠ interrogation). Instructor-review (SR-2) pending.
-  (2) N5 fix: the old "Recent developments & subsequent treatment" section held ONLY SCOTUS material (Montejo-overrules-Jackson; Massiah-line vitality). That subsequent-treatment content was MOVED INTO the brief (waiver paragraph + Massiah paragraph); Recent developments is now circuit/state-only.
-  (3) Newly woven homed cases restated from their verified case pages (previously absent from / under-represented in the tables): Fellers v. United States, United States v. Gouveia, Hoffa v. United States (attachment-timing), Escobedo v. Illinois (Key — Historical precursor), and Michigan v. Jackson (Historical — overruled by Montejo, N4 tag). Hoffa was buried in Nuances; Fellers appeared only parenthetically in the old Rule.
-  (4) Lexicon fix (N2): every weight relabeled from "SCOTUS — binding" to the tier-1 "Binding — SCOTUS"; Jackson carried at tier-6 "Historical".
-  (5) No circuit/state case is homed to this doctrine — the Recent developments frontier pass (circuit deliberate-elicitation / attachment splits) is deferred to EXECUTE (serial CL, L4). Page-less names kept plain text (no wikilink): the *Blockburger* same-elements test.
--->
 
 **Field-decisive question:** *Has the Sixth Amendment right to counsel **attached** — and did the government **deliberately elicit** a statement about the charged offense without counsel or a valid waiver?*
 

@@ -94,7 +94,7 @@ flowchart TD
 
 - *Florida v. Jardines*, 569 U.S. 1 (2013) — https://www.courtlistener.com/opinion/856347/florida-v-jardines/ — pinpoints: 6, 8, 9.
 - *Kentucky v. King*, 563 U.S. 452 (2011) — https://www.courtlistener.com/opinion/216733/kentucky-v-king/ — pinpoint: slip op. at 8.
-- *United States v. Carloss*, 818 F.3d 988 (10th Cir. 2016) — https://www.courtlistener.com/opinion/3184928/united-states-v-carloss/ — pinpoints: slip op. at 10–11 (Gorsuch, J., dissenting).
+- *United States v. Carloss*, 818 F.3d 988 (10th Cir. 2016) — https://www.courtlistener.com/opinion/3184928/united-states-v-carloss/ — pinpoints: slip op. at 10–11 (majority op.; Gorsuch, J., dissented separately).
 - *United States v. Lundin*, 817 F.3d 1151 (9th Cir. 2016) — https://www.courtlistener.com/opinion/3187682/united-states-v-eric-lundin/ — pinpoints: 1159, 1160.
 - *United States v. Walker*, 799 F.3d 1361 (11th Cir. 2015) — https://www.courtlistener.com/opinion/2844024/united-states-v-wayne-walker/ — pinpoints: 1363, 1364.
 - *French v. Merrill*, 15 F.4th 116 (1st Cir. 2021) — https://www.courtlistener.com/opinion/5273192/french-v-merrill/ — pinpoint: slip op. at 39.
