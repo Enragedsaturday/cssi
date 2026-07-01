@@ -23,7 +23,7 @@ courtlistener:
 homes:
   - page: "[[Two Definitions of Search]]"
     role: "Key — Progeny / Refinement"
-related: ["[[United States v. Jones]]", "[[Katz v. United States]]", "[[Smith v. Maryland]]", "[[Riley v. California]]"]
+related: ["[[United States v. Jones]]", "[[Katz v. United States]]", "[[Smith v. Maryland]]", "[[Riley v. California]]", "[[Chatrie v. United States]]"]
 aliases: []
 tags: ["case", "fourth-amendment", "search", "digital-privacy", "cell-site", "third-party-doctrine"]
 holding: "Acquiring extended historical cell-site location information is a search — a reasonable expectation of privacy in 'the whole of [one's] physical movements'; narrows the third-party doctrine for digital-age data."
@@ -54,6 +54,7 @@ Acquiring Carpenter's historical CSLI was a Fourth Amendment search; the judgmen
 ## Treatment & subsequent history
 - **Status:** good *(as of 2026-06-30)* — **Binding — SCOTUS**.
 - No negative treatment. *Carpenter* itself **narrows** the third-party doctrine ([[Smith v. Maryland]]) for digital-age location data and builds on the mosaic concern voiced in the [[United States v. Jones]] concurrences.
+- **Extended (2026):** *[[Chatrie v. United States]]*, 609 U.S. ___ (2026), **applies and extends *Carpenter*** to bulk **geofence / Google Location History** data — holding its acquisition is a Fourth Amendment search even for a short (~2-hour) window and even though held by a third party (rejecting the opt-in/third-party rationale) — and leaves geofence-warrant probable cause/particularity for remand. *Carpenter* remains good law and anchors that ruling.
 
 ## Appears on
 - [[Two Definitions of Search]] — *Key — Progeny / Refinement*

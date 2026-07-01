@@ -125,6 +125,6 @@ flowchart TD
 - *Mincey v. Arizona*, 437 U.S. 385 (1978) — https://www.courtlistener.com/opinion/109905/mincey-v-arizona/.
 - *United States v. Maez*, 872 F.2d 1444 (10th Cir. 1989) — https://www.courtlistener.com/opinion/521939/united-states-v-arthur-maez/.
 - *United States v. Berkowitz*, 927 F.2d 1376 (7th Cir. 1991) — https://www.courtlistener.com/opinion/557342/united-states-v-marvin-berkowitz/.
-- *Knight v. Jacobson*, 300 F.3d 1272 (11th Cir. 2002) *(constructive-entry split — 11th Cir. requires the officer's body to cross the threshold; page-less circuit case)* — CourtListener opinion link to be added at the serial-CL gate.
+- *Knight v. Jacobson*, 300 F.3d 1272 (11th Cir. 2002) *(constructive-entry split — 11th Cir. requires the officer's body to cross the threshold; page-less circuit case)* — https://www.courtlistener.com/opinion/778847/arthur-knight-v-jacobson-officer-badge-3359-individual/
 - *United States v. Brinkley*, 980 F.3d 377 (4th Cir. 2020) — https://www.courtlistener.com/opinion/4805913/united-states-v-kendrick-brinkley/.
 - *United States v. Vasquez-Algarin*, 821 F.3d 467 (3d Cir. 2016) — https://www.courtlistener.com/opinion/3199633/united-states-v-johnny-vasquez-algarin/.

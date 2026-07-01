@@ -1,3 +1,19 @@
+> ## ✅ RESOLVED — S9 serial-CL adjudication (2026-06-30) — VERDICT: **UPHELD (reframed)**
+> **Two-key finding CONFIRMED.** The SCOTUS decision is real and independently verified at the S9 serial-CL gate:
+> - **CL (L3/L4):** DISMISSED as a source — CourtListener has **no clean SCOTUS *Chatrie* object**; its only entry (opinion **10881683**) is **CORRUPTED** (index says "Chatrie / scotus / 2026-06-29 / 25-112" but the underlying opinion text is ***Harmon v. ABC 2 News Station***, E.D. Wis. 24-cv-600). Confirmed by `read_document(10881683)`. **DO NOT ingest 10881683.**
+> - **Web (L2):** CONFIRMED — *Chatrie v. United States*, No. 25-112, **609 U.S. ___ (2026)**, decided **June 29, 2026**; geofence/Google Location History acquisition **IS** a Fourth Amendment search (applies/extends *Carpenter*; rejects opt-in/third-party rationale); Court did **not** hold geofence warrants categorically unconstitutional; **vacated & remanded** the PC/particularity question. Sources: supremecourt.gov slip op. 25-112, SCOTUSblog, Cornell LII, Justia, EPIC, IAPP, Wikipedia (all consistent on the core holding; vote/disposition mechanics vary slightly across secondary sources — reported 6–3, Kagan, J.).
+>
+> **Actions applied by S9 (this run):**
+> - **Created** `content/cases/Chatrie v. United States.md` — **Binding — SCOTUS**, BIRAC, slip-op sourced, `CL-confirm: pending` (10881683 flagged corrupted). Homed Key on *Two Definitions of Search* (Anchor) + *Third-Party Doctrine* (Progeny).
+> - **Reframed** all stale geofence "pending before SCOTUS / cert-granted / not-yet-decided" framing → **RESOLVED (Chatrie 2026 = it IS a search; PC/particularity remanded; *Smith* search-result confirmed, general-warrant holding NOT adopted; 4th Cir. rationale superseded)** on: *Two Definitions of Search*, *The Third-Party Doctrine and Digital Surveillance*, *The Exclusionary Rule*, *Standing to Challenge a Search*, *Fourth Amendment Framework*, *The Warrant Requirement*, *Plain View Doctrine*; cross-linked on *Carpenter*. Added a **Case Index** row.
+> - Corpus-wide grep confirms **0 remaining** stale geofence "pending/cert/undecided" language.
+> - Lower-court source links repointed from the panel opinion (10265776) to the **en banc 136 F.4th 100 (10443725)**.
+> - **CL backfill ticket remains open:** re-poll CL for a clean `scotus / 25-112 / Chatrie` cluster and backfill the permalink; **never ingest 10881683**.
+>
+> *(Original correction order preserved below for the audit trail. Escalation CLOSED.)*
+
+---
+
 # CORRECTION / POST-CAPTURE INGEST — *Chatrie v. United States* (SCOTUS, June 29, 2026)
 
 > **Feed this to the CSSI overhaul build after the current run completes and commits.**
